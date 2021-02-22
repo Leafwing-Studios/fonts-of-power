@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 bevy = { git = "https://github.com/bevyengine/bevy" }
 rand = "0.8.3"
+derive_more = "0.99.11"
