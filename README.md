@@ -1,6 +1,6 @@
 <!-- Github repo readme -->
 
-This is where you write the repository's description!
+The code behind the official video game for [Fonts of Power](https://rules.fontsofpower.com/#/).
 
 # Docs Build Instructions
 1. Install the current version of [npm](https://nodejs.org/en/)
