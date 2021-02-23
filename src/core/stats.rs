@@ -17,15 +17,17 @@ pub enum Attribute {
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct AttributeVal(i8);
 
-#[derive(Copy, Clone, Debug, Hash, PartialEq, Eq)]
-pub struct Attributes {
-    prowess: AttributeVal,
-    agility: AttributeVal,
-    expertise: AttributeVal,
-    focus: AttributeVal,
-    presence: AttributeVal,
-}
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Prowess(AttributeVal);
 
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Agility(AttributeVal);
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Expertise(AttributeVal);
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Focus(AttributeVal);
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Presence(AttributeVal);
 #[derive(Debug, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum Ideal {
@@ -40,14 +42,17 @@ pub enum Ideal {
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct IdealVal(i8);
 
-#[derive(Copy, Clone, Debug, Hash, PartialEq, Eq)]
-pub struct Ideals {
-    equality: IdealVal,
-    harmony: IdealVal,
-    liberty: IdealVal,
-    progress: IdealVal,
-    sanctity: IdealVal,
-}
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Equality(AttributeVal);
+
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Harmony(AttributeVal);
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Liberty(AttributeVal);
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Progress(AttributeVal);
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Sanctity(AttributeVal);
 
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct ProficiencyBonus(i8);
