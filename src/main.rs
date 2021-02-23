@@ -1,11 +1,8 @@
 use bevy::prelude::{App, DefaultPlugins};
-mod affixes;
-mod class;
-mod conditions;
-mod dice;
-mod skills;
-mod species;
-mod stats;
+mod character_options;
+mod combat;
+mod core;
+mod exploration;
 
 fn main() {
     App::build().add_plugins(DefaultPlugins).run();

@@ -15,7 +15,7 @@ pub enum Element {
     Electric,
     Corrosive,
 }
-
+#[allow(dead_code)]
 pub enum DamageType {
     Physical,
     Elemental(Element),

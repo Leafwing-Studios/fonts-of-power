@@ -1,7 +1,7 @@
 use derive_more::{Deref, DerefMut};
 use std::{collections::HashSet, marker::PhantomData};
 
-use crate::skills::Skill;
+use crate::core::skills::Skill;
 
 #[derive(Debug, PartialEq, Eq)]
 #[allow(dead_code)]

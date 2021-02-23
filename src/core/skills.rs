@@ -1,5 +1,5 @@
-use crate::dice::{roll, Advantage, DieSize};
-use crate::stats::AttributeVal;
+use crate::core::dice::{roll, Advantage, DieSize};
+use crate::core::stats::AttributeVal;
 
 #[allow(dead_code)]
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
