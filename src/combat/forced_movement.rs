@@ -1,4 +1,4 @@
-use crate::combat::movement::{Direction, Distance, Tile};
+use crate::combat::movement::{Direction, Distance, Position};
 use bevy::ecs::Entity;
 use std::fmt::Debug;
 #[allow(dead_code)]
@@ -17,14 +17,14 @@ struct ForcedMovement {
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
 enum ForcedMovementData {
     Teleportation {
-        new_tile: Tile,
+        new_position: Position,
     },
     Push {
-        source: Tile,
+        source: Position,
         distance: Distance,
     },
     Pull {
-        source: Tile,
+        source: Position,
         distance: Distance,
     },
     Shove {
