@@ -1,4 +1,4 @@
-use crate::combat::movement::{Direction, Distance, Position};
+use crate::combat::tiles::{Direction, Distance, Position};
 use bevy::ecs::Entity;
 use std::fmt::Debug;
 #[allow(dead_code)]
