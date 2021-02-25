@@ -1,5 +1,5 @@
 use crate::combat::tiles::{Distance, Shape};
-use bevy::ecs::{Bundle, Entity};
+use bevy::ecs::Entity;
 use derive_more::{Deref, DerefMut};
 /// Workflow for actions:
 /// 1. Determine which actions are possible for the unit
@@ -23,6 +23,7 @@ use derive_more::{Deref, DerefMut};
 /// - Range
 /// - RangeCategory
 /// - AreaOfEffect
+/// - Duration
 
 // TODO: add archetype invariants
 
@@ -33,21 +34,28 @@ pub struct Action {
     description: String,
 }
 
+/// The actions available to a specific actor
+#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
+pub struct ActionChoices(Vec<Entity>);
+
 /// Marker component for actions that are currently being processed
 #[allow(dead_code)]
 pub struct LiveAction;
 
-/// The actions available to a specific actor
-#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
-pub struct ActionEvents(Vec<Entity>);
-
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum ActionSpeed {
+    Movement,
     Major,
     Minor,
     Reaction,
 }
+
+#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
+pub struct Actor(Entity);
+
+#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
+pub struct Target(Entity);
 
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
@@ -75,290 +83,3 @@ pub struct Range(Distance);
 
 #[allow(dead_code)]
 pub struct AreaOfEffect(Shape);
-
-// TODO: make archetype bundles for each core action
-/// Core action entity marker: these entities should never be changed at run time
-#[allow(dead_code)]
-pub struct CoreAction;
-
-/*
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Defend;
-impl Action for Defend {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: None,
-            action_type: PhantomData,
-            speed: ActionSpeed::Major,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Grapple;
-impl Action for Grapple {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData,
-            speed: ActionSpeed::Major,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct ReverseGrapple;
-impl Action for ReverseGrapple {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData,
-            speed: ActionSpeed::Major,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Strike;
-impl Action for Strike {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData,
-            speed: ActionSpeed::Major,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Activate;
-impl Action for Activate {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: target,
-            action_type: PhantomData,
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct BreakGrapple;
-impl Action for BreakGrapple {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData,
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Dash;
-impl Action for Dash {
-    fn event(actor: Entity, _target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: None,
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct EssenceTap;
-impl Action for EssenceTap {
-    fn event(actor: Entity, _target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: None,
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Guard;
-impl Action for Guard {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Hide;
-impl Action for Hide {
-    fn event(actor: Entity, _target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: None,
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Interact;
-impl Action for Interact {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Scan;
-impl Action for Scan {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Shove;
-impl Action for Shove {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Swap;
-impl Action for Swap {
-    fn event(actor: Entity, _target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: None,
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Treat;
-impl Action for Treat {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Minor,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct AoO;
-impl Action for AoO {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Reaction,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Block;
-impl Action for Block {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Reaction,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Dodge;
-impl Action for Dodge {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Reaction,
-            essence: 0,
-        }
-    }
-}
-
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub struct Track;
-impl Action for Track {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
-        ActionEvent::<Self> {
-            actor: actor,
-            target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
-            speed: ActionSpeed::Reaction,
-            essence: 0,
-        }
-    }
-}
-*/
