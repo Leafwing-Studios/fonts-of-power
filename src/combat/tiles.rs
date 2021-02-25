@@ -5,6 +5,7 @@ pub struct Distance(u8);
 #[derive(Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
 pub struct Area(u16);
 
+// TODO: Revise Position, Direction etc. to be traits, then make generic over Hex and Square
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum Position {
