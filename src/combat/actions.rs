@@ -38,10 +38,6 @@ pub struct Action {
 #[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
 pub struct ActionChoices(Vec<Entity>);
 
-/// Marker component for actions that are currently being processed
-#[allow(dead_code)]
-pub struct LiveAction;
-
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum ActionSpeed {

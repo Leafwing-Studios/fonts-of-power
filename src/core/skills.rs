@@ -1,4 +1,4 @@
-use crate::core::dice::{roll, Advantage, DieSize};
+use crate::core::dice::{roll, Advantage, DieSize, NumDice};
 use crate::core::stats::AttributeVal;
 
 #[allow(dead_code)]
@@ -44,7 +44,7 @@ pub struct SimpleSkillCheck {
 
 impl SkillCheck for SimpleSkillCheck {
     fn roll(&self) -> SkillCheckOutcome {
-        let mut result = roll(1, DieSize::d20, self.advantage) as i8 + *self.attribute;
+        let mut result = roll(NumDice(1), DieSize::d20, self.advantage) as i8 + *self.attribute;
 
         if self.proficient {
             result += self.proficiency_bonus;
@@ -74,7 +74,7 @@ pub struct CombatSkillCheck {
 
 impl SkillCheck for CombatSkillCheck {
     fn roll(&self) -> SkillCheckOutcome {
-        let mut result = roll(1, DieSize::d20, self.advantage) as i8 + *self.attribute;
+        let mut result = roll(NumDice(1), DieSize::d20, self.advantage) as i8 + *self.attribute;
 
         if self.proficient {
             result += self.proficiency_bonus;
@@ -104,53 +104,14 @@ pub struct OpposedSkillCheck {
 
 impl SkillCheck for OpposedSkillCheck {
     fn roll(&self) -> SkillCheckOutcome {
-        let mut result = roll(1, DieSize::d20, self.advantage_a) as i8 + *self.attribute_a;
+        let mut result = roll(NumDice(1), DieSize::d20, self.advantage_a) as i8 + *self.attribute_a;
 
         if self.proficient_a {
             result += self.proficiency_bonus_a;
         }
 
-        let mut difficulty = roll(1, DieSize::d20, self.advantage_b) as i8 + *self.attribute_b;
-
-        if self.proficient_b {
-            difficulty += self.proficiency_bonus_b;
-        }
-
-        if result >= difficulty + 5 {
-            return SkillCheckOutcome::SmashingSuccess;
-        } else if result >= difficulty {
-            return SkillCheckOutcome::Success;
-        // DESIGN: Is guaranteed mixed success on proficient opposed skill checks desired behavior?
-        } else if (result >= difficulty - 5) | self.proficient_a {
-            return SkillCheckOutcome::MixedSuccess;
-        } else {
-            return SkillCheckOutcome::Failure;
-        }
-    }
-}
-#[derive(Debug, PartialEq, Eq)]
-pub struct OpposedCombatSkillCheck {
-    attribute_a: AttributeVal,
-    skill_a: Skill,
-    advantage_a: Advantage,
-    proficient_a: bool,
-    proficiency_bonus_a: i8,
-    attribute_b: AttributeVal,
-    skill_b: Skill,
-    advantage_b: Advantage,
-    proficient_b: bool,
-    proficiency_bonus_b: i8,
-}
-
-impl SkillCheck for OpposedCombatSkillCheck {
-    fn roll(&self) -> SkillCheckOutcome {
-        let mut result = roll(1, DieSize::d20, self.advantage_a) as i8 + *self.attribute_a;
-
-        if self.proficient_a {
-            result += self.proficiency_bonus_a;
-        }
-
-        let mut difficulty = roll(1, DieSize::d20, self.advantage_b) as i8 + *self.attribute_b;
+        let mut difficulty =
+            roll(NumDice(1), DieSize::d20, self.advantage_b) as i8 + *self.attribute_b;
 
         if self.proficient_b {
             difficulty += self.proficiency_bonus_b;

@@ -1,58 +1,40 @@
-use crate::combat::{
-    conditions::{AfflictionEvent, AilmentEvent, StatusEvent},
-    damage::DamageEvent,
-    forced_movement::ForcedMovementEvent,
-};
-use crate::core::dice::{roll, Advantage, DieSize};
-use bevy::app::{EventReader, Events};
-use bevy::ecs::{Entity, Query, ResMut};
+use crate::combat::Active;
+use crate::core::dice::{roll, Advantage, DieSize, NumDice};
+use bevy::ecs::{Commands, Entity, Query, With};
+use derive_more::{Deref, DerefMut};
 
-/// Marker component for Attack entities, which store the information about an attack's effects
+// TODO: add archetype invariants
+
+/// Fundamental component for Attack entities, which store the information about an attack's effects
+/// Attack entities should always have at least:
+/// - Attack
+/// - Attacker
+/// - Defender
+/// - Advantage
+///
+/// The following fields are added on later:
+/// - AttackBonus
+/// - Defense
+/// - Advantage
 #[allow(dead_code)]
+#[derive(Clone, Copy, PartialEq, Eq)]
 pub struct Attack;
-#[allow(dead_code)]
-pub struct AttackEvent {
-    attacker: Entity,
-    defender: Entity,
-    attack: Entity,
-    attack_bonus: i8,
-    defense: i8,
-    advantage: Advantage,
-}
 
-#[allow(dead_code)]
-pub struct AttackLandedEvent {
-    attacker: Entity,
-    defender: Entity,
-    attack: Entity,
-}
+#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
+pub struct AttackBonus(i8);
+#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
+pub struct Defense(i8);
+
+/// Marker component to note that an attack landed
+pub struct Landed;
 
 pub fn check_attacks(
-    mut attacks: EventReader<AttackEvent>,
-    mut attacks_landed: ResMut<Events<AttackLandedEvent>>,
+    attacks: Query<(Entity, &AttackBonus, &Defense, &Advantage), With<(Active, Attack)>>,
+    commands: &mut Commands,
 ) {
-    for attack in attacks.iter() {
-        if roll(1, DieSize::d20, attack.advantage) as i8 + attack.attack_bonus >= attack.defense {
-            attacks_landed.send(AttackLandedEvent {
-                attacker: attack.attacker,
-                defender: attack.defender,
-                attack: attack.attack,
-            })
+    for (attack_entity, attack_bonus, defense, advantage) in attacks.iter() {
+        if roll(NumDice(1), DieSize::d20, *advantage) as i8 + **attack_bonus >= **defense {
+            commands.insert_one(attack_entity, Landed);
         }
     }
-}
-
-// TODO: use indexes to look up data
-// TODO: complete logic
-#[allow(dead_code, unused_variables, unused_mut)]
-pub fn process_attacks(
-    mut attacks_landed: EventReader<AttackLandedEvent>,
-    attack_data: Query<&Attack>,
-    mut damage: ResMut<Events<DamageEvent>>,
-    mut ailments: ResMut<Events<AilmentEvent>>,
-    mut afflictions: ResMut<Events<AfflictionEvent>>,
-    mut statuses: ResMut<Events<StatusEvent>>,
-    mut forced_movement: ResMut<Events<ForcedMovementEvent>>,
-) {
-    for attack in attacks_landed.iter() {}
 }

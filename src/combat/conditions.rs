@@ -1,12 +1,5 @@
-use bevy::ecs::Entity;
-
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
-pub enum Condition {
-    Affliction(Affliction),
-    Ailment(Ailment),
-    Status(Status),
-}
+use derive_more::{Deref, DerefMut};
+use std::collections::HashMap;
 
 #[non_exhaustive]
 #[allow(dead_code)]
@@ -21,6 +14,10 @@ pub enum Affliction {
     Temperance,
     Unstable,
 }
+
+#[allow(dead_code)]
+#[derive(Clone, Deref, DerefMut)]
+pub struct Afflictions(HashMap<Affliction, u16>);
 
 #[non_exhaustive]
 #[allow(dead_code)]
@@ -42,6 +39,9 @@ pub enum Ailment {
     Withered,
 }
 
+#[derive(Clone, Deref, DerefMut)]
+pub struct Ailments(HashMap<Ailments, u16>);
+
 #[non_exhaustive]
 #[allow(dead_code)]
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
@@ -54,28 +54,4 @@ pub enum Status {
     Invisible,
     Prone,
     Unconscious,
-}
-
-#[allow(dead_code)]
-pub struct AfflictionEvent {
-    attacker: Entity,
-    defender: Entity,
-    affliction: Affliction,
-    stacks: u8,
-}
-
-#[allow(dead_code)]
-pub struct AilmentEvent {
-    attacker: Entity,
-    defender: Entity,
-    ailment: Ailment,
-    stacks: u8,
-}
-
-#[allow(dead_code)]
-pub struct StatusEvent {
-    attacker: Entity,
-    defender: Entity,
-    status: Status,
-    toggle: bool,
 }

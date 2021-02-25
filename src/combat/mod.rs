@@ -1,6 +1,7 @@
-use attack::{check_attacks, AttackEvent};
+use attack::check_attacks;
 use bevy::app::{AppBuilder, Plugin};
-use bevy::ecs::IntoSystem;
+use bevy::ecs::{Entity, IntoSystem};
+use derive_more::{Deref, DerefMut};
 
 /// Events are created whenever actions occur, and are hooked into
 /// by systems that power our affixes using a custom scheduler that only recomputes
@@ -22,9 +23,16 @@ pub mod visibility_cover;
 
 pub struct CombatPlugin {}
 
+/// Marker component for entity-events that are currently being processed
+#[allow(dead_code)]
+pub struct Active;
+#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
+pub struct Attacker(Entity);
+#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
+pub struct Defender(Entity);
+
 impl Plugin for CombatPlugin {
     fn build(&self, app: &mut AppBuilder) {
-        app.add_event::<AttackEvent>()
-            .add_system(check_attacks.system());
+        app.add_system(check_attacks.system());
     }
 }
