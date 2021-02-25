@@ -6,9 +6,25 @@ use derive_more::{Deref, DerefMut};
 /// 2. Select one of those actions
 /// 3. Emit an event containing that action, specialized by type
 /// 4. Hook into that event to actually do things with the action
-
+///
 /// Each action is a unique entity, initialized from a prefab that defines the default behavior of that action
-/// A minimal event is emitted when an action is selected, pointing to the appropriate entity
+///
+/// Each action type should have its own Bundle of components
+/// The following components are always needed:
+/// - Action
+/// - ActionSpeed
+/// - Actor
+///
+/// The following components are sometimes needed:
+/// - Essence
+/// - Target
+/// - ValidTargets
+/// - TargetArity
+/// - Range
+/// - RangeCategory
+/// - AreaOfEffect
+
+// TODO: add archetype invariants
 
 /// Fundamental action component that declares that an entity is an Action
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
@@ -59,23 +75,6 @@ pub struct Range(Distance);
 
 #[allow(dead_code)]
 pub struct AreaOfEffect(Shape);
-/// Each action type should have its own Bundle of components
-/// The following components are always needed:
-/// - Action
-/// - ActionSpeed
-/// - Actor
-
-/// The following components are sometimes needed:
-/// - Essence
-/// - Target
-/// - ValidTargets
-/// - TargetArity
-/// - Range
-/// - RangeCategory
-/// - AreaOfEffect
-
-// TODO: Add archetype invariants to enforce this
-pub trait ActionBundle: Bundle + Default {}
 
 // TODO: make archetype bundles for each core action
 /// Core action entity marker: these entities should never be changed at run time
