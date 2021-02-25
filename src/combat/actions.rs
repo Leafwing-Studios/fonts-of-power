@@ -1,12 +1,31 @@
-/// Actions are based via events
-use bevy::ecs::Entity;
-use std::marker::PhantomData;
+use crate::combat::tiles::{Distance, Shape};
+use bevy::ecs::{Bundle, Entity};
+use derive_more::{Deref, DerefMut};
+/// Workflow for actions:
+/// 1. Determine which actions are possible for the unit
+/// 2. Select one of those actions
+/// 3. Emit an event containing that action, specialized by type
+/// 4. Hook into that event to actually do things with the action
 
-pub trait Action: Sized {
-    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self>;
+/// Each action is a unique entity, initialized from a prefab that defines the default behavior of that action
+/// A minimal event is emitted when an action is selected, pointing to the appropriate entity
+
+/// Fundamental action component that declares that an entity is an Action
+#[derive(Clone, Debug, Hash, PartialEq, Eq)]
+pub struct Action {
+    name: String,
+    description: String,
 }
 
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
+/// Marker component for actions that are currently being processed
+#[allow(dead_code)]
+pub struct LiveAction;
+
+/// The actions available to a specific actor
+#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
+pub struct ActionEvents(Vec<Entity>);
+
+#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum ActionSpeed {
     Major,
@@ -14,27 +33,65 @@ pub enum ActionSpeed {
     Reaction,
 }
 
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
+#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
-pub struct ActionEvent<T: Action> {
-    pub actor: Entity,
-    pub target: Option<Entity>,
-    pub action_type: PhantomData<T>,
-    pub speed: ActionSpeed,
-    pub essence: u8,
+pub enum ValidTargets {
+    Creature,
+    Tile,
 }
-// TODO: figure out how to combine disparate action events to get list of choices
-// pub struct ActionChoices(Vec<ActionEvent<Box<dyn Action>>>);
 
+#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
+pub enum TargetArity {
+    Single,
+    Multi,
+}
+
+#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
+pub enum RangeCategory {
+    Melee,
+    Ranged,
+}
+
+#[derive(Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
+pub struct Range(Distance);
+
+#[allow(dead_code)]
+pub struct AreaOfEffect(Shape);
+/// Each action type should have its own Bundle of components
+/// The following components are always needed:
+/// - Action
+/// - ActionSpeed
+/// - Actor
+
+/// The following components are sometimes needed:
+/// - Essence
+/// - Target
+/// - ValidTargets
+/// - TargetArity
+/// - Range
+/// - RangeCategory
+/// - AreaOfEffect
+
+// TODO: Add archetype invariants to enforce this
+pub trait ActionBundle: Bundle + Default {}
+
+// TODO: make archetype bundles for each core action
+/// Core action entity marker: these entities should never be changed at run time
+#[allow(dead_code)]
+pub struct CoreAction;
+
+/*
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
 pub struct Defend;
 impl Action for Defend {
-    fn event(actor: Entity, _target: Option<Entity>) -> ActionEvent<Self> {
+    fn event(actor: Entity, target: Option<Entity>) -> ActionEvent<Self> {
         ActionEvent::<Self> {
             actor: actor,
             target: None,
-            action_type: PhantomData::<Self>::default(),
+            action_type: PhantomData,
             speed: ActionSpeed::Major,
             essence: 0,
         }
@@ -49,7 +106,7 @@ impl Action for Grapple {
         ActionEvent::<Self> {
             actor: actor,
             target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
+            action_type: PhantomData,
             speed: ActionSpeed::Major,
             essence: 0,
         }
@@ -64,7 +121,7 @@ impl Action for ReverseGrapple {
         ActionEvent::<Self> {
             actor: actor,
             target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
+            action_type: PhantomData,
             speed: ActionSpeed::Major,
             essence: 0,
         }
@@ -79,7 +136,7 @@ impl Action for Strike {
         ActionEvent::<Self> {
             actor: actor,
             target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
+            action_type: PhantomData,
             speed: ActionSpeed::Major,
             essence: 0,
         }
@@ -94,7 +151,7 @@ impl Action for Activate {
         ActionEvent::<Self> {
             actor: actor,
             target: target,
-            action_type: PhantomData::<Self>::default(),
+            action_type: PhantomData,
             speed: ActionSpeed::Minor,
             essence: 0,
         }
@@ -109,7 +166,7 @@ impl Action for BreakGrapple {
         ActionEvent::<Self> {
             actor: actor,
             target: Some(target.unwrap()),
-            action_type: PhantomData::<Self>::default(),
+            action_type: PhantomData,
             speed: ActionSpeed::Minor,
             essence: 0,
         }
@@ -305,3 +362,4 @@ impl Action for Track {
         }
     }
 }
+*/
