@@ -21,7 +21,11 @@ pub mod time;
 pub mod visibility_cover;
 
 pub struct CombatPlugin {}
-
+impl Plugin for CombatPlugin {
+    fn build(&self, app: &mut AppBuilder) {
+        app.add_system(check_attacks.system());
+    }
+}
 /// Marker component for entity-events that are currently being processed
 #[allow(dead_code)]
 pub struct Active;
@@ -29,9 +33,3 @@ pub struct Active;
 pub struct Attacker(Entity);
 #[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
 pub struct Defender(Entity);
-
-impl Plugin for CombatPlugin {
-    fn build(&self, app: &mut AppBuilder) {
-        app.add_system(check_attacks.system());
-    }
-}

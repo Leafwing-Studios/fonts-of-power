@@ -1,9 +1,21 @@
-use bevy::prelude::{App, DefaultPlugins};
+use bevy::{app::App, ecs::ReportExecutionOrderAmbiguities, DefaultPlugins};
 mod character_options;
 mod combat;
 mod core;
 mod exploration;
 
+use crate::{
+    character_options::CharacterOptionsPlugin, combat::CombatPlugin, core::CorePlugin,
+    exploration::ExplorationPlugin,
+};
+
 fn main() {
-    App::build().add_plugins(DefaultPlugins).run();
+    App::build()
+        .insert_resource(ReportExecutionOrderAmbiguities)
+        .add_plugins(DefaultPlugins)
+        .add_plugin(CorePlugin {})
+        .add_plugin(CombatPlugin {})
+        .add_plugin(ExplorationPlugin {})
+        .add_plugin(CharacterOptionsPlugin {})
+        .run();
 }
