@@ -60,12 +60,17 @@ pub struct ProficiencyBonus(i8);
 #[derive(Clone, Debug, Eq, PartialEq, Deref, DerefMut)]
 pub struct Proficiencies(HashSet<Skill>);
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Life(u16);
+#[derive(Clone, Debug, Hash, Eq, PartialEq)]
+pub struct Life {
+    pub current: u16,
+    pub max: u16,
+}
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Essence(u16);
-
+#[derive(Clone, Debug, Hash, Eq, PartialEq)]
+pub struct Essence {
+    pub current: u16,
+    pub max: u16,
+}
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct Exhaustion(u16);
 
