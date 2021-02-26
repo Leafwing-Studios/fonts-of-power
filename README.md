@@ -1,6 +1,6 @@
 <!-- Github repo readme -->
 
-The code behind the official video game for [Fonts of Power](https://rules.fontsofpower.com/#/).
+The code behind the official video game for [Fonts of Power](https://rules.fontsofpower.com/#/). You can follow its development in our [Discord server](https://discord.gg/V2KdnquRge).
 
 # Docs Build Instructions
 1. Install the current version of [npm](https://nodejs.org/en/)
