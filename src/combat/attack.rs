@@ -1,5 +1,5 @@
 use crate::combat::Active;
-use crate::core::dice::{roll, Advantage, DieSize, NumDice};
+use crate::core::dice::Roll;
 use bevy::ecs::{Commands, Entity, Query, With};
 use derive_more::{Deref, DerefMut};
 
@@ -10,30 +10,26 @@ use derive_more::{Deref, DerefMut};
 /// - Attack
 /// - Attacker
 /// - Defender
-/// - Advantage
 ///
 /// The following fields are added on later:
-/// - AttackBonus
+/// - AttackRoll
 /// - Defense
-/// - Advantage
-#[allow(dead_code)]
+
 #[derive(Clone, Copy, PartialEq, Eq)]
 pub struct Attack;
 
 #[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
-pub struct AttackBonus(i8);
-#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
-pub struct Defense(i8);
+pub struct Defense(i32);
 
 /// Marker component to note that an attack landed
 pub struct Landed;
 
 pub fn check_attacks(
-    attacks: Query<(Entity, &AttackBonus, &Defense, &Advantage), With<(Active, Attack)>>,
+    attacks: Query<(Entity, &Roll, &Defense), With<(Active, Attack)>>,
     commands: &mut Commands,
 ) {
-    for (attack_entity, attack_bonus, defense, advantage) in attacks.iter() {
-        if roll(NumDice(1), DieSize::d20, *advantage) as i8 + **attack_bonus >= **defense {
+    for (attack_entity, attack_roll, defense) in attacks.iter() {
+        if attack_roll.roll() >= **defense {
             commands.insert_one(attack_entity, Landed);
         }
     }

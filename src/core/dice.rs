@@ -1,7 +1,7 @@
 use bevy::math::i32;
-use derive_more::{Deref, DerefMut};
 use rand::Rng;
 use std::cmp::{max, min};
+use std::convert::TryFrom;
 
 #[allow(dead_code)]
 #[derive(Clone, Copy, Debug, Hash, Eq, PartialEq)]
@@ -9,15 +9,6 @@ pub enum Advantage {
     Disadvantage,
     Neutral,
     Advantage,
-}
-
-#[derive(Clone, Copy, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct NumDice(pub i8);
-
-impl From<i8> for NumDice {
-    fn from(n: i8) -> Self {
-        NumDice(n)
-    }
 }
 
 #[derive(Clone, Copy, Debug, Hash, Eq, PartialEq)]
@@ -32,62 +23,53 @@ pub enum DieSize {
     d100,
 }
 
-impl From<i8> for DieSize {
-    fn from(d: i8) -> Self {
+impl TryFrom<i8> for DieSize {
+    type Error = &'static str;
+
+    fn try_from(d: i8) -> Result<Self, Self::Error> {
         match d {
-            4 => DieSize::d4,
-            6 => DieSize::d6,
-            8 => DieSize::d8,
-            10 => DieSize::d10,
-            12 => DieSize::d12,
-            20 => DieSize::d20,
-            100 => DieSize::d100,
-            _ => panic!("Invalid die size"),
+            4 => Ok(DieSize::d4),
+            6 => Ok(DieSize::d6),
+            8 => Ok(DieSize::d8),
+            10 => Ok(DieSize::d10),
+            12 => Ok(DieSize::d12),
+            20 => Ok(DieSize::d20),
+            100 => Ok(DieSize::d100),
+            _ => Err("Invalid die size"),
         }
     }
 }
 
-impl From<DieSize> for i8 {
-    #[allow(dead_code)]
-    fn from(d: DieSize) -> i8 {
-        use DieSize::*;
-        match d {
-            d4 => 4,
-            d6 => 6,
-            d8 => 8,
-            d10 => 10,
-            d12 => 12,
-            d20 => 20,
-            d100 => 100,
-        }
+#[derive(Clone, Copy, Debug, Hash, Eq, PartialEq)]
+pub struct Roll {
+    pub n: i32,
+    pub d: DieSize,
+    pub advantage: Advantage,
+    pub modifier: i32,
+}
+
+impl Roll {
+    fn roll_once(n: i32, d: DieSize) -> i32 {
+        let mut rng = rand::thread_rng();
+
+        (0..n).map(|_| rng.gen_range(1..=d as i32)).sum()
     }
-}
 
-impl From<DieSize> for i32 {
-    fn from(d: DieSize) -> i32 {
-        use DieSize::*;
-        match d {
-            d4 => 4,
-            d6 => 6,
-            d8 => 8,
-            d10 => 10,
-            d12 => 12,
-            d20 => 20,
-            d100 => 100,
+    pub fn roll(self) -> i32 {
+        match self.advantage {
+            Advantage::Disadvantage => {
+                min(
+                    Roll::roll_once(self.n, self.d),
+                    Roll::roll_once(self.n, self.d),
+                ) + self.modifier
+            }
+            Advantage::Neutral => Roll::roll_once(self.n, self.d) + self.modifier,
+            Advantage::Advantage => {
+                max(
+                    Roll::roll_once(self.n, self.d),
+                    Roll::roll_once(self.n, self.d),
+                ) + self.modifier
+            }
         }
-    }
-}
-
-pub fn roll_once(n: NumDice, d: DieSize) -> i32 {
-    let mut rng = rand::thread_rng();
-
-    (0..*n).map(|_| rng.gen_range(1..=d as i32)).sum()
-}
-
-pub fn roll(n: NumDice, d: DieSize, advantage: Advantage) -> i32 {
-    match advantage {
-        Advantage::Disadvantage => min(roll_once(n, d), roll_once(n, d)),
-        Advantage::Neutral => roll_once(n, d),
-        Advantage::Advantage => max(roll_once(n, d), roll_once(n, d)),
     }
 }

@@ -1,6 +1,6 @@
 use crate::combat::{Attacker, Defender};
-use crate::core::dice::{Advantage, DieSize, NumDice};
-use bevy::ecs::{Bundle, Entity};
+use crate::core::dice::Roll;
+use bevy::ecs::Bundle;
 use derive_more::{Deref, DerefMut};
 #[allow(dead_code)]
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
@@ -27,18 +27,6 @@ pub enum DamageType {
     Hybrid(Element, Element),
     Split(Element, Element),
 }
-
-#[allow(dead_code)]
-/// Emit multiple damage events for complex damage calculations
-pub struct DamageEvent {
-    n: i8,
-    d: DieSize,
-    advantage: Advantage,
-    flat: i32,
-    damage_type: Vec<DamageType>,
-    attacker: Entity,
-    defender: Entity,
-}
 #[allow(dead_code)]
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash, Deref, DerefMut)]
 pub struct FlatDamage(i32);
@@ -60,11 +48,8 @@ pub struct Damage;
 #[derive(Bundle)]
 pub struct DamageBundle {
     damage: Damage,
-    num_dice: NumDice,
-    die_size: DieSize,
-    advantage: Advantage,
-    flag_damage: FlatDamage,
     attacker: Attacker,
     defender: Defender,
+    roll: Roll,
     damage_type: DamageType,
 }
