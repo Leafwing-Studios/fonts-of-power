@@ -10,7 +10,6 @@ use derive_more::{Deref, DerefMut};
 /// The turn-based nature of the game should be handled using parallel game loops.
 pub mod actions;
 pub mod attack;
-pub mod concentration;
 pub mod conditions;
 pub mod core_actions;
 pub mod damage;
