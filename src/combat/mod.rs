@@ -1,6 +1,7 @@
 use attack::check_attacks;
 use bevy::app::{AppBuilder, Plugin};
 use bevy::ecs::{Entity, IntoSystem};
+use damage::{apply_damage, apply_resistances, roll_damage};
 use derive_more::{Deref, DerefMut};
 
 /// Events are created whenever actions occur, and are hooked into
@@ -23,7 +24,10 @@ pub mod visibility_cover;
 pub struct CombatPlugin {}
 impl Plugin for CombatPlugin {
     fn build(&self, app: &mut AppBuilder) {
-        app.add_system(check_attacks.system());
+        app.add_system(check_attacks.system())
+            .add_system(roll_damage.system())
+            .add_system(apply_resistances.system())
+            .add_system(apply_damage.system());
     }
 }
 /// Marker component for entity-events that are currently being processed

@@ -64,8 +64,8 @@ pub struct Proficiencies(HashSet<Skill>);
 pub struct Life {
     pub current: u16,
     pub max: u16,
+    pub absorption: u16,
 }
-
 #[derive(Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Essence {
     pub current: u16,
