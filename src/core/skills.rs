@@ -45,10 +45,10 @@ impl SkillCheck {
     pub fn roll(&self) -> SkillCheckOutcome {
         let result = self.roll.unwrap().roll();
 
-        let realized_difficulty = if self.flat_difficulty.is_some() {
-            self.flat_difficulty.unwrap()
-        } else if self.opposed_roll.is_some() {
-            self.opposed_roll.unwrap().roll()
+        let realized_difficulty: i32 = if let Some(flat_difficulty) = self.flat_difficulty {
+            flat_difficulty
+        } else if let Some(opposed_difficulty) = self.opposed_roll {
+            opposed_difficulty.roll()
         } else {
             panic!("No difficulty found for skill check.")
         };
