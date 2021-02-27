@@ -66,14 +66,15 @@ impl Plugin for AttackPlugin {
             dispatch_attacks
                 .system()
                 .label(DispatchAttacks)
-                .after(RollDamage),
+                .after(RollDamage)
+                .after(RollAttacks),
         )
         .add_system_to_stage(
             AttackStage::Setup,
             prepare_attacks
                 .system()
                 .label(PrepareAttacks)
-                .after(PrepareAttacks),
+                .after(DispatchAttacks),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
