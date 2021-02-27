@@ -42,6 +42,10 @@ pub enum Ailment {
 #[derive(Clone, Debug, Deref, DerefMut)]
 pub struct Ailments(HashMap<Ailments, u16>);
 
+pub fn apply_afflictions() {}
+
+pub fn apply_ailments() {}
+
 pub trait Status {}
 
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]

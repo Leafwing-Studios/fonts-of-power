@@ -14,8 +14,7 @@ use std::ops::Mul;
 /// - Damage
 /// - Attacker
 /// - Defender
-/// - Roll
-/// - DamageMultiplier
+/// - DamageRoll
 /// - DamageType
 #[allow(dead_code)]
 #[derive(Clone, Debug, PartialEq, Eq, Hash)]
