@@ -24,6 +24,12 @@ pub mod tiles;
 pub mod time;
 pub mod visibility_cover;
 
+#[derive(Debug, Hash, PartialEq, Eq, Clone, StageLabel)]
+pub enum AttackStage {
+    Setup,
+    Resolution,
+}
+
 #[derive(Debug, Hash, PartialEq, Eq, Clone, SystemLabel)]
 pub enum AttackSystem {
     CheckAttacks,
@@ -38,17 +44,12 @@ pub enum AttackSystem {
     ApplyAilments,
 }
 
-#[derive(Debug, Hash, PartialEq, Eq, Clone, StageLabel)]
-pub enum AttackStage {
-    Setup,
-    Resolution,
-}
-
 use AttackSystem::*;
 
 pub struct AttackPlugin {}
 impl Plugin for AttackPlugin {
     fn build(&self, app: &mut AppBuilder) {
+        // Adding stages
         app.add_stage_before(
             CoreStage::Update,
             AttackStage::Resolution,
@@ -59,6 +60,7 @@ impl Plugin for AttackPlugin {
             AttackStage::Setup,
             SystemStage::parallel(),
         )
+        // AttackStage::Setup
         .add_system_to_stage(AttackStage::Setup, roll_attacks.system().label(RollAttacks))
         .add_system_to_stage(AttackStage::Setup, roll_damage.system().label(RollDamage))
         .add_system_to_stage(
@@ -76,6 +78,7 @@ impl Plugin for AttackPlugin {
                 .label(PrepareAttacks)
                 .after(DispatchAttacks),
         )
+        // AttackStage::Resolution
         .add_system_to_stage(
             AttackStage::Resolution,
             check_attacks.system().label(CheckAttacks),
@@ -118,6 +121,9 @@ impl Plugin for AttackPlugin {
         );
     }
 }
+
+// Shared resources and components for Combat
+
 /// Marker component for entity-events that are currently being processed
 #[allow(dead_code)]
 pub struct Active;
