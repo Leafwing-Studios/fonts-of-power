@@ -1,6 +1,11 @@
-use crate::combat::tiles::{Distance, Shape};
+use crate::combat::{
+    tiles::{Distance, Shape},
+    ObjectKind,
+};
 use bevy::ecs::Entity;
 use derive_more::{Deref, DerefMut};
+use std::collections::HashSet;
+
 /// Workflow for actions:
 /// 1. Determine which actions are possible for the unit
 /// 2. Select one of those actions
@@ -47,18 +52,15 @@ pub enum ActionSpeed {
     Reaction,
 }
 
-#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
+#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
 pub struct Actor(Entity);
 
-#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
+#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
 pub struct Target(Entity);
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Clone, Debug, PartialEq, Eq)]
 #[allow(dead_code)]
-pub enum ValidTargets {
-    Creature,
-    Tile,
-}
+pub struct ValidTargets(HashSet<ObjectKind>);
 
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
@@ -79,3 +81,10 @@ pub struct Range(Distance);
 
 #[allow(dead_code)]
 pub struct AreaOfEffect(Shape);
+
+#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
+pub struct Targets(Vec<Entity>);
+
+// TODO: Complete
+/// Identifies which targets will be hit by the attack
+pub fn identify_targets() {}

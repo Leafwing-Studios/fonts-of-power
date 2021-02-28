@@ -1,11 +1,11 @@
+use actions::identify_targets;
 use attack::{apply_crits, check_attacks, dispatch_attacks, prepare_attacks, roll_attacks};
 use bevy::app::{AppBuilder, CoreStage, Plugin};
 use bevy::ecs::{
-    Entity, IntoSystem, ParallelSystemDescriptorCoercion, StageLabel, SystemLabel, SystemStage,
+    IntoSystem, ParallelSystemDescriptorCoercion, StageLabel, SystemLabel, SystemStage,
 };
 use conditions::{apply_afflictions, apply_ailments};
 use damage::{apply_damage, apply_resistances, roll_damage};
-use derive_more::{Deref, DerefMut};
 
 /// Events are created whenever actions occur, and are hooked into
 /// by systems that power our affixes using a custom scheduler that only recomputes
@@ -23,6 +23,39 @@ pub mod movement;
 pub mod tiles;
 pub mod time;
 pub mod visibility_cover;
+
+#[derive(Debug, Hash, PartialEq, Eq, Clone, StageLabel)]
+pub enum ActionStage {
+    Selection,
+    Dispatch,
+}
+
+#[derive(Debug, Hash, PartialEq, Eq, Clone, SystemLabel)]
+pub enum ActionSystem {
+    IdentifyTargets,
+}
+
+use ActionSystem::*;
+
+pub struct ActionPlugin {}
+impl Plugin for ActionPlugin {
+    fn build(&self, app: &mut AppBuilder) {
+        app.add_stage_before(
+            AttackStage::Setup,
+            ActionStage::Dispatch,
+            SystemStage::parallel(),
+        )
+        .add_stage_before(
+            ActionStage::Dispatch,
+            ActionStage::Selection,
+            SystemStage::parallel(),
+        )
+        .add_system_to_stage(
+            ActionStage::Dispatch,
+            identify_targets.system().label(IdentifyTargets),
+        );
+    }
+}
 
 #[derive(Debug, Hash, PartialEq, Eq, Clone, StageLabel)]
 pub enum AttackStage {
@@ -125,9 +158,14 @@ impl Plugin for AttackPlugin {
 // Shared resources and components for Combat
 
 /// Marker component for entity-events that are currently being processed
-#[allow(dead_code)]
+#[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub struct Active;
-#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
-pub struct Attacker(Entity);
-#[derive(Clone, Copy, Deref, DerefMut, PartialEq, Eq)]
-pub struct Defender(Entity);
+
+/// Objects that can be interacted with in combat
+#[allow(dead_code)]
+#[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
+pub enum ObjectKind {
+    Creature,
+    Inanimate,
+    Tile,
+}

@@ -5,7 +5,9 @@ mod core;
 mod exploration;
 
 use crate::{
-    character_options::CharacterOptionsPlugin, combat::AttackPlugin, core::CorePlugin,
+    character_options::CharacterOptionsPlugin,
+    combat::{ActionPlugin, AttackPlugin},
+    core::CorePlugin,
     exploration::ExplorationPlugin,
 };
 
@@ -15,6 +17,7 @@ fn main() {
         .add_plugins(DefaultPlugins)
         .add_plugin(CorePlugin {})
         .add_plugin(AttackPlugin {})
+        .add_plugin(ActionPlugin {})
         .add_plugin(ExplorationPlugin {})
         .add_plugin(CharacterOptionsPlugin {})
         .run();
