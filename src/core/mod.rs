@@ -1,5 +1,6 @@
 pub mod affixes;
 pub mod dice;
+pub mod entity_clone;
 pub mod resting;
 pub mod skills;
 pub mod stats;
