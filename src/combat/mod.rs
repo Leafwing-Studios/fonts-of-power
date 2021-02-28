@@ -1,5 +1,7 @@
 use actions::identify_targets;
-use attack::{apply_crits, check_attacks, dispatch_attacks, prepare_attacks, roll_attacks};
+use attack::{
+    apply_crits, check_attacks, dispatch_attacks, get_attack_bonuses, get_defenses, roll_attacks,
+};
 use bevy::app::{AppBuilder, CoreStage, Plugin};
 use bevy::ecs::{
     IntoSystem, ParallelSystemDescriptorCoercion, StageLabel, SystemLabel, SystemStage,
@@ -65,11 +67,12 @@ pub enum AttackStage {
 
 #[derive(Debug, Hash, PartialEq, Eq, Clone, SystemLabel)]
 pub enum AttackSystem {
+    GetAttackBonuses,
     CheckAttacks,
     RollAttacks,
     RollDamage,
     DispatchAttacks,
-    PrepareAttacks,
+    GetDefenses,
     ApplyCrits,
     ApplyResistances,
     ApplyDamage,
@@ -94,7 +97,17 @@ impl Plugin for AttackPlugin {
             SystemStage::parallel(),
         )
         // AttackStage::Setup
-        .add_system_to_stage(AttackStage::Setup, roll_attacks.system().label(RollAttacks))
+        .add_system_to_stage(
+            AttackStage::Setup,
+            get_attack_bonuses.system().label(GetAttackBonuses),
+        )
+        .add_system_to_stage(
+            AttackStage::Setup,
+            roll_attacks
+                .system()
+                .label(RollAttacks)
+                .after(GetAttackBonuses),
+        )
         .add_system_to_stage(AttackStage::Setup, roll_damage.system().label(RollDamage))
         .add_system_to_stage(
             AttackStage::Setup,
@@ -106,9 +119,9 @@ impl Plugin for AttackPlugin {
         )
         .add_system_to_stage(
             AttackStage::Setup,
-            prepare_attacks
+            get_defenses
                 .system()
-                .label(PrepareAttacks)
+                .label(GetDefenses)
                 .after(DispatchAttacks),
         )
         // AttackStage::Resolution
@@ -121,7 +134,7 @@ impl Plugin for AttackPlugin {
             apply_crits
                 .system()
                 .label(ApplyCrits)
-                .after(PrepareAttacks)
+                .after(CheckAttacks)
                 .after(RollDamage),
         )
         .add_system_to_stage(

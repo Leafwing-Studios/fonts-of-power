@@ -22,7 +22,7 @@ use std::collections::HashSet;
 ///
 /// The following components are sometimes needed:
 /// - Essence
-/// - Target
+/// - Targets
 /// - ValidTargets
 /// - TargetArity
 /// - Range
@@ -54,9 +54,6 @@ pub enum ActionSpeed {
 
 #[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
 pub struct Actor(Entity);
-
-#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
-pub struct Target(Entity);
 
 #[derive(Clone, Debug, PartialEq, Eq)]
 #[allow(dead_code)]

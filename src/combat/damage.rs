@@ -1,34 +1,29 @@
-use crate::combat::{Active, Attacker, Defender};
+use crate::combat::attack::Defender;
+use crate::combat::Active;
 use crate::core::dice::Roll;
 use crate::core::stats::Life;
 use bevy::app::Events;
-use bevy::ecs::{Bundle, Query, ResMut, With};
+use bevy::ecs::{Query, ResMut, With};
 use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 use std::cmp::max;
 use std::collections::HashMap;
 use std::ops::Mul;
 
-// TODO: add archetype invariants
-/// Entities that have a Damage component should always also have:
-/// - Damage
-/// - Attacker
-/// - Defender
-/// - DamageRoll
-/// - DamageType
-#[allow(dead_code)]
-#[derive(Clone, Debug, PartialEq, Eq, Hash)]
-pub struct Damage {
-    val: Option<u16>,
+#[derive(Clone, PartialEq, Eq)]
+pub struct DamageRoll {
+    roll: Roll,
+    result: Option<u16>,
 }
 
-impl Mul<Ratio<u16>> for Damage {
+impl Mul<Ratio<u16>> for DamageRoll {
     type Output = Self;
 
     fn mul(self, rhs: Ratio<u16>) -> Self {
-        let ratio = Ratio::from_integer(self.val.unwrap()) * rhs;
-        Damage {
-            val: Some(ratio.to_integer()),
+        let ratio = Ratio::from_integer(self.result.unwrap()) * rhs;
+        DamageRoll {
+            roll: self.roll,
+            result: Some(ratio.to_integer()),
         }
     }
 }
@@ -97,9 +92,9 @@ pub enum DamageType {
 impl DamageType {
     pub fn calculate_damage_with_resistances(
         self,
-        damage: &Damage,
+        damage: &DamageRoll,
         resistances: &Resistances,
-    ) -> Damage {
+    ) -> DamageRoll {
         match self {
             DamageType::Pure(e) => {
                 damage.clone() * resistances.get(&e).unwrap().damage_multiplier()
@@ -112,37 +107,29 @@ impl DamageType {
                     )
             }
             DamageType::Split(e1, e2) => {
-                let half_damage = Ratio::from_integer(damage.val.unwrap()) / 2;
+                let half_damage = Ratio::from_integer(damage.result.unwrap()) / 2;
                 let partial_1 = half_damage * resistances.get(&e1).unwrap().damage_multiplier();
                 let partial_2 = half_damage * resistances.get(&e2).unwrap().damage_multiplier();
 
                 // Rounding up is equivalent to making the remainder count as the more effective damage type
                 let total = (partial_1 + partial_2).round();
-                Damage {
-                    val: Some(total.to_integer()),
+                DamageRoll {
+                    roll: damage.roll,
+                    result: Some(total.to_integer()),
                 }
             }
         }
     }
 }
 
-#[derive(Bundle)]
-pub struct DamageBundle {
-    damage: Damage,
-    attacker: Attacker,
-    defender: Defender,
-    roll: Roll,
-    damage_type: DamageType,
-}
-
-pub fn roll_damage(mut query: Query<(&mut Damage, &Roll), With<Active>>) {
-    for (mut damage, roll) in query.iter_mut() {
-        damage.val = Some(roll.roll() as u16);
+pub fn roll_damage(mut query: Query<&mut DamageRoll, With<Active>>) {
+    for mut i in query.iter_mut() {
+        i.result = Some(i.roll.roll() as u16);
     }
 }
 
 pub fn apply_resistances(
-    mut damage_query: Query<(&Defender, &DamageType, &mut Damage), With<Active>>,
+    mut damage_query: Query<(&Defender, &DamageType, &mut DamageRoll), With<Active>>,
     resistance_query: Query<&Resistances>,
 ) {
     for (defender, damage_type, mut damage) in damage_query.iter_mut() {
@@ -159,14 +146,14 @@ pub struct LifeLost {
 }
 
 pub fn apply_damage(
-    damage_query: Query<(&Damage, &Defender), With<Active>>,
+    damage_query: Query<(&DamageRoll, &Defender), With<Active>>,
     mut life_query: Query<&mut Life>,
     mut life_lost: ResMut<Events<LifeLost>>,
 ) {
     for (damage, defender) in damage_query.iter() {
         let mut life = life_query.get_mut(**defender).unwrap();
 
-        let damage_dealt = damage.val.unwrap();
+        let damage_dealt = damage.result.unwrap();
 
         if life.absorption > damage_dealt {
             life.absorption = life.absorption - damage_dealt;
@@ -175,7 +162,7 @@ pub fn apply_damage(
             life.current -= damage_dealt - damage_dealt;
 
             life_lost.send(LifeLost {
-                defender: *defender,
+                defender: defender.clone(),
             });
         }
     }

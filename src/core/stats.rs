@@ -6,7 +6,6 @@ use crate::core::skills::Skill;
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum Attribute {
-    Any,
     Prowess,
     Agility,
     Expertise,
@@ -25,10 +24,9 @@ pub struct Attributes {
     focus: AttributeVal,
     presence: AttributeVal,
 }
-#[derive(Debug, PartialEq, Eq)]
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum Ideal {
-    Any,
     Equality,
     Harmony,
     Liberty,
@@ -73,19 +71,3 @@ pub struct Level(pub u8);
 
 #[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct Tier(pub u8);
-
-#[derive(Clone, Debug)]
-pub struct AttackBonus {
-    basic: i8,
-    special: i8,
-}
-
-#[derive(Clone, Debug)]
-pub struct Defenses {
-    basic: i8,
-    prowess: i8,
-    agility: i8,
-    expertise: i8,
-    focus: i8,
-    presence: i8,
-}
