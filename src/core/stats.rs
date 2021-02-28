@@ -1,9 +1,9 @@
 use derive_more::{Deref, DerefMut};
-use std::{collections::HashSet, marker::PhantomData};
+use std::collections::HashSet;
 
 use crate::core::skills::Skill;
 
-#[derive(Debug, PartialEq, Eq)]
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum Attribute {
     Any,
@@ -14,20 +14,17 @@ pub enum Attribute {
     Presence,
 }
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct AttributeVal(i8);
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Prowess(AttributeVal);
-
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Agility(AttributeVal);
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Expertise(AttributeVal);
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Focus(AttributeVal);
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Presence(AttributeVal);
+#[derive(Clone, Debug)]
+pub struct Attributes {
+    prowess: AttributeVal,
+    agility: AttributeVal,
+    expertise: AttributeVal,
+    focus: AttributeVal,
+    presence: AttributeVal,
+}
 #[derive(Debug, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum Ideal {
@@ -39,26 +36,23 @@ pub enum Ideal {
     Sanctity,
 }
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct IdealVal(i8);
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Equality(AttributeVal);
+#[derive(Clone, Debug)]
+pub struct Ideals {
+    equality: IdealVal,
+    harmony: IdealVal,
+    liberty: IdealVal,
+    progress: IdealVal,
+    sanctity: IdealVal,
+}
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Harmony(AttributeVal);
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Liberty(AttributeVal);
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Progress(AttributeVal);
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Sanctity(AttributeVal);
-
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct ProficiencyBonus(i8);
 
 #[derive(Clone, Debug, Eq, PartialEq, Deref, DerefMut)]
-pub struct Proficiencies(HashSet<Skill>);
+pub struct SkillProficiencies(HashSet<Skill>);
 
 #[derive(Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Life {
@@ -71,27 +65,27 @@ pub struct Essence {
     pub current: u16,
     pub max: u16,
 }
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Exhaustion(u16);
+#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Exhaustion(pub u16);
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Level(u8);
+#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Level(pub u8);
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Tier(u8);
+#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+pub struct Tier(pub u8);
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct BasicAttackBonus(i8);
+#[derive(Clone, Debug)]
+pub struct AttackBonus {
+    basic: i8,
+    special: i8,
+}
 
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct SpecialAttackBonus(i8);
-
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct BasicDefense(i8);
-
-// TODO: determine a better approach for constructing these and enforcing that T is an Attribute variant
-#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
-pub struct SpecialDefense<T> {
-    val: i8,
-    phantom: PhantomData<T>,
+#[derive(Clone, Debug)]
+pub struct Defenses {
+    basic: i8,
+    prowess: i8,
+    agility: i8,
+    expertise: i8,
+    focus: i8,
+    presence: i8,
 }
