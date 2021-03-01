@@ -1,24 +1,11 @@
+use crate::combat::attack::Efficacy;
 use crate::combat::tiles::{Direction, Distance, Position};
-use bevy::ecs::Entity;
 use std::fmt::Debug;
-#[allow(dead_code)]
-pub struct ForcedMovementEvent {
-    attacker: Entity,
-    defender: Entity,
-    forced_movement: ForcedMovement,
-}
+use std::ops::Mul;
 
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
-struct ForcedMovement {
-    target: Entity,
-    data: ForcedMovementData,
-}
 #[allow(dead_code)]
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
-enum ForcedMovementData {
-    Teleportation {
-        new_position: Position,
-    },
+pub enum ForcedMovement {
     Push {
         source: Position,
         distance: Distance,
@@ -28,10 +15,39 @@ enum ForcedMovementData {
         distance: Distance,
     },
     Shove {
-        distance: Distance,
         direction: Direction,
+        distance: Distance,
     },
     Shift {
-        direction: Direction,
+        directions: Vec<Direction>,
     },
+    Teleport {
+        position: Position,
+    },
+}
+
+impl Mul<Efficacy> for ForcedMovement {
+    type Output = Self;
+
+    fn mul(self, rhs: Efficacy) -> Self {
+        match self {
+            ForcedMovement::Push { source, distance } => ForcedMovement::Push {
+                source: source,
+                distance: distance * rhs,
+            },
+            ForcedMovement::Pull { source, distance } => ForcedMovement::Pull {
+                source: source,
+                distance: distance * rhs,
+            },
+            ForcedMovement::Shove {
+                direction,
+                distance,
+            } => ForcedMovement::Shove {
+                direction: direction,
+                distance: distance * rhs,
+            },
+            ForcedMovement::Shift { directions } => ForcedMovement::Shift { directions },
+            ForcedMovement::Teleport { position } => ForcedMovement::Teleport { position },
+        }
+    }
 }

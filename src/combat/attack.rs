@@ -1,8 +1,11 @@
 use crate::combat::actions::Targets;
+use crate::combat::conditions::{Afflictions, Ailments};
+use crate::combat::damage::DamageRoll;
+use crate::combat::forced_movement::ForcedMovement;
 use crate::combat::Active;
 use crate::core::dice::Roll;
 use crate::core::entity_clone::*;
-use crate::core::stats::Attribute;
+use crate::core::stats::{Absorption, Attribute};
 use bevy::ecs::{Commands, Entity, Query, With};
 use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
@@ -99,12 +102,18 @@ impl Defenses {
     }
 }
 
-#[derive(Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
-pub struct Defense(Option<i32>);
-#[derive(Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
-pub struct CritThreshold(u8);
-#[derive(Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
-pub struct Efficacy(Ratio<u16>);
+#[derive(Clone, Debug, PartialEq, Eq)]
+pub struct Defense {
+    val: Option<i32>,
+}
+#[derive(Clone, Debug, PartialEq, Eq)]
+pub struct CritThreshold {
+    val: u8,
+}
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+pub struct Efficacy {
+    pub val: Ratio<u16>,
+}
 
 /// Gets the attack bonus for the roll
 pub fn get_attack_bonuses(
@@ -148,7 +157,7 @@ pub fn get_defenses(
     for (mut defense, defender, attack_type) in attack_query.iter_mut() {
         let defenses = defender_query.get(**defender).unwrap();
 
-        **defense = defenses.get(*attack_type);
+        defense.val = defenses.get(*attack_type);
     }
 }
 
@@ -165,17 +174,17 @@ pub fn check_attacks(
 ) {
     for (attacking_entity, attack_roll, defense, crit_threshold) in attacks.iter() {
         // Attacks where no Defense value is present always hit but never crit
-        if defense.is_none() {
+        if defense.val.is_none() {
             commands.insert_one(attacking_entity, Landed);
             continue;
         }
 
         attack_roll.roll();
 
-        if attack_roll.result().unwrap() >= defense.unwrap() {
+        if attack_roll.result().unwrap() >= defense.val.unwrap() {
             commands.insert_one(attacking_entity, Landed);
 
-            if attack_roll.natural_roll().unwrap() as u8 >= **crit_threshold {
+            if attack_roll.natural_roll().unwrap() as u8 >= crit_threshold.val {
                 commands.insert_one(attacking_entity, Crit);
             }
         }
@@ -185,6 +194,46 @@ pub fn check_attacks(
 /// The efficacy of attacks which were a critical hit are doubled
 pub fn apply_crits(mut query: Query<&mut Efficacy, With<(Active, Crit, Attack)>>) {
     for mut efficacy in query.iter_mut() {
-        **efficacy *= 2;
+        efficacy.val *= 2;
+    }
+}
+
+/// Efficacy doubles the effects of damage, absorption, afflictions, ailments and most forced movement
+pub fn apply_efficacy(
+    mut query: Query<
+        (
+            &Efficacy,
+            Option<&mut DamageRoll>,
+            Option<&mut Absorption>,
+            Option<&mut Afflictions>,
+            Option<&mut Ailments>,
+            Option<&mut ForcedMovement>,
+        ),
+        With<(Attack, Active)>,
+    >,
+) {
+    for (efficacy, damage_roll, absorption, afflictions, ailments, forced_movement) in
+        query.iter_mut()
+    {
+        let efficacy = *efficacy;
+        if let Some(mut dr) = damage_roll {
+            *dr = dr.clone() * efficacy;
+        }
+
+        if let Some(mut ab) = absorption {
+            *ab = ab.clone() * efficacy;
+        }
+
+        if let Some(mut af) = afflictions {
+            *af = af.clone() * efficacy;
+        }
+
+        if let Some(mut ai) = ailments {
+            *ai = ai.clone() * efficacy;
+        }
+
+        if let Some(mut fm) = forced_movement {
+            *fm = fm.clone() * efficacy;
+        }
     }
 }

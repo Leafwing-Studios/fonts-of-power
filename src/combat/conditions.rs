@@ -1,5 +1,7 @@
-use derive_more::{Deref, DerefMut};
+use crate::combat::attack::Efficacy;
+use num_rational::Ratio;
 use std::collections::HashMap;
+use std::ops::Mul;
 
 #[non_exhaustive]
 #[allow(dead_code)]
@@ -16,8 +18,24 @@ pub enum Affliction {
 }
 
 #[allow(dead_code)]
-#[derive(Clone, Debug, Deref, DerefMut)]
-pub struct Afflictions(HashMap<Affliction, u16>);
+#[derive(Clone, Debug)]
+pub struct Afflictions {
+    map: HashMap<Affliction, u16>,
+}
+
+impl Mul<Efficacy> for Afflictions {
+    type Output = Self;
+
+    fn mul(self, rhs: Efficacy) -> Self {
+        let mut new = self.clone();
+        for (_k, v) in new.map.iter_mut() {
+            let lhs = Ratio::from_integer(*v);
+            *v = (lhs * rhs.val).to_integer() as u16;
+        }
+
+        new
+    }
+}
 
 #[non_exhaustive]
 #[allow(dead_code)]
@@ -39,8 +57,25 @@ pub enum Ailment {
     Withered,
 }
 
-#[derive(Clone, Debug, Deref, DerefMut)]
-pub struct Ailments(HashMap<Ailments, u16>);
+#[allow(dead_code)]
+#[derive(Clone, Debug)]
+pub struct Ailments {
+    map: HashMap<Ailment, u16>,
+}
+
+impl Mul<Efficacy> for Ailments {
+    type Output = Self;
+
+    fn mul(self, rhs: Efficacy) -> Self {
+        let mut new = self.clone();
+        for (_k, v) in new.map.iter_mut() {
+            let lhs = Ratio::from_integer(*v);
+            *v = (lhs * rhs.val).to_integer() as u16;
+        }
+
+        new
+    }
+}
 
 pub fn apply_afflictions() {}
 

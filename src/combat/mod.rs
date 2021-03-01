@@ -1,6 +1,7 @@
 use actions::identify_targets;
 use attack::{
-    apply_crits, check_attacks, dispatch_attacks, get_attack_bonuses, get_defenses, roll_attacks,
+    apply_crits, apply_efficacy, check_attacks, dispatch_attacks, get_attack_bonuses, get_defenses,
+    roll_attacks,
 };
 use bevy::app::{AppBuilder, CoreStage, Plugin};
 use bevy::ecs::{
@@ -74,6 +75,7 @@ pub enum AttackSystem {
     DispatchAttacks,
     GetDefenses,
     ApplyCrits,
+    ApplyEfficacy,
     ApplyResistances,
     ApplyDamage,
     ApplyAfflictions,
@@ -142,6 +144,13 @@ impl Plugin for AttackPlugin {
             apply_resistances
                 .system()
                 .label(ApplyResistances)
+                .after(ApplyCrits),
+        )
+        .add_system_to_stage(
+            AttackStage::Resolution,
+            apply_efficacy
+                .system()
+                .label(ApplyEfficacy)
                 .after(ApplyCrits),
         )
         .add_system_to_stage(

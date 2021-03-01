@@ -1,6 +1,25 @@
+use crate::combat::attack::Efficacy;
 use derive_more::{Deref, DerefMut};
-#[derive(Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
-pub struct Distance(u8);
+use num_rational::Ratio;
+use std::ops::Mul;
+
+#[derive(Clone, Debug, Hash, PartialEq, Eq)]
+pub struct Distance {
+    pub val: u32,
+}
+
+/// Used to scale forced movement effects with efficacy
+impl Mul<Efficacy> for Distance {
+    type Output = Self;
+
+    fn mul(self, rhs: Efficacy) -> Self {
+        let mut new = self.clone();
+        let lhs = Ratio::from_integer(self.val as u16);
+
+        new.val = (lhs * rhs.val).to_integer() as u32;
+        new
+    }
+}
 
 #[derive(Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
 pub struct Area(u16);

@@ -1,13 +1,14 @@
-use crate::combat::attack::Defender;
+use crate::combat::attack::{Defender, Efficacy};
 use crate::combat::Active;
 use crate::core::dice::Roll;
-use crate::core::stats::Life;
+use crate::core::stats::{Absorption, Life};
 use bevy::app::Events;
 use bevy::ecs::{Query, ResMut, With};
 use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 use std::cmp::max;
 use std::collections::HashMap;
+use std::ops::Mul;
 
 #[derive(Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
 pub struct DamageRoll(Roll);
@@ -35,6 +36,18 @@ impl DamageRoll {
         };
 
         self.set_result(new_damage.round().to_integer() as i32);
+    }
+}
+
+impl Mul<Efficacy> for DamageRoll {
+    type Output = Self;
+
+    fn mul(self, rhs: Efficacy) -> Self {
+        let lhs = Ratio::from_integer(self.result().unwrap() as u16);
+
+        let new = self.clone();
+        new.set_result((lhs * rhs.val).to_integer() as i32);
+        new
     }
 }
 
@@ -135,18 +148,18 @@ pub struct LifeLost {
 
 pub fn apply_damage(
     damage_query: Query<(&DamageRoll, &Defender), With<Active>>,
-    mut life_query: Query<&mut Life>,
+    mut life_query: Query<(&mut Life, &mut Absorption)>,
     mut life_lost: ResMut<Events<LifeLost>>,
 ) {
     for (damage, defender) in damage_query.iter() {
-        let mut life = life_query.get_mut(**defender).unwrap();
+        let (mut life, mut absorption) = life_query.get_mut(**defender).unwrap();
 
         let damage_dealt = damage.result().unwrap() as u16;
 
-        if life.absorption > damage_dealt {
-            life.absorption = life.absorption - damage_dealt;
+        if absorption.val > damage_dealt {
+            absorption.val = absorption.val - damage_dealt;
         } else {
-            life.absorption = 0;
+            absorption.val = 0;
             life.current -= damage_dealt - damage_dealt;
 
             life_lost.send(LifeLost {
