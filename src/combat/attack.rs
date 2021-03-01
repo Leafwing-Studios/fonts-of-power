@@ -168,10 +168,15 @@ pub fn check_attacks(
     commands: &mut Commands,
 ) {
     for (attacking_entity, attack_roll, defense, crit_threshold) in attacks.iter() {
+        // Attacks where no Defense value is present always hit but never crit
+        if defense.is_none() {
+            commands.insert_one(attacking_entity, Landed);
+            continue;
+        }
+
         let final_attack = attack_roll.roll();
         let natural_roll = final_attack - attack_roll.modifier;
 
-        // TODO: handle case where no attack roll is needed
         if final_attack >= defense.unwrap() {
             commands.insert_one(attacking_entity, Landed);
 
