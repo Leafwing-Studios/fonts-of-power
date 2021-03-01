@@ -33,7 +33,7 @@ pub enum SkillCheckOutcome {
 pub struct SkillCheck {
     attribute: Attribute,
     skill: Skill,
-    roll: Option<Roll>,
+    actor_roll: Option<Roll>,
     flat_difficulty: Option<i32>,
     opposed_roll: Option<Roll>,
     combat: bool,
@@ -43,28 +43,28 @@ pub struct SkillCheck {
 impl SkillCheck {
     #[allow(dead_code)]
     pub fn roll(&self) -> SkillCheckOutcome {
-        let result = self.roll.unwrap().roll();
+        self.actor_roll.unwrap().roll();
 
-        let realized_difficulty: i32 = if let Some(flat_difficulty) = self.flat_difficulty {
-            flat_difficulty
-        } else if let Some(opposed_difficulty) = self.opposed_roll {
-            opposed_difficulty.roll()
+        let result = self.actor_roll.unwrap().result().unwrap();
+        let difficulty = if self.opposed_roll.is_some() {
+            self.opposed_roll.unwrap().roll();
+            self.opposed_roll.unwrap().result().unwrap()
         } else {
-            panic!("No difficulty found for skill check.")
+            self.flat_difficulty.unwrap()
         };
 
         if self.combat {
-            if result >= realized_difficulty {
+            if result >= difficulty {
                 return SkillCheckOutcome::Success;
             } else {
                 return SkillCheckOutcome::Failure;
             }
         } else {
-            if result >= realized_difficulty + 5 {
+            if result >= difficulty + 5 {
                 return SkillCheckOutcome::SmashingSuccess;
-            } else if result >= realized_difficulty {
+            } else if result >= difficulty {
                 return SkillCheckOutcome::Success;
-            } else if (result >= realized_difficulty - 5) | self.proficient {
+            } else if (result >= difficulty - 5) | self.proficient {
                 return SkillCheckOutcome::MixedSuccess;
             } else {
                 return SkillCheckOutcome::Failure;

@@ -46,6 +46,8 @@ pub struct Roll {
     pub d: DieSize,
     pub advantage: Advantage,
     pub modifier: i32,
+    natural_roll: Option<i32>,
+    result: Option<i32>,
 }
 
 impl Roll {
@@ -55,21 +57,32 @@ impl Roll {
         (0..n).map(|_| rng.gen_range(1..=d as i32)).sum()
     }
 
-    pub fn roll(self) -> i32 {
-        match self.advantage {
-            Advantage::Disadvantage => {
-                min(
-                    Roll::roll_once(self.n, self.d),
-                    Roll::roll_once(self.n, self.d),
-                ) + self.modifier
-            }
-            Advantage::Neutral => Roll::roll_once(self.n, self.d) + self.modifier,
-            Advantage::Advantage => {
-                max(
-                    Roll::roll_once(self.n, self.d),
-                    Roll::roll_once(self.n, self.d),
-                ) + self.modifier
-            }
-        }
+    pub fn roll(mut self) {
+        self.natural_roll = Some(match self.advantage {
+            Advantage::Disadvantage => min(
+                Roll::roll_once(self.n, self.d),
+                Roll::roll_once(self.n, self.d),
+            ),
+            Advantage::Neutral => Roll::roll_once(self.n, self.d),
+            Advantage::Advantage => max(
+                Roll::roll_once(self.n, self.d),
+                Roll::roll_once(self.n, self.d),
+            ),
+        });
+
+        self.result = Some(self.natural_roll.unwrap() + self.modifier);
+    }
+
+    pub fn natural_roll(self) -> Option<i32> {
+        self.natural_roll
+    }
+
+    pub fn result(self) -> Option<i32> {
+        self.result
+    }
+
+    /// This should only be called when directly modifying a rolled result. Prefer Roll::roll()
+    pub fn set_result(mut self, new_result: i32) {
+        self.result = Some(new_result);
     }
 }

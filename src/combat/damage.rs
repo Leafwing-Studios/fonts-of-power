@@ -8,23 +8,33 @@ use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 use std::cmp::max;
 use std::collections::HashMap;
-use std::ops::Mul;
 
-#[derive(Clone, PartialEq, Eq)]
-pub struct DamageRoll {
-    roll: Roll,
-    result: Option<u16>,
-}
+#[derive(Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
+pub struct DamageRoll(Roll);
 
-impl Mul<Ratio<u16>> for DamageRoll {
-    type Output = Self;
+impl DamageRoll {
+    pub fn apply_resistances(&self, damage_type: &DamageType, resistances: &Resistances) {
+        let current_damage: Ratio<u16> = Ratio::from_integer(self.result().unwrap() as u16);
+        let new_damage = match damage_type {
+            DamageType::Pure(e) => current_damage * resistances.get(&e).damage_multiplier(),
+            DamageType::Hybrid(e1, e2) => {
+                current_damage
+                    * max(
+                        resistances.get(&e1).damage_multiplier(),
+                        resistances.get(&e2).damage_multiplier(),
+                    )
+            }
+            DamageType::Split(e1, e2) => {
+                let half_damage = Ratio::new(1, 2) * current_damage;
+                let partial_1 = half_damage * resistances.get(&e1).damage_multiplier();
+                let partial_2 = half_damage * resistances.get(&e2).damage_multiplier();
 
-    fn mul(self, rhs: Ratio<u16>) -> Self {
-        let ratio = Ratio::from_integer(self.result.unwrap()) * rhs;
-        DamageRoll {
-            roll: self.roll,
-            result: Some(ratio.to_integer()),
-        }
+                // Rounding up is equivalent to making the remainder count as the more effective damage type
+                partial_1 + partial_2
+            }
+        };
+
+        self.set_result(new_damage.round().to_integer() as i32);
     }
 }
 
@@ -79,8 +89,17 @@ impl ResistanceLevel {
     }
 }
 #[allow(dead_code)]
-#[derive(Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
+#[derive(Clone, Debug, PartialEq, Eq)]
 pub struct Resistances(HashMap<Element, ResistanceLevel>);
+
+impl Resistances {
+    pub fn get(&self, element: &Element) -> ResistanceLevel {
+        match self.0.get(element) {
+            Some(rl) => *rl,
+            None => ResistanceLevel::Normal,
+        }
+    }
+}
 #[allow(dead_code)]
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub enum DamageType {
@@ -89,42 +108,11 @@ pub enum DamageType {
     Split(Element, Element),
 }
 
-impl DamageType {
-    pub fn calculate_damage_with_resistances(
-        self,
-        damage: &DamageRoll,
-        resistances: &Resistances,
-    ) -> DamageRoll {
-        match self {
-            DamageType::Pure(e) => {
-                damage.clone() * resistances.get(&e).unwrap().damage_multiplier()
-            }
-            DamageType::Hybrid(e1, e2) => {
-                damage.clone()
-                    * max(
-                        resistances.get(&e1).unwrap().damage_multiplier(),
-                        resistances.get(&e2).unwrap().damage_multiplier(),
-                    )
-            }
-            DamageType::Split(e1, e2) => {
-                let half_damage = Ratio::from_integer(damage.result.unwrap()) / 2;
-                let partial_1 = half_damage * resistances.get(&e1).unwrap().damage_multiplier();
-                let partial_2 = half_damage * resistances.get(&e2).unwrap().damage_multiplier();
-
-                // Rounding up is equivalent to making the remainder count as the more effective damage type
-                let total = (partial_1 + partial_2).round();
-                DamageRoll {
-                    roll: damage.roll,
-                    result: Some(total.to_integer()),
-                }
-            }
-        }
-    }
-}
+impl DamageType {}
 
 pub fn roll_damage(mut query: Query<&mut DamageRoll, With<Active>>) {
-    for mut i in query.iter_mut() {
-        i.result = Some(i.roll.roll() as u16);
+    for damage_roll in query.iter_mut() {
+        damage_roll.roll();
     }
 }
 
@@ -132,10 +120,10 @@ pub fn apply_resistances(
     mut damage_query: Query<(&Defender, &DamageType, &mut DamageRoll), With<Active>>,
     resistance_query: Query<&Resistances>,
 ) {
-    for (defender, damage_type, mut damage) in damage_query.iter_mut() {
+    for (defender, damage_type, damage) in damage_query.iter_mut() {
         let resistances = resistance_query.get(**defender).unwrap();
 
-        *damage = damage_type.calculate_damage_with_resistances(&*damage, resistances);
+        damage.apply_resistances(damage_type, resistances);
     }
 }
 
@@ -153,7 +141,7 @@ pub fn apply_damage(
     for (damage, defender) in damage_query.iter() {
         let mut life = life_query.get_mut(**defender).unwrap();
 
-        let damage_dealt = damage.result.unwrap();
+        let damage_dealt = damage.result().unwrap() as u16;
 
         if life.absorption > damage_dealt {
             life.absorption = life.absorption - damage_dealt;

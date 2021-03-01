@@ -43,12 +43,8 @@ pub struct Attack;
 pub struct Attacker(Entity);
 #[derive(Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
 pub struct Defender(Entity);
-#[derive(Clone, Debug, PartialEq, Eq)]
-pub struct AttackRoll {
-    roll: Roll,
-    result: Option<i32>,
-}
-
+#[derive(Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
+pub struct AttackRoll(Roll);
 #[allow(dead_code)]
 #[derive(Copy, Clone, Debug, PartialEq, Eq)]
 pub enum AttackType {
@@ -120,15 +116,15 @@ pub fn get_attack_bonuses(
         let attack_bonus = attack_bonuses.get(*attack_type);
 
         if let Some(bonus) = attack_bonus {
-            attack_roll.roll.modifier = bonus
+            attack_roll.modifier = bonus
         }
     }
 }
 
 /// Rolls the attack
 pub fn roll_attacks(mut query: Query<&mut AttackRoll, With<Active>>) {
-    for mut i in query.iter_mut() {
-        i.result = Some(i.roll.roll());
+    for attack_roll in query.iter_mut() {
+        attack_roll.roll();
     }
 }
 
@@ -174,13 +170,12 @@ pub fn check_attacks(
             continue;
         }
 
-        let final_attack = attack_roll.roll();
-        let natural_roll = final_attack - attack_roll.modifier;
+        attack_roll.roll();
 
-        if final_attack >= defense.unwrap() {
+        if attack_roll.result().unwrap() >= defense.unwrap() {
             commands.insert_one(attacking_entity, Landed);
 
-            if natural_roll as u8 >= **crit_threshold {
+            if attack_roll.natural_roll().unwrap() as u8 >= **crit_threshold {
                 commands.insert_one(attacking_entity, Crit);
             }
         }
