@@ -1,10 +1,10 @@
 # Summary
 
-[Introduction](intro/README.md)
+[Introduction](README.md)
 
 # Rules
-- [The Building Blocks of Play](intro/building-blocks.md)
-- [Collaborative Rulekeeping](intro/collaborative-rulekeeping.md)
+- [The Building Blocks of Play](rules/building-blocks.md)
+- [Collaborative Rulekeeping](rules/collaborative-rulekeeping.md)
 - [Narrative Mechanics](rules/narrative-mechanics/README.md)
   - [Resolve](rules/narrative-mechanics/resolve.md)
   - [Experience](rules/narrative-mechanics/experience.md)
@@ -15,7 +15,7 @@
 - [Skills](rules/skills/README.md)
   - [Making Skill Checks](rules/skills/making-skill-checks.md)
   - [Skill Descriptions](rules/skills/skill-descriptions.md)
-- [Resources and Resting](rules/resources-and-resting/README.md)
+- [Resources and Resting](rules/resources-and-resting.md)
 - [Downtime Activities](rules/downtime-activities.md)
 - [Scenes](rules/scenes/README.md)
   - [Attrition Scenes](rules/scenes/attrition-scenes.md)
