@@ -20,7 +20,7 @@ Banding together in a brilliant rainbow of diversity, these strange creatures li
 
 </div>
 
-### Features {docsify-ignore}
+### Features 
 
 **Strange Mutation:** Select one arms or armor affix that has a gear point total of one and is not prismatic. You gain its benefits at all times.
 

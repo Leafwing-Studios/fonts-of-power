@@ -5,7 +5,7 @@ Each talent is also a 1 gear point affix with the same name, and counts against 
 
 When you create your character, select on skill talent and one combat talent. You must be proficient in the skill corresponding to the skill talent that you select.
 
-## Sections {docsify-ignore}
+## Sections 
 
 - [Skill Talents](character-options/talents/skill-talents.md)
 - [Combat Talents](character-options/talents/combat-talents.md)

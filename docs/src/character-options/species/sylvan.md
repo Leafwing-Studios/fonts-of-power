@@ -35,7 +35,7 @@ Splendidly diverse, sylvan deliberately attempt to create novel forms and functi
 
 </div>
 
-### Features {docsify-ignore}
+### Features 
 
 **Take Root:** At the start of each of your turns, you may gain 4 absorption. If you do, you cannot spend movement until the start of your next turn.
 

@@ -28,7 +28,7 @@ Confronted with the rise of both the thriving cities and the uncontrollable font
 
 </div>
 
-### Features {docsify-ignore}
+### Features 
 
 **Gossamer Wings:** You can fly. While you are not flying, your basic attacks have disadvantage, and all basic attacks against you have advantage.
 

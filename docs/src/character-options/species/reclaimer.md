@@ -29,7 +29,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 </div>
 
-### Features {docsify-ignore}
+### Features 
 
 **Insatiable Curiosity:** You may use the Activate minor action one more time each rest before needing to make a Focus (Arcana) skill check made to avoid essence overload.
 

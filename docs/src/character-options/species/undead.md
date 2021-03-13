@@ -35,7 +35,7 @@ This creates an uneasy tension between the living and undead: once beloved parts
 
 </div>
 
-### Features {docsify-ignore}
+### Features 
 
 **Undying:** You have advantage on all skill checks made to maintain your concentration while on Death’s Door, and may heal normally while at 0 life.
 

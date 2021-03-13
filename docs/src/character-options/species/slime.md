@@ -36,7 +36,7 @@ Their cities are vast and wondrous, composed of bubble-like structures attached 
 
 </div>
 
-### Features {docsify-ignore}
+### Features 
 
 **Formless:** At the end of each of your turns, remove the grappled status from yourself.
 

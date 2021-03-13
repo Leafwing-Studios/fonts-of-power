@@ -54,7 +54,7 @@ Attacks against your Presence defense include a monster roaring trying to scare 
 
 In combat, Presence describes the force backing up your essence as it transforms into tangible effect. Virtually all powers add your Presence to the damage they deal or the absorption that they grant.
 
-## Determining Attributes {docsify-ignore}
+## Determining Attributes 
 
 There are two standard options for assigning Attributes to a new character: array, point buy and randomized. In general, feel free to pick the one you like best on a per character basis as the typical outcomes are roughly equivalent.
 

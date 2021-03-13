@@ -7,7 +7,7 @@ Minor actions are useful for other small things that you might want to do in the
 
 Reactions are used to respond to emergent situations in combat: to strike at an opponent in an opening they leave for you, or to block an attack that they land on you. You may spend reactions at any time an appropriate trigger occurs, taking one of the actions specified in that description. If you have a feature that grants you multiple reactions, you can only spend one per triggering event.
 
-## Core Actions {docsify-ignore}
+## Core Actions 
 Every creature in Fonts of Power can, by default, take the following **core actions.** Affixes and class features often improve these core actions directly, or grant you their benefit after some triggering event. Like with other rules for combat, these apply equally to the player characters and their opponents. The core actions are listed in the following sections.
 * [Movement](rules/combat/acting-in-combat/movement.md)
 * [Major Actions](rules/combat/acting-in-combat/major-actions.md)

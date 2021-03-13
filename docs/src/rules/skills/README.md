@@ -8,7 +8,7 @@ Once you have made a skill check to complete a task in a particular fashion, you
 
 There are 15 skills in _Fonts of Power_, briefly described below. At level 1, each character gains proficiency in 5 skills of their choice, and may gain proficiency in an extra skill or two as a result of their selection of species or class.
 
-## Skill Overview {docsify-ignore}
+## Skill Overview 
 
 - **[Anima](./skill-descriptions.md?id=anima):** The study of monsters, plants and animals. Used to learn about monsters with the [Scan](../combat/acting-in-combat/minor-actions.md?id=scan) minor action and as one of the four [enchanting skills](../downtime-activities.md?id=enchanting-skill-checks) for adding enchantments to gear.
 - **[Arcana](./skill-descriptions.md?id=arcana):** The study of the nature of magic and spells. Used to learn about spells and powers with the [Scan](../combat/acting-in-combat/minor-actions.md?id=scan) minor action, to avoid getting exhaustion with the [Activate](../combat/acting-in-combat/minor-actions.md?id=activate) and as one of the four [enchanting skills](../downtime-activities.md?id=enchanting-skill-checks) for adding enchantments to gear.

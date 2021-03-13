@@ -36,7 +36,7 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 </div>
 
-### Features {docsify-ignore}
+### Features 
 
 **Prismatic Lens:** Whenever you would make an attack that deals elemental damage and do not already have disadvantage on that attack, you may take disadvantage on that attack in order to select a new type of elemental damage for that attack.
 

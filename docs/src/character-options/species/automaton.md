@@ -35,7 +35,7 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 </div>
 
-### Features {docsify-ignore}
+### Features 
 
 **Inexhaustible:** Exhaustion no longer applies a penalty to your attack rolls.
 
