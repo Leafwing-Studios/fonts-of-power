@@ -4,23 +4,29 @@
 
 [summary]: #summary
 
-One paragraph explanation of the feature.
+One paragraph explanation of the feature or design overhaul.
 
 ## Motivation
 
 [motivation]: #motivation
 
-Why are we doing this? What use cases does it support?
+Why are we doing this? What use cases does it support or what problems does it fix?
 
 ## Guide-level explanation
 
 [guide-level-explanation]: #guide-level-explanation
 
-Explain the proposal as if it was already included in the engine and you were teaching it to another Bevy user. That generally means:
+Explain the proposal as if it was already included in the game and you were teaching it to a reasonably-experienced player. That generally means:
+
+For designer RFCs:
 
 - Introducing new named concepts.
-- Explaining the feature, ideally through simple examples of solutions to concrete problems.
-- Explaining how Bevy users should *think* about the feature, and how it should impact the way they use Bevy. It should explain the impact as concretely as possible.
+- Discuss how it relates to other existing systems in the game.
+- Describe the player fantasy that we're trying to hit.
+
+For technical RFCs:
+
+- Explaining how developers should *think* about the feature, and how it should impact the way they use the code base. It should explain the impact as concretely as possible.
 - If applicable, provide sample error messages, deprecation warnings, or migration guidance.
 - If applicable, explain how this feature compares to similar existing features, and in what situations the user would use each one.
 
