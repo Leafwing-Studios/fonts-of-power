@@ -2,7 +2,7 @@
 name: Content Idea
 about: Share your cool idea for the game!
 title: ''
-labels: ''
+labels: content-idea
 assignees: ''
 ---
 

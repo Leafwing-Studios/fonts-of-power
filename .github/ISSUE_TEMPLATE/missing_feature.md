@@ -2,7 +2,7 @@
 name: Missing Feature
 about: Help us keep the tabletop and computer game in sync!
 title: ''
-labels: ''
+labels: missing-feature
 assignees: ''
 ---
 

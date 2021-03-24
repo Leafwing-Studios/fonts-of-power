@@ -2,7 +2,7 @@
 name: Design Issue
 about: Improve or fix a broken design!
 title: ''
-labels: ''
+labels: design
 assignees: ''
 ---
 
