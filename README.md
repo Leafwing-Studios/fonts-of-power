@@ -1,6 +1,8 @@
 <!-- Github repo readme -->
 
-The code behind the official video game for [Fonts of Power](https://rules.fontsofpower.com/#/). You can follow its development in our [Discord server](https://discord.gg/V2KdnquRge).
+The code and rules for [Fonts of Power](https://rules.fontsofpower.com/#/), a tactical TTRPG / video game about exploring magical places. 
+
+You can follow its development in our [Discord server](https://discord.gg/V2KdnquRge)!
 
 # Docs Build Instructions
 1. Install the current version of [mdBook](https://github.com/rust-lang/mdBook)
