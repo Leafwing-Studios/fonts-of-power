@@ -69,6 +69,48 @@ As a result, gear feels both more persistent than other character customizations
 
 ### Guide-level explanation
 
+Most of your character's customization (and power) comes from their character choices, rather than the gear they find or make.
+By selecting **feats**.
+
+You can select any **feat** from your class and species features when you gain one due to levelling up.
+These interact directly with your innate features, while **gear affixes** are simpler complements to your build,
+intended to help you adapt to the situation at hand and work for any class and species.
+
+### Reference-level explanation
+
+1. Combat talents are removed, and replaced with feats.
+2. Skill talents are renamed to **knacks**.
+3. Gear affix point budget is scaled down.
+4. Gain one feat at level 1, and one more every ~4 levels (when your attributes increase).
+5. Feats are class and species specific; you can select from either list.
+6. When you're resurrected as a new species, you must replace all species-specific feats with ones from your new species.
+
+### Drawbacks
+
+1. Another customization system to learn
+2. Requires creation of class / species specific content
+   1. More work
+   2. More space, but see the "effect cards" subproposal below
+   3. Increases barrier to homebrew
+3. Requires significant balancing and design skill to account for possible interactions between feats
+4. Mild analysis paralysis when choosing feats
+5. No more "dead-simple" level-ups
+
+### Open questions
+
+1. Is "knacks" a good name to replace skill talents?
+2. What does the new gear and feat scaling structure look like?
+3. Should we allow sub-species / sub-class specific feats?
+4. Do we want a discovery mechanism for feats as well?
+5. Do we want a capstone-equivalent version of feats?
+6. How does this interact with the "0.5 cost affixes are clunky" problem?
+
+### Future work
+
+Monster scaling will have to be completely rebalanced to account for this.
+
+Tons of new design space is opened up for classes and species design, but more content will need to be created.
+
 ## Sub-proposal: Effect cards
 
 ### Guide-level explanation
@@ -93,7 +135,7 @@ As a result, gear feels both more persistent than other character customizations
 
 ### Future work
 
-## Sub-proposal: Affix costing overhaul
+## Sub-proposal: Flaws and Drawbacks
 
 ### Guide-level explanation
 
