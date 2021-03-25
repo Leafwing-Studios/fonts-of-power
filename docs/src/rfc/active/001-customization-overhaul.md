@@ -104,6 +104,10 @@ intended to help you adapt to the situation at hand and work for any class and s
 4. Do we want a discovery mechanism for feats as well?
 5. Do we want a capstone-equivalent version of feats?
 6. How does this interact with the "0.5 cost affixes are clunky" problem?
+7. Should you be allowed to take character-agnostic features (affixes) instead?
+   1. Old combat talents were great.
+   2. Reopens discovery issue a bit.
+   3. Very useful for certain class fantasies.
 
 ### Future work
 
