@@ -69,6 +69,10 @@ As a result, gear feels both more persistent than other character customizations
 
 ### Guide-level explanation
 
+## Sub-proposal: Effect cards
+
+### Guide-level explanation
+
 ### Reference-level explanation
 
 ### Drawbacks
@@ -78,6 +82,18 @@ As a result, gear feels both more persistent than other character customizations
 ### Future work
 
 ## Sub-proposal: Limited affix pools
+
+### Guide-level explanation
+
+### Reference-level explanation
+
+### Drawbacks
+
+### Open questions
+
+### Future work
+
+## Sub-proposal: Affix costing overhaul
 
 ### Guide-level explanation
 
