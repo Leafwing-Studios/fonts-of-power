@@ -104,7 +104,6 @@ intended to help you adapt to the situation at hand and work for any class and s
 ### Open questions
 
 1. Do we want a gating mechanism for feats as well?
-2. Do we want a capstone-equivalent version of feats?
 
 ### Future work
 
@@ -112,7 +111,48 @@ Monster scaling will have to be completely rebalanced to account for this.
 
 Tons of new design space is opened up for classes and species design, but more content will need to be created.
 
-## Sub-proposal: Effect cards
+## Sub-proposal: Capstone-like customization
+
+### Guide-level explanation
+
+Powerful magical artifacts are an important fantasy, driving valuable plots that fit well with FoP's dungeon-delving core.
+They give players something to strive after, and something to dump their resources into.
+
+Extremely powerful and unique gear effects also open up very interesting gameplay effects.
+This is particularly valuable for monster building.
+
+Class capstones serve a valuable role already: clearly defining the class fantasy and giving players something to work towards.
+These should stay as is.
+
+### Reference-level explanation
+
+1. Rename prismatic affixes to **signature affixes**.
+2. At level 17+, you can use one signature affix on each of arms and armor.
+   1. These take up their own slot: do not compete with other affixes.
+3. Signature affixes cost lots of essence crystals to craft.
+4. Signature affixes must be discovered.
+   1. Recipes are destroyed once used.
+
+### Drawbacks
+
+1. Signature affixes are hard to balance.
+2. Signature affixes result in very large power spikes.
+   1. This power is not evenly spread out across the party.
+
+### Open questions
+
+1. Do we want a feat-analogue for signature affixes?
+   1. Sixfold says yes (they're super cool), Alice says no (capstones already exist).
+   2. Very unclear where this goes.
+   3. Why not just allow class / species specific signature affixes? Do homebrew-only to start.
+2. How exactly should signature affixes be discovered?
+3. Are we sure about level gating this? Perhaps they should have a different cost.
+
+### Future work
+
+Monsters should have access to signature affixes.
+
+## Sub-proposal: Feature cards
 
 ### Guide-level explanation
 
