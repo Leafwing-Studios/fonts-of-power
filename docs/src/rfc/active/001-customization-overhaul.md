@@ -35,7 +35,7 @@ Quite a few current customization systems exist. Our current analysis of these s
    3. Rolled attributes are a great character seed
 8. Ideals
    1. Fantastic flavor hook for both players and NPCs
-   2. Simple-ish mechanical integration with Deals and Ideals
+   2. Fairly simple mechanical integration with Deals and Ideals
 9. Gear
    1. Overwhelming complexity
       1. Largely due to interactions and number of options
@@ -78,10 +78,15 @@ intended to help you adapt to the situation at hand and work for any class and s
 ### Reference-level explanation
 
 1. Combat talents are removed, and replaced with feats.
-2. Skill talents are renamed to **knacks**.
+2. Skill talents are renamed to **skill focus**. These are moved to be attached to the specific skill.
 3. Gear affix point budget is scaled down.
+   1. Equal to proficiency bonus + 2.
+   2. Double the cost of all affixes, solving the 0.5 cost affixes as well.
 4. Gain one feat at level 1, and one more every ~4 levels (when your attributes increase).
-5. Feats are class and species specific; you can select from either list.
+5. When you gain a feat, select from one of the following lists:
+   1. A feat associated with your class or subclass.
+   2. A feat associated with your species or subspecies.
+   3. An affix with a gear point cost of 2 that you know.
 6. When you're resurrected as a new species, you must replace all species-specific feats with ones from your new species.
 
 ### Drawbacks
@@ -91,22 +96,15 @@ intended to help you adapt to the situation at hand and work for any class and s
    1. More work
    2. More space, but see the "effect cards" subproposal below
    3. Increases barrier to homebrew
+      1. Mitigated by generic feat access through gear affixes
 3. Requires significant balancing and design skill to account for possible interactions between feats
 4. Mild analysis paralysis when choosing feats
 5. No more "dead-simple" level-ups
 
 ### Open questions
 
-1. Is "knacks" a good name to replace skill talents?
-2. What does the new gear and feat scaling structure look like?
-3. Should we allow sub-species / sub-class specific feats?
-4. Do we want a discovery mechanism for feats as well?
-5. Do we want a capstone-equivalent version of feats?
-6. How does this interact with the "0.5 cost affixes are clunky" problem?
-7. Should you be allowed to take character-agnostic features (affixes) instead?
-   1. Old combat talents were great.
-   2. Reopens discovery issue a bit.
-   3. Very useful for certain class fantasies.
+1. Do we want a gating mechanism for feats as well?
+2. Do we want a capstone-equivalent version of feats?
 
 ### Future work
 
