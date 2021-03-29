@@ -44,7 +44,7 @@ Quite a few current customization systems exist. Our current analysis of these s
       4. Swapping gear can completely change playstyles
    2. Character identity weakening: abilities are defined by the gear they have, not who they are
       1. Swapping gear makes your character feel very different, reducing willingness to experiment due to flavor concerns
-      3. Free selection of affixes really weakens the experience of discovering who your character is
+      2. Free selection of affixes really weakens the experience of discovering who your character is
    3. Balancing difficulties
       1. Some affixes are very challenging to balance between different classes
       2. Negative and 0 cost affixes are prone to munchkin-like abuse and can lead to very high complexity
