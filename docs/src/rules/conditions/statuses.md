@@ -59,7 +59,8 @@ Falling damage is determined on a per-scene basis due to **vantages** present in
 
 You cannot spend movement.
 
-Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions. This is rounded down before being applied evenly to each creature.
+Creatures who are grappling each other are treated as a single entity for the purpose of forced movement.
+The efficacy of single-target forced movement effects is halved.
 
 You cannot make Grapple attacks or use the Dodge reaction.
 
@@ -67,7 +68,8 @@ You cannot make Grapple attacks or use the Dodge reaction.
 
 This status (and the grappled status of the creature you are grappling) ends as soon as you are no longer adjacent to the creature you are grappling.
 
-Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions. This is rounded down before being applied evenly to each creature.
+Creatures who are grappling each other are treated as a single entity for the purpose of forced movement.
+The efficacy of single-target forced movement effects is halved.
 
 If you are flying, creatures that you are grappling are also flying.
 

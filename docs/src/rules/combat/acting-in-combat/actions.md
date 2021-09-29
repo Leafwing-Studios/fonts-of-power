@@ -4,7 +4,7 @@
 
 Move up to two tiles, or one tile over difficult terrain.
 
-**You may not pass through tiles occupied by enemy creatures** unless they are prone. 
+**You may not pass through tiles occupied by enemy creatures** unless they are prone.
 
 **You may not end your movement in a tile occupied by another creature** unless they or you take up zero tiles.
 
