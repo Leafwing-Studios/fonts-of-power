@@ -54,7 +54,9 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |   5   | I’ve removed what I can of my original capabilities.           |
 |   6   | I hate that I was made to hurt people.                         |
 
-**Lock-On:** You gain access to the Aim minor action. When you use this action, select a creature. You gain advantage on all single-target attacks made against that creature until the end of your next turn.
+**Lock-On:** You gain access to the Aim action.
+
+1 AP: Select a creature. You gain advantage on all single-target attacks made against that creature until the end of your next turn.
 
 **Optimized:** You are proficient in Athletics.
 
@@ -90,6 +92,6 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |   5   | Secretarial work.                                   |
 |   6   | Politics.                                           |
 
-**Lightweight:** Your movement speed is increased by 2 tiles.
+**Steady Hands:** You have advantage on skill checks made as part of the Treat action.
 
 **Tactful:** You are proficient in Charm.

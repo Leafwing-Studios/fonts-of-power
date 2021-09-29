@@ -19,8 +19,8 @@ Various effects, from glue to oil slicks to pools of acid to thorny underbrush, 
 
 The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar. While on difficult terrain:
 
-- lateral movement costs are doubled
-- these tiles count as 2 tiles for the purposes of forced movement (other than teleportation)
+- Your movement actions move you one less tile than usual. This does not stack with the effects of being prone.
+- Forced movement over these tiles (other than teleportation) moves the target one less tile.
 
 ## Visibility and Cover
 

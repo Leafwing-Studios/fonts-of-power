@@ -40,11 +40,10 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 **Prismatic Lens:** Whenever you would make an attack that deals elemental damage and do not already have disadvantage on that attack, you may take disadvantage on that attack in order to select a new type of elemental damage for that attack.
 
-**Crystalline Structure:**  Crystalline's basic defense is 12 + Prowess + Agility, but their movement speed is 4 tiles.
+**Crystalline Harvest:** Whenever you or a party member uses the Harvest downtime activity, you may choose to gain twice as many essence crystals as usual by gathering the essence crystals from your own body.
+If you do, gain one stack of exhaustion.
 
-**Forbidden Snack:** As a minor action, you may break off a number of essence crystals equal to your proficiency bonus from your body, suffering 1 stack of exhaustion for doing so. These are very unstable however, and must be used before the end of your next rest.
-
-You may not use the Essence Tap minor action. However, consuming one of your own essence crystals with the Activate minor action to restore essence does not risk essence overload.
+**Forbidden Snack:** You cannot use the Recover action. Consuming essence crystals to restore essence with the Activate action does not risk essence overload.
 
 **Crystalline Biology:** You do not need to breathe, eat or drink, and do not die of old age, but slowly shrink into nothingness if you are cut off from the world’s natural supply of magical energy, losing 1 tile in size every month. Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan minor actions in combat.
 
@@ -59,7 +58,7 @@ You may not use the Essence Tap minor action. However, consuming one of your own
 |   5   | I refuse to conform.                                                    |
 |   6   | It’s really just too much work to cut it into facets.                   |
 
-**Raw Power:** Whenever you land a critical hit, refund the essence spent on that attack.
+**Raw Power:** Whenever you land a critical hit as part of an offensive action, refund the essence spent on that action.
 
 **Regrowth:** Remove an additional stack of exhaustion when you complete a rest.
 
@@ -76,9 +75,7 @@ You may not use the Essence Tap minor action. However, consuming one of your own
 |   5   | I enjoy perfecting the art.                     |
 |   6   | I value the feeling of control it gives me.     |
 
-**Resonance:** After you take elemental damage, gain resistance to that elemental damage type. You can only gain resistance to one elemental damage type at once in this way.
-
-**Carefully Hewn:** Your basic defense is 11 + Prowess + Agility instead, but your movement speed is 5 tiles.
+**Resonance:** After you take elemental damage, gain resistance to that elemental damage type. Lose any resistance previously gained by this effect.
 
 **Perfectionist:** You are proficient in Craftsmanship.
 
@@ -93,8 +90,8 @@ You may not use the Essence Tap minor action. However, consuming one of your own
 |   5   | I long for acceptance, and hate that I must be different.          |
 |   6   | I want to change Crystalline society to fix it.                    |
 
-**Stony Patience:** Whenever you take the Defend major action, you have advantage on all attacks made before the end of your next turn.
+**Stony Patience:** Whenever you end your turn without having taken an offensive action, gain advantage on all attacks made next turn.
 
-**Hidden Splendor:** You ignore any damage resistance when dealing elemental damage. This feature replaces your Prismatic Lens racial feature.
+**Hidden Splendor:** You ignore any damage resistance when dealing elemental damage. This feature replaces your Prismatic Lens feature granted by the Crystalline species.
 
 **Self Reflection:** You are proficient in Insight.

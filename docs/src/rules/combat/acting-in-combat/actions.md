@@ -4,11 +4,19 @@
 
 ### Move (1 AP)
 
-Move up to two tiles, or one tile over difficult terrain.
+Move up to two tiles.
 
 **You may not pass through tiles occupied by enemy creatures** unless they are prone.
 
 **You may not end your movement in a tile occupied by another creature** unless they or you take up zero tiles.
+
+### Lie Down (0 AP)
+
+Become prone.
+
+### Shift (1 AP)
+
+Move up to one tile. This movement does not provoke attacks of opportunity.
 
 ### Stand Up (1 AP)
 
@@ -30,6 +38,10 @@ Choose a creature you are grappling, then either:
 - force them to stand up, then move them up to one tile.
 
 If they leave your zone of control, you immediately stop grappling them.
+
+### Climb (1 AP)
+
+Move up or down one height tier.
 
 ## Offense
 
@@ -75,6 +87,8 @@ Gain 6 + Presence absorption
 ### Ward (1 AP)
 
 The first time before the start of your next turn that you would gain any stacks of an ailment or affliction, ignore all ailments and afflictions that would be applied by that effect.
+
+If you use this action multiple times in a single turn, you prevent a second (or third or..) set of ailments or afflictions from being applied to you.
 
 ### Block (1 AP, reaction)
 

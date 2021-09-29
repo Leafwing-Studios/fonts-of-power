@@ -103,9 +103,10 @@ Hiding places are always veiled for you.
 
 ## Prone
 
-You have disadvantage on basic attacks. Melee basic attacks have advantage against you, and ranged basic attacks suffer disadvantage. Double all lateral movement costs. Hostile creatures can enter your tile while you are prone, but may not end their on your tile.
+You have disadvantage on basic attacks. Melee basic attacks have advantage against you, and ranged basic attacks suffer disadvantage.
 
-You may stand up from prone by spending movement equal to half your movement speed. You may voluntarily go prone by spending 1 tile of movement.
+Your movement actions move you one less tile than usual.
+This does not stack with the effect of difficult terrain.
 
 ## Unconscious
 
