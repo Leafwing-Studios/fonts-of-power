@@ -53,20 +53,18 @@ By default, the damage dealt by basic attacks is 1d8 + Prowess.
 
 Make a melee special attack against Prowess against a creature within your zone of control. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
 
-### Attack of Opportunity (Variable cost, reaction)
+### Attack of Opportunity (Variable AP, reaction)
 
-Strike suddenly, taking advantage of an opening in your opponent’s defenses. You may spend your reaction to make an attack of opportunity whenever an enemy in your zone of control **provokes** an attack of opportunity. By default, creatures provoke an attack of opportunity from enemies whose zone of control they are in whenever they:
+Strike suddenly, taking advantage of an opening in your opponent’s defenses.
 
-- Lose life (except due to one of your actions)
-- Spend movement to both enter and leave a hostile creature's zone of control in a single turn. This occurs regardless of the order.
+Attacks of opportunity are provoked whenever:
 
-Unlike other reactions, **you may not use your reaction to make an attack of opportunity during your turn.** If you would like to follow up on your own attacks, pick up the [Ferocious](character-options/talents/combat-talents?id=ferocious) combat talent.
+- an enemy in your zone of control loses life due to an effect other than one of your actions.
+- an enemy enters and leaves your zone of control in the same turn.
 
-You may use any attack to make an attack of opportunity, so long as you meet the attack’s other requirements, such as being within range.
-
-Attacks of opportunity always occur before the triggering action is complete. For example, if an enemy attempts to run past you, you could make a Grapple attack against them, holding them in place just before they leave your zone of control.
-
-Attacks which hit more than one creature can be used as attacks of opportunity so long as they meet the other requirements. However, you have disadvantage on any attack rolls made in this way against creatures other than the one who provoked the attack of opportunity.
+When you make an attack of opportunity, you may immediately use a single offensive action targeting them.
+If this action is a multitarget attack, you have disadvantage against creatures who did not provoke an attack of opportunity.
+You must pay its AP and essence costs and respect any other restrictions (such as range) as normal.
 
 ## Defense
 
