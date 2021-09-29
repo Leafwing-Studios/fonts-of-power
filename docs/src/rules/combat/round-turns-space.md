@@ -30,6 +30,8 @@ Whenever you **enter and leave an opponent’s zone of control in the same turn,
 
 You can improve your ability to control space with various arms affixes, such as:
 
+FIXME: revise.
+
 - _reach:_ Your zone of control is increased by 1 tile.
 - _proactive:_ Enemies provoke an attack of opportunity whenever they leave your zone of control.
 - _reactive:_ Enemies provoke an attack of opportunity whenever they enter your zone of control.
