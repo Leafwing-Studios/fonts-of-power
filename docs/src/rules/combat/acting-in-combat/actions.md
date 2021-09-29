@@ -122,6 +122,10 @@ Then, make a Focus (Endurance) skill check. Gain 3 stacks of exhaustion, reduced
 
 Interact with an object in your environment. You might pull a lever, quickly slash a rope, kick down a door, throw a torch or so on.
 
+### Recover (1 AP)
+
+Regain 1 essence.
+
 ### Scan (1 AP)
 
 Make an Expertise (X) skill check where X is one of (Anima, Arcana, Fontcraft, Tinkering), based on the monster.
