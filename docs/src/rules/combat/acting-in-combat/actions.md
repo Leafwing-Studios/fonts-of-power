@@ -136,7 +136,7 @@ Interact with an object in your environment. You might pull a lever, quickly sla
 
 ### Recover (1 AP)
 
-Regain 1 essence.
+Make a Focus (Endurance) skill check. Restore 1 essence for every 10 points of the skill check result.
 
 ### Scan (1 AP)
 

@@ -1,6 +1,6 @@
 "Level","Feature Name","Details","Powers Known"
-"1","Weave Magic","2 AP to cast, 1 essence to sustain. Any number can be sustained.","4"
-"1","Thread Twisting","1 AP to swap target of pattern.","4"
+"1","Weave Magic","2 AP to cast, 2 essence to sustain. Any number can be sustained.","4"
+"1","Thread Twisting","1 essence to swap target of pattern.","4"
 "1","Warded by the Weave","Gain 2 absorption when you cast or sustain a pattern.","4"
 "2","Sense the Weave","You can sense the presence or absence of magic on any item, creature or object that you can clearly see. Learning the nature of this magic requires a successful Expertise (Arcana) skill check.","5"
 "3","Attribute Improvement","Increase one Attribute of your choice by 1.","5"
