@@ -16,23 +16,23 @@
 
 <div class="side-panel">
 
-| Roll | What does weaving reality feel like to you?   |
-| :--: | --------------------------------------------- |
-|  1   | It is joyful and playful.                     |
-|  2   | It feels somehow sacrosanct.                  |
-|  3   | It is disorienting and strange, unmooring me. |
-|  4   | It feels like art of the highest kind.        |
-|  5   | It gives me the rush of unimaginable power.   |
-|  6   | It is careful and thoughtful.                 |
+| Roll  | What does weaving reality feel like to you?   |
+| :---: | --------------------------------------------- |
+|   1   | It is joyful and playful.                     |
+|   2   | It feels somehow sacrosanct.                  |
+|   3   | It is disorienting and strange, unmooring me. |
+|   4   | It feels like art of the highest kind.        |
+|   5   | It gives me the rush of unimaginable power.   |
+|   6   | It is careful and thoughtful.                 |
 
-| Roll | What role do you want to play in society?         |
-| :--: | ------------------------------------------------- |
-|  1   | A puppet master that acts from behind the scenes. |
-|  2   | A famed and feared wielder of magic.              |
-|  3   | A valuable weapon or tool to be fought over.      |
-|  4   | A leader guiding people towards a better future.  |
-|  5   | A mysterious wanderer.                            |
-|  6   | A reclusive master of my craft.                   |
+| Roll  | What role do you want to play in society?         |
+| :---: | ------------------------------------------------- |
+|   1   | A puppet master that acts from behind the scenes. |
+|   2   | A famed and feared wielder of magic.              |
+|   3   | A valuable weapon or tool to be fought over.      |
+|   4   | A leader guiding people towards a better future.  |
+|   5   | A mysterious wanderer.                            |
+|   6   | A reclusive master of my craft.                   |
 
 </div>
 
@@ -122,7 +122,7 @@ At level 2, the intense flow of magical energy runs through you, knitting your w
 
 At level 3, you wrap the threads of magic around you, distorting the fabric of space to protect you from blows. After you use the Block reaction, until the end of the current turn, after you lose life, gain that much absorption.
 
-## Thread Twisting.
+## Thread Twisting
 
 Also at 3rd level, you begin to master the true deftness required to work with the Weave. You gain access to the Twist minor action. When you use this action, choose one:
 
