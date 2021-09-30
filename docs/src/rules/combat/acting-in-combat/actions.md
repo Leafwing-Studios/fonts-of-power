@@ -75,7 +75,7 @@ Attacks of opportunity are provoked whenever:
 - an enemy enters and leaves your zone of control in the same turn.
 
 When you make an attack of opportunity, you may immediately use a single offensive action targeting them.
-If this action is a multitarget attack, you have disadvantage against creatures who did not provoke an attack of opportunity.
+You have advantage on single target attacks made as part of an attack of opportunity.
 You must pay its AP and essence costs and respect any other restrictions (such as range) as normal.
 
 ## Defense
@@ -90,13 +90,13 @@ The first time before the start of your next turn that you would gain any stacks
 
 If you use this action multiple times in a single turn, you prevent a second (or third or..) set of ailments or afflictions from being applied to you.
 
-### Block (1 AP, reaction)
+### Block (2 AP, reaction)
 
 Whenever you would be hit by an attack (after seeing the initial results of the attack), you may use the Block reaction. If you do, make a Prowess (Endurance) skill check. If your skill check result is at least 10, you **block** all attacks made against you until the end of the current turn. Halve the efficacy of blocked attacks made against you.
 
 If your skill check result is at least 20, gain one AP.
 
-### Dodge (1 AP, reaction)
+### Dodge (2 AP, reaction)
 
 Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the attack roll that hit you, **dodge** the attack. Attacks that you dodge are treated as if the attacker missed.
 
