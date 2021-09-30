@@ -1,8 +1,8 @@
 "Level","Feature Name","Details","Powers Known"
 "1","Weapon Bond","Cannot lose weapon. Choose subclass.",
-"1","Momentum","The first time each turn that you hit with an attack, you may spend 1 essence to restore the AP spent.","3"
+"1","Rhythm","The first time each turn that you hit with an attack, you may spend 1 essence to restore the AP spent.","3"
 "1","Counterattacks","0 essence triggered attacks.","3"
-"1","Rhythm","After you hit with an attack, gain Rhythm. While you have Rhythm, you have advantage on all attacks. After you miss an attack, lose Rhythm.","3"
+"1","Momentum","After you hit with an attack, gain Momentum. While you have Momentum, you have advantage on all attacks. After you miss an attack, lose Momentum and gain 1 essence.","3"
 "2","Skill Memory","After you make a skill check, you may make a difficulty 15 Presence (Charm) skill check to convince them to guide you. On a success, you may treat your result as if you’d rolled a 15. After you fail the Presence (Charm) skill check to use this ability you cannot use it again until you complete a rest.","4"
 "3","Attribute Improvement","Increase one Attribute of your choice by 1.","4"
 "3","Feat","Gain a new feat.","4"
