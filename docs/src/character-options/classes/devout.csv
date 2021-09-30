@@ -1,6 +1,6 @@
 Level,Feature Name,Details,Powers Known
-1,Prayer,"2 AP, 0 essence spell. Favor increases by 1 for each one you use.",4
-1,Miracle,"3 AP. Chance to cast sustained miracle, ends when concentration broken. Spend essence to improve odds.",4
+1,Prayer,"2 AP: 0 essence spell. Favor increases by 1 for each one you use.",4
+1,Miracle,"3 AP: Chance to cast sustained miracle, ends when concentration broken. Spend essence to improve odds.",4
 1,Devotion,Choose 3 domains. Choose miracle mechanics.,4
 1,Sanctity,Advantage on skill checks to maintain concentration.,
 1,Rebuke,"After a creature uses an offensive action against you, you may spend 1 AP to make a ranged attack against Presence against them. If you hit, apply one stack of pacified.",4
