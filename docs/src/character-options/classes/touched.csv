@@ -1,16 +1,16 @@
-Level,Feature Name,Details,Powers Known
-1,Companion,2 AP 0 essence powers.,3
-1,Unison,"After you spend AP to make an attack, may pay 1 essence to make an attack from the same range and opposite origin category.",3
-1,Punctuated Equilibrium,"After you hit a creature with an attack, you may shift once. Resolves before Companion attack.",3
-2,Deviance,Choose an Exploration feat.,4
-3,Attribute Improvement,Increase one Attribute of your choice by 1.,4
-3,Feat,Gain a new feat.,4
-4,Counterpoint,"Followup attack may be from opposite range category. If you do, gain advantage on that attack.",4
-5,Deviance,Choose an Exploration feat.,5
-6,Attribute Improvement,Increase one Attribute of your choice by 1.,5
-6,Feat,Gain a new feat.,5
-7,Balance of Power,"Start of turn, can choose companion, host or neither. Chosen has advantage on all attacks, other has disadvantage.",5
-8,Deviance,Choose an Exploration feat.,6
-9,Attribute Improvement,Increase one Attribute of your choice by 1.,6
-9,Feat,Gain a new feat.,6
-10,Perfect Imbalance,See archived class for details.,7
+"Level","Feature Name","Details","Powers Known"
+"1","Companion","2 AP 0 essence powers.","3"
+"1","Unison","After you spend AP to make an attack, may pay 1 essence to make an attack from the same range and opposite origin category.","3"
+"1","Punctuated Equilibrium","After you hit a creature with an attack, you may shift once. Resolves before Companion attack.","3"
+"2","Deviance","Choose an Exploration feat.","4"
+"3","Attribute Improvement","Increase one Attribute of your choice by 1.","4"
+"3","Feat","Gain a new feat.","4"
+"4","Counterpoint","Followup attack may be from opposite range category. If you do, gain advantage on that attack.","4"
+"5","Deviance","Choose an Exploration feat.","5"
+"6","Attribute Improvement","Increase one Attribute of your choice by 1.","5"
+"6","Feat","Gain a new feat.","5"
+"7","Balance of Power","Start of turn, can choose companion, host or neither. Chosen has advantage on all attacks, other has disadvantage.","5"
+"8","Deviance","Choose an Exploration feat.","6"
+"9","Attribute Improvement","Increase one Attribute of your choice by 1.","6"
+"9","Feat","Gain a new feat.","6"
+"10","Perfect Imbalance","See archived class for details.","7"

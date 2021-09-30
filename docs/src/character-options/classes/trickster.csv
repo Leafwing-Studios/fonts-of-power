@@ -1,16 +1,16 @@
-Level,Feature Name,Details,Powers Known
-1,Just Lucky,"After you make an attack or damage roll (and see the immediate results), you may spend one essence to reroll the results. You must use the new results unless you use this power again. ",3
-1,Winning Streak,Damage dice explode.,3
-1,Trickery,0 essence 1 AP tricks. See archived rules.,3
-2,Roll the Dice,"When you make a skill check, but before you roll, you may choose to instead attempt to change the attribute used for the skill. When you do so, you are temporarily treated as if you are proficient in the skill. Roll a d6.",4
-3,Attribute Improvement,Increase one Attribute of your choice by 1.,4
-3,Feat,Gain a new feat.,4
-4,Vanish,"Whenever you use the Hide minor action, you may become invisible until the start of your next turn. The invisibility breaks immediately after making an attack.",4
-5,Fast Talker,"Once per rest, after you fail a Presence skill check, you may immediately attempt the same skill check again, ignoring the first outcome.",5
-6,Attribute Improvement,Increase one Attribute of your choice by 1.,5
-6,Feat,Gain a new feat.,5
-7,Dirty Tricks,1 AP at the start of any other creatures' turn to immediately detonate a trick.,5
-8,Push Your Luck,"After you make a skill check and see the results, you may choose to reroll it. You must use the new result.",6
-9,Attribute Improvement,Increase one Attribute of your choice by 1.,6
-9,Feat,Gain a new feat.,6
-10,Double or Nothing,"Whenever you roll a 1 while making an attack roll or skill check, lose 5 essence. Whenever you roll a 20 while making an attack roll or skill check, gain 5 essence.",7
+"Level","Feature Name","Details","Powers Known"
+"1","Just Lucky","After you make an attack or damage roll (and see the immediate results), you may spend one essence to reroll the results. You must use the new results unless you use this power again. ","3"
+"1","Winning Streak","Damage dice explode.","3"
+"1","Trickery","0 essence 1 AP tricks. See archived rules.","3"
+"2","Roll the Dice","When you make a skill check, but before you roll, you may choose to instead attempt to change the attribute used for the skill. When you do so, you are temporarily treated as if you are proficient in the skill. Roll a d6.","4"
+"3","Attribute Improvement","Increase one Attribute of your choice by 1.","4"
+"3","Feat","Gain a new feat.","4"
+"4","Vanish","Whenever you use the Hide minor action, you may become invisible until the start of your next turn. The invisibility breaks immediately after making an attack.","4"
+"5","Fast Talker","Once per rest, after you fail a Presence skill check, you may immediately attempt the same skill check again, ignoring the first outcome.","5"
+"6","Attribute Improvement","Increase one Attribute of your choice by 1.","5"
+"6","Feat","Gain a new feat.","5"
+"7","Dirty Tricks","1 AP at the start of any other creatures' turn to immediately detonate a trick.","5"
+"8","Push Your Luck","After you make a skill check and see the results, you may choose to reroll it. You must use the new result.","6"
+"9","Attribute Improvement","Increase one Attribute of your choice by 1.","6"
+"9","Feat","Gain a new feat.","6"
+"10","Double or Nothing","Whenever you roll a 1 while making an attack roll or skill check, lose 5 essence. Whenever you roll a 20 while making an attack roll or skill check, gain 5 essence.","7"
