@@ -17,10 +17,13 @@ Attacks that you make due to tile effects that you created triggering do not end
 
 Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. Tile effects like these are classified as **ground effects** and as you might expect, creatures that are flying or aloft ignore ground effects.
 
-The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar. While on difficult terrain:
+The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar.
+While on difficult terrain:
 
 - Your movement actions move you one less tile than usual. This does not stack with the effects of being prone.
-- Forced movement over these tiles (other than teleportation) moves the target one less tile.
+- Forced movement over these tiles moves the target one less tile, to a minimum of one tile.
+
+If the path taken by any movement would cross over difficult terrain, the total distance that can be travelled is reduced by one tile.
 
 ## Visibility and Cover
 
