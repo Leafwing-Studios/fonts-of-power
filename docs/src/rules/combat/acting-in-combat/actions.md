@@ -132,22 +132,26 @@ Then, make a Focus (Endurance) skill check. Gain 3 stacks of exhaustion, reduced
 
 ### Hide (1 AP)
 
-If your tile is a **hiding spot**, make a difficulty 10 Agility(Stealth) skill check. If you succeed, gain the [hidden](../../conditions/statuses.md#hidden) status.
+If your tile is a **hiding spot**, make a difficulty 10 Agility (Stealth) skill check. If you succeed, gain the [hidden](../../conditions/statuses.md#hidden) status.
 
 A tile is a hiding spot if at least two of the following conditions are true:
 
 - it is lightly shrouded
 - it is adjacent to any opaque cover
 - it is in dim light
+- if you are prone
 
 Or, if at least one of the following conditions are true:
 
 - it is heavily shrouded
 - it is in darkness
-- you are out of the line of sight or more than 12 tiles away from all enemy creatures
+- all enemy creatures are either:
+  - out of the line of sight
+  - more than 12 tiles away
+  - suffering from the blinded ailment
 - you are invisible
 
-You can lose the hidden status when:
+You lose the hidden status when:
 
 - another creature successfully reveals you with the Spot action
 - you end your turn in a tile that is not an eligible hiding spot (see the Hide action)
