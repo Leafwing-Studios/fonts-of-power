@@ -31,7 +31,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 ### Features 
 
-**Insatiable Curiosity:** You may use the Activate minor action one more time each rest before needing to make a Focus (Arcana) skill check made to avoid essence overload.
+**Insatiable Curiosity:** You may use the Activate action one more time each rest before needing to make a Focus (Arcana) skill check made to avoid essence overload.
 
 **Scavenger:** You have advantage on all skill checks made during the Devise and Disenchant downtime activities.
 
@@ -61,7 +61,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 | 5    | The relationships between the elements.      |
 | 6    | The means by which souls produce essence.    |
 
-**Esteemed Regalia:** At the start of each of your turns, make a difficulty 10 Focus (Arcana) skill check. If you succeed, remove one stack of a ailment of your choice from yourself.
+**Esteemed Regalia:** When you use the Ward action, gain its benefits a second time.
 
 **Lore Seeker:** You are proficient in Arcana.
 

@@ -53,7 +53,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |   5   | A scaled lizard.                         |
 |   6   | A great beast.                           |
 
-**Harden:** Whenever you use the Defend major action, gain 4 absorption.
+**Harden:** Whenever you use the Defend action, gain 4 additional absorption.
 
 **Tough:** You are proficient in Endurance.
 
@@ -68,9 +68,9 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |   5   | A cat.                                   |
 |   6   | A mountain goat.                         |
 
-**Climbing:** You can climb walls and ceilings without needing to make an Athletics skill check. You only need to spend ¼ of your movement to change height tiers.
+**Climbing:** You can climb walls and ceilings without needing to make an Athletics skill check. You can climb two height tiers with a single Climb action.
 
-**Rebound:** You may stand from prone by spending only 1 tile of movement. You have resistance to physical damage taken due to falling.
+**Rebound:** When you use the Stand Up action, you may move up to two tiles, rather than one. You have resistance to physical damage taken due to falling.
 
 ## Flyer
 
@@ -83,7 +83,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |   5   | An owl.                                  |
 |   6   | A bird of prey.                          |
 
-**Born to Fly:** You can fly. It costs you twice as much movement as normal to move while not flying, and you have disadvantage on all attacks while not flying.
+**Born to Fly:** You can fly. While you are not flying, your Move action only moves you one tile and you have disadvantage on all attacks.
 
 **Keen-Eyed:** You are proficient in Perception.
 
@@ -98,9 +98,9 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |   5   | A toad.                                  |
 |   6   | A bird of prey.                          |
 
-**Carry Off:** You have advantage on skill checks made to maintain a grapple. When you spend movement to move yourself while you have another creature grappled, you may apply the same amount of forced movement to them in the same direction.
+**Carry Off:** You have advantage on skill checks made to maintain a grapple. When you move, you may apply the same amount of forced movement to them in the same direction.
 
-**What Big Teeth You Have:** You have advantage on Charm skill checks made to intimidate creatures.
+**What Big Teeth You Have:** You have advantage on Charm skill checks made to intimidate others.
 
 ## Prey
 
@@ -113,7 +113,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |   5   | A farm animal.                           |
 |   6   | A house pet.                             |
 
-**Sprint:** When you take the Dash minor action, gain extra movement equal to your base movement speed, rather than half of it.
+**Sprint:** When you take the Move action for the second time in a turn, you may immediately take it again without paying its AP cost.
 
 **Scent:** You can detect nearby creatures by scent using a Focus (Perception) check. You can detect all creatures within a number of tiles equal to your skill check result this way, unless they are behind a sealed door or wall. If you have smelled the creature (or the creature’s clothing) before, you can identify it by smell.
 
@@ -128,6 +128,8 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |   5   | A primate.                               |
 |   6   | A pack hunter.                           |
 
-**One for All:** Gain access to the **One for All** reaction. Whenever a creature within your zone of control is targeted by a basic attack, you may use the One for All reaction to inflict disadvantage on that attack as if you were threatening that creature.
+**One for All:** Gain access to the **One for All** action.
+
+1 AP, reaction: Whenever a creature within your zone of control is targeted by a basic attack, you may use the One for All reaction to inflict disadvantage on that attack.
 
 **All for One:** You have advantage on any skill check made to help with another creature’s skill check.

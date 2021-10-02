@@ -12,14 +12,6 @@ While aloft:
 - You cannot spend movement to move laterally.
 - At the end of each of your turns, you may shift once.
 
-## Banished
-
-You are sent to a strange, alternate plane of existence. While banished, you can only interact with other banished creatures. Tile effects created by banished creatures only affect other banished creatures. Creatures who are not banished can occupy and move through the same tile as you and vice versa.
-
-Other creatures may use the Treat minor action (or other effects which remove ailments) to remove the banished ailment, even if they are not themselves banished.
-
-When this ailment ends, reappear in the nearest empty tile. You can still perceive things normally in both worlds while banished, and you can still be seen by creatures in the normal world.
-
 ## Blinded
 
 You have disadvantage on all basic attacks and all basic attacks against you have advantage.
@@ -32,19 +24,19 @@ The efficacy of your attacks is halved.
 
 ## Chilled
 
-You lose your minor action each turn, but like normal may spend your major action to take a minor action if you choose. Double all lateral movement costs.
+The AP cost of all actions are increased by one when it is not your turn.
 
 ## Crazed
 
 While suffering from the crazed ailment:
 
-- Whenever you would make an attack, the target is chosen randomly from those within range of that attack, excluding yourself.
+- Whenever you would take an offensive action, the target is chosen randomly from those within range of that action, excluding yourself.
   - When making a multi-target attack, select a creature at random normally. You must include that creature as one of the targets.
-- At the start of each of their turns, you must spend your major action to make an attack.
-  - If you cannot (due to no creatures being in range of any of your attacks, or the pacified condition), you first must spend movement to first stand up from prone, then move directly towards the nearest creature until they are within range .
-  - If you still cannot, you take the Defend major action.
+- At the start of each of your turns, you must spend at least 1 AP on an offensive action.
+  - If you cannot (due to no creatures being in range of any of your attacks, or the pacified condition), you must take the Move action and directly towards a random creature.
+  - If you cannot do that either, you must take the Defend action.
 - You are treated as an enemy for all other creatures and vice versa.
-- You must take attacks of opportunity when presented with the option to do so, and whenever a creature in your zone of control loses life due to a third party's attack, you may make an attack of opportunity against them.
+- You must take attacks of opportunity when presented with the option to do so.
 - You cannot willingly choose to be hit by an attack.
 
 ## Cursed
@@ -53,7 +45,7 @@ You have disadvantage on all special attacks and all special attacks against you
 
 ## Defenseless
 
-Damage dealt to you cannot be prevented by absorption.
+Damage dealt to you cannot be prevented by absorption, and you cannot use the Block action.
 
 ## Frightened
 
@@ -65,18 +57,18 @@ You have disadvantage on all skill checks.
 
 ## Pacified
 
-You cannot make attacks (i.e. take any actions that involve making an immediate attack roll).
+You cannot take offensive actions.
 
 Whenever you lose life, remove all stacks of pacified.
 
 ## Rooted
 
-You cannot spend movement.
+You cannot use movement actions.
 
 ## Taunted
 
-Attacks that you make must target the creature that applied this ailment to you. You must take attacks of opportunities against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
+Your offensive actions must target the creature that applied this ailment to you. You must take attacks of opportunity against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
 
 ## Withered
 
-You have disadvantage on skill checks made to use the Break Grapple minor action, and Grapple attacks against you have advantage. Double all lateral movement costs.
+You gain 1 fewer AP at the end of each of your turns.

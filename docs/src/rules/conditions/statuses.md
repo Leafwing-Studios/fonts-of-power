@@ -59,9 +59,8 @@ Falling damage is determined on a per-scene basis due to **vantages** present in
 
 You cannot spend movement.
 
-Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions. This is rounded down before being applied evenly to each creature.
-
-You have disadvantage on all basic attacks except against the creature(s) grappling you.
+Creatures who are grappling each other are treated as a single entity for the purpose of forced movement.
+The efficacy of single-target forced movement effects is halved.
 
 You cannot make Grapple attacks or use the Dodge reaction.
 
@@ -69,35 +68,29 @@ You cannot make Grapple attacks or use the Dodge reaction.
 
 This status (and the grappled status of the creature you are grappling) ends as soon as you are no longer adjacent to the creature you are grappling.
 
-Whenever you spend movement, you must choose whether to move yourself, or the creature you are grappling. You may spend movement to apply an equal amount of forced movement to the creature you are grappling, so long as they remain within 1 tile of you. Unlike other forced movement, this does not move you (but does move the rest of their grappling graph, if any). You may cause creatures to perform any action that costs movement in this way other than to go prone or begin flying: you may cause them to stand up, move up height tiers, rotate their position or so on.
-
-Forced movement against you is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions. This is rounded down before being applied evenly to each creature.
+Creatures who are grappling each other are treated as a single entity for the purpose of forced movement.
+The efficacy of single-target forced movement effects is halved.
 
 If you are flying, creatures that you are grappling are also flying.
 
-You have disadvantage on all basic attacks except against the creature(s) you are grappling.
-
-You cannot make Grapple attacks or use the Dodge reaction. You may end this status on yourself (and the Grappled status on your target) at the start or end of any of your turns.
+You cannot make Grapple attacks or use the Dodge reaction.
 
 ## Hidden
 
 While hidden:
 
-- your position is concealed, but must be in one of your active hiding spots
 - you do not impose disadvantage on ranged attacks to creatures in your zone of control
-- you cannot shift
+- enemies cannot target you with single target effects
+- multi-target attacks that target you (but not, for example, tile effects) have disadvantage
 
 The hidden status on you ends immediately after:
 
-- the hiding spot you are in is revealed
-- you spend movement to travel laterally
-- you make an attack against any creature other than yourself
-  - attacks that you make due to tile effects triggering do not end your hidden status
-- you apply a boon to any creature other than yourself
+- another creature successfully reveals you with the Spot action
+- you end your turn in a tile that is not an eligible hiding spot (see the Hide action)
+- you use an action targeting a non-allied creature
 
-After you are revealed, you appear in the tile you chose originally and gain the **ambush** boon until the end of the current turn. When you have the ambush boon, gain advantage on all attacks. Some affixes make use of the ambush keyword to provide additional benefits.
-
-Other creatures may reveal hiding spots by taking the Scan minor action or Track reaction. Hiding spots are also immediately revealed when they are no longer veiled, as defined in the [Hide minor action.](rules/combat/acting-in-combat/minor-actions?id=hide)
+After you are revealed, you appear in the tile you chose originally and gain the **ambush** boon until the end of the current turn. When you have the ambush boon, gain advantage on all attacks.
+Some affixes make use of the ambush keyword to provide additional benefits.
 
 ## Invisible
 
@@ -107,9 +100,10 @@ Hiding places are always veiled for you.
 
 ## Prone
 
-You have disadvantage on basic attacks. Melee basic attacks have advantage against you, and ranged basic attacks suffer disadvantage. Double all lateral movement costs. Hostile creatures can enter your tile while you are prone, but may not end their on your tile.
+You have disadvantage on basic attacks. Melee basic attacks have advantage against you, and ranged basic attacks suffer disadvantage.
 
-You may stand up from prone by spending movement equal to half your movement speed. You may voluntarily go prone by spending 1 tile of movement.
+Your movement actions move you one less tile than usual.
+This does not stack with the effect of difficult terrain.
 
 ## Unconscious
 

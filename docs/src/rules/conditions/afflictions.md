@@ -6,11 +6,11 @@ At the end of your turn (before the stacks of this affliction are reduced), if y
 
 ## Anguish
 
-The first time during your turn that you take a major action, take umbral damage equal to the number of stacks of this affliction. Spending your major action to take a minor action does not trigger this effect.
+At the end of your turn, if you do not have any action points remaining, take umbral damage equal to the number of stacks of this affliction. Spending your major action to take a minor action does not trigger this effect.
 
 ## Bleeding
 
-The first time during your turn that you spend movement, take decay damage equal to the number of stacks of this affliction.
+The first time during your turn that you take the Move action, take decay damage equal to the number of stacks of this affliction.
 
 ## Brittle
 
@@ -18,16 +18,16 @@ After you lose life, take corrosive damage equal to the number of stacks of this
 
 ## Rage
 
-The first time during your turn that you take an action that is not an attack (i.e. does not involve making an immediate attack roll), take primal damage equal to the number of stacks of this affliction.
+After you take a defensive or utility action, take primal damage equal to the number of stacks of this affliction. This effect cannot trigger again until the start of your next turn.
 
 ## Shock
 
-After you use a reaction, take electric damage equal to the number of stacks of this affliction. This effect cannot trigger again until the start of your next turn.
+After you spend action points during another character's turn, take electric damage equal to the number of stacks of this affliction. This effect cannot trigger again until the start of your next turn.
 
 ## Temperance
 
-The first time during your turn that you take an attack action (i.e. one that involves making an immediate attack roll), take radiant damage equal to the number of stacks of this affliction.
+After you make an offensive action, take radiant damage equal to the number of stacks of this affliction. This effect cannot trigger again until the start of your next turn.
 
 ## Unstable
 
-The first time during your turn that you spend essence, take arcane damage equal to the number of stacks of this affliction.
+After you spend essence, take arcane damage equal to the number of stacks of this affliction. This effect cannot trigger again until the start of your next turn.

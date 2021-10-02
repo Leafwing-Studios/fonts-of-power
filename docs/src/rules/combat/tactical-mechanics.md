@@ -54,12 +54,9 @@ If a creature is **pushed away,** they travel along the line between you and the
 
 Whenever a creature would be forcibly moved into an occupied tile, they are instead placed in the nearest empty tile instead. Unless a creature is moved by teleportation, attempt to maintain the direction of movement as best as possible while doing so. If the final location of a creature is ever ambiguous, the creature that applied the forced movement chooses between the viable options.
 
-Forced movement never provokes attacks of opportunity.
+Forced movement can provoke attacks of opportunity.
 
-If forced movement is applied to you while you are grappling or grappled by another creature, it is divided by the number of creatures in your **grappling graph,** but drags all creatures in your grappling graph with you, maintaining your relative positions. If the same effect applies forced movement to more than one creature in the grappling graph, sum its effect (using vector addition, in case of differing directions) before dividing it by the number of creatures. Modifiers to forced movement (such as the _elastic collisions_ species feature) are applied during the summation step, causing their effects to be spread between creatures in the grappling graph.
-
-Modifiers to the strength of forced movement stack additively, but modifiers due to powers, affixes or any other passive features can never result in a change in the effectiveness of forced movement that more than doubles the effect of forced movement.
-This can however be combined with the increased effect of critical hits and the flying and aloft effects, resulting in an absolute cap of four times the effect of listed forced movement.
+Modifiers to the strength of forced movement stack additively.
 
 ### Teleportation
 

@@ -7,32 +7,32 @@ Their cities are vast and wondrous, composed of bubble-like structures attached 
 
 <div class="side-panel">
 
-| Roll | What sort of font of power spawned you? |
-| :--: | --------------------------------------- |
-|  1   | A place of natural power.               |
-|  2   | A sacred place.                         |
-|  3   | A magical disaster zone.                |
-|  4   | A site of a terrible war.               |
-|  5   | The ruins of an ancient civilization.   |
-|  6   | A powerful magical city.                |
+| Roll  | What sort of font of power spawned you? |
+| :---: | --------------------------------------- |
+|   1   | A place of natural power.               |
+|   2   | A sacred place.                         |
+|   3   | A magical disaster zone.                |
+|   4   | A site of a terrible war.               |
+|   5   | The ruins of an ancient civilization.   |
+|   6   | A powerful magical city.                |
 
-| Roll | How do you feel about newly spawned slimes?                 |
-| :--: | ----------------------------------------------------------- |
-|  1   | They're so cute...                                          |
-|  2   | Really, they're such a handful.                             |
-|  3   | I prefer to leave the work of raising them to others.       |
-|  4   | I was once in their shoes, and I want to repay that debt.   |
-|  5   | I love teaching them about the wonderful world around them. |
-|  6   | Welcome to the family!                                      |
+| Roll  | How do you feel about newly spawned slimes?                 |
+| :---: | ----------------------------------------------------------- |
+|   1   | They're so cute...                                          |
+|   2   | Really, they're such a handful.                             |
+|   3   | I prefer to leave the work of raising them to others.       |
+|   4   | I was once in their shoes, and I want to repay that debt.   |
+|   5   | I love teaching them about the wonderful world around them. |
+|   6   | Welcome to the family!                                      |
 
-| Roll | How do you use the flexibility of your body?                              |
-| :--: | ------------------------------------------------------------------------- |
-|  1   | I prefer to stay in my natural slime state when possible.                 |
-|  2   | I’m most at home as a slime, but I’m willing to adapt if it seems useful. |
-|  3   | I use whatever form is most useful at the moment.                         |
-|  4   | I use the form I’m in as a means of self-expression.                      |
-|  5   | I love exploring new humanoid forms.                                      |
-|  6   | I have a particular affection for a specific humanoid form.               |
+| Roll  | How do you use the flexibility of your body?                              |
+| :---: | ------------------------------------------------------------------------- |
+|   1   | I prefer to stay in my natural slime state when possible.                 |
+|   2   | I’m most at home as a slime, but I’m willing to adapt if it seems useful. |
+|   3   | I use whatever form is most useful at the moment.                         |
+|   4   | I use the form I’m in as a means of self-expression.                      |
+|   5   | I love exploring new humanoid forms.                                      |
+|   6   | I have a particular affection for a specific humanoid form.               |
 
 </div>
 
@@ -52,13 +52,13 @@ While prone, you collapse into a puddle. As a puddle, you may slide under doors 
 
 **Elastic Collisions:** Whenever you are hit by a basic attack, you are pushed 1 tile directly away from the source of that attack. The effect of all other non-teleportation forced movement on you is doubled. While moving due to forced movement, whenever you hit a barrier or another, you bounces off at the same angle it came in at, continuing until you run out of movement.
 
-**Sproing:** You are immune to falling damage and moving up or down a height tier costs you only 1 tile of movement, rather than the usual 2 tiles of movement.
+**Sproing:** You are immune to falling damage. Whenever you would take falling damage, you may immediately move up two tiles.
 
 ## Corrosive Slime
 
 **Digestive Fluids:** At the end of each of your turns, apply one stack of defenseless to each creature you are grappling.
 
-**Omnivory:** Once per rest, you may spend a minute to completely destroy a nonmagical, nonliving object no larger than you are, dissolving it and absorbing any remnants. Each time beyond the first each rest that you use this feature, you must succeed at a difficulty 15 Prowess (Endurance) skill check or suffer one level of exhaustion due to overconsumption.
+**Omnivory:** Once per rest, you may spend a minute to completely destroy a nonmagical, nonliving object no larger than you are, dissolving it and absorbing any remnants. Each time beyond the first that you use this feature, make a difficulty 15 Prowess (Endurance) skill check. If you fail, suffer one level of exhaustion due to overconsumption.
 
 You do not need to make Endurance skill checks in order to destroy edible objects with this feature.
 
@@ -66,6 +66,6 @@ You do not need to make Endurance skill checks in order to destroy edible object
 
 **Combat Glue:** You have advantage on skill checks made to maintain your grapple.
 
-**Stuck to the Ground:** If you did not spend movement during your last turn, the effects of forced movement against you are halved.
+**Stuck to the Ground:** If you did not use the Move or Shift action during your last turn, the effects of forced movement against you is reduced by one tile.
 
 **Tactical Adhesive:** You do not need to make Athletics skill checks to climb or stay attached to any surface. You no longer reset to the height tier of the tile you are standing on at the end of your turn.
