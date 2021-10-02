@@ -68,7 +68,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 |   5   | A cat.                                   |
 |   6   | A mountain goat.                         |
 
-**Climbing:** You can climb walls and ceilings without needing to make an Athletics skill check. You can climb two height tiers with a single Climb action.
+**Climbing:** You can climb walls and ceilings without needing to make an Athletics skill check. You do not need to spend extra movement to change height tiers.
 
 **Rebound:** When you use the Stand Up action, you may move up to two tiles, rather than one. You have resistance to physical damage taken due to falling.
 

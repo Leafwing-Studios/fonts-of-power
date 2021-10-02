@@ -39,10 +39,6 @@ Choose a creature you are grappling, then either:
 
 If they leave your zone of control, you immediately stop grappling them.
 
-### Climb (1 AP)
-
-Move up or down one height tier.
-
 ## Offense
 
 ### Grapple (2 AP)
