@@ -84,20 +84,20 @@ You cannot split your climbing over several turns: at the end of your turn, you 
 
 Edges between height tiers can be marked as **gradual**, which is useful when creating hills, stairs or ramps. Travelling up or down a height tier over a gradual edge does not costs any extra movement.
 
-When determining ranges, treat tiles as if they were one tile further away for each height tier between the attacker and the defender.
+When determining ranges, treat tiles as if they were one tile further away for every two height tiers between the attacker and the defender, rounded down.
 Height tiers provide different types of cover depending on the relative positioning of the attacker and the defender.
-
-When a higher tier is in-between the two combatants:
-
-- If the defender is prone, they have full cover.
-- If the obstacle is one tier higher than the attacker’s position, the defender has partial cover.
-- If the obstacle is two or more tiers higher than the attacker’s position, the defender has full cover.
 
 When the combatants are at different height tiers:
 
 - When the creature on the higher tier is on the relevant edge of their tier, no cover is granted.
 - When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have partial cover.
 - When the creature on the higher tier is one tile back from the relevant edge of their tier, both creatures have full cover.
+
+When a higher tier is in-between the two combatants:
+
+- If the defender is prone, they have full cover.
+- If the obstacle is one tier higher than the attacker’s position, the defender has partial cover.
+- If the obstacle is two or more tiers higher than the attacker’s position, the defender has full cover.
 
 ### Falling
 
