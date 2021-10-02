@@ -2,7 +2,7 @@
 
 ## Tile Effects
 
-While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.** Creatures moving by teleportation ignore the tile effects of the tiles that they cross.
+While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.** Creatures moving by **teleportation** do not enter any intervening tiles, and so ignore the tile effects of the tiles between their origin and destination.
 
 Tile effects (including ground effects) are triggered when:
 
@@ -17,13 +17,14 @@ Attacks that you make due to tile effects that you created triggering do not end
 
 Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. Tile effects like these are classified as **ground effects** and as you might expect, creatures that are flying or aloft ignore ground effects.
 
-The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or something similar.
-While on difficult terrain:
+### Difficult terrain
 
-- Your movement actions move you one less tile than usual. This does not stack with the effects of being prone.
-- Forced movement over these tiles moves the target one less tile, to a minimum of one tile.
+The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or so on.
 
-If the path taken by any movement would cross over difficult terrain, the total distance that can be travelled is reduced by one tile.
+If you take a movement action while on difficult terrain, the number of tiles you can move is reduced by one.
+If you move into difficult terrain while outside of difficult terrain, the number of remaining tiles you can move with that action is reduced by one.
+
+The effects of difficult terrain do not stack with the effects of being prone.
 
 ## Visibility and Cover
 
