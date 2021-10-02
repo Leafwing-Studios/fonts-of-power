@@ -50,4 +50,4 @@ If you're unsure of how a rule or interaction should work, the following princip
 - If there is a series of effects that are applied in an ambiguous order, **the order is determined by the originator of those effects.**
   - As a common example, the wielder of a weapon can determine the order that the weapon’s affixes are applied in.
   - If the effects are controlled by different sources, they resolve in the order of the turn order, beginning with the character whose turn it is. If that fails, the effects resolve alphabetically.
-- Unless otherwise stated, **round down.**
+- Unless otherwise stated, **round up.**
