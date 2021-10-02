@@ -61,6 +61,8 @@ By default, the damage dealt by basic attacks is 1d8 + Prowess.
 
 Make a melee special attack against Prowess against a creature within your zone of control. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
 
+You have advantage on Shove attacks if you have the high ground, and disadvantage if they have the high ground.
+
 ### Attack of Opportunity (Variable AP, reaction)
 
 Strike suddenly, taking advantage of an opening in your opponent’s defenses.

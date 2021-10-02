@@ -74,17 +74,47 @@ In general, when a creature is behind partial cover, they are obscured to you, a
 
 ## Height Tiers
 
-Sometimes, cover takes the form of objects that can be climbed on, such as boulders, furniture or terraced gardens. When this is the case, treat these environments as having several tiers of height.
+Environments commonly contain interesting topological features: hills, boulders, furniture, staircases, terraces and so on.
+We can create interesting vantages by modelling these environments as having several tiers of height.
 
-Creatures can safely travel up or down a height tiers (either by forced movement or by willingly spending movement) by spending one tile of movement.
+The edge between two **height tiers** can either be **abrupt** or **gradual**, which affect how easy they are to traverse.
+Abrupt edges involve awkward, challenging climbs, while gradual edges are found on hills, stairs or ramps.
+Gradual edges can only be found between two tiles of adjacent heights, while abrupt edges can cause sudden drops in height.
 
-Creatures that are flying or moving by teleportation, do not need to spend any extra movement.
+Flying creatures cannot increase their height tier freely, and are always considered to be at the height tier of the tile that they are above.
 
-You cannot split your climbing over several turns: at the end of your turn, you return to the height tier of the tile that you are standing on. To make flying in combat more fun (and balanced), this applies to flying creatures as well. Flying creatures cannot increase their height tier freely, and are always considered to be at the height tier of the tile that they are above.
+### Travelling Up and Down
 
-Edges between height tiers can be marked as **gradual**, which is useful when creating hills, stairs or ramps. Travelling up or down a height tier over a gradual edge does not costs any extra movement.
+Gradual edges do not require any special rules for movement: both voluntary and forced movement work as normal.
 
-When determining ranges, treat tiles as if they were one tile further away for every two height tiers between the attacker and the defender, rounded down.
+Safely travelling up or down an abrupt edge takes one additional tile of movement per height tier changed.
+Creatures that are flying or moving by teleportation do not need to spend any extra movement.
+
+Forced movement cannot move creatures *up* across abrupt edges, but can move creatures *down* abrupt edges, typically causing **falling damage**:
+
+1. Falling deals 2d6 base physical damage for each height tier that the creature fell, measured from the start of the movement to the end of it.
+2. The creature that fell makes a Agility (Athletics) skill check to attempt to land gracefully.
+3. Subtract the result of this skill check from the base damage rolled in step 1 to get the final falling damage dealt.
+
+For example, falling from the 3rd tier in an area, to the bottom (0th) tier would incur 6d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 6d6 - 13.
+
+Creatures can also choose to voluntarily walk off cliffs, offering them a quick and painful way to get down.
+
+Creatures which are flying or aloft do not take falling damage.
+
+### Attacking across height tiers
+
+When two creatures are engaged in combat and are on different height tiers, the creature on the higher height tier is said to have the **high ground** while the other creature has the **low ground**.
+
+Holding the high ground offers several advantages:
+
+- Shove attacks made from the high ground have advantage, while Shove attacks made from the low ground have disadvantage
+- The range of ranged attacks is asymmetric: for ranged attacks made by the creature on the low ground, the creature on the high ground is treated as being one tile further away for each tier of height advantage
+
+The range of melee attacks is unaffected for a height advantage of 1; melee attacks cannot be made across a height advantage of 2 or more.
+
+### Height tiers and cover
+
 Height tiers provide different types of cover depending on the relative positioning of the attacker and the defender.
 
 When the combatants are at different height tiers:
@@ -98,11 +128,3 @@ When a higher tier is in-between the two combatants:
 - If the defender is prone, they have full cover.
 - If the obstacle is one tier higher than the attacker’s position, the defender has partial cover.
 - If the obstacle is two or more tiers higher than the attacker’s position, the defender has full cover.
-
-### Falling
-
-When falling from a higher tier to a lower one, characters take damage based on the height fallen. Jumping down to another tier inflicts falling damage but does not cost extra movement.
-
-Falling deals 2d6 physical damage for each height tier that you fall, reduced by the result of an Agility (Athletics) skill check. For example, falling from the 3rd tier in an area, to the bottom (0th) tier would incur 6d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 6d6 - 13.
-
-Creatures that are flying or aloft do not take falling damage.
