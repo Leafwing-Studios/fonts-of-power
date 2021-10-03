@@ -51,10 +51,6 @@ Damage dealt to you cannot be prevented by absorption, and you cannot use the Bl
 
 You have disadvantage on all attacks against the source of your fear. You cannot willingly move closer to the source of your fear if you know where it is. If a different source applies frightened to you, the object of your fear changes to the most recent source.
 
-## Hapless
-
-You have disadvantage on all skill checks.
-
 ## Pacified
 
 You cannot take offensive actions.
@@ -68,6 +64,10 @@ You cannot use movement actions.
 ## Taunted
 
 Your offensive actions must target the creature that applied this ailment to you. You must take attacks of opportunity against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
+
+## Unlucky
+
+You have disadvantage on all skill checks.
 
 ## Withered
 

@@ -60,8 +60,6 @@ pub enum Element {
     Earth,
     Fire,
     Water,
-    Eldritch,
-    Arcane,
     Radiant,
     Umbral,
     Primal,

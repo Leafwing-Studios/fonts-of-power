@@ -1,13 +1,16 @@
 # Elements
 
-One of the central concepts in Fonts of Power is the idea of unique, distinct elements that deal damage of different types and, from a thematic perspective, have different effects and abilities associated with them. In additional to **physical damage,** there are 12 **elemental damage types,** arranged in opposing pairs:
+One of the central concepts in Fonts of Power is the idea of unique, distinct elements that deal damage of different types and tend to have different effects and thematic hooks associated with them. In additional to **physical damage,** there are 10 **elemental damage types,** arranged in opposing pairs:
 
 - **air** and **earth**
 - **fire** and **water**
-- **arcane** and **eldritch**
 - **radiant** and **umbral**
 - **primal** and **decay**
 - **electric** and **corrosive**
+
+There is one further pairing, which do not have associated damage types, preferring subtler effects:
+
+- **reality** and **fate**
 
 Creatures can be **vulnerable, resistant,** or **immune** to types of damage. Creatures that are vulnerable to an element take twice as much damage from that element, if they are resistant they take half as much from that element, and immunity they ignore all damage of that element. Much like advantage or disadvantage, vulnerability and resistance do not stack with themselves but do cancel each other out. Immunity always trumps either vulnerability or resistance.
 
@@ -58,18 +61,6 @@ Water is the element of the murky oceans and the frozen tundras; of the flowing 
 
 Mechanically, water behaves differently depending on its form. Mist often creates shrouded ailments, ice tends to apply chilled or create slippery ground effects, and liquid water inflicts forced movement.
 
-### Arcane
-
-Arcane is the element of infinite space and relentless time; of the splendor of an illusion and the mystery of other realities.
-
-Mechanically, arcane tends to apply the unstable affliction, create objects from nowhere, teleport creatures, apply the banished ailment or grant invisibility.
-
-### Eldritch
-
-Eldritch is the element of whispered truths and forbidden knowledge; of horrifying monstrosities and broken minds.
-
-Mechanically, eldritch tends to manipulate the mind, applying the crazed, frightened or pacified ailments, and sometimes inflicting the rage or temperance afflictions.
-
 ### Radiant
 
 Radiant is the element of the beating sun and glowing moon; of honor and peace and righteous belief.
@@ -78,7 +69,7 @@ Mechanically, radiant effects often create areas of light, but also tends to sea
 
 ### Umbral
 
-Umbral is the element of the flickering shadows and the darkest night; of dark bargains and closely-held secrets.
+Umbral is the element of the flickering shadows and the darkest night; of dark bargains and forbidden secrets.
 
 Mechanically, umbral effects often create areas of darkness (including magically shrouded areas), but can also grant invisibility or inflict intense pain with the anguish ailment.
 
@@ -102,6 +93,19 @@ Mechanically, electric effects tend to move in straight lines, grant additional 
 
 ### Corrosive
 
-Corrosive is the element of bubbling acid and scalding bases; of raw destruction and the inexorable push towards entropy.
+Corrosive is the element of bubbling acids and scalding bases; of raw destruction and the inexorable push towards entropy.
 
 Mechanically, corrosive effects tend to eat through defenses, applying the defenseless ailment or the brittle affliction, or creating dangerous ground effects.
+
+### Reality
+
+Reality is the element of raw magic and spontaneous creation; of endless curiosity and unknowable mystery.
+
+Mechanically, reality effects tend to create mundane but strange vantages, play with gravity, teleport creatures and grant invisibility or absorption.
+
+### Fate
+
+Fate is the element of strange coincidences and tricks of time; of bizarre paradoxes and fortune telling.
+
+Mechanically, fate effects tend to buff and disable in interesting, luck-based ways or play with the flow of time.
+It is particularly prone to applying the unlucky and cursed ailments.

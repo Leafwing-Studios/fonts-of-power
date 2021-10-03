@@ -27,7 +27,3 @@ After you spend action points during another character's turn, take electric dam
 ## Temperance
 
 After you make an offensive action, take radiant damage equal to the number of stacks of this affliction. This effect cannot trigger again until the start of your next turn.
-
-## Unstable
-
-After you spend essence, take arcane damage equal to the number of stacks of this affliction. This effect cannot trigger again until the start of your next turn.
