@@ -8,3 +8,6 @@
 "Sturdy","1","The efficacy of forced movement against you is halved. Shove attacks, as well as other attacks which knock you prone are made with disadvantage."
 "Slippery","1","Grapple attacks made against you have disadvantage. You have advantage on skill checks made to escape grapple."
 "Lightweight","2","You have advantage on skill checks made to Dodge."
+"Scholarly","2","You have advantage on Concentration skill checks."
+"Clandestine","2","You have advantage on Stealth skill checks in combat."
+"Careful","2","Attacks of opportunity against you do not have advantage."
