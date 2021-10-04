@@ -182,6 +182,8 @@ Choose a hidden creature within a 6 tile range.
 Make a Focus (Perception) skill check, opposed by that creature's Agility (Stealth).
 If you win, the hidden status on that creature ends.
 
+You have disadvantage on this skill check if you are more than 3 tiles away from them, and have advantage if you are within a 1 tile range.
+
 ### Swap (1 AP)
 
 Change the set of arms that you currently have equipped. This also allows you to completely stow your arms (and have no arms equipped), or draw them when you do not have arms equipped.
