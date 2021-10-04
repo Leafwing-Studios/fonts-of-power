@@ -1,0 +1,4 @@
+"Name","Effect"
+"Spherical Alteration","The altered spell becomes multi-target, hitting all creatures within a 2 tile radius around a tile selected within range. Halve the efficacy of spells altered in this way."
+"Conical Alteration","The altered spell becomes multi-target, hitting all creatures within a 3 tile cone behind a tile selected within range. This cone always points directly away from the caster. Halve the efficacy of spells altered in this way."
+"Spreading Alteration","When this alteration is applied, the spell becomes multi-target, jumping from creature to creature. At each jump, select the closest creature (within 2 tiles) of the previous one. This chain can contain any number of targets, but cannot return to the same creature. Creatures can only be part of each chain once; you cannot return to them. In the event of a tie, the caster may choose which creature to affect. Halve the efficacy of spells altered in this way."
