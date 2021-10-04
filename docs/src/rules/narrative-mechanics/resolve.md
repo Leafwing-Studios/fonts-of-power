@@ -5,17 +5,17 @@ As you play Fonts of Power, you will often find yourself pulled between two comp
 We use **Resolve** as a powerful reward for this behavior, which represents the party’s capacity to push through challenges through their bravery and spunk. The party **earns Resolve** whenever the players **opt in to risk.** For illustration, this might be:
 
 - taking on a difficult task
-  _ helping a group of strangers in need
-  _ pressing on to stop an evil plot even while their resources are running low \* hunting a dangerous monster for the sake of glory and treasure
+  - helping a group of strangers in need
+  - pressing on to stop an evil plot even while their resources are running low \* hunting a dangerous monster for the sake of glory and treasure
 - making personal sacrifices to follow your ideals
-  _ letting a villain escape to save innocents
-  _ donating a powerful magical item to a greater cause
+  - letting a villain escape to save innocents
+  - donating a powerful magical item to a greater cause
 - upholding your bonds
-  _ mistrusting an enemy of your ally, even though you have no out-of-character reason to doubt them
-  _ doubling back to save your loyal retainer even as the cave is beginning to collapse
+  - mistrusting an enemy of your ally, even though you have no out-of-character reason to doubt them
+  - doubling back to save your loyal retainer even as the cave is beginning to collapse
 - suffering consequences due to character flaws
-  _ monologuing about your plan to the heroes that you have captured allowing time for their allies to intervene
-  _ tripping at a critical moment due to an old war wound
+  - monologuing about your plan to the heroes that you have captured allowing time for their allies to intervene
+  - tripping at a critical moment due to an old war wound
 
 The decision to award Resolve is made on the basis of rough table consensus, just like the rest of the rules. Resolve is awarded when the risk is taken, rather than when a task is completed or harms materialize. As a party, you may only store a **maximum of 3 Resolve at a time.**
 
