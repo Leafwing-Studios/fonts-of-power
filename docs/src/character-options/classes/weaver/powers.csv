@@ -1,0 +1,24 @@
+Name,AP,Essence,Category,Range,Type,Target,Effect
+Pattern of Protection,2,0,Defensive,6,None,Single,6 + Presence absorption.
+Pattern of Annihilation,2,0,Offensive,6,Expertise,Single,"If you hit, trigger their afflictions. Hit or miss, trigger your own afflictions."
+Pattern of Augmentation,2,0,Utility,6,None,Single,"For the duration of this effect, they have advantage on basic attacks and have advantage on all Block skill checks."
+Pattern of Binding,2,0,Offensive,6,Prowess,Single,"If you hit, apply two stacks of rooted."
+Pattern of Concealment,2,0,Utility,6,None,Single,"Make target invisible. This effect ends immediately after they make an attack.
+"
+Pattern of Dampening,2,0,Utility,6,Focus,Single,"Efficacy of all attacks and boons is halved, both incoming and outgoing."
+Pattern of Disintegration,2,0,Offensive,6,Focus,Single,"If you hit, deal 1d10 + Presence physical damage."
+Pattern of Displacement,2,0,Utility,6,Expertise,Single,"If you hit, teleport the affected creature up to 2 tiles."
+Pattern of Empowerment,2,0,Utility,6,None,Single,"For the duration of this effect, they have advantage on special attacks and they ignore resistance to damage that they deal."
+Pattern of Grasping,2,0,Offensive,6,Agility,Single,"At the end of each of your turns while this effect is active, gain the benefit of the Grapple action against a creature of your choice within range.
+
+You may grapple any number of creatures in this way. When this pattern ends, the grappled status immediately ends on all creatures you were grappling in this way (and the grappling status also ends on yourself)."
+Pattern of Intensification,2,0,Offensive,6,Expertise,Single,"If you hit, choose one:
+
+- apply 3 + ½ Presence stacks of an affliction of your choice to them.
+- apply one stack of each of their current afflictions to them.
+"
+Pattern of Prolonging,2,0,Offensive,6,Expertise,Single,"If you hit, apply one stack of each of their current ailments."
+Pattern of Reconstitution,2,0,Defense,6,None,Single,Treat target with advantage.
+Pattern of Quickening,2,0,Utility,6,None,Single,Target gains 1 AP.
+Pattern of Sight,2,0,Utility,6,None,Single,"For the duration of this effect, the affected creature is unimpeded by any shroud or invisibility effects."
+Pattern of Suspension,2,0,Offensive,6,Prowess,Single,"If you hit, apply two stacks of aloft."
