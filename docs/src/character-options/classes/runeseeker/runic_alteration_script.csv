@@ -1,4 +1,5 @@
 "Name","Effect"
-"Colorful Alteration","Change the elemental damage type dealt by the altered spell to one of the three associated with your school of magic, shown in the table in the sidebar."
-"Bold Alteration","Change all stacks of ailments applied by the altered spell to one of the three associated with your school of magic, shown in the table in the sidebar."
-"Fundamental Alteration","Change the special attack type used by the altered spell to correspond to an attribute of your choice."
+"Potential","The altered spell does not deal damage. Instead, it applies stacks of brittle equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects."
+"Inversion","The direction of all forced movement applied by the altered spell is reversed."
+"Antimatter","The altered spell does not deal damage. Instead, it grants absorption equal to the damage that it would have dealt, after it would have been modified by resistance, vulnerability, critical strikes or similar effects.
+"
