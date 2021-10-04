@@ -1,0 +1,27 @@
+"Name","Effect"
+"Pragmatic","You have advantage on Shove attacks."
+"Opportunistic","Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control."
+"Proactive","Enemies provoke an attack of opportunity whenever they leave your zone of control."
+"Vengeful","After you are hit by an attack made as part of an offensive action, you may make an attack of opportunity against the creature that hit you."
+"Coolheaded","You no longer have disadvantage on ranged attacks due to being in an enemy zone of control."
+"Fastidious","If you do not have disadvantage on a ranged attack, you may choose to gain disadvantage on the attack and double its range.
+
+Partial cover no longer causes your attacks to be made with disadvantage."
+"Daring","After you successfully use the Dodge reaction, you may make an attack of opportunity against the creature whose attack you dodged."
+"Flexible","You may use Agility (Athletics) instead of Prowess (Athletics) to maintain a grapple. You have advantage on all skill checks made to end the grappled status on yourself."
+"Headstrong","After you move at least two tiles in a straight line this turn, you have advantage on melee attacks until you move again or the turn ends."
+"Ambivalent","After you have rolled to see how much damage your attacks would do, you may reroll the damage dealt. You must use the new results."
+"Audacious","The critical hit threshold for your attacks is reduced by 3. Whenever you roll a 1 while making an attack, something goes horribly wrong, and you suffer the attack’s effects instead."
+"Careful","You have disadvantage on attacks that you make against allied creatures."
+"Reckless","Whenever you make an attack, you may choose to gain advantage on the attack made. When you do, damage dealt to you cannot be prevented by absorption, and you cannot use defensive actions until the start of your next turn."
+"Sadistic","After you apply at least one stack of an affliction to a creature that already has a stack of that same affliction, apply two additional stacks of that affliction. This effect does not trigger itself."
+"Merciless","After you apply at least one stack of a ailment to a creature that already has a stack of that same ailment, apply an additional stack of that ailment. This effect does not trigger itself."
+"Rough","When you hit a creature with a Shove attack, you may push them up to two tiles instead of one."
+"Reactive","Enemies provoke an attack of opportunity whenever they enter your zone of control."
+,
+,
+,
+,
+,
+,
+,
