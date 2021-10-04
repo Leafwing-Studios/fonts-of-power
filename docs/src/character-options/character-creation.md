@@ -18,7 +18,7 @@ With this seed in place, you can begin to flesh out your character, and fill out
   - If your class uses [powers](powers/README.md), select which powers you know from the list in that section.
 - Five **skill proficiencies,** which capture their background knowledge and training.
   - You add your proficiency bonus to skill checks you are proficient with.
-  * You always get to choose between a setback and an opportunity when you fail skill checks that you are proficient in.
+  - You always get to choose between a setback and an opportunity when you fail skill checks that you are proficient in.
 - The unique **talents** that start to define them.
   - A skill talent.
   - A combat talent.
