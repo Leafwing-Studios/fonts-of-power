@@ -13,5 +13,3 @@ Smoke Bomb,1,0,Utility,3,None,"Multi, 2 tile radius",Tiles become heavily shroud
 Spikestravaganza,1,0,Utility,3,None,"Multi, 2 tile radius","2 stacks of bleeding per tile they walk through. Can treat as difficult terrain, taking only 1 stack per tile."
 Superior Glue,1,0,Utility,3,Prowess,"Multi, 2 tile radius","Tile effect: if you hit, apply one stack of rooted."
 Pyrotechnics,1,0,Utility,3,None,"Multi, 2 tile radius",Tile effect: 3 + 1/2 Presence stacks of aflame.
-,1,0,,3,,"Multi, 2 tile radius",
-,1,0,,3,,"Multi, 2 tile radius",
