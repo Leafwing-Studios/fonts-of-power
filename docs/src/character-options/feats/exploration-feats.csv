@@ -1,11 +1,8 @@
 "Name","Effect"
 "Professional","Choose a downtime activity. You have advantage on skill checks made as part of that downtime activity."
-"Mysterious","You have advantage on Stealth skill checks made outside of combat."
 "Stalwart","Whenever you complete a rest, remove an additional stack of exhaustion."
 "Intuitive","You have advantage on any skill check made to gain a clue from the worldspeaker."
-"Skilled","Gain proficiency in an additional skill."
+"Skilled","Gain proficiency in the specified skill."
 "Resourceful","The size of your Supplies die is increased twice."
-"Observant","Creatures trying to use Stealth to hide from you never have advantage due to you being distracted or hurried. You have advantages on skill checks made to find hidden features of the environment.
-"
 "Resolute","After your party spends a Resolve, roll a d4. On a 4, regain that Resolve."
 "Specialist","Choose a skill. Whenever you complete a rest, gain the benefit of the Prepare downtime activity for that skill."
