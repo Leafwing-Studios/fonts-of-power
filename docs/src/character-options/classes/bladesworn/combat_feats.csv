@@ -1,5 +1,4 @@
 "Name","Prerequisites","Effect"
-"Counterattack Diversity",,"Learn 2 new powers."
 "Proactive",,"Enemies provoke an attack of opportunity whenever they leave your zone of control."
 "Reactive",,"Enemies provoke an attack of opportunity whenever they enter your zone of control."
 "Opportunistic",,"Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control."
@@ -13,5 +12,3 @@
 "Powerful Stance",,"Stance: You have disadvantage on all attacks. Forced movement you apply is doubled."
 "Deliberate Stance",,"Stance: You have disadvantage on all attacks. Immediately gain the benefit of the Recover action when you hit with an attack."
 "Meticulous Stance",,"Stance: You have disadvantage on all attacks. Double the stacks of any ailments applied by your attacks."
-,,
-,,
