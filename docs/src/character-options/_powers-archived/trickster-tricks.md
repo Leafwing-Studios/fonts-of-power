@@ -264,7 +264,7 @@ With a puff of smoke you vanish, suddenly reappearing where your trick detonated
 
 </div>
 
-With a shower of sparkles, all creatures near where your trick was momements before vanish into thin air, before returning to reality a few seconds later. When detonated, make a special attack against Expertise against all creatures with a 2 tile radius around the trick. If you hit, apply two stacks of banished.
+With a shower of sparkles, all creatures near where your trick was moments before vanish into thin air, before returning to reality a few seconds later. When detonated, make a special attack against Expertise against all creatures with a 2 tile radius around the trick. If you hit, apply two stacks of banished.
 
 ## Pure Chaos
 
@@ -304,7 +304,7 @@ A wild explosion of baffling emotions and senseless frustration bursts forth fro
 
 </div>
 
-Magical fire ignites from the trick, covering the floor in a brilliant blaze. When detonated, a 2 tile radius around the trick is set ablaze for the duration of this trick. The area is filled with bright light for the duration of the effect, and an additional 4 tile radius around it is filled with dim light. Whenever a creature begins their turn in this firey ground effect, or enters it for the first time in their turn, apply 3 + ½ Presence stacks of aflame to them.
+Magical fire ignites from the trick, covering the floor in a brilliant blaze. When detonated, a 2 tile radius around the trick is set ablaze for the duration of this trick. The area is filled with bright light for the duration of the effect, and an additional 4 tile radius around it is filled with dim light. Whenever a creature begins their turn in this fiery ground effect, or enters it for the first time in their turn, apply 3 + ½ Presence stacks of aflame to them.
 
 ## Smelling Salts
 
