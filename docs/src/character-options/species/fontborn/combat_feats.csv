@@ -1,1 +1,7 @@
 "Name","Prerequisites","Effect"
+"Flight",,"You can fly. When you take this feat, sacrifice your exploration feat for this level as well."
+"Sensory Enhancement",,"You have advantage on the Spot and Scan actions."
+"Elemental Form",,"You are immune to damage of the specified type."
+"Elemental Feast",,"Whenever you lose life due to damage of the specified element, regain 1 essence for each point of life lost."
+"Elemental Aura",,"You have resistance to the specified element. At the end of each of your turns, deal 1d4 damage of the specified element to all other adjacent creatures."
+"Strange Aura",,"At the end of each of your turns, apply one stack of the specified ailment to all other adjacent creatures."
