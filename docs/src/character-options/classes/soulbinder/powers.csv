@@ -1,4 +1,4 @@
-"Name","AP","Essence","Category","Range","Type","Target","Self Effect","Target Effect"
+"Name","AP","Essence","Category","Range","Type","Target","Self Effect","Dual Effect"
 "Soul Burst","1","1","Utility / Offensive","6","Focus","Dual","You have advantage on your next basic attack made before the end of your next turn, and its critical hit threshold is reduced by 3.","1d8 + Presence specified damage"
 "Strange Symbiosis","1","1","Defensive","6","None","Dual","Transfer all absorption to dual. Gain 6 + Presence absorption.","Make a Focus attack. If you hit, transfer all absorption from dual. Grant 6 + Presence absorption."
 "Agonizing Pulse","1","1","Offensive","6","None","Dual","Remove all afflictions. 1 point of umbral damage per stack removed.","Remove all afflictions. 1 point of umbral damage per stack removed."
