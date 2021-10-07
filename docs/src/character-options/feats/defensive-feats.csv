@@ -11,3 +11,4 @@
 "Responsive","Whenever an allied creature within 6 tiles of you is hit by an attack, you may use any action which applies a boon to that creature as a reaction."
 "Stable","You are immune to the effects of critical hits. You no longer benefit from critical hits."
 "Supportive","Whenever you apply a single-target boon to another creature they gain 2 absorption. Whenever you apply a multi-target boon to another creature, they gain 1 absorption."
+"Protective","You may Block offensive actions intended for any adjacent creature. When you do, you suffer all effects of that action rather than them."
