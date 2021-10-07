@@ -30,11 +30,11 @@ There are three levels of **visibility** that describe how well you can see othe
 
 By default, your target is **clear.** As your target becomes **obscured:**
 
-- you have disadvantage on skill checks made as part of the Scan minor action targeting them, other than to reveal one of their hiding spots.
+- you have disadvantage on skill checks made as part of the Scan minor action targeting them
 
 Once the target is fully **invisible:**
 
-- you have disadvantage on skill checks made as part of the Scan minor action targeting them, other than to reveal one of their hiding spots.
+- you have disadvantage on skill checks made as part of the Scan minor action targeting them
 - single-target attacks you make against them have disadvantage
 
 **Light** is the most common and important driver of visibility. There are three levels of lighting: **bright light, dim light,** and **darkness**, which are all tracked on a per-tile basis. Creatures and objects are obscured while in dim light, and invisible while in darkness.
