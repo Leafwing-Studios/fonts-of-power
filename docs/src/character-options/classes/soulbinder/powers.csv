@@ -4,14 +4,14 @@
 "Agonizing Pulse","1","1","Offensive","6","None","Dual","Remove all afflictions. 1 point of umbral damage per stack removed.","Remove all afflictions. 1 point of umbral damage per stack removed."
 "Boiling Rage","1","1",,"6","Focus","Dual","Gain 6 + Presence stacks of rage. For the duration of this effect, your critical hit threshold is reduced by half the number of stacks of rage that you have.","Gain 6 + Presence stacks of rage. For the duration of this effect, your critical hit threshold is reduced by half the number of stacks of rage that you have."
 "Careful Erasure","1","1","Utility / Offensive","6","None","Dual","Become invisible until the end of the next turn. Take the Hide aciton.","Apply 2 stacks of blinded."
-"Cleansing Pulse","1","1","Defensive","6","None","Dual","Treat action. Add 1 absorption for each stack of affliction removed, or 4 for each ailment.","Treat action. Add 1 absorption for each stack of affliction removed, or 4 for each ailment."
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+"Cleansing Pulse","1","1","Defensive","6","None","Dual","Treat action. Add 1 absorption for each stack of affliction removed, or 2 for each ailment.","Treat action. Add 1 absorption for each stack of affliction removed, or 4 for each ailment."
+"Dark Pact","1","1","Defensive / Offensive","6","None","Dual","You lose 1d12 + Presence life. Gain three times that much absorption.","Make a Focus attack against your dual. If you hit, deal 1d12 + Presence umbral damage to them and they gain three times that much absorption."
+"Ethereal Elopement","1","1","Utility","6","Expertise","Dual","Teleport up to 2 tiles.","Teleport up to 2 tiles if you hit."
+"False Hope","1","1","Defensive / Offensive","6","Focus","Dual","Apply 6 + Presence anguish, gain 12 + 2*Presence absorption.","Apply 6 + Presence anguish, gain 12 + 2*Presence absorption."
+"Insiduous Whispers","1","1","Utility / Offensive","6","Focus","Dual","Gain two stacks of crazed. For the duration of this effect, apply one stack of crazed to any creature that you hit with a basic attack.","Apply two stacks of crazed. For the duration of this effect, apply one stack of crazed to any creature that your dual hits with a basic attack."
+"Involuntary Dance","1","1","Defensive","6","None","Dual","For the duration of the effect, whenever your dual moves by any means (other than this effect), you move in unison.","For the duration of the effect, whenever you move by any means (other than this effect), your dual moves in unison."
+"Private Moment","1","1","Defensive","6","None","Dual","Invisible to all creatures other than your dual until the end of your next turn.","Invisible to all creatures other than you until the end of your next turn."
+"Shared Senses","1","1","Defensive","6","None","Dual","Until the end of your next turn, you share your dual’s senses, and have advantage on all attacks made against other creatures in your dual's zone of control.","Until the end of your next turn, you share your dual’s senses, and have advantage on all attacks made against other creatures in your dual's zone of control."
+,"1","1","Defensive","6","None","Dual",,
+,"1","1","Defensive","6","None","Dual",,
 ,,,,,,,,
