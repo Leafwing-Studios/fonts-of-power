@@ -1,5 +1,5 @@
 "Name","Prerequisites","Effect"
-"Stand Alone",,"Double the effects of your auras if they're only affecting a single target."
+"Stand Alone",,"Double the effects of your auras if they're the only ally / enemy within range."
 "Provoke",,"1 essence: Make a melee Presence attack against a target within range 3. Apply one stack of taunted if you hit."
 "Intimidate",,"1 essence: Make a melee Presence attack against a target within range 3. Apply one stack of frightened if you hit."
 "Beacon",,"Increase the range of your auras to 3 tiles."

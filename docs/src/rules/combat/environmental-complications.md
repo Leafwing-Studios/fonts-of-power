@@ -7,15 +7,13 @@ While in combat, tiles are commonly modified in dangerous or interesting ways: s
 Tile effects (including ground effects) are triggered when:
 
 - a creature begins their turn in the tile effect
-- a creature enters the tile effect for the first time during their turn
-- a creature shifts out of a tile effect when it is not their turn
+- a creature enters the tile effect
+- a creature is in a tile effect as it is created
 
-Occupying a tile effect when it is created counts as entering it.
+Once a creature has triggered a particular type of tile effect, they cannot trigger it again until the start of their next turn.
 
-Not all tile effects have an associated trigger, but this ensures that they trigger once for every turn that the creature takes, no matter how they end up moving.
-Attacks that you make due to tile effects that you created triggering do not end your hidden status.
-
-Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground. Tile effects like these are classified as **ground effects** and as you might expect, creatures that are flying or aloft ignore ground effects.
+Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground.
+Tile effects like these are classified as **ground effects** and as you might expect, creatures that are flying or aloft ignore ground effects.
 
 ### Difficult terrain
 

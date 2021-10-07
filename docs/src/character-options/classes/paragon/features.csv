@@ -1,6 +1,6 @@
 "Level","Feature Name","Details","Powers Known"
 "1","Feats","Gain a new combat feat and a new exploration feat.","3"
-"1","Auras","2 tile radius effects. 0 AP once per turn to toggle, 1/3/6 essence drain at end of turn. Up to 3 active, duplicates allowed. If you don't have enough essence to pay cost, disable all auras.","3"
+"1","Auras","2 tile radius tile effects. 0 AP once per turn to toggle, 1/3/6 essence drain at end of turn. Up to 3 active, duplicates allowed. If you don't have enough essence to pay cost, disable all auras.","3"
 "1","Stand Your Ground","At the start of your turn, decide. Until the start of your next turn, you cannot take movement actions, are immune to forced movement, cannot be knocked prone and Defend also grants benefit of Ward.","3"
 "1","Ideal: Shield of Faith","Gain bonus to your Block action based on ideal.","3"
 "2","Conviction","When attempting to convince someone to act to directly benefit your Cause, you have advantage on all Guidance and Charm skill checks made.","4"
