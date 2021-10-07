@@ -1,17 +1,8 @@
-Name,AP,Essence,Category,Range,Type,Target,Effect
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+"Name","AP","Essence","Category","Range","Type","Target","0 Essence Effect","1 Essence Effect","2 Essence Effect","3 Essence Effect"
+"Growth","2","0-3","Utility","6","None","NA","Shape 1 tiles.","Shape 2 tiles.","Shape 3 tiles.","Shape 4 tiles."
+"Storm","2","0-3","Offensive","6","Prowess","Multi-target","0 tile radius storm that moves out from you at rate of 1 tile per turn. Only one at once, choose new direction when center reaches a dead end. Deals 1d8 + Presence damage on hit, half on miss.","1 tile radius storm, moves at 2 tiles per turn.","Also applies two stacks of ailment ","2 tile radius storm, moves at 3 tiles per turn."
+"Shelter","2","0-3","Defensive","NA","None","Multi-target","Grant 6 + Presence absorption to all creatures on your terrain.","Also apply Treat action to all of them.","Double absorption gained.","Treat again."
+"Armaments","2","0-3","Offensive","Varies","Basic","Varies","Strike action with extra set of arms.",,,
+"Grasp","2","0-3","Offensive","NA","NA","Varies","Make a Grapple attack against a creature within your terrain. Cannot choose to let go.","Apply 6 + Presence stacks of chosen affliction to all grappled creatures.","Target can be adjacent to terrain instead.","Grapple all in or adjacent to your terrain."
+"Winds","2","0-3","Utiity","Varies","Prowess","Multi-target","Push a creature in your terrain 1 tile.",,"Push a creature in or adjacent to your terrain 2 tiles.","Make a Shove attack against each creature in or adjacent to terrain."
+"Spear","2","0-3","Offensive","Varies","Agility","Multi-target","Deal 1d8 + Presence damage to the first creature in a line that you hit.","Crit threshold reduced by 2. Pierces target.","2d8 + 2 * Presence damage instead. Width increased to 3 tile line.","Crit threshold reduced by 2 more. Bounces off walls in random direction."
