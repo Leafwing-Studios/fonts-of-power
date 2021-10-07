@@ -5,7 +5,7 @@
 "Dig Deep",,"At the start of each of your turns, if you have 0 essence, gain the benefits of the Recover action."
 "Reckless Swing",,"3 AP: make a melee attack that costs 2 AP or less with advantage. It's automatically a critical if you hit. Provoke an attack of opportunity."
 "Brooding",,"At the end of each of your turns before you regain AP, gain 1 emotion for every unspent AP."
-"Measured Exertion",,"Regain 3 essence per stack of emotion when you end your transformation."
+"Measured Exertion",,"Can choose to end transformation at start of each of your turns. Regain 2 essence per stack of emotion when you end your transformation."
 "Battle Cry",,"1 AP: make a melee Presence attack against all other creatures within a 2 tile range. Apply one stack of frightened if you hit."
 "Who's Next",,"Whenever you land a critical hit or down an enemy, apply one stack of frightened to all enemies within a 2 tile range of the creature hit."
 "Terrorize",,"You have advantage on attacks made against creatures with the frightened ailment."
