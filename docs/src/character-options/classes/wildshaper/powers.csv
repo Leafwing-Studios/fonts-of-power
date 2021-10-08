@@ -1,5 +1,5 @@
 "Name","AP","Essence","Category","Range","Type","Target","Effect"
-"Shaping","0","1","Utility","6","None","NA","Shape or unshape 1 tile."
+"Shaping","0","1","Utility","3","None","NA","Shape or unshape 1 tile."
 "Winds","0","1","Offensive","Any shaped tile","Prowess","Multi-target","Make a Shove attack. Must choose same direction for all targets."
 "Shelter","0","1","Defensive","Any shaped tile","None","Multi-target","Grant 6 + Presence absorption."
 "Respite","0","1","Defensive","Any shaped tile","None","Multi-target","Use Treat."
