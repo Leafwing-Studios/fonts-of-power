@@ -35,8 +35,8 @@ The diversity of the human species is its greatest strength: no two are quite th
 
 **Adaptable:** At the start of each of your turns, you may immediately take Swap action without paying its AP cost.
 
-**Natural Talent:** Choose another Combat Talent.
+**Natural Talent:** Gain a combat feat.
 
-**Hard-Won Skill:** Choose another Skill Talent.
+**Hard-Won Skill:** Gain an exploration feat.
 
 **Manual Dexterity:** You are proficient in Craftsmanship.
