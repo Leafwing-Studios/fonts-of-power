@@ -13,3 +13,4 @@
 "Privilege Escalation",,"You may teleport into any tile within a 2 tile range of your target when you use Injection Attack."
 "Willing Conduit",,"Whenever a creature is willingly hit by one of your charges, choose one after you see the results: refund any essence spent on that jump, or do not apply effects of the charge."
 "Attack Surface",,"Your charges have a range of 6 tiles, up from 3."
+"Cyclic Graph",,"Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time."
