@@ -10,3 +10,5 @@
 "Private Moment","1","1","Defensive","6","None","Dual","Invisible to all creatures other than your counterpart until the start of your next turn."
 "Shared Senses","1","1","Defensive","6","None","Dual","Until the end of your next turn, share senses, and have advantage on all attacks made against other creatures in your counterpart's zone of control."
 "Asymptomatic Transmission","1","1","Utility","6","Prowess","Dual","Swap all ailments and afflictions."
+"Resonant Frequency","1","1","Offensive","6","Focus","Dual","For each ailment / affliction: add 1/2 stack to you and dual if you each have at least one stack of that ailment / affliction.  Remove stacks of any unshared ailment / affliction."
+,,,,,,,
