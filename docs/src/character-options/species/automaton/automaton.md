@@ -35,7 +35,7 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 </div>
 
-### Features 
+## Features
 
 **Inexhaustible:** Exhaustion no longer applies a penalty to your attack rolls.
 
@@ -43,7 +43,7 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 **Inorganic:** You do not need to eat, drink, breathe or sleep. However, you must be maintained, either by yourself or a skilled technician, for 4 hours per day or you begin to malfunction, suffering exhaustion as other species do when they don’t sleep.
 
-## Combat
+### Combat
 
 | Roll  | How do you feel about having been made as a weapon of war?     |
 | :---: | -------------------------------------------------------------- |
@@ -60,7 +60,7 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 **Optimized:** You are proficient in Athletics.
 
-## Industry
+### Industry
 
 | Roll  | Why were you originally created?                                        |
 | :---: | ----------------------------------------------------------------------- |
@@ -81,7 +81,7 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 **Multitool:** Select three pieces of adventuring gear. They are built into your body. You do not need to roll the Supply die in order to access them.
 
-## Service
+### Service
 
 | Roll  | What field were you originally designed to work in? |
 | :---: | --------------------------------------------------- |
