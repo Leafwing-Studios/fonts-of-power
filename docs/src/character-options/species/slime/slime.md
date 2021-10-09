@@ -36,9 +36,9 @@ Their cities are vast and wondrous, composed of bubble-like structures attached 
 
 </div>
 
-### Features 
+## Features
 
-**Formless:** At the end of each of your turns, remove the grappled status from yourself.
+**Formless:** At the end of each of your turns, end the grappled status on yourself. You may move into and occupy enemy tiles, and they make move into and occupy your tiles.
 
 **Slimoid:** Your body is a stretchy, pliable, translucent ball of slime. You may shape it as you please, including to carry items, interact with objects or wield arms, but you’re still visibly made out of slime and your total volume stays constant.
 
@@ -46,15 +46,15 @@ While prone, you collapse into a puddle. As a puddle, you may slide under doors 
 
 **Uncertain Anatomy:** You do not need to breathe, but must still eat, drink and sleep. Slimes can see, hear and speak as well as a typical human, although how they do so is a closely guarded secret. Items you carry are stored inside your body. They are plainly visible unless covered by clothing or the like.
 
-## Bouncy Slime
+### Bouncy Slime
 
 **Bounce Back:** At the end of each of your turns, remove an additional stack of each ailment from yourself.
 
 **Elastic Collisions:** Whenever you are hit by a basic attack, you are pushed 1 tile directly away from the source of that attack. The effect of all other non-teleportation forced movement on you is doubled. While moving due to forced movement, whenever you hit a barrier or another, you bounces off at the same angle it came in at, continuing until you run out of movement.
 
-**Sproing:** You are immune to falling damage. Whenever you would take falling damage, you may immediately move up two tiles.
+**Sproing:** You are immune to falling damage. Whenever you would take falling damage, you may immediately move into an adjacent empty tile.
 
-## Corrosive Slime
+### Corrosive Slime
 
 **Digestive Fluids:** At the end of each of your turns, apply one stack of defenseless to each creature you are grappling.
 
@@ -62,7 +62,7 @@ While prone, you collapse into a puddle. As a puddle, you may slide under doors 
 
 You do not need to make Endurance skill checks in order to destroy edible objects with this feature.
 
-## Sticky Slime
+### Sticky Slime
 
 **Combat Glue:** You have advantage on skill checks made to maintain your grapple.
 

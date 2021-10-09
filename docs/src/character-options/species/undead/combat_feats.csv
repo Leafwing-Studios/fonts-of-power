@@ -1,1 +1,7 @@
 "Name","Prerequisites","Effect"
+"Cursed Afterlife",,"You are immune to decay and umbral damage. You are vulnerable to radiant damage."
+"Dead Inside",,"You are immune to the taunted ailment and damage from the rage affliction."
+"Falling Apart",,"Whenever you lose life, apply one stack of frightened to all creatures within a 2 tile radius."
+"Second Chances",,"The first time each combat that you would die, instead don't."
+"Drain Soul",,"Whenever you down another creature, gain the benefit of the Recover action with advantage."
+"Brains...",,"At the end of each of your turns, apply one stack of crazed to each creature you are grappling."

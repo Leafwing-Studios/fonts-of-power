@@ -20,7 +20,7 @@ Banding together in a brilliant rainbow of diversity, these strange creatures li
 
 </div>
 
-### Features 
+## Features
 
 **Strange Mutation:** Select one arms or armor affix that has a gear point total of one and is not prismatic. You gain its benefits at all times.
 
@@ -28,7 +28,7 @@ Banding together in a brilliant rainbow of diversity, these strange creatures li
 
 **Elemental Sustenance:** You do not need to eat or drink, but instead must regularly consume elemental energy in some form in order to survive.
 
-## Primordial
+### Primordial
 
 Freshly forged in the places of great magic, the primordial fontborn form a motley crew, appearing to outsiders as sentient monsters and elementals. While the fontborn cannot reproduce directly, their connection to the fonts of power gives them an unusual talent for resurrection, which they use to continue their kind.
 
@@ -49,7 +49,7 @@ Still nascent and unstable, the fate and form of these creatures is in their own
 
 **Primordial Biology:** Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan minor actions in combat.
 
-## Mutant
+### Mutant
 
 Whether they were tragic victims of a magical accident or saved from the brink of death by the strange energy of the fonts, other species end up mutated by the fonts more often than you might expect. Whether they rejoin their families and communities or choose to start fresh among the other fontborn, fontborn mutants forever bear the unique mark of their brush with power.
 
@@ -74,3 +74,5 @@ Whether they were tragic victims of a magical accident or saved from the brink o
 While they may share the basic features of the species they once were, every mutant must live with the powers they have gained for the rest of their life.
 
 Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Manual Dexterity features.
+
+You may also select feats from their species feats lists.
