@@ -10,3 +10,4 @@
 "Immune System","Plague subclass","You have resistance to damage from afflictions."
 "Sickly","Plague subclass","Your ailments and afflictions are not reduced at the end of each turn. Each turn, choose one ailment to ignore."
 "Lifeline",,"You and allied dual can choose who takes damage, but share concentration. Whenever you lose life, your enemy dual loses 1 life."
+"Contagion","Plague subclass","Whenever you or your dual loses stacks of an ailment or affliction, your dual gains that many stacks of the ailment / affliction instead."
