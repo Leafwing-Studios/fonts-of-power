@@ -35,15 +35,15 @@ Splendidly diverse, sylvan deliberately attempt to create novel forms and functi
 
 </div>
 
-### Features 
+## Features
 
-**Take Root:** At the start of each of your turns, you may gain 4 absorption. If you do, you cannot spend movement until the start of your next turn.
+**Take Root:** At the end of each of your turns, if you did not take any movement actions, gain 4 absorption.
 
 **Bioengineering:** Once per rest while out of combat you may gain the benefits of the Craft downtime activity, using Anima in place of Craftsmanship as you attempt to create items, and modify arms or armor out of nearby plant life. You do not need to roll on the Supplies die to check whether you have tools or materials.
 
 **Land’s Bounty:** So long as you have access to light for photosynthesis, and water from the soil beneath you, you don’t need to eat or drink.
 
-## Floral
+### Floral
 
 **Intoxicating Aroma:** You gain access to the Intoxicating Aroma action.
 
@@ -51,14 +51,20 @@ Splendidly diverse, sylvan deliberately attempt to create novel forms and functi
 
 **Sunny Disposition:** Whenever an NPC would lose loyalty towards you, roll a d20. If the result is 11 or higher, they lose one less loyalty instead.
 
-## Vines
+### Vines
 
-**Grasping Vines:** Your zone of control is increased to 2 tiles
+**Prehensile Vines:** The radius of your zone of control is increased by one tile.
 
 **Covetous Tendrils:** You are proficient in Trickery.
 
-## Brambles
+### Brambles
 
-**Thorns:** Whenever you use the Block reaction in response to a melee attack deal 1d6 physical damage to the creature blocked.
+**Thorns:** Whenever you use the Block reaction in response to a melee attack deal 1d6 primal damage to the creature blocked.
 
 **Extremist:** You are proficient in Endurance.
+
+### Woody
+
+***Thick Bark:** You have resistance to physical damage. Increase the absorption gained by your Take Root species feature by 2.
+
+**Ancient Wisdom:** You have advantage on Focus (Insight) skill checks made to gain a clue.
