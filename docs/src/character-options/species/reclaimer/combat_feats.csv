@@ -14,3 +14,4 @@
 "Unstable Creation",,"When you use consumables, you may choose the damage type dealt, and any ailments and affliction applied at the time of use."
 "Prodigy",,"You have advantage on attack rolls and skill checks made as part of the Activate action."
 "Sterilization",,"After you use the Activate action, remove all ailments and afflictions from yourself."
+"Meek",,"Whenever a creature would target you with a single target attack, make a Focus attack against them. If you hit, they must target a different creature with that attack instead, or lose any costs spent on that action."
