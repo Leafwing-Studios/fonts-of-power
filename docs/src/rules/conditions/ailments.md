@@ -49,7 +49,11 @@ Damage dealt to you cannot be prevented by absorption, and you cannot use the Bl
 
 ## Frightened
 
-You have disadvantage on all attacks against the source of your fear. You cannot willingly move closer to the source of your fear if you know where it is. If a different source applies frightened to you, the object of your fear changes to the most recent source.
+You cannot willingly move closer to the source of your fear.
+If you begin your turn in a tile adjacent to the source of your fear, your first action each turn must be a movement action that moves you further away from them.
+If you cannot, gain 1 fewer AP at the end of the turn.
+
+If a different source applies frightened to you, the object of your fear changes to the most recent source.
 
 ## Pacified
 
