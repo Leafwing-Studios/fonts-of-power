@@ -47,6 +47,8 @@ Make a melee special attack against Prowess against another creature within a on
 
 You have disadvantage on Grapple attacks made against creatures smaller than a quarter of your size (in tiles). You cannot make Grapple attacks against creatures that are more than four times your size. You cannot make Grapple attacks while you have the grappled or grappling status.
 
+You have disadvantage on melee Grapple attacks against creatures who have the high ground. You have advantage on Grapple attacks against creatures who are prone.
+
 ### Reverse Grapple (2 AP)
 
 Gain the benefits of the Break Grapple action to free yourself from a grapple. If you succeed, you may shift once, then immediately make a Grapple attack against the creature that was grappling you.

@@ -108,6 +108,7 @@ Holding the high ground offers several advantages:
 
 - Shove attacks made from the high ground have advantage, while Shove attacks made from the low ground have disadvantage
 - The range of ranged attacks is asymmetric: for ranged attacks made by the creature on the low ground, the creature on the high ground is treated as being one tile further away for each tier of height advantage
+- Creatures on the low ground have disadvantage on Grapple attacks.
 
 The range of melee attacks is unaffected for a height advantage of 1; melee attacks cannot be made across a height advantage of 2 or more.
 
