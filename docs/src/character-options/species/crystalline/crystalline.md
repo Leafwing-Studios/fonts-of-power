@@ -36,18 +36,18 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 </div>
 
-### Features 
+## Features
 
 **Prismatic Lens:** Whenever you would make an attack that deals elemental damage and do not already have disadvantage on that attack, you may take disadvantage on that attack in order to select a new type of elemental damage for that attack.
 
 **Crystalline Harvest:** Whenever you or a party member uses the Harvest downtime activity, you may choose to gain twice as many essence crystals as usual by gathering the essence crystals from your own body.
 If you do, gain one stack of exhaustion.
 
-**Forbidden Snack:** You cannot use the Recover action. Consuming essence crystals to restore essence with the Activate action does not risk essence overload.
+**Forbidden Snack:** You do not regain essence when using the Essence Tap action. Consuming essence crystals to restore essence with the Activate action restores twice as much essence.
 
 **Crystalline Biology:** You do not need to breathe, eat or drink, and do not die of old age, but slowly shrink into nothingness if you are cut off from the world’s natural supply of magical energy, losing 1 tile in size every month. Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan minor actions in combat.
 
-## Raw
+### Raw
 
 | Roll  | Why do you choose to let your body grow free?                           |
 | :---: | ----------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ If you do, gain one stack of exhaustion.
 
 **Naturally Grown:** When you select this subspecies, choose a size between 0 and 4 tiles. You occupy this many tiles; see the rules on Creature Sizes in the Combat chapter for effects.
 
-## Hewn
+### Hewn
 
 | Roll  | Why do you choose to cut your body into facets? |
 | :---: | ----------------------------------------------- |
@@ -79,7 +79,7 @@ If you do, gain one stack of exhaustion.
 
 **Perfectionist:** You are proficient in Craftsmanship.
 
-## Geode
+### Geode
 
 | Roll  | How do you feel about the way Geodes are treated?                  |
 | :---: | ------------------------------------------------------------------ |

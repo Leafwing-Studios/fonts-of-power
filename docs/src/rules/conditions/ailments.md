@@ -10,7 +10,7 @@ While aloft:
 - You can pass through enemy tiles, and enemies can pass through your tiles.
 - You ignore ground effects.
 - You cannot spend movement to move laterally.
-- At the end of each of your turns, you may shift once.
+- At the end of each of your turns, you may move into an adjacent tile.
 
 ## Blinded
 
