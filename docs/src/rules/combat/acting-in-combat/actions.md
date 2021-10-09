@@ -114,13 +114,20 @@ Select a ailment or affliction. If you succeed on a difficulty 10 Focus (Medicin
 
 ### Activate (1 AP)
 
-Use a consumable, or temporarily attune to a magical item.
+Activate a powerful source of magic.
 
 Choose one:
 
-- Gain the benefits of a consumable magic item whose gear point total is less than or equal to your proficiency bonus. These are created using the Devise downtime activity.
-- Consume an essence crystals directly to restore 5 times your proficiency bonus essence.
-- Temporarily attune (or unattune) to a magical item until the end of your next rest, ignoring your attunement limit. Like usual, the enchantment gear point total of these items must be less than or equal to your proficiency bonus.
+- use a consumable magic item. These can be found while adventuring, or created using the Devise downtime activity.
+- activate a powerful magical vantage in arena, as specified in its description.
+- temporarily attune (or unattune) to a magical item until the end of combat.
+
+Essence crystals can always be used as consumables, restoring 5 essence on use.
+
+Concentrated magic is dangerous stuff!
+Each combat, each time you use this action after the first you risk **essence overload**. You may use this action once per combat without any risk.
+Make a Focus (Endurance) skill check.
+Gain 5 stacks of exhaustion, reduced by 1 for every 5 points of your skill check result.
 
 ### Essence Tap (1 AP)
 
