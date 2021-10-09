@@ -23,4 +23,5 @@
 "Menacing","Predator subspecies","At the end of each of your turns, apply one stack of frightened to each adjacent creature."
 "Meek","Prey subspecies","Whenever a creature would target you with a single target attack, make a Focus attack against them. If you hit, they must target a different creature with that attack instead, or lose any costs spent on that action."
 "Adorable",,"After you lose life due to an offensive action, apply one stack of pacified to the creature that caused you to lose life."
+"Poisonous",,"Whenever you're hit by a melee attack or at the end of each of your turns while you are grappled, apply two stacks of the specified affliction to the creature that hit you."
 "Intimidation",,"1 AP: make a Presence attack against a creature within a 6 tile range. If you hit, apply two stacks of frightened."
