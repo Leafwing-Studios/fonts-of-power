@@ -1,12 +1,12 @@
-"Name","AP","Essence","Category","Range","Type","Target",Effect,"Self Effect","Dual Effect"
-"Soul Burst","1","1","Offensive","6","Focus","Dual","Gain advantage on the next basic attack you make before the end of your next turn. Make a Focus attack against dual, dealing 1d6 + Presence umbral damage if you hit.","You have advantage on your next basic attack made before the end of your next turn.","1d6 + Presence specified damage."
-"Strange Symbiosis","1","1","Utility","6","Expertise","Dual",Swap absorption between self and dual if you hit.,"Transfer all absorption to dual. Gain 6 + Presence absorption.","Make a Focus attack. If you hit, transfer all absorption from dual. Grant 6 + Presence absorption."
-"Cleansing Agony","1","1","Offensive","6","None","Dual",Treat both. Deal 1 point of umbral damage for each stack removed.,"Remove all afflictions. 1 point of umbral damage per stack removed.","Remove all afflictions. 1 point of umbral damage per stack removed."
-"Dark Pact","1","1","Defensive / Offensive","6","None","Dual",You lose 1d8 + Presence life and gain twice that much absorption. Attack against dual to deal 1d8 + Presence umbral damage and grant absorption equal to twice the damage dealt.,"You lose 1d12 + Presence life. Gain three times that much absorption.","Make a Focus attack against your dual. If you hit, deal 1d12 + Presence umbral damage to them and they gain three times that much absorption."
-"Ethereal Elopement","1","1","Utility","6","Expertise","Dual",Teleport both up to 2 tiles in same vector. Dual only if hit with attack.,"Teleport up to 2 tiles.","Teleport up to 2 tiles if you hit."
-"False Hope","1","1","Defensive / Offensive","6","Focus","Dual","Apply 6 + Presence anguish, 6 + Presence absorption to each. Dual only if hit with attack.",,"Apply 6 + Presence anguish, gain 12 + 2*Presence absorption."
-"Insiduous Whispers","1","1","Utility","6","Focus","Dual","Both gain two stacks of crazed. Until the start of your next turn, apply one stack of crazed to any creature that you hit with a basic attack. Dual only if hit with attack.",,"Apply two stacks of crazed. For the duration of this effect, apply one stack of crazed to any creature that your dual hits with a basic attack."
-"Involuntary Dance","1","1","Defensive","6","None","Dual","Until the start of your next turn, mirror all movement to counterpart. Dual only if hit with attack.",,
-"Private Moment","1","1","Defensive","6","None","Dual",Invisible to all creatures other than your counterpart until the start of your next turn.,,
-"Shared Senses","1","1","Defensive","6","None","Dual","Until the end of your next turn, share senses, and have advantage on all attacks made against other creatures in your counterpart's zone of control.",,
-"Asymptomatic Transmission","1","1","Utility","6","Prowess","Dual",Swap all ailments and afflictions.,,
+"Name","AP","Essence","Category","Range","Type","Target","Effect"
+"Soul Burst","1","1","Offensive","6","Focus","Dual","Gain advantage on the next basic attack you make before the end of your next turn. Make a Focus attack against dual, dealing 1d6 + Presence umbral damage if you hit."
+"Strange Symbiosis","1","1","Utility","6","Expertise","Dual","Swap absorption between self and dual if you hit."
+"Cleansing Agony","1","1","Offensive","6","None","Dual","Treat both. Deal 1 point of umbral damage for each stack removed."
+"Dark Pact","1","1","Defensive / Offensive","6","None","Dual","You lose 1d8 + Presence life and gain twice that much absorption. Attack against dual to deal 1d8 + Presence umbral damage and grant absorption equal to twice the damage dealt."
+"Ethereal Elopement","1","1","Utility","6","Expertise","Dual","Teleport both up to 2 tiles in same vector. Dual only if hit with attack."
+"False Hope","1","1","Defensive / Offensive","6","Focus","Dual","Apply 6 + Presence anguish, 6 + Presence absorption to each. Dual only if hit with attack."
+"Insiduous Whispers","1","1","Utility","6","Focus","Dual","Both gain two stacks of crazed. Until the start of your next turn, apply one stack of crazed to any creature that you hit with a basic attack. Dual only if hit with attack."
+"Involuntary Dance","1","1","Defensive","6","None","Dual","Until the start of your next turn, mirror all movement to counterpart. Dual only if hit with attack."
+"Private Moment","1","1","Defensive","6","None","Dual","Invisible to all creatures other than your counterpart until the start of your next turn."
+"Shared Senses","1","1","Defensive","6","None","Dual","Until the end of your next turn, share senses, and have advantage on all attacks made against other creatures in your counterpart's zone of control."
+"Asymptomatic Transmission","1","1","Utility","6","Prowess","Dual","Swap all ailments and afflictions."

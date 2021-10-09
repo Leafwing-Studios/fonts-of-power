@@ -73,7 +73,7 @@ You may also select feats from their species feats lists.
 
 **Blindsight:** Lacking eyeballs, you can no longer see in the usual fashion. Instead, you gain an innate awareness of the 6 tiles around your skull as if you could see in bright light. Within this radius, you are immune to the blinded ailment and shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded ailment.
 
-**Detachable:** You may detach and reattach parts of your body at will, controlling them freely so long as they are within 6 tiles of your skull.
+**Detachable:** You may detach and reattach parts of your body at will, controlling them freely so long as they are within 6 tiles of your skull. Detached body parts have advantage on stealth skill checks.
 This ability has no effect in combat.
 
 ## Spectre
