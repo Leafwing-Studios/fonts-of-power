@@ -11,3 +11,6 @@
 "Hop",,"2 AP: Move up to two tiles away by teleportation."
 "Brawny",,"You have advantage on Shove attacks."
 "Scrawny",,"Shove and Grapple attacks against you have disadvantage."
+"Amorphous",,"1 AP: Increase or decrease your size by 1 tile."
+"Slithering",,"You no longer move more slowly while prone, and no longer have disadvantage on melee attacks while prone."
+"Horned",,"Whenever you move 2 or more tiles in a straight line, you may make a melee Shove attack against a creature that is in front of you without spending any AP."
