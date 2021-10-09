@@ -15,3 +15,4 @@
 "Lumbering",,"You can only take at most one movement action each turn. Whenever you take a movement action, make a Prowess attack against all creatures in a 1 tile radius. If you hit, knock them prone."
 "Levitating",,"At the start of each of your turns if you do not have the aloft ailment, gain 1 stack of the aloft ailment. You no longer have disadvantage on melee attacks due to the aloft ailment. The aloft ailment is not removed at the end of each of your turns."
 "Rock Solid",,"The effects of forced movement against you is reduced by 1 tile."
+"Digger",,"1 AP: reduce the height tier of an adjacent tile by 1, remove a wall or convert an adjacent edge from abrupt to gradual (if height delta <= 1). Also costs exploration feat."
