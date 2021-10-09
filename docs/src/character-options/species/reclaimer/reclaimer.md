@@ -29,13 +29,13 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 </div>
 
-### Features 
+## Features
 
 **Insatiable Curiosity:** You may use the Activate action one more time each rest before needing to make a Focus (Arcana) skill check made to avoid essence overload.
 
-**Scavenger:** You have advantage on all skill checks made during the Devise and Disenchant downtime activities.
+**Scavenger:** You have advantage on all skill checks made during the Devise downtime activity.
 
-## Life-Collector
+### Life-Collector
 
 | Roll | What sort of life do you collect? |
 | ---- | --------------------------------- |
@@ -50,7 +50,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 **Natural Historian:** You are proficient in Anima.
 
-## Academy-Rat
+### Academy-Rat
 
 | Roll | What do you focus your academic research on? |
 | ---- | -------------------------------------------- |
@@ -65,7 +65,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 **Lore Seeker:** You are proficient in Arcana.
 
-## Font-Congregant
+### Font-Congregant
 
 | Roll | How do you feel about the gods you pray to?                            |
 | ---- | ---------------------------------------------------------------------- |
@@ -80,7 +80,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 **Devotee of the Lost Gods:** You are proficient in Fontcraft.
 
-## City-Scrapper
+### City-Scrapper
 
 | Roll | What do you do with your inventions?                                |
 | ---- | ------------------------------------------------------------------- |
