@@ -35,6 +35,7 @@ Grow closer to another party member, improving your cooperation. Both party memb
 
 - you have advantage on any skill check made to attempt to help each other on skill checks
 - you have advantage on any skill checks or attack rolls made to use the Treat or Break Grapple minor actions to benefit each other
+- whenever one of you hits a creature with an attack, the other may make an attack of opportunity against that creature
 
 ## Challenge
 

@@ -97,6 +97,8 @@ When you make an attack of opportunity, you may immediately use a single offensi
 You have advantage on single target attacks made as part of an attack of opportunity.
 You must pay its AP and essence costs and respect any other restrictions (such as range) as normal.
 
+You may only make one attack of opportunity per turn.
+
 ## Defense
 
 ### Defend (1 AP)
