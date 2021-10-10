@@ -72,28 +72,12 @@ Improve your relationship with an NPC or faction by helping them out or building
 
 ## Craft
 
-Attempt to create a mundane item, or modify the affixes of a set of arms or armor using exceptional craftsmanship.
+Attempt to fashion something useful from the materials you have.
+Make an Expertise (Craftsmanship) skill check. For every 5 points of the skill check result, you may make a *prepared for anything* check with advantage to attempt to create an item of your choice.
 
-In order to use this downtime activity, you must have access to both the appropriate tools and raw materials. You can get these by using the Prepared for Anything system and rolling the Supplies die. Tools are not consumed, but raw materials are, whether you succeed or fail.
+The plausibility of these checks is influenced by your availability tools, workspace and materials.
 
-If you want to add an affix to a set of arms or armor, make an Expertise (Craftsmanship) skill check, with a difficulty set by the rarity of the affix. If you succeed, add that affix to the item’s affixes.
-
-<div class="infobox">
-
-**Affix crafting difficulty by rarity**
-
-- **Common:** difficulty 10
-- **Advanced:** difficulty 15
-- **Exotic:** difficulty 20
-- **Prismatic:** difficulty 25
-
-</div>
-
-If you succeed by 5 or more, you may immediately gain the benefit of this downtime activity again, affecting the same item.
-
-Regardless of success, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2. In addition, you may choose to immediately attune to the piece of gear you just crafted, replacing your attunement to an existing piece of gear of the same type if needed.
-
-Creating mundane items or structures other than arms and armor requires an Expertise (Craftsmanship) skill check, with the difficulty set by the table in the usual fashion.
+Like usual, if you roll a 1 on the supplies die, deplete it once.
 
 ## Disenchant
 
@@ -138,6 +122,17 @@ Regardless of success, you may remove any affixes from the arms or armor, lettin
 
 If you succeed, this item becomes permanently **marked** by the type of magic used to imbue it, corresponding to the choice of Anima, Arcana, Fontcraft or Tinkering, replacing any previous **mark**. Skill checks made as part of the Disenchant or Enchant downtime activity that use a different skill are made with disadvantage.
 
+## Forge
+
+Make an Expertise (Craftsmanship) skill check. For every 10 points of your skill check result, you may take one of the following actions:
+
+- Create a set of mundane arms and armor, selecting the affixes from the standard pool of mundane affixes freely
+- Freely modify the mundane affixes of one set of arms or armor
+
+For each of the actions that you take, roll on the supplies die once. Like usual, if the result is a 1, deplete your supplies die.
+
+You cannot take one of these actions if your supplies die is fully depleted.
+
 ## Harvest
 
 Gather essence crystals from the environment around you. For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering. You may only use the Harvest downtime activity if the current danger level is 1 or greater.
@@ -156,8 +151,24 @@ Remove an additional stack of exhaustion or restore half your maximum life.
 
 ## Resupply
 
-Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment. Reset the party’s Supplies die to a d6 and remove all existing adventuring gear that you have. The details of how and where you resupply influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lock-picks.
+Purchase supplies, borrow them from the locals or scavenge them from the surrounding environment.
 
+Choose one of the following skill checks to make, depending on the setting of your downtime activity:
+
+- Presence (Charm)
+- Focus (Anima)
+- Focus (Fontcraft)
+- Focus (Tinkering)
+
+Then, reset the party's Supplies die based on the result of the check:
+
+- 10 or lower: d4
+- 11-15: d6
+- 16-19: d8
+- 20-24: d10
+- 25 or higher: d12
+
+The details of how and where you last resupplied influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lock-picks.
 See the Prepared for Anything section in the Gear chapter for more details on how Supply and adventuring gear works.
 
 ## Resurrect
@@ -217,6 +228,13 @@ Their ally returns as their original species with 5 stacks of exhaustion. Then, 
 Each ally may make take the Resurrect downtime activity during the same rest. This can dramatically increase speed and success rate, but remember that the target gains transcendence after each failure. As always, they must all chose whether to Resurrect _before_ any allies have rolled to see if they succeed. Then, all allies roll at the same time, tallying up successes and failures appropriately.
 
 When you return from the dead, you immediately suffer exhaustion equal to your previous transcendence. Like usual, gaining this exhaustion can kill you. Any skill checks made to resurrect you after you have died due to the exhaustion of being brought back from the dead are made with disadvantage.
+
+## Shape
+
+Attempt to shape the world around you, preparing an arena for combat.
+Make an Expertise skill check using Anima, Arcana, Craftsmanship, Fontcraft or Tinkering.
+
+For every 5 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
 
 ## Support
 

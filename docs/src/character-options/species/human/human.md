@@ -31,7 +31,7 @@ The diversity of the human species is its greatest strength: no two are quite th
 |   5   | Clothing and objects made of leather and cloth. |
 |   6   | Works of art.                                   |
 
-### Features 
+## Features
 
 **Adaptable:** At the start of each of your turns, you may immediately take Swap action without paying its AP cost.
 
