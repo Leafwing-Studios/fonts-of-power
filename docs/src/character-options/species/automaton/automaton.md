@@ -71,11 +71,11 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 |   5   | I was created to serve as an employee.                                  |
 |   6   | I was created to act as a successor for a retiring master craftsperson. |
 
-**Repurposed:** Your body is an effective weapon all on its own: industrial equipment is incredibly dangerous, if somewhat challenging to use in combat. Create a set of arms using the standard rules which have a gear point total of 2. You are always attuned to them, and they do not count against your attunement limit. These arms have the _wanton_ affix, which does not count against their gear point total. You can modify their affixes using the Craft or Enchant downtime activities.
+**Repurposed:** Your body is an effective weapon all on its own: industrial equipment is incredibly dangerous, if somewhat challenging to use in combat. Create a set of arms using the standard rules which have a gear point total of 2. You always have them equipped, and they do not count as one of the two sets of arms you can equip. These arms have the _wanton_ affix, which does not count against their gear point total. You can modify their affixes using the Craft or Enchant downtime activities.
 
 <div class="inline-box">
 
-**Wanton (arms, common, 1):** Your basic attacks have disadvantage, but deal 1d8 extra damage.
+**Wanton:** You have disadvantage on all attacks. Your critical hit threshold is reduced by 4.
 
 </div>
 

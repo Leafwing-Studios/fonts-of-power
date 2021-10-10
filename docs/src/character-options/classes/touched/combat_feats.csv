@@ -7,7 +7,7 @@
 "Desperate Protector",,"While you are at or below 10 life, your companion's attacks are automatically criticals if they hit."
 "Retaliation",,"Whenever your Companion uses the Block reaction, apply one stack of the specified ailment to the creature whose attack it blocked."
 "Vengeful",,"Whenever you are hit by an attack, you may make an attack of opportunity against the creature that hit you."
-"Arsenal",,"Your companion has an additional weapon that they can swap to. You can attune to an additional weapon."
+"Arsenal",,"You and your companion can each equip an additional weapon at once."
 "Embodiment",,"Replaces Nudge. 1 AP from companion: seperate, gaining its own token in adjacent tile. While seperated, can take any core action. Life, essence, and exhaustion shared, everything else seperate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life."
 "Well-Adapted",,"You have resistance to the damage types your companion's weapons deal."
 "Dance Partner",,"The first time each turn that you or your companion uses Shift, refund AP spent."

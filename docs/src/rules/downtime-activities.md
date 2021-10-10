@@ -29,24 +29,6 @@ The danger level of an area affects the following:
 - Players can only be resurrected at a font from the area of highest danger. In most cases, this is the epicenter of the font.
 - The difficulty of combat encounters and the amount of treasure found scales with the danger level, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
 
-## Attune
-
-Forge a connection with pieces of magical gear, allowing you to tap into its magic. You only gain the benefits (or drawbacks) of any enchanted affixes of gear that you have equipped while you are attuned to it. When you use this downtime activity, you may complete change the items that you are attuned to, attuning (or unattuning) to any number of items up to your personal **attunement limit** of:
-
-- two sets of arms
-- one set of armor
-- three trinkets
-
-If you are already at your attunement limit for a particular type of gear, you must lose attunement to an existing set (or sets) of gear of the appropriate type to attune to a new set.
-
-As you gain experience and learn to control your own magic, you are able to safely use more powerful magical items. You can only attune to a set of arms or armor if its gear point total ≤ proficiency bonus + 2.
-
-After you perform this downtime activity, you are particularly in touch with your magical items for a short period of time. One time before your next rest, you may modify the result of a roll after you see its outcome:
-
-- If you attuned to a set of arms, you may treat an attack that you made while you had these arms equipped as if you had rolled a 15.
-- If you attuned to a set of armor, you may treat an attack that you made against you while you had this armor equipped as if the attacker had rolled a 5.
-- If you attuned to a collection of trinkets, you may treat a related skill check as if you had rolled a 15. This is deliberately broad: if it is narratively plausible that the trinket could have helped you accomplish the task for which you rolled the skill check, you may use this benefit.
-
 ## Bond
 
 Grow closer to another party member, improving your cooperation. Both party members must select this downtime activity in order to gain its benefits. Until you next complete a rest:
@@ -118,7 +100,7 @@ If you have access to a relevant **source of knowledge,** you have advantage on 
 
 You have disadvantage on this skill check if the item is already marked by a different crafting skill.
 
-Regardless of success, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2. In addition, you may choose to immediately attune to the piece of gear you just enchanted, replacing your attunement to an existing piece of gear of the same type if needed.
+Regardless of success, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2.
 
 If you succeed, this item becomes permanently **marked** by the type of magic used to imbue it, corresponding to the choice of Anima, Arcana, Fontcraft or Tinkering, replacing any previous **mark**. Skill checks made as part of the Disenchant or Enchant downtime activity that use a different skill are made with disadvantage.
 

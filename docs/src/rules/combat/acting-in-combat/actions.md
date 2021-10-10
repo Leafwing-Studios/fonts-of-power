@@ -141,7 +141,6 @@ Choose one:
 
 - use a consumable magic item. These can be found while adventuring, or created using the Devise downtime activity.
 - activate a powerful magical vantage in arena, as specified in its description.
-- temporarily attune (or unattune) to a magical item until the end of combat.
 
 Essence crystals can always be used as consumables, restoring 5 essence on use.
 
