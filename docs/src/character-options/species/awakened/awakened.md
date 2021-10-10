@@ -70,7 +70,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 **Climbing:** You can climb walls and ceilings without needing to make an Athletics skill check. Moving up and down height tiers only costs you one tile of movement for every two tiers of height difference beyond the first.
 
-**Rebound:** When you use the Stand Up action, you may move up to two tiles, rather than one. You have resistance to physical damage taken due to falling.
+**Wiry:** You are proficient in Athletics.
 
 ### Flyer
 

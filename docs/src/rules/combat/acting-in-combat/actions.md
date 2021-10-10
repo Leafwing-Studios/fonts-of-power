@@ -39,6 +39,25 @@ Choose a creature you are grappling, then either:
 
 If they leave your zone of control, you immediately stop grappling them.
 
+### Leap (1 AP)
+
+Choose a tile within a range equal to the movement you have to spend.
+Note that if the source and target are on different height tiers, ranges are measured differently, as described in the rules on height tiers.
+
+Make a Prowess (Athletics) skill check:
+
+- if the result is less than 10, reduce the movement you have to spend by two
+- if the result is less than 20, reduce the movement you have to spend by one
+
+Then, spend movement up to the range of the targeted tile:
+
+- if you have enough movement, you move to the targeted square, avoiding any ground effects between you and that tile. Keep any extra movement.
+- if you are one short, you spend all movement to move to the targeted square, avoiding any ground effects between you and that tile but are knocked prone.
+- if you are more than one short, spend all movement you land a number of tiles away from your starting position equal to the tiles of movement spent.
+
+If the tile is occupied by a creature whose tile you cannot enter (such as most enemies), immediately make a melee Shove attack against the creature in that tile. If you hit, you must either knock them prone or push them out of your way if able.
+If you miss, they automatically hit you with a Shove attack and must either knock you prone or push you out of the way.
+
 ## Offense
 
 ### Grapple (2 AP)
