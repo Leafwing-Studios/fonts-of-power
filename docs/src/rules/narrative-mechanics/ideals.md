@@ -8,6 +8,16 @@ When you are creating your character, set each of your five ideals to any value 
 
 The higher your value in an ideal, the more willing you are to sacrifice your own self-interest, or the bonds you have forged with others, to uphold that ideal. If you have high values in each ideal, you will be better at convincing others of the importance of doing good. If you have low values in each ideal, you will be better at convincing others to overlook harm.
 
+The standard setting uses the five following ideals:
+
+- **Equality:** In diversity, strength.
+- **Harmony:** Peace and prosperity, hand in hand.
+- **Liberty:** The courage to act; the freedom to choose.
+- **Progress:** Towards a brighter tomorrow.
+- **Sanctity:** I believe in doing what is right.
+
+As a table, feel free to add, remove or replace these ideals to match the tone of your campaign.
+
 ## Equality
 
 Equality is the belief in the fundamental equality of all sentient beings, the importance of fairness, and the obligation to help those least fortunate. You focus on the plights of the downtrodden, and want to help them find the justice and respect that they deserve.
@@ -22,7 +32,7 @@ Harmony is the belief in peace, order, and the importance of setting aside your 
 
 A character who believes very strongly in Harmony might work to uphold the law to keep the peace in their society, but overlook the way that their actions reinforce a harmful status quo.
 
-By contrast, a character who does not care at all about Harmony might promote competition and strife in the hopes of acheiving better outcomes in the end, even if it destabilizes society or harms people in the process.
+By contrast, a character who does not care at all about Harmony might promote competition and strife in the hopes of achieving better outcomes in the end, even if it destabilizes society or harms people in the process.
 
 ## Liberty
 
