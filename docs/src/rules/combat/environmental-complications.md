@@ -86,7 +86,7 @@ Flying creatures cannot increase their height tier freely, and are always consid
 Gradual edges do not require any special rules for movement: both voluntary and forced movement work as normal.
 
 Safely travelling up or down an abrupt edge takes one additional tile of movement per height tier changed.
-Creatures that are flying or moving by teleportation do not need to spend any extra movement.
+Creatures that are flying or moving by teleportation must spend one additional tile of movement for every two tiers of height changed beyond the first.
 
 Forced movement cannot move creatures *up* across abrupt edges, but can move creatures *down* abrupt edges, typically causing **falling damage**:
 

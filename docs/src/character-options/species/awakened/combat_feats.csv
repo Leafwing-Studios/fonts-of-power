@@ -7,7 +7,7 @@
 "Horned",,"Whenever you move 2 or more tiles in a straight line, you may make a melee Shove attack against a creature that is in front of you without spending any AP."
 "Hybrid Vigor",,"Gain one of the other Awakened subspecies' combat features."
 "Tough Skin",,"At the start of each of your turns, gain 2 absorption."
-"Glider","Climber subspecies","For tier of height lost while falling, you may move into an adjacent tile. You no longer take falling damage."
+"Glider","Climber subspecies","For tier of height lost while falling, you may move into an adjacent tile. You are immune to falling damage."
 "Momentum",,"At the end of each of your turns, if you moved this turn you must move 1 tile in the direction you last moved in if able."
 "Trample",,"Whenever you move through the tile of a prone creature, deal 1d4 + Prowess physical damage to them."
 "Lumbering",,"You can only take at most one movement action each turn. Whenever you take a movement action, make a Prowess attack against all creatures in a 1 tile radius. If you hit, knock them prone."
