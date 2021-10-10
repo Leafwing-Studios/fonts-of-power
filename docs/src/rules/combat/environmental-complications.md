@@ -80,6 +80,8 @@ Abrupt edges involve awkward, challenging climbs, while gradual edges are found 
 Gradual edges can only be found between two tiles of adjacent heights, while abrupt edges can cause sudden drops in height.
 
 Flying creatures cannot increase their height tier freely, and are always considered to be at the height tier of the tile that they are above.
+Creatures cannot fly in tiles whose ceiling is less than two height tiers above their floor.
+Creatures who are larger than zero tiles in size cannot move through tiles whose ceiling is one height tier above their floor unless they are prone.
 
 ### Travelling Up and Down
 
