@@ -54,6 +54,4 @@ Affixes come in four different **rarities,** which reflect their in-game mechani
 - **common:** straightforward, generally useful affixes that are particularly useful on martial characters
 - **advanced:** more nuanced affixes that tend to support a specific playstyle
 - **exotic:** strange, complex and bizarre affixes that radically change how your character plays the game
-- **prismatic:** incredibly powerful, build-defining effects that are comparable to the **capstone** feature that you receive upon reaching level 20
-
-Common, advanced and exotic affixes are intended to have equivalent power levels, while prismatic affixes are about three times as powerful as other affixes. **You may equip your first prismatic affix at level 9, and your second prismatic affix at level 17.** You cannot equip more than one prismatic affix of a particular type of gear at once, although you may be attuned to two prismatic affixes on separate weapons and then swap between them.
+- **signature:** incredibly powerful, build-defining effects that are comparable to the **capstone** feature that you receive upon reaching level 10

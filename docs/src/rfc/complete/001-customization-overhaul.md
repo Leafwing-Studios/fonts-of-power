@@ -78,11 +78,11 @@ intended to help you adapt to the situation at hand and work for any class and s
 ### Reference-level explanation
 
 1. Combat talents are removed, and replaced with feats.
-2. Skill talents are renamed to **skill focus**. These are moved to be attached to the specific skill.
+2. Skill talents are replaced with exploration feats.
 3. Gear affix point budget is scaled down.
    1. Equal to proficiency bonus + 2.
    2. Double the cost of all affixes, solving the 0.5 cost affixes as well.
-4. Gain one feat at level 1, and one more every ~4 levels (when your attributes increase).
+4. Gain one feat at level 1, and one more every ~3 levels (when your attributes increase).
 5. When you gain a feat, select from one of the following lists:
    1. A feat associated with your class or subclass.
    2. A feat associated with your species or subspecies.
@@ -151,51 +151,3 @@ These should stay as is.
 ### Future work
 
 Monsters should have access to signature affixes.
-
-## Sub-proposal: Feature cards
-
-### Guide-level explanation
-
-### Reference-level explanation
-
-### Drawbacks
-
-### Open questions
-
-### Future work
-
-## Sub-proposal: Limited affix pools
-
-### Guide-level explanation
-
-### Reference-level explanation
-
-### Drawbacks
-
-### Open questions
-
-### Future work
-
-## Sub-proposal: Flaws and Drawbacks
-
-### Guide-level explanation
-
-### Reference-level explanation
-
-### Drawbacks
-
-### Open questions
-
-### Future work
-
-## Sub-proposal: Consumable overhaul
-
-### Guide-level explanation
-
-### Reference-level explanation
-
-### Drawbacks
-
-### Open questions
-
-### Future work
