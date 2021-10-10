@@ -27,3 +27,4 @@
 "Intimidation",,"1 AP: make a Presence attack against a creature within a 6 tile range. If you hit, apply two stacks of frightened."
 "Digger",,"1 AP: reduce the height tier of an adjacent tile by 1, remove a wall or convert an adjacent edge from abrupt to gradual (if height delta <= 1). Also costs exploration feat."
 "Leaping",,"You have advantage on skill checks made as part of the Leap action, advantage on skill checks made to reduce falling damage and resistance to falling damage."
+"Feral",,"While below half life or essence, regain 1 AP the first time each turn that you use the Swap action."
