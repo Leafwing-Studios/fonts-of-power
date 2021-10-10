@@ -23,10 +23,10 @@ Areas with a higher danger level carry more risk but come with greater rewards. 
 The danger level of an area affects the following:
 
 - If you rest in an area with a danger level greater than 0, you must complete a one-success [attrition scene](rules/scenes/attrition-scenes), suffering consequences if you fail
-- The difficulty of skill checks during attrition scenes increases by 5 for each danger level
+- The difficulty of skill checks during attrition and chase scenes increases by 5 for each danger level
 - The Harvest and Enchant downtime activities gain a bonus of +5 for each danger level
 - Harvest can only be used if the danger level is 1 or greater
-- Players can only be resurrected at a font from the area of highest danger. In most cases, this is the epicenter of the font.
+- Players can only be resurrected at a font from the area of highest danger. In most cases, this is the physical center of the font.
 - The difficulty of combat encounters and the amount of treasure found scales with the danger level, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
 
 ## Bond
@@ -63,46 +63,44 @@ Like usual, if you roll a 1 on the supplies die, deplete it once.
 
 ## Disenchant
 
-Scrap an item completely, turning it back into essence crystals.
+Scrap an enchanted item completely, turning it back into its raw ingredients.
 
-Choose a set of arms or armor, or a single trinket, and make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check. The item is permanently destroyed, and you recover essence crystals equal to:
-
-**skill check result \* gear point total / 2**
-
-Treat the gear point total of any trinket consumed in this way as 1.
-
-You have disadvantage on this skill check if the item is marked by a different crafting skill.
+Choose an enchanted set of arms or armor, and make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+Choose one of its affixes, and gain that ingredient. It is associated with the skill used for this check.
+Gain one essence crystal for each remaining enchantment point of the item, up to a maximum of one essence crystal for every 5 points of your skill check result.
 
 ## Devise
 
 Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with or a clever trap.
 
-Design a consumable by selecting one base effect and any number of modifying effects.
+Design a consumable by selecting one base effect and up to one modifier.
 
-Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check. You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down. Additionally, you may spend any number of essence crystals after seeing the result of the enchanting skill check. Gain 1 additional copy of the consumable for every essence crystal consumed in this way.
+Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+Create one copy of the consumable for every 5 points of your skill check result.
+Sacrifice one essence crystal for each consumable created.
 
 ## Enchant
 
-Enchant an item, adding an affix to it by spending essence crystals.
+Enchant an item, adding an affix to it.
 
-Select a trinket, or an affix and a set of arms or armor. Successfully adding this affix to the gear consumes 10 essence crystals per gear point of that affix (to a minimum of 0) are consumed, transformed into the magic of the enchantment (but not lost if you fail). If the affix is prismatic, 30 essence crystals must be consumed instead. Creating trinkets always costs 10 essence crystals.
+Choose a set of arms or armor, and then choose one of the following options to determine which affix is added:
 
-Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check, with a difficulty of 20 for a trinket, or set by the rarity of the affix. Add a bonus of 5 times the current danger level of the area you are in to that skill check. If you succeed, create that trinket or add that affix to the item’s affixes.
+- Use an ingredient that you have found to add this affix to that item.
+  - After each victorious combat encounter, each party member draws three affixes used by the monsters, and chooses one to keep as an ingredient.
+  - The skill associated with the ingredient is determined by the type of monster it was from.
+  - You can find more ingredients through exploring the font (as treasure, or as rewards for helping others), or can use the Harvest downtime activity.
+- Do not use an ingredient, and instead draw three random affixes from the font. Choose one to apply.
+  - You may use freely choose the crafting skill used in this downtime activity if you select this option.
 
-If you succeed by 5 or more, you may immediately gain the benefit of this downtime activity again, affecting the same item.
+Consume the ingredient, then determine your success or failure at this crafting:
 
-If you have access to a relevant **source of knowledge,** you have advantage on this skill check. Each crafting skill uses a different source of knowledge:
+- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Arcana, Fontcraft or Tinkering).
+- Add 5 times the current danger level of the area you are resting in to the result.
+- The difficulty of adding an affix is equal to 15 + (5 \* the gear points of that affix).
 
-- _Anima:_ you have free access to a monster (or some trophy from that monster) who has the desired enchantment.
-- _Arcana:_ you have free access to some sort of book, teacher or other documentation.
-- _Fontcraft:_ you are at a font of power that shares an element with the enchantment in question.
-- _Tinkering:_ you have free access to an existing item with that affix.
+If you failed by 10 or less, you may sacrifice essence crystals equal to the difference between your roll and the difficulty to complete the process.
 
-You have disadvantage on this skill check if the item is already marked by a different crafting skill.
-
-Regardless of success, you may remove any affixes from the arms or armor, letting you replace an affix with a new one to ensure that the gear point total remains less than or equal to your proficiency bonus plus 2.
-
-If you succeed, this item becomes permanently **marked** by the type of magic used to imbue it, corresponding to the choice of Anima, Arcana, Fontcraft or Tinkering, replacing any previous **mark**. Skill checks made as part of the Disenchant or Enchant downtime activity that use a different skill are made with disadvantage.
+If you succeeded, you may choose to remove any number of existing affixes from that gear, then add your new affix!
 
 ## Forge
 
@@ -117,9 +115,16 @@ You cannot take one of these actions if your supplies die is fully depleted.
 
 ## Harvest
 
-Gather essence crystals from the environment around you. For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering. You may only use the Harvest downtime activity if the current danger level is 1 or greater.
+Gather resources from the environment around you.
 
-Make a Focus skill check with the appropriate skill, adding a bonus of 5 times the danger level of the area you are resting in. Gain 1 essence crystal for every 5 points of the skill check result.
+Choose one of Anima, Arcana, Fontcraft or Tinkering.
+For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
+
+You may only use the Harvest downtime activity if the current danger level is 1 or greater.
+
+Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in. Then draw one random ingredient from the font's collection of ingredients for every 5 points of the skill check result. Then, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
+
+This ingredient is associated with the skill you used for this skill check.
 
 ## Prepare
 
