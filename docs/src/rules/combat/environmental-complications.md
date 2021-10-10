@@ -97,7 +97,7 @@ Forced movement cannot move creatures *up* across abrupt edges, but can move cre
 2. The creature that fell makes a Agility (Athletics) skill check to attempt to land gracefully.
 3. Subtract the result of this skill check from the base damage rolled in step 1 to get the final falling damage dealt.
 
-For example, falling from the 3rd tier in an area, to the bottom (0th) tier would incur 6d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 6d6 - 13.
+For example, falling from the 3rd tier in an area, to the bottom (zeroth) tier would incur 6d6 physical damage. If you rolled a 13 on your skill check, the total damage would be 6d6 - 13.
 
 Creatures can also choose to voluntarily walk off cliffs, offering them a quick and painful way to get down.
 
