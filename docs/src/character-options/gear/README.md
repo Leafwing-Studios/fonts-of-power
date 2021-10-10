@@ -5,10 +5,12 @@ Treasure, magical trinkets, fantastical swords and elaborate suits of armor lie 
 In *Fonts of Power*, there are three different types of combat-relevant items characters (and monsters!) can use:
 
 - **Arms:** Swords, bows, wands and claws, for all your combat needs!
-  - Each character can equip two sets of arms at once, and change which one they're currently using with the Swap action.
   - Arms enhance the power of offensive, defensive and utility actions, either mundane or magical in nature.
+  - Each character can equip two sets of arms at once, and change which one they're currently using with the Swap action.
 - **Armor:** Protective suits of armor, magical vestments and sleek black leather. Generally, makes you harder to kill!
   - Armor improve your defenses, protects you from conditions or makes you sneakier.
+  - Each character can only equip one set of armor at once: "armor" is an entire outfit designed to function as a whole, not merely a breastplate or fancy hat.
+  - You cannot change which arms or armor you have equipped in combat: changing them out is complicated work!
 - **Consumables:** Powerful, one-off magical items like potions and scrolls that are consumed on use.
   - Once per combat, you can use the Interact action to use these. Using them more frequently risks exhaustion due to essence overload.
   - Player characters can create more using the Devise downtime activity.
