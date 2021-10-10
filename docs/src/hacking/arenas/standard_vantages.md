@@ -37,13 +37,15 @@ Height tier one solid object.
 
 10 life, [\0 / 5 / 10 \] absorption per turn. Use Interact to open. Can be locked.
 
-### Lever / Switch
-
-Use the Interact action on it to do something.
-
 ### Zipline
 
 Use Interact at the top of the zipline to move to the bottom of the zipline.
+
+### Swinging rope
+
+When in position, use Interact to swing across a gap, or jump off in the middle.
+
+May or may not be reusable.
 
 ## Manmade environment
 
@@ -71,6 +73,10 @@ Ceilings only 2 height tier above floor.
 
 Ceilings only 1 height tier above floor.
 
+### Tightrope
+
+1 tile wide path. Difficult terrain. Ground effect: attacks which apply forced movement to you have advantage.
+
 ## Natural environment
 
 ### Shallow water
@@ -84,6 +90,10 @@ Tile effect: make a difficulty \[10/15/20/25\] Prowess (Athletics) skill check o
 ### Underbrush
 
 Difficult terrain. Lightly shrouded.
+
+### Ice
+
+Difficult terrain. Ground effect: when triggered, make a difficulty 10 Agility (Athletics) skill check or be knocked prone.
 
 ### Brush
 
