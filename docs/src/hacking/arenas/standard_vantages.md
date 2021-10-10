@@ -103,6 +103,14 @@ Partial cover, difficult terrain, heavily shrouded.
 
 Height tier [2/3/4] solid object. 10 absorption per turn. Vulnerable to fire and decay damage
 
+### Boulder
+
+Two height block. Use Interact to roll. Moves 1 tile for every 10 points of your Prowess (Athletics) skill check result. Advantage on skill check if round enough to roll.
+
+If it can roll, when created or moved, if on a tile with a gradual edge, pick a random gradual downhill direction and move it there. Repeat until comes to rest.
+
+If it falls or rolls into a creature, creatures in the way must make a difficulty 15 Agility (Athletics) skill check to dodge. Take 2d6 physical damage and be pushed into empty tile of defender's choice on hit.
+
 ### Hills
 
 Height tiers with gradual edges.
