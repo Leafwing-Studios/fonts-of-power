@@ -31,7 +31,7 @@
   - [Environmental Complications](rules/combat/environmental-complications.md)
   - [Tactical Mechanics](rules/combat/tactical-mechanics.md)
   - [Elements](rules/combat/elements.md)
-- [Conditions](rules/conditions/README.md)
+- [Conditions](rules/combat/conditions/README.md)
   - [Afflictions](rules/conditions/afflictions.md)
   - [Ailments](rules/conditions/ailments.md)
   - [Statuses](rules/conditions/statuses.md)
