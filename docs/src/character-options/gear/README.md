@@ -18,23 +18,42 @@ In *Fonts of Power*, there are three different types of combat-relevant items ch
 
 When you make your first level 0 character, select two sets of arms and one set of armor from the Premade Gear list.
 
-<div class="infobox">
+## Enchanted arms and armor
 
-**Unconventional Equipment**
+The world of *Fonts of Power* is brimming with strange and dangerous magic.
+By layering new **enchantments** on top of the mundane bases, adventurers can capture this magic in their equipment and prepare themselves to venture even deeper next time.
 
-The flavor details of gear in _Fonts of Power_ are deliberately very flexible: the affixes determine their function during combat, and how that looks in-universe should be left to the player (or worldspeaker) controlling the character.
+While finding or making your own enchanted equipment is essential to further success, magic can be overwhelming and dangerous for the unprepared.
+Characters can only equip gear that has an **enchantment point total** less than or equal to twice their proficiency bonus.
 
-If you're looking to build gear that doesn't follow the standard tropes, there are several particularly flavorful affixes to consider:
-
-- The _adaptable_ armor affix lets you quickly swap arms back and forth, which is fantastic for builds that want to interleave natural weapon attacks.
-- The _embodied enchantments_ trinket affix, which lets you rapidly move your arms enchantments around between various weapons.
-- Various arms affixes with the _mode_ tag, which lets you quickly swap between different styles of basic attack.
-- The _gallant_ arms affix, which is great for capturing the feeling of swapping between offense and defense as you swap a shield in or out.
-
-</div>
+This is computed by summing the enchantment point total of your equipped set of armor and the enchantment point total of your most-enchanted set of arms.
+While you can freely choose to focus more heavily on offense or defense in this way, you'll generally want to ensure that the enchantment point total of each set of arms you use is the same.
 
 ## Customizing arms and armor
 
-### Mundane gear
+To make (or customize) your own gear, you need to understand the basics of affixes:
 
-### Enchanting arms and armor
+- each affix can either be used as an arms or armor affix
+- each affix has a gear point cost; all of these are summed together to create the **gear point total** of an item
+
+### Mundane bases
+
+When you're starting out, your gear will be entirely mundane.
+
+- the mundane base of each set of arms and armor is composed entirely of mundane affixes
+  - these are simple, commonly useful and always available
+- each mundane base must have a gear point total of two
+
+You can create or alter mundane bases (including the mundane bases of enchanted items) using the Forge downtime activity.
+Each character begins their adventure with two mundane sets of arms, and one mundane set of armor.
+
+### Working with enchantments
+
+While finding enchanted gear can be convenient and exciting, you'll soon find yourself wanting to tweak it to match the needs of your character or the challenge at hand.
+
+Enchantment affixes can be added using the Enchant downtime activity.
+By combining raw energy in the form of **essence crystals** with specific ingredients found by adventuring, you can add exciting and flavorful capabilities to your gear.
+
+Enchanting needs to be done within a font of power: the dangerous energy swirling around you makes crafting much easier, and the unique magic in the ingredients can't survive outside of the font that they were found!
+
+Enchantment affixes can be turned back into essence crystals using the Disenchant downtime activity.
