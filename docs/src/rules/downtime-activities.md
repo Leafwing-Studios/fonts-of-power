@@ -31,7 +31,9 @@ The danger level of an area affects the following:
 
 ## Bond
 
-Grow closer to another party member, improving your cooperation. Both party members must select this downtime activity in order to gain its benefits. Until you next complete a rest:
+Grow closer to another party member, improving your cooperation. Both party members must select this downtime activity in order to gain its benefits.
+
+Until you next complete a rest:
 
 - you have advantage on any skill check made to attempt to help each other on skill checks
 - you have advantage on any skill checks or attack rolls made to use the Treat or Break Grapple minor actions to benefit each other
@@ -75,10 +77,20 @@ Gain one essence crystal for each remaining enchantment point of the item, up to
 Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with or a clever trap.
 
 Design a consumable by selecting one base effect and up to one modifier.
+You must know the recipes in some way, choosing to either:
 
-Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+- Use a recipe you already know.
+  - Recipes are sometimes found as treasure, or as rewards from helping others.
+  - You can learn new recipes as part of the Invent downtime activity.
+  - Allies can share their recipes with you by using the Support downtime activity.
+- Reverse-engineer a new recipe.
+  - Sacrifice one existing consumable to use either its base effect or modifier in the consumable you are creating.
+
+Make a Focus (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
 Create one copy of the consumable for every 5 points of your skill check result.
 Sacrifice one essence crystal for each consumable created.
+
+After you create a consumable, learn all recipes used in it.
 
 ## Enchant
 
@@ -126,6 +138,22 @@ You may only use the Harvest downtime activity if the current danger level is 1 
 Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in. Then draw one random ingredient from the font's collection of ingredients for every 5 points of the skill check result. Then, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
 
 This ingredient is associated with the skill you used for this skill check.
+
+## Invent
+
+Tinkering with magic, you attempt to create new and wonderful magical contraptions.
+
+Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+Choose one of the following recipe decks to draw from:
+
+- Universal recipes
+- Font-specific recipes associated with the font of power you are currently in
+- Skill-specific recipes
+
+You can look through the universal and skill-specific recipe decks before deciding, but the font-specific deck is secret.
+
+Draw one consumable recipe (which may be a base effect or modifier) at random for every 5 points of your skill check results and choose which one to keep.
+Shuffle any recipes you did not choose back into the deck.
 
 ## Prepare
 
@@ -227,6 +255,8 @@ For every 5 points of your skill check result, you may add or remove one standar
 ## Support
 
 Help your allies with their downtime tasks. Make a Focus (Guidance) skill check, enabling some of your allies to either perform two downtime activities, rather than just one. The number of characters you can support in this way is equal to your skill check result divided by 10, rounded down. Characters cannot benefit from this effect more than once per downtime, and cannot select either the Recover or Support downtime activities during a period of downtime where they benefit from this effect.
+
+Characters who you assist in this way can use any of the recipes that you know as part of the Devise downtime activity.
 
 ## Tend
 
