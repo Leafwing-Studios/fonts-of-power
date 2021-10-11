@@ -113,7 +113,7 @@ If you use this action multiple times in a single turn, you prevent a second (or
 
 ### Block (1 AP, reaction)
 
-Whenever you would be hit by an attack (after seeing the initial results of the attack), you may use the Block reaction. If you do, make a Prowess (Endurance) skill check. If your skill check result is at least 10, you **block** all attacks made against you until the end of the current turn. Halve the efficacy of blocked attacks made against you.
+Whenever you would be hit by an attack (after seeing the initial results of the attack), you may use the Block reaction. If you do, make a Prowess (Athletics) skill check. If your skill check result is at least 10, you **block** all attacks made against you until the end of the current turn. Halve the efficacy of blocked attacks made against you.
 
 If your skill check result is at least 20, gain one AP.
 
