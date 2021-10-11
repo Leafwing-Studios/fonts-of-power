@@ -32,9 +32,9 @@
   - [Tactical Mechanics](rules/combat/tactical-mechanics.md)
   - [Elements](rules/combat/elements.md)
 - [Conditions](rules/combat/conditions/README.md)
-  - [Afflictions](rules/conditions/afflictions.md)
-  - [Ailments](rules/conditions/ailments.md)
-  - [Statuses](rules/conditions/statuses.md)
+  - [Afflictions](rules/combat/conditions/afflictions.md)
+  - [Ailments](rules/combat/conditions/ailments.md)
+  - [Statuses](rules/combat/conditions/statuses.md)
 
 ---
 
@@ -44,6 +44,3 @@
 - [Powers](character-options/powers/README.md)
 - [Feats](character-options/feats/README.md)
 - [Gear](character-options/gear/README.md)
-  - [Categorizing Gear](character-options/gear/categorizing-gear.md)
-  - [Equipping Gear](character-options/gear/equipping-gear.md)
-  - [Creating Gear](character-options/gear/creating-gear.md)
