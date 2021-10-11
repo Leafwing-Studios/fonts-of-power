@@ -19,7 +19,8 @@ pub enum Attribute {
 #[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct AttributeVal(i8);
 
-#[derive(Clone, Debug)]
+#[derive(Component, Clone, Debug)]
+#[allow(dead_code)]
 pub struct Attributes {
     prowess: AttributeVal,
     agility: AttributeVal,
@@ -40,7 +41,8 @@ pub enum Ideal {
 #[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct IdealVal(i8);
 
-#[derive(Clone, Debug)]
+#[derive(Component, Clone, Debug)]
+#[allow(dead_code)]
 pub struct Ideals {
     equality: IdealVal,
     harmony: IdealVal,
@@ -49,12 +51,12 @@ pub struct Ideals {
     sanctity: IdealVal,
 }
 
-#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct ProficiencyBonus {
     val: i32,
 }
 
-#[derive(Clone, Debug, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Component, Clone, Debug, Eq, PartialEq, Deref, DerefMut)]
 pub struct SkillProficiencies {
     val: HashSet<Skill>,
 }
@@ -82,16 +84,13 @@ impl Mul<Efficacy> for Absorption {
     }
 }
 
-#[derive(Clone, Debug, Hash, Eq, PartialEq)]
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Essence {
     pub current: u16,
     pub max: u16,
 }
-#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct Exhaustion(pub u16);
 
-#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct Level(pub u8);
-
-#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Tier(pub u8);
