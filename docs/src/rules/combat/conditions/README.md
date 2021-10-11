@@ -13,7 +13,8 @@ At the end of each of your turns, reduce the number of stacks each affliction by
 
 Afflictions, by design, may only trigger once for each turn that a creature takes. Sometimes however, the timing can get a bit tricky.
 
-Many afflictions (such as _bleeding_ or _temperance_) specify that they trigger "the first time during your turn that [you perform a certain action]". However, if you gain an affliction during your turn and have not yet triggered that affliction this turn, you can still trigger it later in the turn (even if it's not literally the first time in the turn that you've taken that action). As an example, consider the following situation:
+Many afflictions (such as _bleeding_ or _temperance_) specify that they trigger "the first time during your turn that [you perform a certain action]".
+However, if you gain an affliction during your turn and have not yet triggered that affliction this turn, you can still trigger it later in the turn (even if it's not literally the first time in the turn that you've taken that action). As an example, consider the following situation:
 
 1. You have no stacks of bleeding and spend movement to attempt to retreat from an enemy.
 2. They hit you with an attack of opportunity and apply 3 stacks of bleeding to you.
