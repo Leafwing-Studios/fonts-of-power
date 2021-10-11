@@ -17,18 +17,18 @@ impl DamageRoll {
     pub fn apply_resistances(&self, damage_type: &DamageType, resistances: &Resistances) {
         let current_damage: Ratio<u16> = Ratio::from_integer(self.result().unwrap() as u16);
         let new_damage = match damage_type {
-            DamageType::Pure(e) => current_damage * resistances.get(&e).damage_multiplier(),
+            DamageType::Pure(e) => current_damage * resistances.get(e).damage_multiplier(),
             DamageType::Hybrid(e1, e2) => {
                 current_damage
                     * max(
-                        resistances.get(&e1).damage_multiplier(),
-                        resistances.get(&e2).damage_multiplier(),
+                        resistances.get(e1).damage_multiplier(),
+                        resistances.get(e2).damage_multiplier(),
                     )
             }
             DamageType::Split(e1, e2) => {
                 let half_damage = Ratio::new(1, 2) * current_damage;
-                let partial_1 = half_damage * resistances.get(&e1).damage_multiplier();
-                let partial_2 = half_damage * resistances.get(&e2).damage_multiplier();
+                let partial_1 = half_damage * resistances.get(e1).damage_multiplier();
+                let partial_2 = half_damage * resistances.get(e2).damage_multiplier();
 
                 // Rounding up is equivalent to making the remainder count as the more effective damage type
                 partial_1 + partial_2
@@ -45,9 +45,8 @@ impl Mul<Efficacy> for DamageRoll {
     fn mul(self, rhs: Efficacy) -> Self {
         let lhs = Ratio::from_integer(self.result().unwrap() as u16);
 
-        let new = self.clone();
-        new.set_result((lhs * rhs.val).to_integer() as i32);
-        new
+        self.set_result((lhs * rhs.val).to_integer() as i32);
+        self
     }
 }
 
@@ -155,10 +154,10 @@ pub fn apply_damage(
         let damage_dealt = damage.result().unwrap() as u16;
 
         if absorption.val > damage_dealt {
-            absorption.val = absorption.val - damage_dealt;
+            absorption.val -= damage_dealt;
         } else {
+            life.current -= damage_dealt - absorption.val;
             absorption.val = 0;
-            life.current -= damage_dealt - damage_dealt;
 
             life_lost.send(LifeLost {
                 defender: defender.clone(),

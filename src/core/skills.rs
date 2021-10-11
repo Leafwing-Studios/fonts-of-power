@@ -54,20 +54,16 @@ impl SkillCheck {
         };
 
         if self.combat {
-            if result >= difficulty {
-                return SkillCheckOutcome::Success;
-            } else {
-                return SkillCheckOutcome::Failure;
+            match result {
+                r if r >= difficulty => SkillCheckOutcome::Success,
+                _ => SkillCheckOutcome::Failure,
             }
         } else {
-            if result >= difficulty + 5 {
-                return SkillCheckOutcome::SmashingSuccess;
-            } else if result >= difficulty {
-                return SkillCheckOutcome::Success;
-            } else if (result >= difficulty - 5) | self.proficient {
-                return SkillCheckOutcome::MixedSuccess;
-            } else {
-                return SkillCheckOutcome::Failure;
+            match result {
+                r if r >= difficulty + 5 => SkillCheckOutcome::SmashingSuccess,
+                r if r >= difficulty => SkillCheckOutcome::Success,
+                r if (r >= difficulty - 5) | self.proficient => SkillCheckOutcome::MixedSuccess,
+                _ => SkillCheckOutcome::Failure,
             }
         }
     }

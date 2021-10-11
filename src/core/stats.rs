@@ -78,9 +78,9 @@ impl Mul<Efficacy> for Absorption {
     fn mul(self, rhs: Efficacy) -> Self {
         let lhs = Ratio::from_integer(self.val);
 
-        let mut new = self.clone();
-        new.val = (lhs * rhs.val).to_integer() as u16;
-        new
+        Absorption {
+            val: (lhs * rhs.val).to_integer() as u16,
+        }
     }
 }
 

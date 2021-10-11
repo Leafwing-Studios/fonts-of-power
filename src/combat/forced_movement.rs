@@ -33,18 +33,18 @@ impl Mul<Efficacy> for ForcedMovement {
     fn mul(self, rhs: Efficacy) -> Self {
         match self {
             ForcedMovement::Push { source, distance } => ForcedMovement::Push {
-                source: source,
+                source,
                 distance: distance * rhs,
             },
             ForcedMovement::Pull { source, distance } => ForcedMovement::Pull {
-                source: source,
+                source,
                 distance: distance * rhs,
             },
             ForcedMovement::Shove {
                 direction,
                 distance,
             } => ForcedMovement::Shove {
-                direction: direction,
+                direction,
                 distance: distance * rhs,
             },
             ForcedMovement::Shift { directions } => ForcedMovement::Shift { directions },

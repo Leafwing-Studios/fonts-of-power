@@ -27,14 +27,13 @@ pub struct Afflictions {
 impl Mul<Efficacy> for Afflictions {
     type Output = Self;
 
-    fn mul(self, rhs: Efficacy) -> Self {
-        let mut new = self.clone();
-        for (_k, v) in new.map.iter_mut() {
+    fn mul(mut self, rhs: Efficacy) -> Self {
+        for (_k, v) in self.map.iter_mut() {
             let lhs = Ratio::from_integer(*v);
             *v = (lhs * rhs.val).to_integer() as u16;
         }
 
-        new
+        self
     }
 }
 
@@ -67,14 +66,13 @@ pub struct Ailments {
 impl Mul<Efficacy> for Ailments {
     type Output = Self;
 
-    fn mul(self, rhs: Efficacy) -> Self {
-        let mut new = self.clone();
-        for (_k, v) in new.map.iter_mut() {
+    fn mul(mut self, rhs: Efficacy) -> Self {
+        for (_k, v) in self.map.iter_mut() {
             let lhs = Ratio::from_integer(*v);
             *v = (lhs * rhs.val).to_integer() as u16;
         }
 
-        new
+        self
     }
 }
 
