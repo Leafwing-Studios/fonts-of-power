@@ -1,18 +1,18 @@
-"Name","Prerequisites","Effect",,
-"Fallow",,"When you use the Recover action, shape tiles equal to essence gained.",,
-"Surefooted",,"Ignore the effects of difficult terrain.",,
-"Ecotone",,"Choose another damage type. Your manifestations deal hybrid damage and you gain resistance to that damage type.",,
-"Polyculture",,"Choose an additional terrain type. You can decide which one to create and can overlay them.",,
-"Biodiversity",,"Choose a second ailment and a second affliction. Can always choose which one to apply.",,
-"Cleareyed",,"Ignore the effects of shroud.",,
-"Wild Growth",,"Passively shape twice as many tiles with Overgrowth feature, radius reduced to 2 tiles.",,
-"Natural Immunity",,"Ignore the effects of your own terrain.",,
-"Tenacious Growth",,"At the start of each of your turns, restore any shaped effects that were removed the Interact action.",,
-"Unstoppable Force",,"You have advantage on all attacks that apply forced movement.",,
-"Immovable Object",,"While you have absorption, you are immune to forced movement.",,
-"Power Draw",,"You have advantage on Recover and Essence Tap skill checks made while on a shaped tile.",,
-"Gently Sloped","Hilly Terrain","Shape twice times as much hilly terrain, but edges are gradual.",,
-"Propagate",,"3 essence: Copy each terrain into an adjacent tile if able. Uses all three uses of Wildshaping.",,
-"Home Ground",,"You have advantage on basic attacks while on your terrain.",,
-"Restraint",,"You can choose not to activate your Overgrowth feature.",,
-"Biomimickry",,"When you would use a targeted action, you may pay 1 essence and choose a tile that contains your terrain. If you do, you may use that action as if you were occupying that tile instead.",,
+"Name","Prerequisites","Effect"
+"Fallow",,"When you use the Recover action, shape tiles equal to essence gained."
+"Surefooted",,"Ignore the effects of difficult terrain."
+"Ecotone",,"Choose another damage type. Your manifestations deal hybrid damage and you gain resistance to that damage type."
+"Polyculture",,"Choose an additional terrain type. You can decide which one to create and can overlay them."
+"Biodiversity",,"Choose a second ailment and a second affliction. Can always choose which one to apply."
+"Cleareyed",,"Ignore the effects of shroud."
+"Wild Growth",,"Passively shape twice as many tiles with Overgrowth feature, radius reduced to 2 tiles."
+"Natural Immunity",,"Ignore the effects of your own terrain."
+"Tenacious Growth",,"At the start of each of your turns, restore any shaped effects that were removed the Interact action."
+"Unstoppable Force",,"You have advantage on all attacks that apply forced movement."
+"Immovable Object",,"While you have absorption, you are immune to forced movement."
+"Power Draw",,"You have advantage on Recover and Essence Tap skill checks made while on a shaped tile."
+"Gently Sloped","Hilly Terrain","Shape twice times as much hilly terrain, but edges are gradual."
+"Propagate",,"3 essence: Copy each terrain into an adjacent tile if able. Uses all three uses of Wildshaping."
+"Home Ground",,"You have advantage on basic attacks while on your terrain."
+"Restraint",,"You can choose not to activate your Overgrowth feature."
+"Biomimickry",,"When you would use a targeted action, you may pay 1 essence and choose a tile that contains your terrain. If you do, you may use that action as if you were occupying that tile instead."
