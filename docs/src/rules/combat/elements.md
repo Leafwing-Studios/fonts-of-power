@@ -26,7 +26,7 @@ For example, if you were to deal 13 fire-physical split damage to a creature tha
 
 Whenever you deal hybrid damage, you may choose which of its base types it is treated as on a per-target basis. All damage dealt to a single creature with a single attack must be of the same type.
 
-This is particularly useful when dealing with creatures that have several damage type resistances, immunities or vulnerabilities. You can learn these using the Classify option with the [Scan](acting-in-combat/minor-actions.md?id=scan) minor action.
+This is particularly useful when dealing with creatures that have several damage type resistances, immunities or vulnerabilities. You can learn these using the Scan action.
 
 ## Elemental Aesthetics
 
@@ -46,7 +46,7 @@ Mechanically, air is commonly associated with flying, the aloft ailment and effe
 
 Earth is the element of the stony mountains and the stinging sands; of the fertile soil and the barren outcropping.
 
-Mechanically, earth is commonly associated with absorption, the Defend major action and resistance to physical damage.
+Mechanically, earth is commonly associated with absorption, the Defend action and resistance to physical damage.
 Rocks often apply the rooted ailment, forced movement or knock creatures prone, while sand often applies blinded or creates shrouded effects.
 
 ### Fire

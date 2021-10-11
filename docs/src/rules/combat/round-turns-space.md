@@ -1,3 +1,5 @@
+# Time and Space
+
 ## Rounds and Turns
 
 When it becomes clear that a fight is inevitable, combat begins. First split the creatures into **sides,** which fight together as allies. Typically, this will be the player characters and the monsters. Then, each side determines the **turn order** they wish to act in, without seeing the choices made by any other side.
@@ -26,7 +28,7 @@ Keeping yourself safe from someone trying to stab you requires a great deal of a
 
 Every creature has a **zone of control,** by default the tiles that it is immediately adjacent to.
 
-Whenever you **enter and leave an opponent’s zone of control in the same turn,** you provoke an **attack of opportunity,** leaving your guard down as you scramble to get past them. When this happens, they may spend their reaction to make an attack of their choice against you, so long as it does not cost essence. This is not limited to basic attacks: they may choose to hold you in place with a Grapple attack, trip you using the Shove minor action or even blast you with a spell.
+Whenever you **enter and leave an opponent’s zone of control in the same turn,** you provoke an **attack of opportunity,** leaving your guard down as you scramble to get past them. When this happens, they may spend their reaction to make an attack of their choice against you, so long as it does not cost essence. This is not limited to basic attacks: they may choose to hold you in place with a Grapple attack, trip you using the Shove action or even blast you with a spell.
 
 You can improve your ability to control space with various arms affixes, such as:
 

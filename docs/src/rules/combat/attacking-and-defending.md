@@ -38,7 +38,7 @@ Some effects (such as the _audacious_ combat talent or the _keen_ arms affix) ca
 
 Attacks are either **melee** or **ranged.** While you are in an enemy zone of control, ranged attacks that you make have disadvantage.
 
-Most melee attacks are made against any target within your zone of control, such as the Strike or Shove core actions. However, some melee attacks have a fixed range, such as the Grapple major action or Paragon's Auras. Ranged attacks always have their exact range specified.
+Most melee attacks are made against any target within your zone of control, such as the Strike or Shove core actions. However, some melee attacks have a fixed range, such as the Paragon's Auras. Ranged attacks always have their exact range specified.
 
 When a power describes its range as "weapon", its range is equal to that of your basic attacks. It is melee if your currently equipped arms makes melee basic attacks, and ranged if they make ranged basic attacks.
 

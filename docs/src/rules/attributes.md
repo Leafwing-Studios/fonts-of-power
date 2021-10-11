@@ -22,7 +22,8 @@ When making skill checks, Agility would be used when you need to sneak past a gu
 
 Attacks against your Agility defense include a trap suddenly dropping the floor out from underneath you and a mage launching blasts of magical energy that go whizzing by your head.
 
-In combat, Agility is used to determine your ability to dodge and strike accurately. Your basic attack modifier, used to determine your chance to hit with a sword swing or a launched arrow, is given by your proficiency bonus plus your Agility. Your Agility is also added to your basic defense, making you harder to hit, and also improves your [Dodge](combat/acting-in-combat/reactions.md?id=dodge). When you use the [Hide](combat/acting-in-combat/minor-actions.md?id=hide) minor action, you make an Agility (Stealth) skill check to obfuscate your position.
+In combat, Agility is used to determine your ability to dodge and strike accurately. Your basic attack modifier, used to determine your chance to hit with a sword swing or a launched arrow, is given by your proficiency bonus plus your Agility. Your Agility is also added to your basic defense, making you harder to hit, and also improves your ability to Dodge.
+When you use the Hide action, you make an Agility (Stealth) skill check to obfuscate your position.
 
 ## Expertise
 
@@ -32,7 +33,7 @@ When making skill checks, Expertise would be used when you need to do research, 
 
 Attacks against your Expertise defense include an illusion of a monster charging at you and an elaborate magical technique which makes you ethereal.
 
-In combat, Expertise determines the reliability of your powers. Your special attack bonus is given by your proficiency bonus plus your Expertise, and is used for launching fireballs at your enemies, paralyzing them in fear landing a grapple or tripping them. The [Scan](combat/acting-in-combat/minor-actions.md?id=scan) minor action also relies on Expertise for recalling facts about the enemies and areas that you are facing.
+In combat, Expertise determines the reliability of your powers. Your special attack bonus is given by your proficiency bonus plus your Expertise, and is used for launching fireballs at your enemies, paralyzing them in fear landing a grapple or tripping them.
 
 ## Focus
 
@@ -42,7 +43,7 @@ When making skill checks, Focus would be used to spot a hidden monster, activate
 
 Attacks against your Focus defense include being overloaded with magical energy that flows through you or your soul being slowly drained from you.
 
-In combat, your Focus determines the amount of essence you have, which is consumed whenever you use a powerful ability. You can regain essence using the Essence Tap minor action, whose effectiveness also depends on Focus. The [Scan](combat/acting-in-combat/minor-actions.md?id=scan) minor action often relies on Focus for determining details about the state of combat, and the [Track](combat/acting-in-combat/reactions.md?id=track) reaction uses Focus (Perception) to stop creatures from hiding from you.
+In combat, your Focus determines the amount of essence you have, which is consumed whenever you use your magical powers. You can regain essence using the Essence Tap and Recover actions, whose effectiveness also depends on Focus.
 
 ## Presence
 
@@ -54,7 +55,7 @@ Attacks against your Presence defense include a monster roaring trying to scare 
 
 In combat, Presence describes the force backing up your essence as it transforms into tangible effect. Virtually all powers add your Presence to the damage they deal or the absorption that they grant.
 
-## Determining Attributes 
+## Determining Attributes
 
 There are two standard options for assigning Attributes to a new character: array, point buy and randomized. In general, feel free to pick the one you like best on a per character basis as the typical outcomes are roughly equivalent.
 

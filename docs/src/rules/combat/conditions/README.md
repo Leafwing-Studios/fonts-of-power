@@ -1,6 +1,11 @@
-There are three different types of conditions that might affect your character: afflictions, ailments and statuses. Conditions (including the number of stacks) are always public information.
+# Conditions
 
-**Afflictions** persist between turns, dealing damage over time that **triggers** when a certain course of action is taken. Afflictions are applied in **stacks,** which build up as you apply more of them but reduce over time (or when they are treated in some way). The first time during your turn that their trigger occurs, you take damage equal to the number of stacks of that affliction that you have. At the end of each of your turns, reduce the number of stacks each affliction by one. Damage dealt by afflictions occurs after the triggering event is complete, which is important for effects (such as the Treat minor action and rage) that mitigate their effects.
+There are three different types of conditions that might affect your character: afflictions, ailments and statuses.
+Conditions (including the number of stacks) are always public information.
+
+**Afflictions** persist between turns, dealing damage over time that **triggers** when a certain course of action is taken. Afflictions are applied in **stacks,** which build up as you apply more of them but reduce over time (or when they are treated in some way).
+The first time during your turn that their trigger occurs, you take damage equal to the number of stacks of that affliction that you have.
+At the end of each of your turns, reduce the number of stacks each affliction by one. Damage dealt by afflictions occurs after the triggering event is complete, which is important for combinations (such as the Treat action and rage) where the action taken mitigates their effects.
 
 <div class="infobox">
 
@@ -20,7 +25,8 @@ This leaves you with two options:
 
 </div>
 
-**Ailments** stack in duration. While you have at least one stack of a particular ailment, suffer its effects. At the end of each of your turns, remove one stack of each ailment you are suffering from.
+**Ailments** stack in duration. While you have at least one stack of a particular ailment, suffer its effects.
+At the end of each of your turns, remove one stack of each ailment you are suffering from.
 
 **Statuses** are common special effects (such as being flying, prone or invisible), that do not follow the rules of either afflictions or ailments.
 They may be good or bad, and do not share a particular structure or mechanics. Their complete rules are listed here for easy reference.

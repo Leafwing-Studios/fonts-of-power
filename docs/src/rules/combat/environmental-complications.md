@@ -30,11 +30,11 @@ There are three levels of **visibility** that describe how well you can see othe
 
 By default, your target is **clear.** As your target becomes **obscured:**
 
-- you have disadvantage on skill checks made as part of the Scan minor action targeting them
+- you have disadvantage on skill checks made as part of the Scan action targeting them
 
 Once the target is fully **invisible:**
 
-- you have disadvantage on skill checks made as part of the Scan minor action targeting them
+- you have disadvantage on skill checks made as part of the Scan action targeting them
 - single-target attacks you make against them have disadvantage
 
 **Light** is the most common and important driver of visibility. There are three levels of lighting: **bright light, dim light,** and **darkness**, which are all tracked on a per-tile basis. Creatures and objects are obscured while in dim light, and invisible while in darkness.
@@ -54,17 +54,24 @@ The light radius of common objects are:
 - 6 tiles: a blazing torch, bonfire or lantern
 - 12 tiles: a brilliant magical light, gained by the _light_ trinket affix
 
-Players can create objects with up to a 6 tile light radius using **Prepared for Anything.** Lighting or extinguishing your own torch while in combat takes an Interact minor action, as does extinguishing a light source found in the environment (typically at melee range). Creatures carrying a light source can fight normally. Extinguishing other creatures light sources should be left to the _extinguishing_ affix, or similar powers.
+Players can create objects with up to a 6 tile light radius using **Prepared for Anything.**
+Lighting or extinguishing your own torch while in combat takes an Interact action, as does extinguishing a light source found in the environment (typically at melee range).
+Creatures carrying a light source can fight normally. Extinguishing other creatures light sources should be left to the _extinguishing_ affix, or similar powers.
 
 </div>
 
-**Shroud** effects, such as a cloud of smoke, rain, thick underbrush or fog make objects both within them and seen from within them harder to see. If a tile is **lightly shrouded**, objects within that shroud and objects seen from within that shroud are objects obscured. If a tile is **heavily shrouded**, the objects are invisible instead.
+**Shroud** effects, such as a cloud of smoke, rain, thick underbrush or fog make objects both within them and seen from within them harder to see.
+If a tile is **lightly shrouded**, objects within that shroud and objects seen from within that shroud are objects obscured.
+If a tile is **heavily shrouded**, the objects are invisible instead.
 
-Physical objects can also affect visibility and, independently, provide **cover,** shielding creatures behind them from attacks. There are two kinds of cover, partial cover and full cover. Like visibility, cover is relative to both the actor and the target.
+Physical objects can also affect visibility and, independently, provide **cover,** shielding creatures behind them from attacks.
+There are two kinds of cover, partial cover and full cover. Like visibility, cover is relative to both the actor and the target.
 
-**Partial cover** is provided by things like castle parapets, a pile of boxes or a sturdy tree. While your target is behind partial cover, attacks that you make have disadvantage. Creatures that are at least one tile larger than the target grant partial cover.
+**Partial cover** is provided by things like castle parapets, a pile of boxes or a sturdy tree.
+While your target is behind partial cover, attacks that you make have disadvantage. Creatures that are at least one tile larger than the target grant partial cover.
 
-**Full cover** is commonly granted by things like solid walls, closed doors or being inside of a monster's stomach. While your target is behind full cover, your attacks automatically miss, and you cannot target them with other effects such as when applying boons, creating ground effects or using the Scan minor action or Track reaction.
+**Full cover** is commonly granted by things like solid walls, closed doors or being inside of a monster's stomach.
+While your target is behind full cover, your attacks automatically miss, and you cannot target them with other effects such as when applying boons, creating ground effects or using the Scan or Spot actions.
 
 When an effect does not physically originate from the attacking creature, cover needs to be calculated with respect to the target and the source of the effect. This is an important rule when, for example, a ball of fire explodes in mid-air, or the ground becomes covered in a dangerous effect.
 

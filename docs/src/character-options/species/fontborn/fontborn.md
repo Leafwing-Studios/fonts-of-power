@@ -47,7 +47,7 @@ Still nascent and unstable, the fate and form of these creatures is in their own
 
 **One of Us:** You are proficient in Fontcraft. You have advantage on all Focus (Fontcraft) skill checks made to resurrect creatures as fontborn.
 
-**Primordial Biology:** Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan minor actions in combat.
+**Primordial Biology:** Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan actions in combat.
 
 ### Mutant
 

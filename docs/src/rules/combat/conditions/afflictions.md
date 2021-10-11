@@ -6,7 +6,7 @@ At the end of your turn (before the stacks of this affliction are reduced), if y
 
 ## Anguish
 
-At the end of your turn, if you do not have any action points remaining, take umbral damage equal to the number of stacks of this affliction. Spending your major action to take a minor action does not trigger this effect.
+At the end of your turn, if you do not have any action points remaining, take umbral damage equal to the number of stacks of this affliction.
 
 ## Bleeding
 

@@ -46,9 +46,11 @@ _Fonts of Power_ is a d20 system, similar to _Pathfinder_ or modern _Dungeons & 
 
 **If you’re new to tabletop roleplaying games,** you should read the [Building Blocks of Play](intro/building-blocks.md) chapter coming up next, which introduces the core concepts needed to understand the rest of the rules.
 
-**If you’re familiar with other d20 systems,** you can safely skip that chapter, and start with the [Narrative Mechanics](rules/narrative-mechanics/) chapter. If you’d prefer to dive straight into character creation, start with the [cheatsheets](https://docs.google.com/document/d/115pncBLyu_PtpFPgmCXF2LOHutthUhYLn0xDJPIL9Po/edit#), which provide a quick summary of the essential rules of the game.
+**If you’re familiar with other d20 systems,** you can safely skip that chapter, and start with the [Narrative Mechanics](rules/narrative-mechanics/) chapter. If you’d prefer to dive straight into character creation, the rules for character creation are at the very beginning of the second half of the book, entitled [Character Options](character-options/).
 
-The rules for character creation are at the very beginning of the second half of the book, entitled [Character Options.](character-options/) Following that, you can find your choices for your **species, class, talents,** and **gear.** You should copy down these choices onto your **character sheet,** to make sure that you can quickly reference your character’s abilities while playing.
+Regardless of your experience level with other systems, we encourage you to play your first session at level 0: the core mechanics are surprisingly rich and it makes both learning the game and creating characters much less overwhelming.
+
+Following that, you can find your choices for your **species, class, talents,** and **gear.** You should copy down these choices onto your **character sheet,** to make sure that you can quickly reference your character’s abilities while playing.
 
 ## Getting Started
 

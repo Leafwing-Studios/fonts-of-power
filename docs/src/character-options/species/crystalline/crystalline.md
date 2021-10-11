@@ -45,7 +45,7 @@ If you do, gain one stack of exhaustion.
 
 **Forbidden Snack:** You do not regain essence when using the Essence Tap action. Consuming essence crystals to restore essence with the Activate action restores twice as much essence.
 
-**Crystalline Biology:** You do not need to breathe, eat or drink, and do not die of old age, but slowly shrink into nothingness if you are cut off from the world’s natural supply of magical energy, losing 1 tile in size every month. Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan minor actions in combat.
+**Crystalline Biology:** You do not need to breathe, eat or drink, and do not die of old age, but slowly shrink into nothingness if you are cut off from the world’s natural supply of magical energy, losing 1 tile in size every month. Skill checks targeting you which use Anima or Medicine use Fontcraft instead. This includes the relevant skill checks made as part of the Treat and Scan actions in combat.
 
 ### Raw
 

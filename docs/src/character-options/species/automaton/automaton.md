@@ -39,7 +39,7 @@ The automata themselves form a scattered people, with an uneasy and conflicted r
 
 **Inexhaustible:** Exhaustion no longer applies a penalty to your attack rolls.
 
-**Clockwork Biology:** You are proficient in the Tinkering skill. Skill checks targeting you which use Anima or Medicine use Tinkering instead. This includes the relevant skill checks made as part of the Treat and Scan minor actions in combat.
+**Clockwork Biology:** You are proficient in the Tinkering skill. Skill checks targeting you which use Anima or Medicine use Tinkering instead. This includes the relevant skill checks made as part of the Treat and Scan actions in combat.
 
 **Inorganic:** You do not need to eat, drink, breathe or sleep. However, you must be maintained, either by yourself or a skilled technician, for 4 hours per day or you begin to malfunction, suffering exhaustion as other species do when they don’t sleep.
 

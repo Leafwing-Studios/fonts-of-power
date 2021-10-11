@@ -106,4 +106,4 @@ This does not stack with the effect of difficult terrain.
 
 ## Unconscious
 
-You may not take major actions, minor actions or reactions. You cannot spend movement. You do not have a zone of control. You cannot benefit from any of your senses.
+You cannot spend or gain AP. You cannot spend essence. You do not have a zone of control. You cannot benefit from any of your senses.

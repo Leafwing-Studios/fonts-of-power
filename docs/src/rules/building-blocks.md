@@ -63,48 +63,38 @@ During combat, creatures (as well as important objects and terrain in the scene,
 
 Feel free to choose either a square or hexagonal battlemap; both work well for this game. If you have access to both, hexagonal battlemaps tend to work a bit better for the mechanics of combat, and are great for open fields and natural structures such as caves. Square battlemaps are a better fit when drawing buildings, as they tend to be made at right angles with straight walls.
 
-When using a square battlemap, diagonal movement should be permitted. For this system, we recommend always counting diagonals as 1 tile of movement, rather than alternating as 1 and 2 tiles, in order to speed up measuring of distances.
+When using a square battlemap, diagonal movement should be permitted.
+For this system, we recommend always counting diagonals as 1 tile of movement, rather than alternating as 1 and 2 tiles, in order to speed up measuring of distances.
 
 This system also works fine on a gridless battlemap with measured distances, although it is considerably slower. Playing using only theatre-of-the-mind is not recommended during combat, as many important and interesting abilities and effects rely heavily on the details of positioning.
 
 </div>
 
-Time also works differently in combat. Every creature acts in a discrete sequence, one after the other, to ensure that combat is comprehensible. Every **round,** each creature takes a single (in general) **turn,** one after another, before the next round begins.
+Time also works differently in combat. Every creature acts in a discrete sequence, one after the other, to ensure that combat is comprehensible.
+Every **round,** each creature takes a single (in general) **turn,** one after another, before the next round begins.
 
-On each of their turns, creatures can (in any order):
+At the start of combat and at the end of each of their turns, each creature gains 3 AP.
+AP can be spent on your turn or in response to specific triggers to move, defend yourself, attack and so on.
 
-- **Move** around the battlefield
-  - You can split this up freely, moving both before and after any **action.**
-- Take a **major action** such as:
-  _ **Strike:** hit an opponent with their weapon.
-  _ **Grapple:** pin their opponent in place.
-  _ **Defend:** focus entirely on keeping yourself safe.
-  _ **Use a power** granted by their class.
-- Take a **minor action** such as:
-  _ **Shove:** knock a creature down or push them into an adjacent tile.
-  _ **Treat:** cure yourself or an adjacent ally of a ailment or affliction.
-  _ **Hide:** attempt to make yourself unseen so that you can attack with advantage.
-  _ **Scan:** find a hidden creature, or figure out something about the scene.
+Almost every hostile action that occurs during combat requires an **attack** roll, which is compared to one of the target’s **defenses.**
+If your attack roll is greater than or equal to the appropriate defense of your opponent, your attack hits.
 
-Creatures may also use **reactions** at any point during the round in response to events that occur in combat. You regain your reaction at the start of each of your turns. You might:
+To make an attack roll, roll 1d20 and then add both your proficiency bonus and either your Agility or your Expertise, depending on whether it is a **basic** or **special attack.**
+Basic attacks are standard attacks using weapons (or claws, fists, etc.) that might be protected from by a suit of armor, while special attacks target a specific attribute and represent more specialized abilities, such as an attempt to shove a creature, grapple them, or affect them with magic.
+Typically, you add your Prowess to the damage dealt with any basic attack, and add your Presence to any damage dealt with any special attack.
 
-- Make an **attack of opportunity** to capitalize on an opening.
-- **Block** to soften the blow of an attack that landed on you.
-
-Almost every hostile action that occurs during combat requires an **attack** roll, which is compared to one of the target’s **defenses.** If your attack roll is greater than or equal to the appropriate defense of your opponent, your attack hits.
-
-To make an attack roll, roll 1d20 and then add both your proficiency bonus and either your Agility or your Expertise, depending on whether it is a **basic** or **special attack.** Basic attacks are standard attacks using weapons (or claws, fists, etc.) that might be protected from by a suit of armor, while special attacks target a specific attribute and represent more specialized abilities, such as an attempt to shove a creature, grapple them, or affect them with magic. Typically, you add your Prowess to the damage dealt with any basic attack, and add your Presence to any damage dealt with any special attack.
-
-**Basic defense** is determined by the armor you are wearing, your Prowess and your Agility. There is one **special defense** for each attribute. These are determined by your proficiency bonus, your corresponding attribute, and whether or not you are proficient in defending against that sort of attack.
+**Basic defense** is determined by the armor you are wearing, your Prowess and your Agility.
+There is one **special defense** for each attribute. These are determined by your proficiency bonus, your corresponding attribute, and whether or not you are proficient in defending against that sort of attack.
 
 Finally, there are three categories of combat-relevant conditions:
 
 - **Afflictions:** gradual sources of damage that trigger when a certain action is taken by the creature suffering from them, such as spending movement or making an attack.
-  _ Once per turn when the trigger is met, the creature takes damage equal to the number of stacks of that affliction that they currently have.
-  _ At the end of your turn, remove one stack of each affliction from yourself.
+  - When the trigger is met, the creature takes damage equal to the number of stacks of that affliction that they currently have.
+  - This cannot occur more than once for each turn the creature takes.
+  - At the end of your turn, remove one stack of each affliction from yourself.
 - **Ailments:** standardized negative effects that reduce your effectiveness.
-  _ Whenever a creature has at least one stack of a ailment, they suffer its effect.
-  _ At the end of your turn, remove one stack of each ailment from yourself.
+  - Whenever a creature has at least one stack of a ailment, they suffer its effect.
+  - At the end of your turn, remove one stack of each ailment from yourself.
 - **Statuses:** combat-relevant temporary effects that don’t follow the rules of either afflictions or ailments, but are still common enough to get dedicated rules.
   - Being prone, unconscious, asleep, invisible, or flying are examples of statuses in this system.
 
@@ -116,7 +106,8 @@ Finally, there are three categories of combat-relevant conditions:
 
 As a player, try to focus on actions that **add color and detail to your character, advance the current scene,** or **draw attention to something interesting.**
 
-Involve your party by asking them for help, and bring the world to life by asking the worldspeaker questions about its details. Time and attention are scarce resources however; don’t dwell on the things that don’t matter, and be flexible in your plans.
+Involve your party by asking them for help, and bring the world to life by asking the worldspeaker questions about its details.
+Time and attention are scarce resources however; don’t dwell on the things that don’t matter, and be flexible in your plans.
 
 When describing your actions, begin with simple, clean descriptions with hints of more depth, and allow others at the table to build on or inquire about those elements if it catches their interest. Don’t worry about getting it all out in perfect prose at the very beginning, or producing professional-quality voice acting.
 
@@ -128,7 +119,8 @@ While exploring the world and interacting with its contents and inhabitants, pla
 
 Whenever a character attempts something that is challenging or uncertain and there is more than one possible interesting outcome, characters use their **skills.** To make a **skill check,** roll a d20, then add the attribute most applicable to your method of approach, and then add your proficiency bonus if you are proficient in a skill.
 
-_Fonts of Power_ uses a generous **degrees of success** system: falling skill checks (especially ones you are proficient in) will often result in a selection between a **setback** and an **opportunity,** allowing you to “fail-forward”. Perform exceptionally well and you’ll win a **smashing success,** completing the task and winning an extra benefit.
+_Fonts of Power_ uses a generous **degrees of success** system: falling skill checks (especially ones you are proficient in) will often result in a selection between a **setback** and an **opportunity,** allowing you to “fail-forward”.
+Perform exceptionally well and you’ll win a **smashing success,** completing the task and winning an extra benefit.
 
 Skill checks play a critical role in **scenes,** dictating your progress or complications through various scenarios in a more game-like fashion. Scenes offer straightforward and interesting mechanics to structure the most tense moments during adventure. Rules for four types of scenes are included:
 

@@ -10,7 +10,7 @@ Effects which qualify as a boon include but are not limited to:
 - granting resistance or immunity to damage
 - granting advantage on attacks
 - causing attacks made against them to have disadvantage
-- removing harmful conditions, such as with the Treat or Break Grapple minor action
+- removing harmful conditions, such as with the Treat or Break Grapple action
 - granting additional movement
 - turning them invisible
 - granting them the benefit of an action

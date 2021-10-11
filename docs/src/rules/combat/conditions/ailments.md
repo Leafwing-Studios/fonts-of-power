@@ -16,7 +16,7 @@ While aloft:
 
 You have disadvantage on all basic attacks and all basic attacks against you have advantage.
 
-You cannot use the Track reaction or the Scan minor action.
+You cannot use the Spot or Scan actions.
 
 ## Blunted
 
