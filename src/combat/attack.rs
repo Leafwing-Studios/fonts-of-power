@@ -50,6 +50,7 @@ pub struct Defender(Entity);
 #[derive(Component, Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
 pub struct AttackRoll(Roll);
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum AttackType {
     Basic,
     Special(Attribute),
@@ -140,10 +141,10 @@ pub fn roll_attacks(mut query: Query<&mut AttackRoll, With<Active>>) {
 /// Attacks are cloned to each of the targets
 pub fn dispatch_attacks(
     query: Query<(Entity, &Targets), (With<Attack>, With<Active>)>,
-    mut commands: Commands,
+    mut _commands: Commands,
 ) {
-    for (attack_entity, targets) in query.iter() {
-        for target in targets.iter() {
+    for (_attack_entity, targets) in query.iter() {
+        for _target in targets.iter() {
             // TODO: clone effects here
         }
     }
