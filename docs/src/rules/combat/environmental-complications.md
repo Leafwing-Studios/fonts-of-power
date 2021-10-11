@@ -2,7 +2,8 @@
 
 ## Tile Effects
 
-While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.** Creatures moving by **teleportation** do not enter any intervening tiles, and so ignore the tile effects of the tiles between their origin and destination.
+While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.**
+Creatures moving by **teleportation** do not enter any intervening tiles, and so ignore the tile effects of the tiles between their origin and destination.
 
 Tile effects (including ground effects) are triggered when:
 
@@ -26,7 +27,8 @@ The effects of difficult terrain do not stack with the effects of being prone.
 
 ## Visibility and Cover
 
-There are three levels of **visibility** that describe how well you can see other creatures or objects: clear, obscured and invisible. These descriptors are determined on the basis of both the character attempting to see and the target that is being seen: covering your eyes with your hands makes everyone else invisible to you, but not to anyone else.
+There are three levels of **visibility** that describe how well you can see other creatures or objects: clear, obscured and invisible.
+These descriptors are determined on the basis of both the character attempting to see and the target that is being seen: covering your eyes with your hands makes everyone else invisible to you, but not to anyone else.
 
 By default, your target is **clear.** As your target becomes **obscured:**
 

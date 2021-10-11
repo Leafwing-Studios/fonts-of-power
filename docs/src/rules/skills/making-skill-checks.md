@@ -25,7 +25,13 @@ However, this need not be the case:
 
 </div>
 
-In general, setting the difficulty of skill checks should be done as a table based on these guidelines, but sometimes, there are things you don’t know about the difficulty of the task: a door may be a dummy, the innkeeper may not be who he appears or a disease may be much rarer and more deadly than you expected. In that case, the worldspeaker has leeway to decide the outcomes of any skill check that you make based on the actual facts of the world that are unknown to you.
+In general, setting the difficulty of skill checks should be done as a table based on these guidelines, but sometimes, there are things you don’t know about the difficulty of the task:
+
+* a door may not be secretly reinforced
+* the innkeeper may not be who he appears
+* a disease may be much rarer and more deadly than you expected
+
+In that case, the worldspeaker has leeway to decide the outcomes of any skill check that you make based on the actual facts of the world that are unknown to you.
 
 **Guidelines for Difficulty**
 
@@ -37,11 +43,16 @@ In general, setting the difficulty of skill checks should be done as a table bas
 | 20         | A very hard task.                                                           |
 | 25         | Nearly impossible, only accessible to true masters.                         |
 
-With a difficulty set, the player finalizes their decision to act and rolls to see how their attempts compare to the difficulty of the task. Your success at a task is determined by three elements: random chance due to factors outside of your control, innate talent and trained skill. By adding together all three (1d20 + Attribute + proficiency bonus if you are proficient in that skill) and comparing your **result** to the difficulty of the task, you can find out how you performed on the uncertain task.
+With a difficulty set, the player finalizes their decision to act and rolls to see how their attempts compare to the difficulty of the task.
+Your success at a task is determined by three elements: random chance due to factors outside of your control, innate talent and trained skill.
+By adding together all three (1d20 + Attribute + proficiency bonus if you are proficient in that skill) and comparing your **result** to the difficulty of the task, you can find out how you performed on the uncertain task.
 
-Random chance is incorporated by rolling a d20: this can represent everything from the quality of your execution to previously undeclared details about the setting. An innkeeper might be in a particularly surly mood due to a bad customer earlier or he might have just received a huge tip; a door might be jammed shut or freshly oiled or even barricaded from the other side. As a worldspeaker, the rolls of your players on skill checks can be a great opportunity to add mundane detail and interesting depth to your world on the fly.
+Random chance is incorporated by rolling a d20: this can represent everything from the quality of your execution to previously undeclared details about the setting.
+An innkeeper might be in a particularly surly mood due to a bad customer earlier or he might have just received a huge tip; a door might be jammed shut or freshly oiled or even barricaded from the other side.
+As a worldspeaker, the rolls of your players on skill checks can be a great opportunity to add mundane detail and interesting depth to your world on the fly.
 
-Next up is to determine how raw talent comes into play. For this, you must select one of the five attributes to use for the skill check:
+Next up is to determine how raw talent comes into play.
+For this, you must select one of the five attributes to use for the skill check:
 
 * Prowess is used for feats of strength and physical endurance.
 * Agility is for careful movement and manual skill.
@@ -49,19 +60,25 @@ Next up is to determine how raw talent comes into play. For this, you must selec
 * Focus is used for mental endurance and attention to detail.
 * Presence is for tests of personal conviction and social skills.
 
-The next step is to determine which skill comes into play. Skills reflect learned knowledge and expertise, and the skill descriptions [on the next page](rules/skills/skill*descriptions.md) describe the domains covered by each skill. If you are proficient in a skill, add your proficiency bonus to the results of your skill check. As a result, solving problems in a fashion that reflects your character’s strength (and stepping back to let your party members take over when you’re out of depth) is critical to success.
+The next step is to determine which skill comes into play.
+Skills reflect learned knowledge and expertise, and the skill descriptions [on the next page](rules/skills/skill*descriptions.md) describe the domains covered by each skill.
+If you are proficient in a skill, add your proficiency bonus to the results of your skill check.
+As a result, solving problems in a fashion that reflects your character’s strength (and stepping back to let your party members take over when you’re out of depth) is critical to success.
 
 All skill checks have an associated attribute and skill. If you’re not sure which choice is most fitting, allow the acting player to choose from the plausible options.
 
-Specific tasks laid out in the rules often ask for skill checks in the form of, for example, a difficulty 15 Agility (Stealth) check. This is a convenient shorthand, which means that the task’s difficulty is 15, the relevant attribute is Agility and the relevant skill is Stealth.
+Specific tasks laid out in the rules often ask for skill checks in the form of, for example, a difficulty 15 Agility (Stealth) check.
+This is a convenient shorthand, which means that the task’s difficulty is 15, the relevant attribute is Agility and the relevant skill is Stealth.
 
 Once the result of a skill check (including those made by NPCs) has been determined, the party may spend one Resolve to change the die rolled to either a 5 or 15. If they do, recalculate the results, including any immediate narrative consequences.
 
 ## Degrees of Success
 
-In _Fonts of Power,_ skill checks made outside of combat do not result in binary success or failure. No matter the difficulty of the task, a higher skill check result means a better outcome.
+In _Fonts of Power,_ skill checks made outside of combat do not result in binary success or failure.
+No matter the difficulty of the task, a higher skill check result means a better outcome.
 
-The details of what this means depends on the fiction of the scene. While the worldspeaker determines the details of the world based on the skill check result, the players determine how they respond to the circumstance presented to them, in a way that is consistent with their degree of success.
+The details of what this means depends on the fiction of the scene.
+While the worldspeaker determines the details of the world based on the skill check result, the players determine how they respond to the circumstance presented to them, in a way that is consistent with their degree of success.
 
 Failing a skill check is handled in one of three ways:
 
@@ -113,7 +130,8 @@ When you succeed on a skill check, there are two possible outcomes:
 * A **simple success.**
 * A **smashing success,** in which you beat the difficulty by 5 or more.
 
-Simple successes are straightforward and let the story move on without complication. By contrast, smashing successes should reflect a stroke of good luck or exceptional skill at the task, taking the story in a slightly different direction. This might mean:
+Simple successes are straightforward and let the story move on without complication.
+By contrast, smashing successes should reflect a stroke of good luck or exceptional skill at the task, taking the story in a slightly different direction. This might mean:
 
 * You succeed at calming down the panicked NPC, and they volunteer some helpful information.
 * You succeed at carefully navigating through the hazardous thorns, and are able to show your allies the way, granting them advantage on their own skill checks.
@@ -148,7 +166,7 @@ When one party has a clearly easier job than the other, a flat bonus should be a
 
 ## Group Skill Checks
 
-Fairly often, more than one character will attempt to perform a single skill*based task at the same time.
+Fairly often, more than one character will attempt to perform a single skill-based task at the same time.
 You may be trying to force open a door, recall information or talk down an angry monster.
 There are a few ways to adjudicate these situations, designed to balance realism, fast game play and reward roleplay that matches mechanical strengths.
 

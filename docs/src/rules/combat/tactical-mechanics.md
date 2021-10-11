@@ -2,7 +2,9 @@
 
 ## Boons
 
-**Boons** are benefits that you grant other creatures (typically your allies) that make them more effective in combat. The distinction mostly matters for effects which improve your boons, such as the supportive or encouraging talents. If a power has both positive and negative effects, it still counts as a boon.
+**Boons** are benefits that you grant other creatures (typically your allies) that make them more effective in combat.
+The distinction mostly matters for effects which improve your boons, such as the supportive or encouraging talents.
+If a power has both positive and negative effects, it still counts as a boon.
 
 Effects which qualify as a boon include but are not limited to:
 
@@ -24,21 +26,29 @@ Effects which do not, on their own, qualify as a boon include:
 
 ## Concentration
 
-Many classes (particularly Devout, Shamans, Soulbinders and Weavers) use **concentration** as a mechanic in order to maintain control over ongoing effects. Whenever you lose life while you are concentrating on an effect, you must pass a difficulty 15 Endurance **concentration check** to maintain your concentration or the effect ends. If you lost life due to physical damage, you must make a Prowess (Endurance) skill check. If it was elemental damage make a Focus (Endurance) skill check instead.
+Many classes (particularly Devout, Shamans, Soulbinders and Weavers) use **concentration** as a mechanic in order to maintain control over ongoing effects. Whenever you lose life while you are concentrating on an effect, you must pass a difficulty 15 Endurance **concentration check** to maintain your concentration or the effect ends.
+If you lost life due to physical damage, you must make a Prowess (Endurance) skill check.
+If it was elemental damage make a Focus (Endurance) skill check instead.
 
-If the damage was a mixture of physical and elemental damage, the attribute used depends on the majority of damage (Prowess in the case of a tie). As a reminder, damage taken that is prevented by the Block reaction or absorption does not cause you to lose life.
+If the damage was a mixture of physical and elemental damage, the attribute used depends on the majority of damage (Prowess in the case of a tie).
+As a reminder, damage taken that is prevented by the Block reaction or absorption does not cause you to lose life.
 
 If you are concentrating on several effects at once, make only one skill check each time you lose life; you lose concentration on all of them if you fail.
 
 ## Creature Sizes
 
-The size of creatures is specified as the number of tiles they take up. By default, all player characters take up 1 tile. Large creatures such as horses may take up two tiles, and particularly huge creatures may take up three or four tiles, or even more! If a number of tiles that a unit is said to take up is inconvenient for your choice of battle grid, feel free to adjust the number of tiles slightly to make it fit comfortably. For example, a creature that takes up seven tiles is very convenient on a hexagonal grid and terrible on a square grid.
+The size of creatures is specified as the number of tiles they take up.
+By default, all player characters take up 1 tile.
+Large creatures such as horses may take up two tiles, and particularly huge creatures may take up three or four tiles, or even more!
+If a number of tiles that a unit is said to take up is inconvenient for your choice of battle grid, feel free to adjust the number of tiles slightly to make it fit comfortably.
+For example, a creature that takes up seven tiles is very convenient on a hexagonal grid and terrible on a square grid.
 
 For creatures that are not radially symmetric on your chosen grid (such as a cow that takes up two tiles), your orientation is fixed as you move laterally. You may **change your orientation** by spending one tile of movement.
 
 Range is always calculated using the shortest path between the tiles that are occupied by the creatures in question. As a result, if two creatures are adjacent, they can always make melee attacks against each other, no matter how large they are.
 
-Grapple attacks made against creatures larger than you have disadvantage, as do those made to grapple creatures less than a quarter your size. Creatures cannot make Grapple attacks against creatures which are more than four times their size.
+Grapple attacks made against creatures larger than you have disadvantage, as do those made to grapple creatures less than a quarter your size.
+Creatures cannot make Grapple attacks against creatures which are more than four times their size.
 
 As a special case, particularly small creatures, such as faeries, are said to take up **zero tiles.** This means:
 

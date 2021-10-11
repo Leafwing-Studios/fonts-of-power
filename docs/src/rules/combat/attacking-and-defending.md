@@ -1,20 +1,33 @@
 # Attacking and Defending
 
-Almost every offensive action, from swinging a sword to throwing a fireball at your enemy to tricking them with illusions requires making an attack. The attacker rolls a d20, adds their attack bonus, and then compares the result to the defender’s defense. If the result is greater than or equal to the defense, the attack hits. “Meets it, beats it” can be a useful mnemonic for remembering this rule.
+Almost every offensive action, from swinging a sword to throwing a fireball at your enemy to tricking them with illusions requires making an attack.
+The attacker rolls a d20, adds their attack bonus, and then compares the result to the defender’s defense.
+If the result is greater than or equal to the defense, the attack hits. “Meets it, beats it” can be a useful mnemonic for remembering this rule.
 
-Just like with skills, if you are attacking with **advantage,** roll two d20s and use the higher result. If you are attacking with **disadvantage,** roll two d20s and select the lower result.
+Just like with skills, if you are attacking with **advantage,** roll two d20s and use the higher result.
+If you are attacking with **disadvantage,** roll two d20s and select the lower result.
 
-Attacks use either your **basic attack bonus** (proficiency bonus + Agility), or your **special attack bonus** (proficiency bonus + Expertise)..
+Attacks use either your **basic attack bonus** (proficiency bonus + Agility), or your **special attack bonus** (proficiency bonus + Expertise).
 
-**Basic attacks** are attempts to strike your opponent directly, and use the mundane properties of your currently equipped set of arms. This might be a classic sword or bow and arrows, but it could also be a set of claws, a flaming torch, or simple magic emanating from an ancient tome.
+**Basic attacks** are attempts to strike your opponent directly, and use the mundane properties of your currently equipped set of arms.
+This might be a classic sword or bow and arrows, but it could also be a set of claws, a flaming torch, or simple magic emanating from an ancient tome.
 
-Basic attacks are always made against the defender’s **basic defense.** This reflects the effectiveness of their armor and their ability to dodge or parry blows. Your basic defense is 10 + Prowess + Agility. Armor affixes commonly alter basic defense as well.
+Basic attacks are always made against the defender’s **basic defense.**
+This reflects the effectiveness of their armor and their ability to dodge or parry blows. Your basic defense is 10 + Prowess + Agility.
+Armor affixes commonly alter basic defense as well.
 
 **Special** attacks are used for unusual effects and magical spells: attempting to trip your opponent, light them on fire, banish them to another realm or so on in ways that armor won’t help defend them from.
 
 Each special attack is made against a particular special defense. Your **special defense** for that attribute is 10 + your proficiency bonus + your corresponding attribute.
 
-**You can always choose to be hit by an attack, after seeing the initial results of the attack.** This can be a surprisingly useful tactical option: you might choose to be hit by an attack when an ally is attempting to teleport you, when you have the _cruel shield_ affix and want to apply afflictions to a creature whose attack you are blocking, when you want to provoke attacks of opportunity, or when you want to get swept away by a large forced movement effect.
+**You can always choose to be hit by an attack, after seeing the initial results of the attack.**
+This can be a surprisingly useful tactical option.
+For example, you might choose to be hit by an attack when:
+
+* an ally is attempting to teleport you
+* you have the _cruel shield_ affix and want to apply afflictions to a creature whose attack you are blocking
+* you want to provoke attacks of opportunity
+* you want to get swept away by a large forced movement effect.
 
 If an effect tells you to select a creature within range, or something to that effect, you can always select yourself as the target unless there is some specific reason that you could not.
 
@@ -24,23 +37,27 @@ Whenever you roll a 20 on your d20 while making an attack (no matter what type o
 
 Efficacy multiplies the following characteristics of attacks:
 
-- The damage dealt. You do not roll again; simply multiply the damage dealt.
-- The number of stacks of afflictions applied.
-- The number of stacks of ailments applied.
-- The amount of absorption applied or stolen.
-- The distances involved in forced movement.
+* The damage dealt. You do not roll again; simply multiply the damage dealt.
+* The number of stacks of afflictions applied.
+* The number of stacks of ailments applied.
+* The amount of absorption applied or stolen.
+* The distances involved in forced movement.
 
-Multiple modifiers to efficacy (such as critical hits and Trickster's All In class feature) stack multiplicatively: if your attack would deal 7 damage, and then its efficacy was doubled twice, you would deal 28 damage instead. Like always, round up when computing the final effects after efficacy is applied.
+Multiple modifiers to efficacy stack multiplicatively: if your attack would deal 7 damage, and then its efficacy was doubled twice, you would deal 28 damage instead. Like always, round up when computing the final effects after efficacy is applied.
 
-Some effects (such as the _audacious_ combat talent or the _keen_ arms affix) can lower the **critical hit threshold,** allowing you to extend the range of numbers rolled which result in a critical hit. For example, if your critical hit threshold is lowered by one, any attack that you hit with where you rolled a 19 or 20 deals damage twice. These effects stack with each other. Determining whether an attack would be a critical hit is separate from determining if it hits: rolls that are at least your critical hit threshold do not automatically make contact with your target(s), but are critical hits if they land.
+Some effects (such as the _audacious_ feat or the _keen_ arms affix) can lower the **critical hit threshold,** allowing you to extend the range of numbers rolled which result in a critical hit.
+For example, if your critical hit threshold is lowered by one, any attack that you hit with where you rolled a 19 or 20 deals damage twice.
+These effects stack with each other. Determining whether an attack would be a critical hit is separate from determining if it hits: rolls that are at least your critical hit threshold do not automatically make contact with your target(s), but are critical hits if they land.
 
 ## Attack Ranges
 
 Attacks are either **melee** or **ranged.** While you are in an enemy zone of control, ranged attacks that you make have disadvantage.
 
-Most melee attacks are made against any target within your zone of control, such as the Strike or Shove core actions. However, some melee attacks have a fixed range, such as the Paragon's Auras. Ranged attacks always have their exact range specified.
+Most melee attacks are made against any target within your zone of control, such as the Strike or Shove core actions.
+However, some melee attacks have a fixed range, such as the Paragon's Auras. Ranged attacks always have their exact range specified.
 
-When a power describes its range as "weapon", its range is equal to that of your basic attacks. It is melee if your currently equipped arms makes melee basic attacks, and ranged if they make ranged basic attacks.
+When a power describes its range as "weapon", its range is equal to that of your basic attacks.
+It is melee if your currently equipped arms makes melee basic attacks, and ranged if they make ranged basic attacks.
 
 ## Single-Target and Multi-Target Attacks
 

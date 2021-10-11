@@ -1,6 +1,7 @@
 # Rules
 
-This section details all the rules of *Fonts of Power* for reference during play. This does not contain any information about character building or player characters, as that is handled in [Character Options](character-options/).
+This section details all the rules of *Fonts of Power* for reference during play.
+This does not contain any information about character building or player characters, as that is handled in [Character Options](character-options/).
 
 ## Sections
 

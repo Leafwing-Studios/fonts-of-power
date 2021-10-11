@@ -1,6 +1,7 @@
 # Elements
 
-One of the central concepts in Fonts of Power is the idea of unique, distinct elements that deal damage of different types and tend to have different effects and thematic hooks associated with them. In additional to **physical damage,** there are 10 **elemental damage types,** arranged in opposing pairs:
+One of the central concepts in Fonts of Power is the idea of unique, distinct elements that deal damage of different types and tend to have different effects and thematic hooks associated with them.
+In additional to **physical damage,** there are 10 **elemental damage types,** arranged in opposing pairs:
 
 - **air** and **earth**
 - **fire** and **water**
@@ -12,7 +13,10 @@ There is one further pairing, which do not have associated damage types, preferr
 
 - **reality** and **fate**
 
-Creatures can be **vulnerable, resistant,** or **immune** to types of damage. Creatures that are vulnerable to an element take twice as much damage from that element, if they are resistant they take half as much from that element, and immunity they ignore all damage of that element. Much like advantage or disadvantage, vulnerability and resistance do not stack with themselves but do cancel each other out. Immunity always trumps either vulnerability or resistance.
+Creatures can be **vulnerable, resistant,** or **immune** to types of damage.
+Creatures that are vulnerable to an element take twice as much damage from that element, if they are resistant they take half as much from that element, and if they are immune they ignore all damage of that element.
+Much like advantage or disadvantage, vulnerability and resistance do not stack with themselves but do cancel each other out.
+Immunity always trumps either vulnerability or resistance.
 
 There are two different ways in which multiple damage types might be combined: **split damage** and **hybrid damage.**
 
@@ -20,19 +24,23 @@ There are two different ways in which multiple damage types might be combined: *
 
 Split damage is evenly divided among its base types. In the event of an uneven division, the remainder is of the most effective type.
 
-For example, if you were to deal 13 fire-physical split damage to a creature that was vulnerable to fire, you would first split the damage in half, dealing 6 of each type. The remainder would become fire damage, resulting in 7 fire damage, and 6 physical damage. Due to the vulnerability, the fire damage would be doubled, and the creature would lose 7 × 2 + 6 = 20 life.
+For example, if you were to deal 13 fire-physical split damage to a creature that was vulnerable to fire, you would first split the damage in half, dealing 6 of each type.
+The remainder would become fire damage, resulting in 7 fire damage, and 6 physical damage. Due to the vulnerability, the fire damage would be doubled, and the creature would lose 7 × 2 + 6 = 20 life.
 
 ## Hybrid Damage
 
-Whenever you deal hybrid damage, you may choose which of its base types it is treated as on a per-target basis. All damage dealt to a single creature with a single attack must be of the same type.
+Whenever you deal hybrid damage, you may choose which of its base types it is treated as on a per-target basis.
+All damage dealt to a single creature with a single attack must be of the same type.
 
-This is particularly useful when dealing with creatures that have several damage type resistances, immunities or vulnerabilities. You can learn these using the Scan action.
+This is particularly useful when dealing with creatures that have several damage type resistances, immunities or vulnerabilities.
+You can learn these using the Scan action.
 
 ## Elemental Aesthetics
 
 ### Physical
 
-Physical damage is not a type of elemental damage. It is dealt by ordinary, painful effects powered by physics and kinetic force, such as being stabbed with a sword, hit by an arrow, bitten by a monster's terrible teeth or falling a great distance.
+Physical damage is not a type of elemental damage.
+It is dealt by ordinary, painful effects powered by physics and kinetic force, such as being stabbed with a sword, hit by an arrow, bitten by a monster's terrible teeth or falling a great distance.
 
 Mechanically, physical damage is commonly associated with effects which break or grant absorption (like the _blunt_ affix), apply the bleeding affliction, push creatures or knock them prone.
 
