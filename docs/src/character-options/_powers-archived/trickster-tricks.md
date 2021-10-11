@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Trickster Tricks
 
 ## Bamboozle

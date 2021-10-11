@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Runeseeker
 
 **Source of Power:** Drawing on ancient knowledge, Runeseekers perfectly capture the essence of a phenomenon in a rune that they draw in the air. Each rune requires intense study and careful practice, but once mastered can be subtly altered in numerous ways to determine the final effect.
@@ -15,23 +16,23 @@
 
 <div class="side-panel">
 
-| Roll | What are you searching for?                       |
-| :--: | ------------------------------------------------- |
-|  1   | Something that I lost.                            |
-|  2   | The great unknown.                                |
-|  3   | The breakthrough that will revolutionize society. |
-|  4   | Forbidden secrets.                                |
-|  5   | A deeper understanding of the world.              |
-|  6   | Rare and powerful magical artifacts.              |
+| Roll  | What are you searching for?                       |
+| :---: | ------------------------------------------------- |
+|   1   | Something that I lost.                            |
+|   2   | The great unknown.                                |
+|   3   | The breakthrough that will revolutionize society. |
+|   4   | Forbidden secrets.                                |
+|   5   | A deeper understanding of the world.              |
+|   6   | Rare and powerful magical artifacts.              |
 
-| Roll | How do you inscribe your spells?                         |
-| :--: | -------------------------------------------------------- |
-|  1   | I trace them in the air with a wand.                     |
-|  2   | I carefully construct them with my hands, molding magic. |
-|  3   | I carry physical media at all times.                     |
-|  4   | I trace them on the ground with my staff.                |
-|  5   | They come into being as I hold the image in my mind.     |
-|  6   | I activate the runes tattooed onto my body.              |
+| Roll  | How do you inscribe your spells?                         |
+| :---: | -------------------------------------------------------- |
+|   1   | I trace them in the air with a wand.                     |
+|   2   | I carefully construct them with my hands, molding magic. |
+|   3   | I carry physical media at all times.                     |
+|   4   | I trace them on the ground with my staff.                |
+|   5   | They come into being as I hold the image in my mind.     |
+|   6   | I activate the runes tattooed onto my body.              |
 
 </div>
 

@@ -392,13 +392,17 @@ You ally's skin turns to solid diamond, sparkling and durable. Select a creature
 
 </div>
 
-With a single glance you turn your enemy to stone. Make a special attack against Focus against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified for the duration of this effect:
-_ Damage
-_ Forced movement
-_ Boons
-_ Ailments \* Afflictions
+With a single glance you turn your enemy to stone. Make a special attack against Focus against a creature within range. This attack automatically misses against creatures suffering from the blinded ailment. If you hit, they are petrified for the duration of this effect and are immune to:
 
-- The target cannot take actions, reactions, or spend movement
+- Damage
+- Forced movement
+- Boons
+- Ailments
+- Afflictions
+
+In addition, they:
+
+- The target cannot spend AP
 - The target is conscious and can use all of their senses normally
 
 ### Curse of Stone - Miracle
@@ -1818,7 +1822,7 @@ At the beginning of each of this creature’s turns, you may make a difficulty 2
 
 **Range:** 6 tiles
 
-**Targets:** Multi-targe
+**Targets:** Multi-target
 
 **Targeted defense:** Prowess
 

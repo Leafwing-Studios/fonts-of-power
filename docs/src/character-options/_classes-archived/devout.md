@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Devout
 
 **Source of Power:** Praying to a higher power, the Devout are offered a taste of unimaginable power, capable of working miracles so long as they please their sometimes unreliable god.
@@ -16,38 +17,38 @@
 
 <div class="side-panel">
 
-| Roll | Why did you join your religion?           |
-| :--: | ----------------------------------------- |
-|  1   | I was born into it.                       |
-|  2   | I was converted after they helped me out. |
-|  3   | I had a personal revelation.              |
-|  4   | I carefully reviewed the options.         |
-|  5   | I personally witnessed a miracle.         |
-|  6   | I started this religion myself.           |
+| Roll  | Why did you join your religion?           |
+| :---: | ----------------------------------------- |
+|   1   | I was born into it.                       |
+|   2   | I was converted after they helped me out. |
+|   3   | I had a personal revelation.              |
+|   4   | I carefully reviewed the options.         |
+|   5   | I personally witnessed a miracle.         |
+|   6   | I started this religion myself.           |
 
-| Roll | How do you feel about your faith?                                  |
-| :--: | ------------------------------------------------------------------ |
-|  1   | I am fanatically observant.                                        |
-|  2   | I find meaning in my faith.                                        |
-|  3   | Sometimes I worry that I’m not doing what my god would want me to. |
-|  4   | I try my best to follow its guidance.                              |
-|  5   | I question the tenets when they diverge from my personal morals.   |
-|  6   | I wonder sometimes if my deity actually exists.                    |
+| Roll  | How do you feel about your faith?                                  |
+| :---: | ------------------------------------------------------------------ |
+|   1   | I am fanatically observant.                                        |
+|   2   | I find meaning in my faith.                                        |
+|   3   | Sometimes I worry that I’m not doing what my god would want me to. |
+|   4   | I try my best to follow its guidance.                              |
+|   5   | I question the tenets when they diverge from my personal morals.   |
+|   6   | I wonder sometimes if my deity actually exists.                    |
 
-| Roll | Which 3 domains are your deity associated with?    |
-| :--: | -------------------------------------------------- |
-|  1   | Air - Winds, Travel, Storms                        |
-|  2   | Earth - Sand, Rocks, Soil                          |
-|  3   | Fire - Flames, Hearth, Volcanoes                   |
-|  4   | Water - Frost, Tides, Seas                         |
-|  5   | Arcane - Magic, Time, Creation                     |
-|  6   | Eldritch - Minds, Consciousness, The Inscrutable   |
-|  7   | Primal - Plants, Animals, Natural Vigor            |
-|  8   | Decay - Souls, Dead, Cycling                       |
-|  9   | Radiant - Sun, Moon, Stars                         |
-|  10  | Umbral - Shadows, Darkness, Dark Bargains          |
-|  11  | Electricity - Lightning, Spark of Life, Technology |
-|  12  | Corrosion - Acid, Destruction, Aging               |
+| Roll  | Which 3 domains are your deity associated with?    |
+| :---: | -------------------------------------------------- |
+|   1   | Air - Winds, Travel, Storms                        |
+|   2   | Earth - Sand, Rocks, Soil                          |
+|   3   | Fire - Flames, Hearth, Volcanoes                   |
+|   4   | Water - Frost, Tides, Seas                         |
+|   5   | Arcane - Magic, Time, Creation                     |
+|   6   | Eldritch - Minds, Consciousness, The Inscrutable   |
+|   7   | Primal - Plants, Animals, Natural Vigor            |
+|   8   | Decay - Souls, Dead, Cycling                       |
+|   9   | Radiant - Sun, Moon, Stars                         |
+|  10   | Umbral - Shadows, Darkness, Dark Bargains          |
+|  11   | Electricity - Lightning, Spark of Life, Technology |
+|  12   | Corrosion - Acid, Destruction, Aging               |
 
 </div>
 

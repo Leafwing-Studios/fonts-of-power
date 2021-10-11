@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Shaman
 
 **Source of Power:** Drawing magical power from the land itself, Shamans manifest these primal energies with uncontrolled destructive force.
@@ -16,23 +17,23 @@
 
 <div class="side-panel">
 
-| Roll | How was your bond with the land forged?        |
-| :--: | ---------------------------------------------- |
-|  1   | I was raised in the wild.                      |
-|  2   | I was trained as a shaman.                     |
-|  3   | It chose me of its own accord.                 |
-|  4   | I heard the land cry out.                      |
-|  5   | I connected to it in search of power.          |
-|  6   | I barely survived an encounter with its might. |
+| Roll  | How was your bond with the land forged?        |
+| :---: | ---------------------------------------------- |
+|   1   | I was raised in the wild.                      |
+|   2   | I was trained as a shaman.                     |
+|   3   | It chose me of its own accord.                 |
+|   4   | I heard the land cry out.                      |
+|   5   | I connected to it in search of power.          |
+|   6   | I barely survived an encounter with its might. |
 
-| Roll | How do you feel about the land you are bound to?    |
-| :--: | --------------------------------------------------- |
-|  1   | I resent the connection that I have with it.        |
-|  2   | I strive to conquer it.                             |
-|  3   | I seek to work with it for the good of my people.   |
-|  4   | I treat it with respect and advocate for its needs. |
-|  5   | I will do anything to protect it.                   |
-|  6   | I worship it as a sort of god.                      |
+| Roll  | How do you feel about the land you are bound to?    |
+| :---: | --------------------------------------------------- |
+|   1   | I resent the connection that I have with it.        |
+|   2   | I strive to conquer it.                             |
+|   3   | I seek to work with it for the good of my people.   |
+|   4   | I treat it with respect and advocate for its needs. |
+|   5   | I will do anything to protect it.                   |
+|   6   | I worship it as a sort of god.                      |
 
 </div>
 

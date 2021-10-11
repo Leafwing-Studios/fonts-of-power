@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Weaver
 
 **Source of Power:** Carefully manipulating the threads of magic that underlie reality, Weavers are masters of the arcane, creating and destroying matter and warping time and space with deft hands and a quick mind.
@@ -187,7 +188,7 @@ At level 20, you can freely twist and shape magic to your will, altering the nat
 
 Aloof and mysterious, the Guild of Fateweavers works in the shadows, observing and manipulating both the most important events in history and the subtle mundane lives which together build to a swell. Its students are taught the importance and danger of this role, and it often marks them as intractably different to those who might be their companions.
 
-The populace views their existence as either unfounded fairytale, a group of unfair oppressors or minor saviours who might turn their fortunes around. Often, of course, flickering in their opinion based on their current circumstances.
+The populace views their existence as either unfounded fairy-tale, a group of unfair oppressors or minor saviours who might turn their fortunes around. Often, of course, flickering in their opinion based on their current circumstances.
 
 Most of those in this guild view themselves as the guardians of fate, set on the thankless task of ensuring things happen as they should. But a few rogue elements reject this view, and take their power into their own hands, attempting to twist the threads of destiny into a tapestry of their own making, for weal or for woe.
 

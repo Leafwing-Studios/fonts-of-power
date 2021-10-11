@@ -1,3 +1,5 @@
+# Touched Powers
+
 Unlike other classes, the powers available to the Touched are fully personalized. Instead of selecting the powers that they know from a list of premade powers, every Touched creates their own simple powers using the following rules. Record the effects created on a spell card as you work.
 
 1. **Name:** Decide on a name for this power.

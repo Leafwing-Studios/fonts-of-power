@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Bladesworn
 
 **Source of Power:** Irrevocably bound to a sentient weapon, Bladesworn draw on the accumulated knowledge and skill of its past wielders, slowly contributing bits of their own soul back into the collective.
@@ -15,23 +16,23 @@
 
 <div class="side-panel">
 
-| Roll | How did you encounter your weapon?                          |
-| :--: | ----------------------------------------------------------- |
-|  1   | I stumbled across it.                                       |
-|  2   | It’s been handed down in my family for generations.         |
-|  3   | It was given to me by the last owner in their dying breath. |
-|  4   | I stole it.                                                 |
-|  5   | I found it locked away.                                     |
-|  6   | It was given to me by a mysterious stranger.                |
+| Roll  | How did you encounter your weapon?                          |
+| :---: | ----------------------------------------------------------- |
+|   1   | I stumbled across it.                                       |
+|   2   | It’s been handed down in my family for generations.         |
+|   3   | It was given to me by the last owner in their dying breath. |
+|   4   | I stole it.                                                 |
+|   5   | I found it locked away.                                     |
+|   6   | It was given to me by a mysterious stranger.                |
 
-| Roll | How do you feel about the connection to the past users? |
-| :--: | ------------------------------------------------------- |
-|  1   | I dread the day that I will join them.                  |
-|  2   | They may be handy, but do they have to be so annoying?  |
-|  3   | I am grateful for their knowledge and skill.            |
-|  4   | I revere them in some way.                              |
-|  5   | They are my closest friends.                            |
-|  6   | I feel myself becoming one with their collective.       |
+| Roll  | How do you feel about the connection to the past users? |
+| :---: | ------------------------------------------------------- |
+|   1   | I dread the day that I will join them.                  |
+|   2   | They may be handy, but do they have to be so annoying?  |
+|   3   | I am grateful for their knowledge and skill.            |
+|   4   | I revere them in some way.                              |
+|   5   | They are my closest friends.                            |
+|   6   | I feel myself becoming one with their collective.       |
 
 </div>
 

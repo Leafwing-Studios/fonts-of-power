@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Paragon
 
 **Source of Power:** Singularly committed to their ideals, the strength of the Paragon’s conviction shines through for everyone around them to see, and gives them the strength to stand proud in the face of overwhelming adversity.
@@ -15,23 +16,23 @@
 
 <div class="side-panel">
 
-| Roll | Why do you hold such strong ideals?                  |
-| :--: | ---------------------------------------------------- |
-|  1   | I witnessed a tragedy.                               |
-|  2   | I joined an order that swears to uphold the values.  |
-|  3   | They were instilled in me by someone I admire.       |
-|  4   | It is an act of rebellion against someone I despise. |
-|  5   | I want to atone for my past.                         |
-|  6   | I am somehow bound to do so.                         |
+| Roll  | Why do you hold such strong ideals?                  |
+| :---: | ---------------------------------------------------- |
+|   1   | I witnessed a tragedy.                               |
+|   2   | I joined an order that swears to uphold the values.  |
+|   3   | They were instilled in me by someone I admire.       |
+|   4   | It is an act of rebellion against someone I despise. |
+|   5   | I want to atone for my past.                         |
+|   6   | I am somehow bound to do so.                         |
 
-| Roll | What will you sacrifice to further your ideals? |
-| :--: | ----------------------------------------------- |
-|  1   | My sense of self.                               |
-|  2   | My friends.                                     |
-|  3   | The ideals that others hold dear.               |
-|  4   | My reputation.                                  |
-|  5   | Innocents who get in the way.                   |
-|  6   | My power.                                       |
+| Roll  | What will you sacrifice to further your ideals? |
+| :---: | ----------------------------------------------- |
+|   1   | My sense of self.                               |
+|   2   | My friends.                                     |
+|   3   | The ideals that others hold dear.               |
+|   4   | My reputation.                                  |
+|   5   | Innocents who get in the way.                   |
+|   6   | My power.                                       |
 
 </div>
 

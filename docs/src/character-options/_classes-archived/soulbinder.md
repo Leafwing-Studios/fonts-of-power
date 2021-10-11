@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Soulbinder
 
 **Source of Power:** Forming a connection between their own soul and another through physical contact, Soulbinders manipulate this bond to transmit strange pulses to and from their dual.
@@ -16,23 +17,23 @@
 
 <div class="side-panel">
 
-| Roll | How do you use your power over souls?                                                                     |
-| :--: | --------------------------------------------------------------------------------------------------------- |
-|  1   | I am a serene mystic.                                                                                     |
-|  2   | I cure ailments and spread suffering as I see fit.                                                        |
-|  3   | I am a master of subterfuge and manipulation.                                                             |
-|  4   | I am a shepherd of souls, guiding them to where they must be.                                             |
-|  5   | I’m just trying to live my life, but struggle to cope with the connections that are formed automatically. |
-|  6   | I am a talented assassin or hunter.                                                                       |
+| Roll  | How do you use your power over souls?                                                                     |
+| :---: | --------------------------------------------------------------------------------------------------------- |
+|   1   | I am a serene mystic.                                                                                     |
+|   2   | I cure ailments and spread suffering as I see fit.                                                        |
+|   3   | I am a master of subterfuge and manipulation.                                                             |
+|   4   | I am a shepherd of souls, guiding them to where they must be.                                             |
+|   5   | I’m just trying to live my life, but struggle to cope with the connections that are formed automatically. |
+|   6   | I am a talented assassin or hunter.                                                                       |
 
-| Roll | What happens when you form a bond?                                              |
-| :--: | ------------------------------------------------------------------------------- |
-|  1   | An invisible thread of the Weave connects us.                                   |
-|  2   | I channel my essence through my blade or touch, forcing my way into their soul. |
-|  3   | A tiny, nearly imperceptible spark runs between us.                             |
-|  4   | There is a burst of shared emotion.                                             |
-|  5   | Our fates are somehow bound in a tiny way.                                      |
-|  6   | A shiver runs down their spine.                                                 |
+| Roll  | What happens when you form a bond?                                              |
+| :---: | ------------------------------------------------------------------------------- |
+|   1   | An invisible thread of the Weave connects us.                                   |
+|   2   | I channel my essence through my blade or touch, forcing my way into their soul. |
+|   3   | A tiny, nearly imperceptible spark runs between us.                             |
+|   4   | There is a burst of shared emotion.                                             |
+|   5   | Our fates are somehow bound in a tiny way.                                      |
+|   6   | A shiver runs down their spine.                                                 |
 
 </div>
 

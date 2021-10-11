@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Conduit
 
 **Source of Power:** Conduits collect and focus the ambient magic of their surroundings, carefully channeling this magic into items before releasing it in a surge of power.
@@ -15,23 +16,23 @@
 
 <div class="side-panel">
 
-| Roll | How do you channel your magic into objects?          |
-| :--: | ---------------------------------------------------- |
-|  1   | I understand every detail of their construction.     |
-|  2   | I pour a little bit of my soul into them every time. |
-|  3   | I open myself up to their energy.                    |
-|  4   | I imbue them with the spark of a primitive life.     |
-|  5   | I cover them with strange runes.                     |
-|  6   | I practice with them endlessly to win their trust.   |
+| Roll  | How do you channel your magic into objects?          |
+| :---: | ---------------------------------------------------- |
+|   1   | I understand every detail of their construction.     |
+|   2   | I pour a little bit of my soul into them every time. |
+|   3   | I open myself up to their energy.                    |
+|   4   | I imbue them with the spark of a primitive life.     |
+|   5   | I cover them with strange runes.                     |
+|   6   | I practice with them endlessly to win their trust.   |
 
-| Roll | Why do you want to master your craft?      |
-| :--: | ------------------------------------------ |
-|  1   | I want to surpass a rival.                 |
-|  2   | I was pushed into it by my family.         |
-|  3   | I want to become rich and famous.          |
-|  4   | I want to unlock its secrets.              |
-|  5   | I want to be able to outfit an army.       |
-|  6   | I am obsessed with the artistry of it all. |
+| Roll  | Why do you want to master your craft?      |
+| :---: | ------------------------------------------ |
+|   1   | I want to surpass a rival.                 |
+|   2   | I was pushed into it by my family.         |
+|   3   | I want to become rich and famous.          |
+|   4   | I want to unlock its secrets.              |
+|   5   | I want to be able to outfit an army.       |
+|   6   | I am obsessed with the artistry of it all. |
 
 </div>
 

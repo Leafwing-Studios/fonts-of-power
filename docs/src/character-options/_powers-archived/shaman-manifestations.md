@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Manifestations
 
 The available manifestations are listed below, while the domain-specific customizations for each manifestation is listed after the end of the list.
@@ -266,7 +267,7 @@ Block blows with a swirling elemental shield, allowing you to absorb elemental d
 When you use the Block reaction, this manifestation activates:
 
 - Until the end of the current turn, whenever you would be hit by an attack, absorb additional elemental damage. This occurs before the efficacy of the attack would be modified by your Block reaction
-- When you absorb elemental damage int his way, deal the same amount of elemental damage, but of the type specified by your domain, to all creatures in a 2 tile cone, directed towards the source of the damage.
+- When you absorb elemental damage in this way, deal the same amount of elemental damage, but of the type specified by your domain, to all creatures in a 2 tile cone, directed towards the source of the damage.
 
 If you took elemental damage from a tile effect or your Surge class feature, you may choose to direct the cone in the direction of your choice.
 When you Surge this manifestation:

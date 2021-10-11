@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Touched
 
 **Source of Power:** Fused with the magic of another soul, the Touched must share a body and mind with an alien entity. Over time, the Host learns to draw on the Companion’s power and share their own, fighting together in a beautiful duet.
@@ -15,23 +16,23 @@
 
 <div class="side-panel">
 
-| Roll | How did you and your companion become one?                          |
-| :--: | ------------------------------------------------------------------- |
-|  1   | I lost control of my magic, and now it has a mind of its own.       |
-|  2   | I took in some of the magic of a font of power in order to survive. |
-|  3   | I sought it out so I could become stronger.                         |
-|  4   | It is an infection or parasite.                                     |
-|  5   | It is my familiar, in a sense.                                      |
-|  6   | It is another part of who I am.                                     |
+| Roll  | How did you and your companion become one?                          |
+| :---: | ------------------------------------------------------------------- |
+|   1   | I lost control of my magic, and now it has a mind of its own.       |
+|   2   | I took in some of the magic of a font of power in order to survive. |
+|   3   | I sought it out so I could become stronger.                         |
+|   4   | It is an infection or parasite.                                     |
+|   5   | It is my familiar, in a sense.                                      |
+|   6   | It is another part of who I am.                                     |
 
-| Roll | How do you feel about sharing a body and mind with your companion? |
-| :--: | ------------------------------------------------------------------ |
-|  1   | I despise it and fight against it at every opportunity.            |
-|  2   | It makes me doubt who I truly am.                                  |
-|  3   | It unnerves me, but I accept its value.                            |
-|  4   | I long to lose myself to it, and give up my own identity.          |
-|  5   | I want to learn to work together.                                  |
-|  6   | I think we'd be better off if we merged and became one.            |
+| Roll  | How do you feel about sharing a body and mind with your companion? |
+| :---: | ------------------------------------------------------------------ |
+|   1   | I despise it and fight against it at every opportunity.            |
+|   2   | It makes me doubt who I truly am.                                  |
+|   3   | It unnerves me, but I accept its value.                            |
+|   4   | I long to lose myself to it, and give up my own identity.          |
+|   5   | I want to learn to work together.                                  |
+|   6   | I think we'd be better off if we merged and became one.            |
 
 </div>
 

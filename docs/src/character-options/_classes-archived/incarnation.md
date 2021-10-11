@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Incarnation
 
 **Source of Power:** Wellsprings of raw emotion, Incarnations focus their feelings to become somehow larger than life.
@@ -15,23 +16,23 @@
 
 <div class="side-panel">
 
-| Roll | How do you call out such strong emotions?                  |
-| :--: | ---------------------------------------------------------- |
-|  1   | I enter a trance of some sort.                             |
-|  2   | I give in to the growing feelings.                         |
-|  3   | I focus on a powerful memory.                              |
-|  4   | I use the rituals of my faith.                             |
-|  5   | I use a strange substance or technique.                    |
-|  6   | I let out a part of my personality that is usually hidden. |
+| Roll  | How do you call out such strong emotions?                  |
+| :---: | ---------------------------------------------------------- |
+|   1   | I enter a trance of some sort.                             |
+|   2   | I give in to the growing feelings.                         |
+|   3   | I focus on a powerful memory.                              |
+|   4   | I use the rituals of my faith.                             |
+|   5   | I use a strange substance or technique.                    |
+|   6   | I let out a part of my personality that is usually hidden. |
 
-| Roll | What form does your transformation take?                               |
-| :--: | ---------------------------------------------------------------------- |
-|  1   | The avatar of a god.                                                   |
-|  2   | A terrible beast or monster.                                           |
-|  3   | I am endowed with remarkable ability.                                  |
-|  4   | I am surrounded by a visible aura of power.                            |
-|  5   | I seem possessed.                                                      |
-|  6   | My emotions pour forth from me in a way that those around me can feel. |
+| Roll  | What form does your transformation take?                               |
+| :---: | ---------------------------------------------------------------------- |
+|   1   | The avatar of a god.                                                   |
+|   2   | A terrible beast or monster.                                           |
+|   3   | I am endowed with remarkable ability.                                  |
+|   4   | I am surrounded by a visible aura of power.                            |
+|   5   | I seem possessed.                                                      |
+|   6   | My emotions pour forth from me in a way that those around me can feel. |
 
 </div>
 

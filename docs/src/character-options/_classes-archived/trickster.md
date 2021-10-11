@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Trickster
 
 **Source of Power:** Masters of chance, Tricksters play the odds as they manipulate luck itself to pull off improbable shenanigans with alarming regularity.
@@ -15,32 +16,32 @@
 
 <div class="side-panel">
 
-| Roll | What is your favorite sort of trouble? |
-| :--: | -------------------------------------- |
-|  1   | Gambling.                              |
-|  2   | Old-fashioned scams.                   |
-|  3   | A solid brawl.                         |
-|  4   | Political intrigue.                    |
-|  5   | Thievery.                              |
-|  6   | Do-gooding.                            |
+| Roll  | What is your favorite sort of trouble? |
+| :---: | -------------------------------------- |
+|   1   | Gambling.                              |
+|   2   | Old-fashioned scams.                   |
+|   3   | A solid brawl.                         |
+|   4   | Political intrigue.                    |
+|   5   | Thievery.                              |
+|   6   | Do-gooding.                            |
 
-| Roll | How do you manipulate luck?                                  |
-| :--: | ------------------------------------------------------------ |
-|  1   | I have no idea!                                              |
-|  2   | I can see a moment into the future.                          |
-|  3   | I make sure the odds against me are always a million-to-one. |
-|  4   | It’s simple: I cheat.                                        |
-|  5   | I am favored by the gods.                                    |
-|  6   | I simply follow the “rule of cool”.                          |
+| Roll  | How do you manipulate luck?                                  |
+| :---: | ------------------------------------------------------------ |
+|   1   | I have no idea!                                              |
+|   2   | I can see a moment into the future.                          |
+|   3   | I make sure the odds against me are always a million-to-one. |
+|   4   | It’s simple: I cheat.                                        |
+|   5   | I am favored by the gods.                                    |
+|   6   | I simply follow the “rule of cool”.                          |
 
-| Roll | What is one line you refuse to cross? |
-| :--: | ------------------------------------- |
-|  1   | Harming innocents.                    |
-|  2   | Murder.                               |
-|  3   | Blatantly lying.                      |
-|  4   | Betraying your allies.                |
-|  5   | Breaking your word.                   |
-|  6   | Crossing a god.                       |
+| Roll  | What is one line you refuse to cross? |
+| :---: | ------------------------------------- |
+|   1   | Harming innocents.                    |
+|   2   | Murder.                               |
+|   3   | Blatantly lying.                      |
+|   4   | Betraying your allies.                |
+|   5   | Breaking your word.                   |
+|   6   | Crossing a god.                       |
 
 </div>
 

@@ -257,7 +257,7 @@ Bound together, you move in perfect unison as if by magic. Choose one:
 - For the duration of the effect, whenever your dual moves by any means (other than this effect), you move in unison.
 - Make a special attack against Expertise against your dual. For the duration of the effect, whenever you move by any means (other than this effect), your dual moves in unison.
 
-More precisely, when a creature moves in unision:
+More precisely, when a creature moves in unison:
 
 - teleport the other creature the same distance in the same direction, relative to their current position
 - if the tile that they would enter is not suitable, they move as far as they can in the same direction
@@ -286,7 +286,7 @@ An intense distaste pulses through your bond, driving you apart with remarkable 
 - Apply two stacks of frightened to yourself, with your dual as the object of your fear. Gain the benefits of the Dash minor action twice.
 - Make a special attack against Presence against your dual. If you hit, apply two stacks of frightened to your dual, with yourself dual as the object of your fear. They gain the benefits of the Dash minor action twice.
 
-## Precipitious Reversal
+## Precipitous Reversal
 
 <div class="tight">
 
@@ -377,7 +377,7 @@ Sensory information travels over the bond, letting you see through the other’s
 
 </div>
 
-Your bond pulses rhymically, canceling out any sound that you might make. Choose one:
+Your bond pulses rhythmically, canceling out any sound that you might make. Choose one:
 
 - For the duration of this effect, you cannot make sound by any means.
 - Make a special attack against Focus against your dual. If you hit, for the duration of this effect, your dual cannot make sound by any means.
