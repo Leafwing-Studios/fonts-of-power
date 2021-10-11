@@ -111,9 +111,11 @@ Consume the ingredient, then determine your success or failure at this crafting:
 - Add 5 times the current danger level of the area you are resting in to the result.
 - The difficulty of adding an affix is equal to 15 + (5 \* the gear points of that affix).
 
+If you succeeded, you may choose to remove any number of existing affixes from that gear, then add your new affix!
+
 If you failed by 10 or less, you may sacrifice essence crystals equal to the difference between your roll and the difficulty to complete the process.
 
-If you succeeded, you may choose to remove any number of existing affixes from that gear, then add your new affix!
+If you failed by more than 10, your downtime activity is wasted and you lose the ingredient.
 
 ## Forge
 
