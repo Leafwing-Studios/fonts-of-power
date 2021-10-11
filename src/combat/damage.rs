@@ -3,14 +3,14 @@ use crate::combat::Active;
 use crate::core::dice::Roll;
 use crate::core::stats::{Absorption, Life};
 use bevy::app::Events;
-use bevy::ecs::{Query, ResMut, With};
+use bevy::prelude::{Component, Query, ResMut, With};
 use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 use std::cmp::max;
 use std::collections::HashMap;
 use std::ops::Mul;
 
-#[derive(Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
+#[derive(Component, Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
 pub struct DamageRoll(Roll);
 
 impl DamageRoll {
@@ -100,7 +100,7 @@ impl ResistanceLevel {
     }
 }
 #[allow(dead_code)]
-#[derive(Clone, Debug, PartialEq, Eq)]
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct Resistances(HashMap<Element, ResistanceLevel>);
 
 impl Resistances {
@@ -112,7 +112,7 @@ impl Resistances {
     }
 }
 #[allow(dead_code)]
-#[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[derive(Component, Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub enum DamageType {
     Pure(Element),
     Hybrid(Element, Element),

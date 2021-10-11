@@ -1,4 +1,5 @@
 use crate::combat::attack::Efficacy;
+use bevy::prelude::Component;
 use num_rational::Ratio;
 use std::collections::HashMap;
 use std::ops::Mul;
@@ -18,7 +19,7 @@ pub enum Affliction {
 }
 
 #[allow(dead_code)]
-#[derive(Clone, Debug)]
+#[derive(Component, Clone, Debug)]
 pub struct Afflictions {
     map: HashMap<Affliction, u16>,
 }
@@ -58,7 +59,7 @@ pub enum Ailment {
 }
 
 #[allow(dead_code)]
-#[derive(Clone, Debug)]
+#[derive(Component, Clone, Debug)]
 pub struct Ailments {
     map: HashMap<Ailment, u16>,
 }
@@ -81,36 +82,36 @@ pub fn apply_afflictions() {}
 
 pub fn apply_ailments() {}
 
-pub trait Status {}
+pub trait Status: Component {}
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct DeathsDoor;
 impl Status for DeathsDoor {}
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct Flying;
 impl Status for Flying {}
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct Grappled;
 impl Status for Grappled {}
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct Grappling;
 impl Status for Grappling {}
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct Hidden;
 impl Status for Hidden {}
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct Invisible;
 impl Status for Invisible {}
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct Prone;
 impl Status for Prone {}
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct Unconscious;
 impl Status for Unconscious {}

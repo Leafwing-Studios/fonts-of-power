@@ -2,7 +2,8 @@ use crate::combat::{
     tiles::{Distance, Shape},
     ObjectKind,
 };
-use bevy::ecs::Entity;
+use bevy::prelude::Component;
+use bevy::prelude::Entity;
 use derive_more::{Deref, DerefMut};
 use std::collections::HashSet;
 
@@ -33,7 +34,7 @@ use std::collections::HashSet;
 // TODO: add archetype invariants
 
 /// Fundamental action component that declares that an entity is an Action
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Debug, Hash, PartialEq, Eq)]
 pub struct Action {
     name: String,
     description: String,
@@ -43,7 +44,7 @@ pub struct Action {
 #[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
 pub struct ActionChoices(Vec<Entity>);
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum ActionSpeed {
     Movement,
@@ -52,34 +53,32 @@ pub enum ActionSpeed {
     Reaction,
 }
 
-#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
+#[derive(Component, Clone, Deref, DerefMut, PartialEq, Eq)]
 pub struct Actor(Entity);
 
-#[derive(Clone, Debug, PartialEq, Eq)]
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
 #[allow(dead_code)]
 pub struct ValidTargets(HashSet<ObjectKind>);
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 #[allow(dead_code)]
 pub enum TargetArity {
     Single,
     Multi,
 }
 
-#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
+#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub enum RangeCategory {
     Melee,
     Ranged,
 }
 
-#[derive(Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
+#[derive(Component, Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
 pub struct Range(Distance);
 
-#[allow(dead_code)]
 pub struct AreaOfEffect(Shape);
 
-#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
+#[derive(Component, Clone, Deref, DerefMut, PartialEq, Eq)]
 pub struct Targets(Vec<Entity>);
 
 // TODO: Complete

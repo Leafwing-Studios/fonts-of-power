@@ -1,4 +1,5 @@
 use bevy::math::i32;
+use bevy::prelude::Component;
 use rand::Rng;
 use std::cmp::{max, min};
 use std::convert::TryFrom;
@@ -40,7 +41,7 @@ impl TryFrom<i8> for DieSize {
     }
 }
 
-#[derive(Clone, Copy, Debug, Hash, Eq, PartialEq)]
+#[derive(Component, Clone, Copy, Debug, Hash, Eq, PartialEq)]
 pub struct Roll {
     pub n: i32,
     pub d: DieSize,

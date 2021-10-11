@@ -1,4 +1,4 @@
-use bevy::{app::App, ecs::ReportExecutionOrderAmbiguities, DefaultPlugins};
+use bevy::{app::App, ecs::schedule::ReportExecutionOrderAmbiguities, DefaultPlugins};
 mod character_options;
 mod combat;
 mod core;
@@ -12,7 +12,7 @@ use crate::{
 };
 
 fn main() {
-    App::build()
+    App::new()
         .insert_resource(ReportExecutionOrderAmbiguities)
         .add_plugins(DefaultPlugins)
         .add_plugin(CorePlugin {})

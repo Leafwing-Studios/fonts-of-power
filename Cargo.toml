@@ -10,7 +10,7 @@ categories = ["games"]
 keywords = ["bevy", "rpg"]
 
 [dependencies]
-bevy = { version = "0.5", default-features = true, features = ["dynamic"]}
+bevy = { git = "https://github.com/bevyengine/bevy", commit = "f4776f2ec413bb80ff4ee51e04bb57f0a44d9983", default-features = true}
 rand = "0.8.3"
 derive_more = "0.99.11"
 num-rational = "0.3"

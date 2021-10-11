@@ -2,11 +2,11 @@ use crate::combat::actions::{
     Action, ActionSpeed, Actor, Range, RangeCategory, TargetArity, Targets, ValidTargets,
 };
 use crate::combat::time::Duration;
-use bevy::ecs::Bundle;
+use bevy::prelude::{Bundle, Component};
 
 // TODO: derive Default for each core action
 /// Core action entity marker: these entities should never be changed at run time
-#[derive(Clone, Copy, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, PartialEq, Eq)]
 pub struct CoreAction;
 
 #[derive(Bundle, Clone)]

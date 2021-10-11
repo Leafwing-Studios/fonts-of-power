@@ -1,5 +1,5 @@
 /// Gear, currencies, consumables and adventuring gear
-use bevy::ecs::Entity;
+use bevy::prelude::Entity;
 use std::collections::HashSet;
 
 /// Component that tracks the items in the inventory

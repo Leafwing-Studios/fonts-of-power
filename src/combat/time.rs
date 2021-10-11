@@ -1,9 +1,9 @@
-use bevy::ecs::Entity;
+use bevy::prelude::{Component, Entity};
 use derive_more::{Deref, DerefMut};
 
 #[non_exhaustive]
 #[allow(dead_code)]
-#[derive(Copy, Clone, Hash, PartialEq, Eq)]
+#[derive(Component, Copy, Clone, Hash, PartialEq, Eq)]
 pub enum Duration {
     EndOfTurn,
     StartOfYourNextTurn,

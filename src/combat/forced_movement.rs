@@ -1,10 +1,11 @@
 use crate::combat::attack::Efficacy;
 use crate::combat::tiles::{Direction, Distance, Position};
+use bevy::prelude::Component;
 use std::fmt::Debug;
 use std::ops::Mul;
 
 #[allow(dead_code)]
-#[derive(Clone, Debug, Hash, PartialEq, Eq)]
+#[derive(Component, Clone, Debug, Hash, PartialEq, Eq)]
 pub enum ForcedMovement {
     Push {
         source: Position,

@@ -4,13 +4,11 @@ use crate::combat::damage::DamageRoll;
 use crate::combat::forced_movement::ForcedMovement;
 use crate::combat::Active;
 use crate::core::dice::Roll;
-use crate::core::entity_clone::*;
 use crate::core::stats::{Absorption, Attribute};
-use bevy::ecs::{Commands, Entity, Query, With};
+use bevy::prelude::Component;
+use bevy::prelude::{Commands, Entity, Query, With};
 use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
-
-// TODO: add archetype invariants
 
 /// Fundamental component for Attack entities, which store the information about an attack's effects
 /// Attack entities should always have the following fields, typically derived from the action taken by the attacker:
@@ -40,23 +38,25 @@ use num_rational::Ratio;
 /// - Defender
 /// - Defense
 
-#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, PartialEq, Eq)]
 pub struct Attack;
-#[derive(Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
+
+#[derive(Component, Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
 pub struct Attacker(Entity);
-#[derive(Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
+
+#[derive(Component, Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
 pub struct Defender(Entity);
-#[derive(Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
+
+#[derive(Component, Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
 pub struct AttackRoll(Roll);
-#[allow(dead_code)]
-#[derive(Copy, Clone, Debug, PartialEq, Eq)]
+#[derive(Component, Copy, Clone, Debug, PartialEq, Eq)]
 pub enum AttackType {
     Basic,
     Special(Attribute),
     NoRoll,
 }
 
-#[derive(Copy, Clone, Debug)]
+#[derive(Component, Copy, Clone, Debug)]
 pub struct AttackBonus {
     basic: i32,
     special: i32,
@@ -72,7 +72,7 @@ impl AttackBonus {
     }
 }
 
-#[derive(Copy, Clone, Debug)]
+#[derive(Component, Copy, Clone, Debug)]
 pub struct Defenses {
     basic: i32,
     prowess: i32,
@@ -102,15 +102,15 @@ impl Defenses {
     }
 }
 
-#[derive(Clone, Debug, PartialEq, Eq)]
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct Defense {
     val: Option<i32>,
 }
-#[derive(Clone, Debug, PartialEq, Eq)]
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct CritThreshold {
     val: u8,
 }
-#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+#[derive(Component, Clone, Copy, Debug, PartialEq, Eq)]
 pub struct Efficacy {
     pub val: Ratio<u16>,
 }
@@ -139,12 +139,12 @@ pub fn roll_attacks(mut query: Query<&mut AttackRoll, With<Active>>) {
 
 /// Attacks are cloned to each of the targets
 pub fn dispatch_attacks(
-    query: Query<(Entity, &Targets), With<(Attack, Active)>>,
-    commands: &mut Commands,
+    query: Query<(Entity, &Targets), (With<Attack>, With<Active>)>,
+    mut commands: Commands,
 ) {
     for (attack_entity, targets) in query.iter() {
         for target in targets.iter() {
-            commands.clone_effect(attack_entity, *target);
+            // TODO: clone effects here
         }
     }
 }
@@ -162,37 +162,39 @@ pub fn get_defenses(
 }
 
 /// Marker component to note that an attack landed
+#[derive(Component)]
 pub struct Landed;
 
 /// Marker component to note that an attack was a critical hit
+#[derive(Component)]
 pub struct Crit;
 
 /// Each attack is checked to see if it landed
 pub fn check_attacks(
-    attacks: Query<(Entity, &Roll, &Defense, &CritThreshold), With<(Active, Attack)>>,
-    commands: &mut Commands,
+    attacks: Query<(Entity, &Roll, &Defense, &CritThreshold), (With<Attack>, With<Active>)>,
+    mut commands: Commands,
 ) {
-    for (attacking_entity, attack_roll, defense, crit_threshold) in attacks.iter() {
+    for (attack_entity, attack_roll, defense, crit_threshold) in attacks.iter() {
         // Attacks where no Defense value is present always hit but never crit
         if defense.val.is_none() {
-            commands.insert_one(attacking_entity, Landed);
+            commands.entity(attack_entity).insert(Landed);
             continue;
         }
 
         attack_roll.roll();
 
         if attack_roll.result().unwrap() >= defense.val.unwrap() {
-            commands.insert_one(attacking_entity, Landed);
+            commands.entity(attack_entity).insert(Landed);
 
             if attack_roll.natural_roll().unwrap() as u8 >= crit_threshold.val {
-                commands.insert_one(attacking_entity, Crit);
+                commands.entity(attack_entity).insert(Crit);
             }
         }
     }
 }
 
 /// The efficacy of attacks which were a critical hit are doubled
-pub fn apply_crits(mut query: Query<&mut Efficacy, With<(Active, Crit, Attack)>>) {
+pub fn apply_crits(mut query: Query<&mut Efficacy, (With<Attack>, With<Active>, With<Crit>)>) {
     for mut efficacy in query.iter_mut() {
         efficacy.val *= 2;
     }
@@ -209,7 +211,7 @@ pub fn apply_efficacy(
             Option<&mut Ailments>,
             Option<&mut ForcedMovement>,
         ),
-        With<(Attack, Active)>,
+        (With<Attack>, With<Active>),
     >,
 ) {
     for (efficacy, damage_roll, absorption, afflictions, ailments, forced_movement) in

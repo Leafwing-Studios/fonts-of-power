@@ -1,5 +1,6 @@
 use crate::combat::attack::Efficacy;
 use crate::core::skills::Skill;
+use bevy::prelude::Component;
 use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 use std::collections::HashSet;
@@ -58,13 +59,13 @@ pub struct SkillProficiencies {
     val: HashSet<Skill>,
 }
 
-#[derive(Clone, Debug, Hash, Eq, PartialEq)]
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Life {
     pub current: u16,
     pub max: u16,
 }
 
-#[derive(Clone, Debug, Hash, Eq, PartialEq)]
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Absorption {
     pub val: u16,
 }

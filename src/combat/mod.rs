@@ -3,10 +3,8 @@ use attack::{
     apply_crits, apply_efficacy, check_attacks, dispatch_attacks, get_attack_bonuses, get_defenses,
     roll_attacks,
 };
-use bevy::app::{AppBuilder, CoreStage, Plugin};
-use bevy::ecs::{
-    IntoSystem, ParallelSystemDescriptorCoercion, StageLabel, SystemLabel, SystemStage,
-};
+use bevy::app::{App, CoreStage, Plugin};
+use bevy::prelude::*;
 use conditions::{apply_afflictions, apply_ailments};
 use damage::{apply_damage, apply_resistances, roll_damage};
 
@@ -42,7 +40,7 @@ use ActionSystem::*;
 
 pub struct ActionPlugin {}
 impl Plugin for ActionPlugin {
-    fn build(&self, app: &mut AppBuilder) {
+    fn build(&self, app: &mut App) {
         app.add_stage_before(
             AttackStage::Setup,
             ActionStage::Dispatch,
@@ -55,7 +53,7 @@ impl Plugin for ActionPlugin {
         )
         .add_system_to_stage(
             ActionStage::Dispatch,
-            identify_targets.system().label(IdentifyTargets),
+            identify_targets.label(IdentifyTargets),
         );
     }
 }
@@ -86,7 +84,7 @@ use AttackSystem::*;
 
 pub struct AttackPlugin {}
 impl Plugin for AttackPlugin {
-    fn build(&self, app: &mut AppBuilder) {
+    fn build(&self, app: &mut App) {
         // Adding stages
         app.add_stage_before(
             CoreStage::Update,
@@ -101,78 +99,52 @@ impl Plugin for AttackPlugin {
         // AttackStage::Setup
         .add_system_to_stage(
             AttackStage::Setup,
-            get_attack_bonuses.system().label(GetAttackBonuses),
+            get_attack_bonuses.label(GetAttackBonuses),
         )
         .add_system_to_stage(
             AttackStage::Setup,
-            roll_attacks
-                .system()
-                .label(RollAttacks)
-                .after(GetAttackBonuses),
+            roll_attacks.label(RollAttacks).after(GetAttackBonuses),
         )
-        .add_system_to_stage(AttackStage::Setup, roll_damage.system().label(RollDamage))
+        .add_system_to_stage(AttackStage::Setup, roll_damage.label(RollDamage))
         .add_system_to_stage(
             AttackStage::Setup,
             dispatch_attacks
-                .system()
                 .label(DispatchAttacks)
                 .after(RollDamage)
                 .after(RollAttacks),
         )
         .add_system_to_stage(
             AttackStage::Setup,
-            get_defenses
-                .system()
-                .label(GetDefenses)
-                .after(DispatchAttacks),
+            get_defenses.label(GetDefenses).after(DispatchAttacks),
         )
         // AttackStage::Resolution
-        .add_system_to_stage(
-            AttackStage::Resolution,
-            check_attacks.system().label(CheckAttacks),
-        )
+        .add_system_to_stage(AttackStage::Resolution, check_attacks.label(CheckAttacks))
         .add_system_to_stage(
             AttackStage::Resolution,
             apply_crits
-                .system()
                 .label(ApplyCrits)
                 .after(CheckAttacks)
                 .after(RollDamage),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_resistances
-                .system()
-                .label(ApplyResistances)
-                .after(ApplyCrits),
+            apply_resistances.label(ApplyResistances).after(ApplyCrits),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_efficacy
-                .system()
-                .label(ApplyEfficacy)
-                .after(ApplyCrits),
+            apply_efficacy.label(ApplyEfficacy).after(ApplyCrits),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_damage
-                .system()
-                .label(ApplyDamage)
-                .after(ApplyResistances),
+            apply_damage.label(ApplyDamage).after(ApplyResistances),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_afflictions
-                .system()
-                .label(ApplyAfflictions)
-                .after(ApplyCrits),
+            apply_afflictions.label(ApplyAfflictions).after(ApplyCrits),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_ailments
-                .system()
-                .label(ApplyAilments)
-                .after(ApplyCrits),
+            apply_ailments.label(ApplyAilments).after(ApplyCrits),
         );
     }
 }
@@ -180,12 +152,12 @@ impl Plugin for AttackPlugin {
 // Shared resources and components for Combat
 
 /// Marker component for entity-events that are currently being processed
-#[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[derive(Component, Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub struct Active;
 
 /// Objects that can be interacted with in combat
 #[allow(dead_code)]
-#[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[derive(Component, Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub enum ObjectKind {
     Creature,
     Inanimate,
