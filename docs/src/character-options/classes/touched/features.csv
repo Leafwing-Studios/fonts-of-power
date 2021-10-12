@@ -1,6 +1,6 @@
 "Level","Feature Name","Details"
 "1","Feats","Gain a new combat feat and a new exploration feat."
-"1","Companion","Companion can only use Strike and Block, gets two weapons of their own. Uses Expertise and Presence for the attacks instead, target special defense. End of your turn, spend up to 3 essence to convert to companion AP. Companion AP reset to 0 at end of turn. Max three times per turn."
+"1","Companion","Companion can only use Strike, Spot, Scan and Block, gets two weapons of their own. Uses Expertise and Presence for the attacks instead, target special defense. When you regain AP at the end of your turn, you may spend up to 3 essence. Grant companion one AP for each essence spent."
 "1","Nudge","Once during each of your turns, companion can spend 1 AP to move you into a tile within movement range 1. This does not provoke attacks of opportunity."
 "1","Coexistence: Dynamic","Tactical interplay between host and companion."
 "2","Deviance","Choose an Exploration feat."

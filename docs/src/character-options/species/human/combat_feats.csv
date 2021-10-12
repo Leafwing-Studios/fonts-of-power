@@ -7,3 +7,6 @@
 "Parkour",,"You have advantage on Agility (Athletics) skill checks to avoid falling damage. Travelling up an abrupt edge of height 1 does not cost extra movement."
 "Adventurous",,"Ignore the effects of difficult terrain."
 "Foolhardy",,"Once per combat, you may set an attack roll that targets you to a 5, or a skill check result that you made to a 15."
+"Mastery","Adaptable","Replace Adaptable. You can only equip one set of arms. Whenever you make an attack, reroll it if the attack roll was 5 or less."
+"Responsive","Adaptable","Replace Adaptable. When you use the Block or Dodge action, before of after (your choice) the effects resolve, you may take the Swap action for free."
+"Quick Hands","Adaptable","Replace Adaptable. The first time each turn that you use the Swap action, regain any AP spent."

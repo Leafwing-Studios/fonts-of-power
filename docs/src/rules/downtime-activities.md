@@ -43,6 +43,7 @@ Until you next complete a rest:
 - you have advantage on any skill check made to attempt to help each other on skill checks
 - you have advantage on any skill checks or attack rolls made to use the Treat or Break Grapple actions to benefit each other
 - whenever one of you hits a creature with an attack, the other may make an attack of opportunity against that creature
+- while the other is in your zone of control, you may Block attacks targeting them, taking the attack's effects
 
 ## Challenge
 
@@ -129,14 +130,12 @@ If you failed by more than 10, your downtime activity is wasted and you lose the
 
 ## Forge
 
-Make an Expertise (Craftsmanship) skill check. For every 10 points of your skill check result, you may take one of the following actions:
+Make an Expertise (Craftsmanship) skill check. For every 10 points of your skill check result, you may take one of the following actions if the supplies die is not depleted:
 
 - Create a set of mundane arms and armor, selecting the affixes from the standard pool of mundane affixes freely
 - Freely modify the mundane affixes of one set of arms or armor
 
 For each of the actions that you take, roll on the supplies die once. Like usual, if the result is a 1, deplete your supplies die.
-
-You cannot take one of these actions if your supplies die is fully depleted.
 
 ## Harvest
 
@@ -198,7 +197,7 @@ Then, reset the party's Supplies die based on the result of the check:
 - 25 or higher: d12
 
 The details of how and where you last resupplied influence the plausibility of having various useful pieces of equipment; it’s trivial to find firewood in the middle of a dark forest but quite hard to come across a new set of lock-picks.
-See the Prepared for Anything section in the Gear chapter for more details on how Supply and adventuring gear works.
+See the Prepared for Anything section for more details on how Supply and adventuring gear works.
 
 ## Resurrect
 

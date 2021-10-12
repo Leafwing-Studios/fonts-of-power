@@ -1,6 +1,4 @@
 "Name","Prerequisites","Effect"
-"Proactive",,"Enemies provoke an attack of opportunity whenever they leave your zone of control."
-"Reactive",,"Enemies provoke an attack of opportunity whenever they enter your zone of control."
 "Opportunistic",,"Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control."
 "Relentless",,"Enemies provoke an attack of opportunity whenever they use a defensive or utility action."
 "Collaborative",,"Enemies provoke an attack of opportunity whenever they take damage from another source, rather than when they lose life."
