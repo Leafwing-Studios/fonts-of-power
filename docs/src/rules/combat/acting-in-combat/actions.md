@@ -204,7 +204,7 @@ Stop grappling a target you have grappled.
 
 Choose a creature you are grappling, then either:
 
-- move them up to two tiles.
-- force them to stand up, then move them up to one tile.
+- move them into a tile within range 2.
+- force them to stand up, then move them into a tile within range 1.
 
 If they leave your zone of control, you immediately stop grappling them.
