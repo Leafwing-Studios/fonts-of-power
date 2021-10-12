@@ -2,25 +2,24 @@
 
 ## Movement
 
+When you spend movement:
+
+- You may not pass through tiles occupied by enemy creatures unless they are prone.
+- You may not end your movement in a tile occupied by another creature unless they or you take up zero tiles.
+
 ### Move (1 AP)
 
-Move up to two tiles.
-
-**You may not pass through tiles occupied by enemy creatures** unless they are prone.
-
-**You may not end your movement in a tile occupied by another creature** unless they or you take up zero tiles.
+Gain two tiles of movement.
+Then, spend any number of tiles of movement.
 
 ### Lie Down (0 AP)
 
 Become prone.
 
-### Shift (1 AP)
-
-Move up to one tile. This movement does not provoke attacks of opportunity.
-
 ### Stand Up (1 AP)
 
-Lose the prone status and move up to one tile.
+Lose the prone status and gain one tile of movement.
+Then, spend any number of tiles of movement.
 
 ### Take Flight (1 AP)
 
@@ -28,16 +27,8 @@ Gain the flying status.
 
 ### Land (1 AP)
 
-Lose the flying status and move up to one tile.
-
-### Jostle (1 AP)
-
-Choose a creature you are grappling, then either:
-
-- move them up to two tiles.
-- force them to stand up, then move them up to one tile.
-
-If they leave your zone of control, you immediately stop grappling them.
+Lose the flying status and gain one tile of movement.
+Then, spend any number of tiles of movement.
 
 ### Leap (1 AP)
 
@@ -173,6 +164,9 @@ You lose the hidden status when:
 
 Interact with an object in your environment. You might pull a lever, quickly slash a rope, kick down a door, throw a torch or so on.
 
+Objects in their environment have their own rules for what using Interact on them does.
+This can be discovered by using Scan.
+
 ### Recover (1 AP)
 
 Make a Focus (Endurance) skill check. Restore 1 essence for every 10 points of the skill check result.
@@ -205,3 +199,12 @@ Change the set of arms that you currently have equipped. This also allows you to
 ### Let Go (0 AP)
 
 Stop grappling a target you have grappled.
+
+### Jostle (1 AP)
+
+Choose a creature you are grappling, then either:
+
+- move them up to two tiles.
+- force them to stand up, then move them up to one tile.
+
+If they leave your zone of control, you immediately stop grappling them.

@@ -19,9 +19,7 @@ Tile effects like these are classified as **ground effects** and as you might ex
 ### Difficult terrain
 
 The most common ground effect is **difficult terrain,** which is difficult to cross, due to obstructions, unsteady footing or so on.
-
-If you take a movement action while on difficult terrain, the number of tiles you can move is reduced by one.
-If you move into difficult terrain while outside of difficult terrain, the number of remaining tiles you can move with that action is reduced by one.
+Moving out of a tile that is difficult terrain costs an additional tile of movement.
 
 The effects of difficult terrain do not stack with the effects of being prone.
 
