@@ -61,7 +61,7 @@ You have disadvantage on melee Grapple attacks against creatures who have the hi
 
 ### Reverse Grapple (2 AP)
 
-Gain the benefits of the Break Grapple action to free yourself from a grapple. If you succeed, you may shift once, then immediately make a Grapple attack against the creature that was grappling you.
+Gain the benefits of the Break Grapple action to free yourself from a grapple. If you succeed, you may move into an adjacent tile, then immediately make a Grapple attack against the creature that was grappling you.
 
 ### Strike (2 AP)
 
@@ -79,7 +79,7 @@ Melee Shove attacks have advantage if you have the high ground, and disadvantage
 
 ### Defend (1 AP)
 
-Gain 6 + Presence absorption
+Gain 6 + Presence absorption.
 
 ### Ward (1 AP)
 
@@ -89,13 +89,21 @@ If you use this action multiple times in a single turn, you prevent a second (or
 
 ### Block (1 AP, reaction)
 
-Whenever you would be hit by an attack (after seeing the initial results of the attack), you may use the Block reaction. If you do, make a Prowess (Athletics) skill check. If your skill check result is at least 10, you **block** all attacks made against you until the end of the current turn. Halve the efficacy of blocked attacks made against you.
+Whenever you would be hit by an attack (after seeing the initial results of the attack), you may use the Block reaction.
 
-If your skill check result is at least 20, gain one AP.
+If you do, make a Prowess (Athletics) skill check:
+
+- if your skill check result is at least 10, you **block** all attacks made against you until the end of the current turn
+- if your skill check result is at least 20, regain any AP spent
+
+The efficacy of blocked attacks is halved. Like always, round up.
 
 ### Dodge (1 AP, reaction)
 
-Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction. If you do, make an Agility (Athletics) skill check. If your skill check result is greater than or equal to the attack roll that hit you, **dodge** the attack. Attacks that you dodge are treated as if the attacker missed.
+Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction.
+If you do, make an Agility (Athletics) skill check.
+If your skill check result is greater than or equal to the attack roll that hit you, **dodge** the attack.
+Attacks that you dodge are treated as if the attacker missed.
 
 ### Break Grapple (1 AP)
 
@@ -123,15 +131,16 @@ Choose one:
 Essence crystals can always be used as consumables, restoring 5 essence on use.
 
 Concentrated magic is dangerous stuff!
-Each combat, each time you use this action after the first you risk **essence overload**. You may use this action once per combat without any risk.
+Each time after the first that you use this action you risk **essence overload**.
 Make a Focus (Endurance) skill check.
-Gain 5 stacks of exhaustion, reduced by 1 for every 5 points of your skill check result.
+Gain 3 stacks of exhaustion, reduced by 1 for every 10 points of your skill check result.
 
 ### Essence Tap (1 AP)
 
 Regain half your life and essence, rounded up.
 
-Then, make a Focus (Endurance) skill check. Gain 3 stacks of exhaustion, reduced by 1 for every 10 points of your skill check result.
+Then, make a Focus (Endurance) skill check.
+Gain 3 stacks of exhaustion, reduced by 1 for every 10 points of your skill check result.
 
 ### Hide (1 AP)
 
@@ -169,20 +178,33 @@ This can be discovered by using Scan.
 
 ### Recover (1 AP)
 
-Make a Focus (Endurance) skill check. Restore 1 essence for every 10 points of the skill check result.
+Make a Focus (Endurance) skill check.
+Restore 1 essence for every 10 points of the skill check result.
 
 ### Scan (1 AP)
 
-Make an Expertise (X) skill check where X is one of (Anima, Arcana, Fontcraft, Tinkering), based on the monster.
+Choose a creature or vantage within range 6.
+Make an Expertise skill check, with the skill selected from Anima, Arcana, Craftsmanship Fontcraft, Tinkering, based on the creature or vantage selected.
 
-Gain 1 + floor(roll / 10) questions:
+You have advantage on this skill check if your target is within range 2.
+Learn one of the facts from the appropriate list and one additional fact for every 10 points of your skill check results.
 
-- Learn the attributes, basic defense, special defenses, tier and turns per round of a creature of your choice.
-- Learn the percentage of life, percentage of essence and the number of stacks of exhaustion that another creature is at.
-- Learn either the arms, armor, or trinket affixes of a creature of your choice. If you choose to learn their trinket affixes, you also learn the skills that they are proficient in.
-- Learn the details of a single power of your choice. You have advantage on this skill check if this power was used since your last turn or a creature is currently concentrating on the power.
-- Learn the tactics and motivation of a creature of your choice.
-- Learn the details of a vantage of your choice. If you do not specify a particular vantage, learn one of the worldspeaker's choice instead. The skill used depends on the details of the vantage, and is specified in its description.
+Creatures:
+
+- Attributes, basic defense, special defenses, proficiency bonus and turns per round
+- Any damage type resistances, vulnerabilities or immunities
+- Current life, current essence and the number of stacks of exhaustion
+- Arms affixes
+- Armor affixes
+- Skills that they are proficient in
+- The details of a single power of your choice
+- Tactics and motivation
+
+Vantages:
+
+- What does this vantage do when triggered?
+- How is this vantage triggered?
+- How is this vantage disabled?
 
 ### Spot (1 AP)
 
@@ -194,7 +216,8 @@ You have disadvantage on this skill check if you are more than 3 tiles away from
 
 ### Swap (1 AP)
 
-Change the set of arms that you currently have equipped. This also allows you to completely stow your arms (and have no arms equipped), or draw them when you do not have arms equipped.
+Change the set of arms that you currently have equipped.
+This also allows you to completely stow your arms (and have no arms equipped), or draw them when you do not have arms equipped.
 
 ### Let Go (0 AP)
 
@@ -204,7 +227,7 @@ Stop grappling a target you have grappled.
 
 Choose a creature you are grappling, then either:
 
-- move them into a tile within range 2.
-- force them to stand up, then move them into a tile within range 1.
+- move them into an empty tile within range 2.
+- force them to stand up, then move them into an empty tile within range 1.
 
 If they leave your zone of control, you immediately stop grappling them.
