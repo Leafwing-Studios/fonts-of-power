@@ -31,6 +31,21 @@ For example, you might choose to be hit by an attack when:
 
 If an effect tells you to select a creature within range, or something to that effect, you can always select yourself as the target unless there is some specific reason that you could not.
 
+## Attacks of Opportunity
+
+Strike suddenly, taking advantage of an opening in your opponent’s defenses.
+
+When you make an attack of opportunity, you may immediately use a single offensive action targeting them.
+You have advantage on single target attacks made as part of an attack of opportunity.
+You must pay its AP and essence costs and respect any other restrictions (such as range) as normal.
+
+Attacks of opportunity are provoked whenever:
+
+* an enemy in your zone of control loses life due to an effect other than one of your actions.
+* an enemy enters and leaves your zone of control in the same turn.
+
+You may only make one attack of opportunity per turn.
+
 ## Critical Hits and Efficacy
 
 Whenever you roll a 20 on your d20 while making an attack (no matter what type of attack it is), your attack inflicts a **critical hit** (if it would otherwise land). When this happens, the **efficacy** of your attack is doubled.

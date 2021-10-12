@@ -84,21 +84,6 @@ Make a melee special attack against Prowess against a creature within your zone 
 
 Melee Shove attacks have advantage if you have the high ground, and disadvantage if they have the high ground.
 
-### Attack of Opportunity (Variable AP, reaction)
-
-Strike suddenly, taking advantage of an opening in your opponent’s defenses.
-
-Attacks of opportunity are provoked whenever:
-
-- an enemy in your zone of control loses life due to an effect other than one of your actions.
-- an enemy enters and leaves your zone of control in the same turn.
-
-When you make an attack of opportunity, you may immediately use a single offensive action targeting them.
-You have advantage on single target attacks made as part of an attack of opportunity.
-You must pay its AP and essence costs and respect any other restrictions (such as range) as normal.
-
-You may only make one attack of opportunity per turn.
-
 ## Defense
 
 ### Defend (1 AP)
