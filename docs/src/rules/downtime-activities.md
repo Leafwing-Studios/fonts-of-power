@@ -279,7 +279,7 @@ Like usual, gaining this exhaustion can kill you. Any skill checks made to resur
 Attempt to shape the world around you, preparing an arena for combat.
 Make an Expertise skill check using Anima, Arcana, Craftsmanship, Fontcraft or Tinkering.
 
-For every 5 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
+For every 2 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
 
 Fontcraft and Anima does not have a standard list of vantages; instead use the ones listed by the font you are currently in.
 
