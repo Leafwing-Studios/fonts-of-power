@@ -94,6 +94,7 @@ You must know the recipes in some way, choosing to either:
   - Sacrifice one existing consumable to use either its base effect or modifier in the consumable you are creating.
 
 Make a Focus (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+Some modifiers are skill exclusive: you must use the corresponding skill when using these recipes.
 Create one copy of the consumable for every 5 points of your skill check result.
 Sacrifice one essence crystal for each consumable created.
 

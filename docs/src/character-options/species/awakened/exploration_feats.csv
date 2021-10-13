@@ -1,2 +1,13 @@
 "Name","Prerequisites","Effect"
 "Hybridized",,"Gain one of the other Awakened subspecies' exploration features."
+"Migratory",,"Whenever you rest, gain an additional downtime activity if neither of your last two rests were here."
+"Nesting",,"Whenever you rest, gain an additional downtime activity if both of your last two rests were here."
+"Watchful",,"You have advantage on all skill checks made as part of Endurance scenes triggered due to resting in a dangerous area."
+"Hibernation",,"Hibernate downtime activity: until the end of the next time you rest, the Recover downtime activity remove all stacks of exhaustion."
+"Evolution",,"Whenever you use the Recover downtime activity, gain the benefits of the Forge downtime activity targeting one of your arms or arm. Use Anima rather than Craftsmanship for the skill check."
+"Kinship",,"When you use the Bond downtime activity, any number of other creatures may participate. Share the effects across all creatures who participated."
+"Irresistable",,"Other creatures treat their loyalty towards you as if it were one higher when making deals."
+"Ambusher",,"You have advantage on all Trickery, Stealth and Fontcraft skill checks made to prepare an ambush. You have advantage on Anima and Fontcraft skill checks made during the Shape downtime activity."
+"Keen Nose",,"You may track other creatures by scent."
+,,
+,,
