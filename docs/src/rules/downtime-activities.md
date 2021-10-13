@@ -280,6 +280,8 @@ Make an Expertise skill check using Anima, Arcana, Craftsmanship, Fontcraft or T
 
 For every 5 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
 
+Fontcraft and Anima does not have a standard list of vantages; instead use the ones listed by the font you are currently in.
+
 ## Support
 
 Help your allies with their downtime tasks.

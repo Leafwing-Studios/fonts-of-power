@@ -31,3 +31,4 @@
 "Cruel","1","After you hit with an attack, apply 1 stack of the specified affliction."
 "Light","1","You cast bright light in a 3 tile radius, and dim light in a 6 tile radius. You can use Interact to toggle this effect."
 "Elemental","0","Your basic attack deals elemental damage of the specified type, rather than physical damage."
+"Smashing","1","Attacks you make against objects are automatically critical hits."

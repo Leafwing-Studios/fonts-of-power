@@ -14,16 +14,18 @@ Also consider current narrative arc, quests and goals players have.
 ## Arena design
 
 1. Design a tactical goal.
-   1. Capture or hold a position.
+   1. Hold or capture a position.
    2. Escape.
    3. Ambush.
    4. Use an interactable to turn the tides of the fight.
-2. Design basic outline of arena.
+   5. Protect or capture a non-combatant.
+2. Choose one or more arena modifiers.
+3. Design basic outline of arena.
    1. Draw boundaries.
    2. Add the zones of interest required for the goal.
    3. Designate starting zones for each side.
       1. Each should be about 4 - 10 tiles in size.
-3. Add interest.
+4. Add interest.
    1. Cover.
    2. Difficult terrain.
    3. Vantages.

@@ -205,6 +205,7 @@ Vantages:
 - What does this vantage do when triggered?
 - How is this vantage triggered?
 - How is this vantage disabled?
+If the vantage has life, learn its current life total as well as any resistances, immunities or vulnerabilities it has.
 
 ### Spot (1 AP)
 

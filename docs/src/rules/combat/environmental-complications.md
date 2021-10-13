@@ -1,5 +1,18 @@
 # Environmental Complications
 
+## Objects
+
+Combat doesn't typically occur on a flat, featureless expanse.
+Objects of all sorts, from doors to switches to trees to ziplines are common elements in fights.
+
+Objects can be targeted with your actions, allowing you to Shove and Strike them.
+By default, all objects have 10 life, are immune to ailments and afflictions, cannot be knocked prone and are automatically hit by attacks.
+Objects do not take damage from multi-target attacks or tile effects unless they are **fragile**.
+Unsurprisingly, **stationary** objects are immune to forced movement.
+
+You can use Interact on many objects to use or alter them in interesting ways.
+Use the Scan action on an object to find out what this will do!
+
 ## Tile Effects
 
 While in combat, tiles are commonly modified in dangerous or interesting ways: sacred shrines, clinging fog, walls of fire and so on. Collectively, these are referred to as **tile effects.**
