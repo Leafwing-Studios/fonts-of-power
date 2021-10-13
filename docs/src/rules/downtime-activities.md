@@ -42,7 +42,6 @@ Until you next complete a rest:
 
 - you have advantage on any skill check made to attempt to help each other on skill checks
 - you have advantage on any skill checks or attack rolls made to use the Treat or Break Grapple actions to benefit each other
-- whenever one of you hits a creature with an attack, the other may make an attack of opportunity against that creature
 - while the other is in your zone of control, you may Block attacks targeting them, taking the attack's effects
 
 ## Challenge
