@@ -29,3 +29,4 @@
 "Tripping","2","You have advantage on Shove attacks."
 "Imbued","2","After you hit with an attack, apply 1 stack of the specified ailment."
 "Cruel","1","After you hit with an attack, apply 1 stack of the specified affliction."
+"Light","1","You cast bright light in a 3 tile radius, and dim light in a 6 tile radius. You can use Interact to toggle this effect."
