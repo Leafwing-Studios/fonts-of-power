@@ -42,7 +42,10 @@ Their cities are vast and wondrous, composed of bubble-like structures attached 
 
 **Slimoid:** Your body is a stretchy, pliable, translucent ball of slime. You may shape it as you please, including to carry items, interact with objects or wield arms, but you’re still visibly made out of slime and your total volume stays constant.
 
-While prone, you collapse into a puddle. As a puddle, you may slide under doors and through narrow cracks so long as they are at least half an inch wide. Your gear and other bulky items that you are carrying magically squeeze through with you.
+While prone, you collapse into a puddle. As a puddle, you may slide under closed doors and through narrow cracks.
+In mechanical terms, you may fit through spaces that would normally only permit a creature that is zero tiles in size.
+
+Naturally, your gear and other bulky items that you are carrying magically squeeze through with you.
 
 **Uncertain Anatomy:** You do not need to breathe, but must still eat, drink and sleep. Slimes can see, hear and speak as well as a typical human, although how they do so is a closely guarded secret. Items you carry are stored inside your body. They are plainly visible unless covered by clothing or the like.
 
