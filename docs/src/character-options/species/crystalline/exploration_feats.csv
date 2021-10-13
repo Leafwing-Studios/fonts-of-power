@@ -2,11 +2,11 @@
 "Meticulous","Hewn subspecies","Whenever you use the Craft, Devise, Enchant, Forge or Shape downtime activities, you may reroll the skill check made. You must use the new results."
 "Enthusiastic","Raw subspecies","Whenever you roll a 15 or higher on a skill check as part of a downtime activity, gain that downtime activity's effects a second time with the same roll."
 "Thoughtful","Geode subspecies","Whenever you would make a skill check as part of a downtime activity, you may choose to skip rolling, and instead treat it as if you had rolled a 10."
-"Attune",,"While outside of combat, you may choose to learn the ideals of a creature you can see. If you do, set your ideals to their ideals."
+"Vibration Check",,"While outside of combat, you may choose to learn the ideals of a creature you can see. If you do, set your ideals to their ideals."
 "Crystallization",,"At the start of each rest, gain 1d4 essence crystals."
 "Amalgamation",,"When you complete a rest, use the Recover downtime activity, or are the target of the Tend downtime activity, you may sacrifice 5 essence crystals. If you do, remove an additional stack of exhaustion."
 "Unstable Formation",,"Whenever you complete a rest, choose a new size between 0 and 9 tiles. You cannot select your current size."
-,,
+"Tuning",,"You gain access to the Tune downtime activity. Choose a captured monster who is associated with the Arcana skill. Make a difficulty 20 Presence (Arcana) skill check. If you pass, they become an NPC of an appropriate species with loyalty one towards you."
 ,,
 ,,
 ,,
