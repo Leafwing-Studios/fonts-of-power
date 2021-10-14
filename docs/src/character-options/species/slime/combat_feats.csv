@@ -16,3 +16,4 @@
 "Conservation of Momentum","Bouncy Slime subspecies","Whenever you make a basic attack or Shove attack against another creature, push yourself one tile away from them. This is not doubled by your Elastic Collisions class feature."
 "Super Sticky","Sticky Slime subspecies","You are immune to forced movement and cannot be knocked prone."
 "You're Coming With Me","Sticky Slime subspecies","Whenever a creature within your zone of control applies forced movement to you, move them with you. You may willingly choose to disable your Stuck to the Ground species feature."
+"Safety Glasses Required","Bouncy Slime subspecies","You are size 0. Whenever you enter the tile of another creature due to forced movement, make an Agility attack against them. If you hit, deal 1d8 + Prowess physical damage to them. When you bounce off solid objects or creatures due to forced movement, you may choose the new direction of movement and gain an extra tile of forced movement."
