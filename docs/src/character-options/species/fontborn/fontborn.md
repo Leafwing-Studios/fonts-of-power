@@ -22,9 +22,9 @@ Banding together in a brilliant rainbow of diversity, these strange creatures li
 
 ## Features
 
-**Strange Mutation:** Select one arms or armor affix that has a gear point total of one and is not prismatic. You gain its benefits at all times.
+**Strange Mutation:** Choose a combat feat from any species. You must meet all other requirements.
 
-**Uniquely Adapted:** Select one trinket affix that has a gear point total of one and is not prismatic. You gain its benefits at all times.
+**Uniquely Adapted:** Choose an exploration feat from any species. You must meet all other requirements.
 
 **Elemental Sustenance:** You do not need to eat or drink, but instead must regularly consume elemental energy in some form in order to survive.
 
