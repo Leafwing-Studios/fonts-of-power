@@ -8,3 +8,4 @@
 "Ruin","0","1","Offensive","Any shaped tile","Expertise","Multi-target","2 stacks of ailment."
 "Resistance","0","1","Utility","Any shaped tile","None","NA","Becomes difficult terrain until end of your next turn."
 "Blight","0","1","Utility","Any shaped tile","None","NA","Remove all tile effects until end of your next turn."
+"Upheaval","0","1","Utility","Any shaped tile","None","NA","Choose a direction. Move all shaped tiles over one tile if able, starting at the far edge."
