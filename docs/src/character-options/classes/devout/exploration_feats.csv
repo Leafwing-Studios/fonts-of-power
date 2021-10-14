@@ -1,1 +1,6 @@
 "Name","Prerequisites","Effect"
+"Prophetic Visions","Augury","Whenever you complete a rest, you may gain the benefits of your Augury downtime activity. You have disadvantage on this roll."
+"Oracle","Augury","You have advantage on all rolls made as part of your Augury downtime activity."
+"Ritual",,"Downtime activity: Either increase Favor by one or gain the benefit of the Miracle version of a prayer that you know as if you'd used the Invoke action and passed your Favor check."
+"Material Offering",,"Whenever you or a party member use a downtime activity, you may sacrifice 5 essence crystals. If you do, you have advantage on any skill checks or Augury rolls made."
+"Divine Will","Augury","When you use the Augury downtime activity, you may ask if your deity would prefer you to follow a course of action. If you follow their will (as discerned by your augury), gain a resolve."
