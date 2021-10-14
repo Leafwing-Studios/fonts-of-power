@@ -49,6 +49,8 @@ Then, spend movement up to the range of the targeted tile:
 If the tile is occupied by a creature whose tile you cannot enter (such as most enemies), immediately make a melee Shove attack against the creature in that tile. If you hit, you must either knock them prone or push them out of your way if able.
 If you miss, they automatically hit you with a Shove attack and must either knock you prone or push you out of the way.
 
+Finally, you may spend any remaining tiles of movement.
+
 ## Offense
 
 ### Grapple (2 AP)

@@ -22,7 +22,7 @@ Banding together in a brilliant rainbow of diversity, these strange creatures li
 
 ## Features
 
-**Creature of the Fonts:** You may select feats from the Monstrous Feats lists.
+**Creature of the Fonts:** You may select feats from the Monstrous Feats lists. Choose a size between 0 and 4 tiles in size.
 
 **Strange Mutation:** Choose a combat feat from the Monstrous Combat or Universal Combat feat lists.
 
