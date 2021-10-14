@@ -100,7 +100,7 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 **Carry Off:** You have advantage on skill checks made to maintain a grapple. When you move, you may apply the same amount of forced movement (in the same direction) to the creature you are grappling.
 
-**What Big Teeth You Have:** You have advantage on Charm skill checks made to intimidate others.
+**What Big Teeth You Have:** You have advantage on any Charm skill checks made to intimidate or scare others.
 
 ### Prey
 
