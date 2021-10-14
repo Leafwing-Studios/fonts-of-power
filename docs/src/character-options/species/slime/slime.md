@@ -47,6 +47,10 @@ In mechanical terms, you may fit through spaces that would normally only permit 
 
 Naturally, your gear and other bulky items that you are carrying magically squeeze through with you.
 
+**Gooey:** Choose a size between 0 and 4 tiles in size.
+If you are ever larger than 1 tile in size, when you spend movement, move and apply forced movement to each tile you are currently occupying independently.
+Your tiles must always stay fully connected, dragging other tiles with them if needed in the case of forced movement.
+
 **Uncertain Anatomy:** You do not need to breathe, but must still eat, drink and sleep. Slimes can see, hear and speak as well as a typical human, although how they do so is a closely guarded secret. Items you carry are stored inside your body. They are plainly visible unless covered by clothing or the like.
 
 ### Bouncy Slime
@@ -54,6 +58,9 @@ Naturally, your gear and other bulky items that you are carrying magically squee
 **Bounce Back:** At the end of each of your turns, remove an additional stack of each ailment from yourself.
 
 **Elastic Collisions:** Whenever you are hit by a basic attack, you are pushed 1 tile directly away from the source of that attack. The effect of all other non-teleportation forced movement on you is doubled. While moving due to forced movement, whenever you hit a barrier or another, you bounces off at the same angle it came in at, continuing until you run out of movement.
+
+**Cohesive:** At the end of each of your turns, if you are more than one tile in size, your tiles automatically attempt to form as close to a round shape as possible.
+Push aside any creatures or objects in the way.
 
 **Sproing:** You are immune to falling damage. Whenever you would take falling damage, you may immediately move into an adjacent empty tile.
 
@@ -71,4 +78,4 @@ You do not need to make Endurance skill checks in order to destroy edible object
 
 **Stuck to the Ground:** If you did not use the Move or Shift action during your last turn, the effects of forced movement against you is reduced by one tile.
 
-**Tactical Adhesive:** You do not need to make Athletics skill checks to climb or stay attached to any surface. You no longer reset to the height tier of the tile you are standing on at the end of your turn.
+**Tactical Adhesive:** You do not need to make Athletics skill checks to climb or stay attached to any surface.
