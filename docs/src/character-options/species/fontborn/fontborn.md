@@ -22,9 +22,11 @@ Banding together in a brilliant rainbow of diversity, these strange creatures li
 
 ## Features
 
-**Strange Mutation:** Choose a combat feat from any species. You must meet all other requirements.
+**Creature of the Fonts:** You may select feats from the Monstrous Feats lists.
 
-**Uniquely Adapted:** Choose an exploration feat from any species. You must meet all other requirements.
+**Strange Mutation:** Choose a combat feat from the Monstrous Combat or Universal Combat feat lists.
+
+**Uniquely Adapted:** Choose an exploration feat from the Monstrous Combat or Universal Exploration feat lists.
 
 **Elemental Sustenance:** You do not need to eat or drink, but instead must regularly consume elemental energy in some form in order to survive.
 

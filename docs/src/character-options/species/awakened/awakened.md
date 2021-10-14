@@ -45,6 +45,8 @@ These arms have the _desperate_ affix, which does not count against their gear p
 
 **Creatures Great and Small:** When you create an awakened character, choose a size between 0 and 4 tiles. You occupy this many tiles; see the rules on Creature Sizes in the Combat chapter for effects.
 
+**Natural Diversity:** You may select feats from the Monstrous Feats lists.
+
 ### Carapaced
 
 | Roll  | What type of animal were you originally? |
