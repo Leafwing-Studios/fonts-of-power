@@ -30,7 +30,10 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 
 ## Features
 
-**Untamed:** Your body is an effective weapon all on its own: whether you have sharp teeth, piercing talons or incredible strength. Create a set of arms using the standard rules which have a gear point total of 2. You always have them equipped, and they do not count as one of the two sets of arms you can equip. These arms have the _desperate_ affix, which does not count against their gear point total. You can modify their affixes using the Craft or Enchant downtime activities.
+**Untamed:** Your body is an effective weapon all on its own: whether you have sharp teeth, piercing talons or incredible strength.
+Create a set of arms using the standard rules which have a gear point total of 2.
+You always have them equipped, and they do not count as one of the two sets of arms you can equip.
+These arms have the _desperate_ affix, which does not count against their gear point total.
 
 <div class="inline-box">
 
