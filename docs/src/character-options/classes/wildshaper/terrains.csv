@@ -4,6 +4,6 @@
 "Slippery Terrain","Double forced movement, Agility attack or be knocked prone when triggered."
 "Perilous Terrain","Difficult terrain and 1d4 damage when triggered"
 "Hazardous Terrain","Difficult terrain and 1 stack of ailment when triggered."
-"Restful Terrain","Advantage on Recover skill checks. Advantage on all Treat skill checks affecting you."
+"Restful Terrain","While you are on this terrain, you have advantage on all skill checks made as part of the Recover action. All skill checks made as part of Treat actions targeting you have advantage."
 "Windy Terrain","When triggered, Prowess attack or be pushed one tile in the specified direction. At the start of your turn, can change direction of all tiles at once."
-"Punctuated Terrain","3 height tier blocks. Cannot place adjacent to each other."
+"Punctuated Terrain","3 height tier blocks. Cannot place adjacent to each other or stack vertically. This terrain is considered connected if they are within range 2 of each other."

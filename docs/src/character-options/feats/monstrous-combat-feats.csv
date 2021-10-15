@@ -21,3 +21,4 @@
 "Digger",,"1 AP: reduce the height tier of an adjacent tile by 1, remove a wall or convert an adjacent edge from abrupt to gradual (if height delta <= 1). Whnever you rest, you may gain the benefit of the Shape downtime activity. Roll Prowess(Endurance) instead, and you may only remove walls or blocks (or convert abrupt to gradual edges) as part of this activity. When you take this feat, sacrifice an exploration feat."
 "Surefooted",,"Ignore the effects of difficult terrain. You have advantage on skill checks made to navigate challenging landscapes outside of combat. When you take this feat, sacrifice an exploration feat."
 "Nocturnal",,"Objects in dim light are no longer obscured, and objects in darkness are now merely obscured, rather than invisible. When you take this feat, sacrifice an exploration feat."
+"Cleareyed",,"Ignore the effects of shroud. When you take this feat, sacrifice an exploration feat."
