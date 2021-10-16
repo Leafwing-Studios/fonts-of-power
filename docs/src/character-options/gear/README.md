@@ -33,7 +33,7 @@ While you can freely choose to focus more heavily on offense or defense in this 
 
 To make (or customize) your own gear, you need to understand the basics of affixes:
 
-- each affix can either be used as an arms or armor affix
+- each affix is either an arms or armor affix
 - each affix has a gear point cost; all of these are summed together to create the **gear point total** of an item
 
 ### Mundane bases

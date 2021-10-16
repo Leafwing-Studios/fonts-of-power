@@ -18,7 +18,7 @@ While the party is assumed to typically have standard necessities such as arrows
    - If your Supplies die was already a d4, you are out of Supplies and cannot declare any new adventuring gear until you Resupply.
 1. If you fail to find a piece of adventuring gear, your party cannot search for the same piece of adventuring gear until you Resupply and must choose a different approach to solving the problem at hand.
 
-This creates a sense of attrition and rewards careful planning (through increased plausibility), while encouraging creative thinking and avoiding the need to carefully track inventory.
+This creates a sense of attrition and rewards careful planning (through increased plausibility), while encouraging creative thinking and avoiding the need to carefully track inventory. If you want to make sure you have something, you should roll the supply die before you leave town, taking advantage of the higher plausibility while you are there.
 
 When you use the Resupply downtime activity, the Supplies die resets to a d6 and the party erases any adventuring gear that they’ve declared, swapping it out for more suitable equipment for their next adventure.
 

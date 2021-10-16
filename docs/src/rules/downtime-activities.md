@@ -64,9 +64,9 @@ If you succeed on a suitable difficulty 15 skill check, their loyalty increases 
 ## Craft
 
 Attempt to fashion something useful from the materials you have.
-Make an Expertise (Craftsmanship) skill check. For every 5 points of the skill check result, you may make a *prepared for anything* check with advantage to attempt to create an item of your choice.
+Make an Expertise (Craftsmanship) skill check. For every 5 points of the skill check result, you may make a *prepared for anything* check to attempt to create an item of your choice.
 
-The plausibility of these checks is influenced by your availability tools, workspace and materials.
+The plausibility of these checks is increased by 1.
 
 Like usual, if you roll a 1 on the supplies die, deplete it once.
 
@@ -106,12 +106,14 @@ Enchant an item, adding an affix to it.
 
 Choose a set of arms or armor, and then choose one of the following options to determine which affix is added:
 
-- Use an ingredient that you have found to add this affix to that item.
+- Use an ingredient that you have scavenged from a monster to add this affix to that item.
   - After each victorious combat encounter, each party member draws three affixes used by the monsters, and chooses one to keep as an ingredient.
   - The skill associated with the ingredient is determined by the type of monster it was from.
-  - You can find more ingredients through exploring the font (as treasure, or as rewards for helping others), or can use the Harvest downtime activity.
-- Do not use an ingredient, and instead draw three random affixes from the font. Choose one to apply.
-  - You may use freely choose the crafting skill used in this downtime activity if you select this option.
+- Use an ingredient harvested from the current Font (using the Harvest downtime activity)
+  - The skill is the same that was used for the Harvest downtime activity
+- Use an ingredient from another source. This might be a book, a craftsman in town, a scroll given by a employer, etc.
+  - The ingredient will tell you which skill to use. (Commonly, this will use craftsmanship)
+  - These ingredients can be reused infinitely (although the owner may want it back)
 
 Consume the ingredient, then determine your success or failure at this crafting:
 
@@ -128,25 +130,17 @@ If you failed by 10 or less, you may sacrifice essence crystals equal to the dif
 
 If you failed by more than 10, your downtime activity is wasted and you lose the ingredient.
 
-## Forge
-
-Make an Expertise (Craftsmanship) skill check. For every 10 points of your skill check result, you may take one of the following actions if the supplies die is not depleted:
-
-- Create a set of mundane arms and armor, selecting the affixes from the standard pool of mundane affixes freely
-- Freely modify the mundane affixes of one set of arms or armor
-
-For each of the actions that you take, roll on the supplies die once. Like usual, if the result is a 1, deplete your supplies die.
-
 ## Harvest
 
 Gather resources from the environment around you.
 
-1. Choose one of Anima, Arcana, Fontcraft or Tinkering.
 For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
+
+1. Choose one of Anima, Fontcraft or Tinkering.
 2. Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in.
-3. Then draw one random ingredient from the font's collection of ingredients for every 5 points of the skill check result.
+3. Then draw one random ingredient from the font's collection of affix ingredients for every 5 points of the skill check result.
 4. Finally, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
-This ingredient gained is associated with the skill you used for this skill check.
+The ingredient gained is associated with the skill you used for this skill check.
 
 You may only use the Harvest downtime activity if the current danger level is 1 or greater.
 
