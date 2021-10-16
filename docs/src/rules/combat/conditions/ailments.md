@@ -47,6 +47,10 @@ You have disadvantage on all special attacks and all special attacks against you
 
 Damage dealt to you cannot be prevented by absorption, and you cannot use the Block action.
 
+## Drained
+
+At the end of each of your turns, lose 2 essence.
+
 ## Frightened
 
 You cannot willingly move closer to the source of your fear.
