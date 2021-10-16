@@ -138,11 +138,9 @@ For example, you might process part of a dead monster using Anima, collect stran
 
 1. Choose one of Anima, Fontcraft or Tinkering.
 2. Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in.
-3. Then draw one random ingredient from the font's collection of affix ingredients for every 5 points of the skill check result.
+3. Then draw one random ingredient from the font or town's collection of affix ingredients for every 5 points of the skill check result.
 4. Finally, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
 The ingredient gained is associated with the skill you used for this skill check.
-
-You may only use the Harvest downtime activity if the current danger level is 1 or greater.
 
 ## Invent
 
