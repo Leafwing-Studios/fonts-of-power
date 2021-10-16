@@ -7,7 +7,6 @@ pub enum Skill {
     Anima,
     Athletics,
     Charm,
-    Craftsmanship,
     Endurance,
     Fontcraft,
     Guidance,

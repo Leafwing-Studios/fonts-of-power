@@ -64,7 +64,7 @@ If you succeed on a suitable difficulty 15 skill check, their loyalty increases 
 ## Craft
 
 Attempt to fashion something useful from the materials you have.
-Make an Expertise (Craftsmanship) skill check. For every 5 points of the skill check result, you may make a *prepared for anything* check to attempt to create an item of your choice.
+Make an Expertise (Tinkering) skill check. For every 5 points of the skill check result, you may make a *prepared for anything* check to attempt to create an item of your choice.
 
 The plausibility of these checks is increased by 1.
 
@@ -108,16 +108,16 @@ Choose a set of arms or armor, and then choose one of the following options to d
 
 - Use an ingredient that you have scavenged from a monster to add this affix to that item.
   - After each victorious combat encounter, each party member draws three affixes used by the monsters, and chooses one to keep as an ingredient.
-  - The skill associated with the ingredient is determined by the type of monster it was from.
-- Use an ingredient harvested from the current Font (using the Harvest downtime activity)
+  - The skill used is determined by the type of monster it was from.
+- Use an ingredient harvested from the current Font (including those found using the Harvest downtime activity)
   - The skill is the same that was used for the Harvest downtime activity
-- Use an ingredient from another source. This might be a book, a craftsman in town, a scroll given by a employer, etc.
-  - The ingredient will tell you which skill to use. (Commonly, this will use craftsmanship)
-  - These ingredients can be reused infinitely (although the owner may want it back)
+- Use a reusable ingredient from another source. This might be a book from the library, the assistance of a craftsman in town, a scroll found in a chest, etc.
+  - The skill used is given by the ingredient.
+  - These ingredients are not consumed, although the owner may want it back!
 
 Consume the ingredient, then determine your success or failure at this crafting:
 
-- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Craftsmanship, Fontcraft or Tinkering).
+- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Fontcraft or Tinkering).
 - Add 5 times the current danger level of the area you are resting in to the result.
 - The difficulty of adding an affix is equal to 15 + (5 \* the gear points of that affix).
 
@@ -269,7 +269,7 @@ Like usual, gaining this exhaustion can kill you. Any skill checks made to resur
 ## Shape
 
 Attempt to shape the world around you, preparing an arena for combat.
-Make an Expertise skill check using Anima, Craftsmanship, Fontcraft or Tinkering.
+Make an Expertise skill check using Anima, Fontcraft or Tinkering.
 
 For every 2 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
 
