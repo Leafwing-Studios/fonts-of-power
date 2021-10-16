@@ -31,7 +31,6 @@ Distractions only work when they’re unexpected; you cannot use the same distra
 - Showing off a great feat of strength at a party with Prowess (Athletics)
 - Giving a sermon to a rapt audience using Presence (Guidance)
 - Demonstrating a new invention using Expertise (Tinkering)
-- Creating a convincing illusion using Expertise (Arcana)
 - Sabotaging the stage with Expertise (Craftsmanship)
 - Engaging in pleasant conversation with Presence (Charm)
 - Faking a dramatic injury using Presence (Medicine)

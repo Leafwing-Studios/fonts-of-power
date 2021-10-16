@@ -186,7 +186,7 @@ Restore 1 essence for every 10 points of the skill check result.
 ### Scan (1 AP)
 
 Choose a creature or vantage within range 6.
-Make an Expertise skill check, with the skill selected from Anima, Arcana, Craftsmanship, Fontcraft, Humanities or Tinkering, based on the creature or vantage selected.
+Make an Expertise skill check, with the skill selected from Anima, Craftsmanship, Fontcraft, Humanities or Tinkering, based on the creature or vantage selected.
 
 You have advantage on this skill check if your target is within range 2.
 Learn one of the facts from the appropriate list and one additional fact for every 10 points of your skill check results.

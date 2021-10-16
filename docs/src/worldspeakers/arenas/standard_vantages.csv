@@ -17,8 +17,8 @@ From the barred side of the door, you can use Interact and make a difficulty 15 
 "Torch","True","True","Craftsmanship","Lighting","5","Wall","Casts bright light in a 3 tile radius, and dim light in a 3 tile radius beyond that.",,"Water, Umbral",,"Fire, Radiant"
 "Campfire","True","False","Craftsmanship","Lighting","5","Ground","Casts bright light in a 3 tile radius, and dim light in a 3 tile radius beyond that. Ground effect: deal 1d4 fire damage and apply two stacks of aflame when triggered.",,"Water, Umbral",,"Fire, Radiant"
 "Block","True","False","Craftsmanship, Anima, Fontcraft","Block","20","Block","A 1 tile block of some description.","Which edges are sloped.",,,
-"Sealing Rune","True","False","Arcana","Interactable","10","Interactable","Locked interactables cannot be interacted with.
-Use Interact and make a difficulty 15 Expertise (Arcana) skill check to lock or unlock. You automatically pass if you know the password.",,,,"Physical"
+"Sealing Rune","True","False","Fontcraft","Interactable","10","Interactable","Locked interactables cannot be interacted with.
+Use Interact and make a difficulty 15 Expertise (Fontcraft) skill check to lock or unlock. You automatically pass if you know the password.",,,,"Physical"
 "Clutter","False","True","Any","Ground Effect","5","Tile","Difficult terrain, partial cover.",,,,
 "Plane","True","False","Any","Block","10","Plane","Cover the horizontal area of a tile. Must be attached on at least one edge to a solid tile or other plane.",,,,
 "Wall","True","False","Any","Block","20","Edge","A wall, 2 height tiers in height.",,,,

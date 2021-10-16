@@ -16,7 +16,6 @@ In order to accomplish their goal, the party must complete a series of skill che
 
 - Use Prowess (Athletics) to break down a door.
 - Use Focus (Fontcraft) to safely navigate through dangerous terrain.
-- Use Expertise (Arcana) to research a powerful magical device before it can be put into use.
 - Use Presence (Guidance) to win over allies to their fledgling rebellion.
 
 Unless a complication rules out their previous approach, the party can continue to reuse it (or choose a new one).
