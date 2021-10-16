@@ -17,3 +17,5 @@
 "Menacing",,"Creatures who are frightened of you must move away if they are within a 2 tile radius, rather than just 1."
 "Just a Flesh Wound",,"The first time each combat that you would die, instead don't."
 "Inexhaustible",,"Ignore all exhaustion penalties to attack rolls."
+"Fervor",,"While you are transformed, you gain access to the *Fervor* action. 1 emotion: Gain 1 AP."
+"Masochism",,"When you select this feat, choose an affliction. Whenever you gain emotion, gain 2 stacks of the chosen affliction"

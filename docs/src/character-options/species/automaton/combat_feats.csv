@@ -13,4 +13,5 @@
 "Thrusters",,"When you choose this feat, also give up your exploration feat for this level. You can fly, and do not stop flying if you cannot spend movement. At the end of each of your turns while you are flying, lose 1 essence. Immediately land if you cannot."
 "Process Automation","Industry subspecies","After you hit a creature with an attack, you may choose to immediately gain the benefits of the Swap action to equip the Arms created using your Repurposed subspecies feature."
 "Reprogramming",,"You gain access to the Reprogram downtime activity. Choose a captured monster who is associated with the Tinkering skill. Make a difficulty 20 Presence (Tinkering) skill check. If you pass, they become an Automaton NPC with loyalty one towards you."
-,,
+"Lightweight","Service subspecies","Replaces Steady Hand. You have advantage on Dodge skill checks. Whenever you successfully dodge, you may move 1 tile"
+"Dispenser","Service subspecies","You may use consumables a second time without risking essence overload. You can use consumables on allies."
