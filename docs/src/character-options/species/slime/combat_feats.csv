@@ -18,3 +18,4 @@
 "You're Coming With Me","Sticky Slime subspecies","Whenever a creature within your zone of control applies forced movement to you, move them with you. You may willingly choose to disable your Stuck to the Ground species feature."
 "Safety Glasses Required","Bouncy Slime subspecies","You are size 0. Whenever you enter the tile of another creature due to forced movement, make an Agility attack against them. If you hit, deal 1d8 + Prowess physical damage to them. When you bounce off solid objects or creatures due to forced movement, you may choose the new direction of movement and gain an extra tile of forced movement."
 "Plastic",,"1 AP: Increase or decrease your size by 1 tile."
+"Rolling",,"While prone, the effects of forced movement against you is doubled. Gradual slopes have a triggered tile effect for you, pushing you one tile downhill. When you use the Stand Up action, gain 2 tiles of movement rather than 1."

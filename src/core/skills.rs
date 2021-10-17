@@ -5,10 +5,8 @@ use crate::core::stats::Attribute;
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
 pub enum Skill {
     Anima,
-    Arcana,
     Athletics,
     Charm,
-    Craftsmanship,
     Endurance,
     Fontcraft,
     Guidance,

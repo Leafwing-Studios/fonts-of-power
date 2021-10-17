@@ -64,7 +64,7 @@ If you succeed on a suitable difficulty 15 skill check, their loyalty increases 
 ## Craft
 
 Attempt to fashion something useful from the materials you have.
-Make an Expertise (Craftsmanship) skill check. For every 5 points of the skill check result, you may make a *prepared for anything* check to attempt to create an item of your choice.
+Make an Expertise (Tinkering) skill check. For every 5 points of the skill check result, you may make a *prepared for anything* check to attempt to create an item of your choice.
 
 The plausibility of these checks is increased by 1.
 
@@ -74,7 +74,7 @@ Like usual, if you roll a 1 on the supplies die, deplete it once.
 
 Scrap an enchanted item completely, turning it back into its raw ingredients.
 
-Choose an enchanted set of arms or armor, and make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+Choose an enchanted set of arms or armor, and make an Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
 Choose one of its affixes, and gain that ingredient.
 It is associated with the skill used for this check.
 Gain one essence crystal for each remaining enchantment point of the item, up to a maximum of one essence crystal for every 5 points of your skill check result.
@@ -93,7 +93,7 @@ You must know the recipes in some way, choosing to either:
 - Reverse-engineer a new recipe.
   - Sacrifice one existing consumable to use either its base effect or modifier in the consumable you are creating.
 
-Make a Focus (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+Make a Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
 Some modifiers are skill exclusive: you must use the corresponding skill when using these recipes.
 Create one copy of the consumable for every 5 points of your skill check result.
 Sacrifice one essence crystal for each consumable created.
@@ -108,16 +108,16 @@ Choose a set of arms or armor, and then choose one of the following options to d
 
 - Use an ingredient that you have scavenged from a monster to add this affix to that item.
   - After each victorious combat encounter, each party member draws three affixes used by the monsters, and chooses one to keep as an ingredient.
-  - The skill associated with the ingredient is determined by the type of monster it was from.
-- Use an ingredient harvested from the current Font (using the Harvest downtime activity)
+  - The skill used is determined by the type of monster it was from.
+- Use an ingredient harvested from the current Font (including those found using the Harvest downtime activity)
   - The skill is the same that was used for the Harvest downtime activity
-- Use an ingredient from another source. This might be a book, a craftsman in town, a scroll given by a employer, etc.
-  - The ingredient will tell you which skill to use. (Commonly, this will use craftsmanship)
-  - These ingredients can be reused infinitely (although the owner may want it back)
+- Use a reusable ingredient from another source. This might be a book from the library, the assistance of a craftsman in town, a scroll found in a chest, etc.
+  - The skill used is given by the ingredient.
+  - These ingredients are not consumed, although the owner may want it back!
 
 Consume the ingredient, then determine your success or failure at this crafting:
 
-- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Arcana, Fontcraft or Tinkering).
+- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Fontcraft or Tinkering).
 - Add 5 times the current danger level of the area you are resting in to the result.
 - The difficulty of adding an affix is equal to 15 + (5 \* the gear points of that affix).
 
@@ -134,21 +134,19 @@ If you failed by more than 10, your downtime activity is wasted and you lose the
 
 Gather resources from the environment around you.
 
-For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
+For example, you might hunt for glowing mushrooms with Anima, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
 
 1. Choose one of Anima, Fontcraft or Tinkering.
 2. Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in.
-3. Then draw one random ingredient from the font's collection of affix ingredients for every 5 points of the skill check result.
+3. Then draw one random ingredient from the font or town's collection of affix ingredients for every 5 points of the skill check result.
 4. Finally, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
 The ingredient gained is associated with the skill you used for this skill check.
-
-You may only use the Harvest downtime activity if the current danger level is 1 or greater.
 
 ## Invent
 
 Tinkering with magic, you attempt to create new and wonderful magical contraptions.
 
-Make an Expertise (Anima), Expertise (Arcana), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+Make an Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
 Choose one of the following recipe decks to draw from:
 
 - universal recipes
@@ -233,7 +231,7 @@ Additionally, they must have an adequate **vessel**, as described in the table b
 | Undead (Spectre) or Slime    | None                                    | Fontcraft      |
 | Automata                     | An inanimate object                     | Tinkering      |
 | Sylvan                       | A plant                                 | Anima          |
-| Crystalline                  | 10 essence crystals                     | Arcana         |
+| Crystalline                  | 10 essence crystals                     | Fontcraft      |
 | Fae                          | Something from a wild place             | Anima          |
 | Reclaimer                    | Something with a strong memory attached | Fontcraft      |
 
@@ -271,7 +269,7 @@ Like usual, gaining this exhaustion can kill you. Any skill checks made to resur
 ## Shape
 
 Attempt to shape the world around you, preparing an arena for combat.
-Make an Expertise skill check using Anima, Arcana, Craftsmanship, Fontcraft or Tinkering.
+Make an Expertise skill check using Anima, Fontcraft or Tinkering.
 
 For every 2 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
 

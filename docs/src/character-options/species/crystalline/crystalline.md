@@ -77,7 +77,7 @@ If you do, gain one stack of exhaustion.
 
 **Resonance:** After you take elemental damage, gain resistance to that elemental damage type. Lose any resistance previously gained by this effect.
 
-**Perfectionist:** You are proficient in Craftsmanship.
+**Perfectionist:** You are proficient in Tinkering.
 
 ### Geode
 

@@ -31,7 +31,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 ## Features
 
-**Insatiable Curiosity:** You may use the Activate action one more time each rest before needing to make a Focus (Arcana) skill check made to avoid essence overload.
+**Insatiable Curiosity:** You may use the Activate action one more time each combat before suffering essence overload.
 
 **Scavenger:** You have advantage on all skill checks made during the Devise downtime activity.
 
@@ -49,21 +49,6 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 **Living Armor:** After you lose life, gain 4 absorption.
 
 **Natural Historian:** You are proficient in Anima.
-
-### Academy-Rat
-
-| Roll | What do you focus your academic research on? |
-| ---- | -------------------------------------------- |
-| 1    | The fundamental nature of magic.             |
-| 2    | The mysteries of the fonts of power.         |
-| 3    | The study of life and resurrection.          |
-| 4    | The invention of new enchantments.           |
-| 5    | The relationships between the elements.      |
-| 6    | The means by which souls produce essence.    |
-
-**Esteemed Regalia:** When you use the Ward action, gain its benefits a second time.
-
-**Lore Seeker:** You are proficient in Arcana.
 
 ### Font-Congregant
 
