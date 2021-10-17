@@ -61,6 +61,8 @@ Challenge an NPC to a contest of some sort, wagering that your skill is superior
 Improve your relationship with an NPC or faction by helping them out or building social ties.
 If you succeed on a suitable difficulty 15 skill check, their loyalty increases by 1.
 
+It's harder to win the trust of your enemies: add their current loyalty to your skill check result.
+
 ## Craft
 
 Attempt to fashion something useful from the materials you have.
