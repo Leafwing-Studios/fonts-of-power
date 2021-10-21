@@ -3,7 +3,6 @@
 | Description          |     |
 | Elements             |     |
 | Font Facing          |     |
-| Conflicting Ideals   |     |
 | Contrasting Themes   |     |
 | Source of Magic      |     |
 | Original Environment |     |
