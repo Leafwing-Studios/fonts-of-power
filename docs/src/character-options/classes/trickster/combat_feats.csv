@@ -1,7 +1,7 @@
 "Name","Prerequisites","Effect"
 "Disappearing Act",,"Whenever you use the Hide action, you may become invisible until the start of your next turn. The invisibility breaks immediately after making an attack."
 "Hit Me",,"After you successfully use the Dodge action, gain the benefits of the Recover action."
-"Strong Arm",,"The range of your tricks is increased to 6 tiles."
+"Strong Arm",,"The range of your tricks is increased to 3 tiles."
 "The Strong Stuff",,"The radius of your tricks is increased to 2 tiles."
 "Another Trick Up My Sleeve",,"Whenever you use the Recover action while out of tricks, make a difficulty 15 Presence (Trickery) skill check. If you succeed, replenish your supply of tricks."
 "Weighted Dice","Roll the Dice","When you use your Roll the Dice class feature, roll 2d6 and pick the result you prefer."
