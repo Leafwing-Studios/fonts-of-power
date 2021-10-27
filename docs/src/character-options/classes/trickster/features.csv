@@ -2,7 +2,7 @@
 "1","Feats","Gain a new combat feat and a new exploration feat.","3"
 "1","Just Lucky","After you make an attack or damage roll (and see the immediate results), you may spend 1 essence to reroll the results. You must use the new results unless you use this power again. ","3"
 "1","Winning Streak","Damage dice explode.","3"
-"1","Trickery","0 essence 1 AP tricks. Range 1, explodes at the start of your next turn in 1 tile radius.","3"
+"1","Trickery","0 essence 1 AP tricks. Range 1, explodes at the start of your next turn in 1 tile radius. Which trick it is is hidden to enemies.","3"
 "1","Flair: Payout","Whenever you land a critical hit, gain a bonus effect.",
 "2","Roll the Dice","When you make a skill check, but before you roll, you may choose to instead attempt to change the attribute used for the skill. When you do so, you are temporarily treated as if you are proficient in the skill. Roll a d6.","4"
 "3","Attribute Improvement","Increase one Attribute of your choice by 1.","4"
