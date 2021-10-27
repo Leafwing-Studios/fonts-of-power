@@ -39,4 +39,4 @@ The diversity of the human species is its greatest strength: no two are quite th
 
 **Hard-Won Skill:** Choose a feat from the Universal Exploration feat list or your class exploration feat list.
 
-**Manual Dexterity:** You are proficient in Craftsmanship.
+**Strongly-held Beliefs:** Whenever you gain a resolve, remove one stack of exhaustion.

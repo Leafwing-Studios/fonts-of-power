@@ -1,27 +1,41 @@
 # Deals and Ideals
 
-Significant social interactions follow the framework of making **deals** with NPCs. Every deal begins with a **pitch:** what do the player characters want to get out of the interaction, and why should the NPC care. There are three factors that combine in order to determine the NPC’s **motivation** after you have made a pitch to them: their **loyalty** to you, their calculation of their **self-interest,** and the **morality** of the deal, reflecting the alignment of the deal with their **ideals.** Deals can be offered by any character, but player characters may choose freely whether to accept or reject a deal.
+When one character wants something of another, a **deal** must be struck.
+There are four phases in the process of making deals:
 
-## Loyalty
+1. **Probing:** each side learns more about the other's needs, capabilities and values.
+2. **Pitch:** the **active party** proposes a deal, and the **reactive party** evaluates the deal.
+3. **Haggling:** the reactive party responds to the deal. Counteroffers and persuasion occurs until either the deal is made or someone walks away.
+4. **Completion:** the active party attempts to complete the deal, increasing or decreasing the loyalty of the reactive party based on their success.
 
-**Loyalty** tracks the trust that other characters (either individuals like Innkeeper Bob or groups like the local Wizard’s Guild) have in the player characters, which drives their willingness to cooperate. By default, loyalty begins at zero, and changes according to the following rules, with the number in brackets indicating the change in loyalty:
+## Probing
 
-* **Great Deal (+1):** A deal is made with a motivation greater than 1.
-* **Done Deal (+1 / +2):** The party completes a deal that tangibly benefits the NPC or their allies.
-* **Failed Deal (-1):** The party fails a deal that they had made.
-* **No Deal (-1):** The NPC proposed a deal to the party, and a deal could not be reached.
-* **Broken Trust (-1 / -2):** The party’s actions tangibly hurt the NPC or their allies. This could be betraying them, aiding their rivals, or failing a deal in a way that leaves them in a bind.
-* **Liar (-1):** The players fail a Presence (Charm) skill check to lie about a deal by 5 or more.
-* **Moralizer (-1):** The players fail a Presence (Guidance) skill check to temporarily change the ideals of the NPC by 10 or more.
-* **Call in a Favor (Special):** The characters spend loyalty points above 0 in order to get a bonus to the motivation of the NPC for this particular deal equal to the number of loyalty points spent. Their loyalty decreases by the same amount after the deal is made.
+You'll have much better luck convincing others to work with you if you understand their values and needs.
 
-## Self-Interest
+As you interact with the other party, make two skill checks:
 
-Self-interest is the selfish calculation of “what’s in it for me”. There are two factors that make up this calculation: **payoff,** which compares what the NPC has to gain from the deal relative to what they have to lose, and **plausibility,** which reflects how likely they feel the plan is to succeed. Payoff and plausibility are calculated according to the table below, and that decision is made by the worldspeaker alone based on the NPC’s unique perspective and needs, although morality should not enter into this calculation. Sum together the selected modifiers for payoff and plausibility to arrive at a final value for self-interest.
+- A difficulty 15 Focus (Insight) skill check to learn their exact loyalty towards you.
+If your skill check result is at least 5, you learn whether their loyalty is positive, negative or 0.
+- A difficulty 20 Focus (Humanities) skill check to learn their exact ideals.
+If your skill check result is at least 10, you learn their highest and lowest ideal (the worldspeaker chooses freely in the case of a tie).
 
-**Payoff and Plausibility modifiers**
+## Pitch
 
-<div class="three-column">
+In this stage, the active party (usually the player characters) proposes a specific deal: if the other party does X, they will do Y in return.
+
+NPCs evaluate deals by adding together five factors to produce an **interest score**:
+
+1. Their **loyalty** to the active party.
+   1. This ranges from -5 to 5, based on how much they like and trust the active party.
+   2. The loyalty of most NPCs begins at 0.
+2. The **payoff** of the deal: what the reactive party has to gain from the deal relative to what they have to lose.
+   1. This ranges from -2 to +2 according to the table below.
+3. The **plausibility** of the deal: how likely they feel the plan is to succeed.
+   1. This ranges from -2 to +2 according to the table below.
+4. The **moral benefit** of the deal, viewed through the lens of their ideals.
+   1. If the deal significantly advances the values of at least one ideal, add their highest corresponding ideal.
+5. The **moral harm** of the deal, viewed through the lens of their ideals.
+   1. If the deal significantly conflicts with the values of at least one ideal, add their highest corresponding ideal.
 
 | Modifier | Payoff                                                           | Plausibility                                      |
 | -------- | ---------------------------------------------------------------- | ------------------------------------------------- |
@@ -31,76 +45,96 @@ Self-interest is the selfish calculation of “what’s in it for me”. There a
 | 1        | The benefit of success is greater than the cost of failure.      | Success is more likely than failure.              |
 | 2        | The benefit of success is much greater than the cost of failure. | Success is dramatically more likely than failure. |
 
-</div>
+The worldspeaker alone decides the payoff, plausibility and morality of the deal, based on the NPC’s unique perspective and needs.
+The final interest score, but not the constituent values, is public information.
 
-## Morality
-
-Ideals reflect the NPC’s moral values: their willingness to help out because it’s the right thing to do, or refuse to help because it would be wrong to do so. In Fonts of Power, there are five **core ideals** that both players and NPCs follow to some degree: Equality, Harmony, Integrity, Liberty, and Progress. These are detailed in the Attributes and Ideals chapter of this book.
-
-Different people care about these ideals to different degrees, based on the values of their culture and their own sense of morality. Each ideal is measured by a score between 0 and 5 (inclusive), reflecting the degree to which the character cares about that ideal. Most people are neither terribly moral nor selfish, and so their ideals sum to 10. The ideals of particularly selfish characters may sum to 5, and the ideals of a particularly self-sacrificing character may sum to 15. For most NPCs you might create, beginning with a value of 2 in each ideal is a great starting point.
+Deals can be offered by any character, but player characters always choose freely whether to accept or reject a deal.
 
 <div class="infobox">
 
 **Moral dilemmas**
 
-Many deals have moral factors that weigh both for and against them. For example, you may be attempting to convince a local miner to give you explosives that you can use to destroy the machinery that belongs to the oppressive owner of the mine who’s forcing orphans to work for him. This would be a moral good from the perspective of Equality and Liberty, but a moral harm from the perspective of Harmony and Progress.
+Many deals have moral factors that weigh both for and against them.
+For example, you may be attempting to convince a local miner to give you explosives that you can use to destroy the machinery that belongs to the oppressive owner of the mine who’s forcing orphans to work for him.
+This would be a moral benefit from the perspective of Equality and Liberty, but a moral harm from the perspective of Harmony and Progress.
 
-Suppose that the miner’s ideals are [4,3,2,1,0] in the standard alphabetical order. The value of 4 in Equality is higher than his value of 1 in Liberty, so we add 4 to the morality of the deal. However, he has a value of 3 in Harmony (which is higher than his value of 0 in Progress), so we subtract 3 from the morality of the deal. The final morality assessment is thus 1, reflecting his mixed feelings about the righteousness of the plan.
+Suppose that the miner’s ideals are [4,3,2,1,0] in the standard alphabetical order.
+The value of 4 in Equality is higher than his value of 1 in Liberty, so we add 4 to the morality of the deal.
+However, he has a value of 3 in Harmony (which is higher than his value of 1 in Progress), so we subtract 3 from the morality of the deal. The final morality assessment is thus 1, reflecting his mixed feelings about the righteousness of the plan.
+
 </div>
-
-When the player characters propose a plan that either promotes or runs against these ideals, the morality of the deal changes from 0. If a plan significantly improves things along at least one of these ideals, select the relevant ideal that the NPC cares about the most and add its value to the morality score for this deal. If a plan significantly worsens things along at least one of these ideals,  select the relevant ideal that the NPC cares about the most and subtract its value to the morality score for this deal. Only one ideal in each direction matters for computing the morality of a deal, but both directions may be in play at a time.
-
-## Motivation
-
-Finally, motivation is calculated as the sum of loyalty, self-interest and morality. If, after hearing the player’s pitch, their motivation is at least one, they will act to help you. Otherwise, they will refuse to act.
-
-If their motivation is between -3 and 0, the NPC is willing to **renegotiate,** seeking to sweeten the deal in their own favor by modifying their calculation of self-interest until the motivation for the new deal is 1. However, the NPC will not seek to renegotiate if their net motivation is greater than 1, and instead walks away content with the bargain they have scored; causing their loyalty to increase by 1.
-
-## Influencing Deals
-
-Players can influence the outcome of a deal by using their skills and resources in several ways
-
-### Assess
-
-As a group, make a Presence (Insight) skill check to learn the loyalty that the NPC in question has towards your party. If the result is 10 or higher, you learn whether it is positive, negative or zero. If it is 15 or higher, you learn the exact value.
-
-### Call in a Favor
-
-If the party desperately needs a favor, they can sacrifice the loyalty they have earned. Each point of loyalty they spend increases the motivation by 1, stacking with the original bonus due to their loyalty. However, once used, this loyalty is permanently lost and must be rebuilt. You can only spend loyalty in this way if the resulting loyalty would be at least zero.
-
-### Empathy
-
-If a player succeeds on a difficulty 15 Presence (Insight) skill check during conversation with an NPC, they learn the highest and lowest ideals that they hold. The worldspeaker should pick randomly in the case of a tie.
-
-### Ethnography
-
-If a player succeeds on a difficulty 15 Expertise (Humanities) skill check, they know the typical motivations of a group of their choice. Remember however that most individuals exist at the intersection of several groups, and have their own unique experiences as well.
 
 ### Deception
 
-The party may choose to lie about their deal, completely fabricating a new story. It may appeal to or go against different ideals than their actual deal. The party must succeed on a Presence (Charm) skill check to convince the NPC of their story.
+Of course, the deal you propose doesn't have to be *entirely* truthful.
+You may attempt to lie to the reactive party, evaluating your success based on the results of your Presence (Charm) skill check.
+The difficulty of this skill check depends on how serious of a lie you are making:
 
-* The story begins with a modifier of 0 in both payoff and plausibility and requires a difficulty 15 skill check.
-* The party can “buy” additional points in either payoff or plausibility by increasing the difficulty by 5. Likewise, they can “sell” these points to reduce the difficulty by 5. Like usual, payoff and plausibility must be between -2 and +2, inclusive. For example, a story with a +2 self interest score would have a final difficulty of 25 (15 + 10), and a story with -1 self interest score would have a final difficulty of 10 (15 - 5).
-* If you fail this skill check, the NPC finds something off about your story and refuses to help. If you fail this skill check by 5 or more, the NPC realizes you are lying and their loyalty decreases by 1.
+- 10: You are lying about your motivations.
+- 15: You are lying about a small detail.
+- 20: You are lying about or omitting an important fact.
+- 25: Your story bears no resemblance to the underlying truth.
+- 30: The story is entirely unbelievable.
 
-### Moral Appeal
+If you fail, the other party senses something is off and walks away from the deal.
+If you fail by 5 or more, the party is certain that you are lying and walks away from the deal.
+Their loyalty towards you is decreased by 1.
 
-If a player succeeds on a difficulty 20 Presence (Guidance) skill check, they can attempt to temporarily change the NPCs ideals by 1 while assessing the deal, causing them to either care more strongly about the moral benefits of the task, or overlook any moral questionability.
+Helping with this skill checks requires passing a difficulty 20 Presence (Charm) skill check.
 
-NPCs can spot insincere moral arguments: the character making the check has advantage on this skill check if their personal value for that ideal is more extreme than the new value for the NPC’s ideal, and disadvantage if it is less extreme.
+## Haggling
 
-<div class="infobox">
+Now that we've evaluated the deal, it's time for the reactive party to respond to the offer:
 
-**Sincerity by example**
+- **Interest score below -3:** The reactive party is insulted by the terrible offer, and walks away. Their loyalty towards you is decreased by 1..
+- **Interest score between -3 and 0:** The reactive party is willing to renegotiate.
+  - The active party may Call in a Favor, attempt to use Salesmanship, or make a Moral Appeal.
+  - As a group, you may only use each option once per pitch.
+  - Helping with these skill checks requires passing a difficulty 20 skill check of the same type.
+  - Go back to the Pitch phase if the reactive party cannot be persuaded: either party can propose a new deal.
+- **Interest score of +1:** The reactive party accepts the deal, viewing it as fair.
+- **Interest score greater than +1:** The reactive party accepts the deal, thrilled with the bargain they got. Increase their loyalty by 1.
 
-To illustrate the mechanics of Moral Appeal, suppose the player character’s Integrity is 1, and the NPC’s is 3. If they are trying to convince an NPC to overlook the fact that a deal would involve directly lying, they would attempt to temporarily lower the NPC’s Integrity by 1. Because their integrity is more extreme in the appropriate direction (decreasing, in this case), they have advantage on this skill check.
+### Call in a Favor
 
-On the other hand, suppose the player character was attempting to convince the NPC to take responsibility for the crimes they’d committed, again engaging Integrity. As they try to temporarily increase the NPC’s Integrity by 1, they have disadvantage on this skill check. because their integrity is less extreme in the appropriate direction (now, increasing).
-</div>
+If the party desperately needs a favor, they can sacrifice the loyalty they have earned.
 
-The party can repeat this process until they fail, but Ideals are always between 0 and 5. If they fail by 10 or more, the NPC takes offense and their loyalty is reduced by 1.
+Bid any number of points of loyalty, up to the current (positive) value of loyalty that the NPC has.
+Each point of loyalty they spend increases the interest score by 1, stacking with the original bonus due to their loyalty.
+
+After the deal is accepted, this loyalty is permanently lost and must be rebuilt.
 
 ### Salesmanship
 
-If the party did not lie about the deal, they can attempt to persuade the NPC about how beneficial the deal would be by making a Presence (Charm) skill check. They can increase the NPC’s perception of the payoff or plausibility of the deal by 1 point per 10 points of their skill check result, rounded down. Like always, each of these values is capped at +2.
+Persuade the reactive party about how beneficial the deal would be for them.
+Make a Presence (Charm) skill check, and increase the reactive party’s perception of the payoff or plausibility of the deal by 1 point for every 10 points of your skill check result, rounded down.
+Like always, payoff and plausibility are capped at +2.
+
+If your skill check result is 10 or less, the other party walks away from the deal.
+
+### Moral Appeal
+
+Attempt to temporarily change the reactive party's ideals for the purposes of assessing the deal, causing them to either care more strongly about the moral benefits of the task, or overlook any moral questionability.
+
+Make a Presence (Guidance) skill check.
+If you succeed, temporarily increase or decrease the reactive party's value of an ideal by 1 for every 10 points of your skill check result for this pitch.
+
+Characters can spot insincere moral arguments: the character making the check has advantage on this skill check if their personal value for that ideal is more extreme than the new value for the NPC’s ideal, and disadvantage if it is less extreme.
+
+If your skill check result is 10 or less, the other party walks away from the deal.
+
+## Completion
+
+With a deal made, it's now up to the active party (usually an enterprising band of adventurers) to complete their half of the deal.
+Depending on how this goes, this affects the reactive party's loyalty towards them:
+
+- **Serious failure:** Decrease loyalty by 2.
+- **Failure:** Decrease loyalty by 1.
+- **Success** Increase loyalty by 1.
+- **Serious success:** Increase loyalty by 2.
+
+More important and challenging tasks have higher stakes, and result in larger loyalty swings.
+Abandoning a task for an extended period (particularly without any communication) will typically be viewed as having failed a task, causing a drop in loyalty.
+If the task is later completed, gain loyalty in the normal fashion, cancelling out the loss due to abandoning the task.
+
+At the worldspeaker's discretion, other actions in the world can result in changes to the loyalty of creatures who it affected.

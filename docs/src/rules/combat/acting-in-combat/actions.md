@@ -32,22 +32,27 @@ Then, spend any number of tiles of movement.
 
 ### Leap (1 AP)
 
-Choose a tile within a range equal to the movement you have to spend.
-Note that if the source and target are on different height tiers, ranges are measured differently, as described in the rules on height tiers.
+Jump towards a tile of your choice.
 
-Make a Prowess (Athletics) skill check:
+Building up momentum helps you jump further.
+If you have moved one tile towards the target tile this turn, gain a tile of movement.
+If you have moved at least two tiles towards the target tile this turn, gain two tiles of movement instead.
 
-- if the result is less than 10, reduce the movement you have to spend by two
-- if the result is less than 20, reduce the movement you have to spend by one
+Next, compute how far the tile is away from your current location.
+Note that if your current tile and the target tile are on different height tiers, ranges are measured differently, as described in the rules on height tiers.
+Jumping up height tiers is harder, and jumping down is easier.
 
-Then, spend movement up to the range of the targeted tile:
+Then, spend tiles of movement, to a maximum of the range of the target tile:
 
-- if you have enough movement, you move to the targeted square, avoiding any ground effects between you and that tile. Keep any extra movement.
-- if you are one short, you spend all movement to move to the targeted square, avoiding any ground effects between you and that tile but are knocked prone.
-- if you are more than one short, spend all movement you land a number of tiles away from your starting position equal to the tiles of movement spent.
+- if you have enough movement, move to the target tile, avoiding any ground effects between you and that tile
+- if you are one short, spend all movement to move to the targeted tile, avoiding any ground effects between you and that tile but are knocked prone
+- if you are more than one short, spend all movement to land a distance away from your starting position equal to the tiles of movement spent
 
-If the tile is occupied by a creature whose tile you cannot enter (such as most enemies), immediately make a melee Shove attack against the creature in that tile. If you hit, you must either knock them prone or push them out of your way if able.
-If you miss, they automatically hit you with a Shove attack and must either knock you prone or push you out of the way.
+Take any falling damage, although you have advantage on the Agility(Athletics) skill check made to reduce it.
+
+If the tile is occupied by a creature whose tile you cannot enter (such as most enemies), immediately make a melee Shove attack against the creature in that tile.
+If you hit, you must either knock them prone or push them out of your way.
+If you miss or cannot clear enough space, they automatically hit you with a melee Shove attack and must either knock you prone or push you out of the way.
 
 Finally, you may spend any remaining tiles of movement.
 
@@ -186,7 +191,7 @@ Restore 1 essence for every 10 points of the skill check result.
 ### Scan (1 AP)
 
 Choose a creature or vantage within range 6.
-Make an Expertise skill check, with the skill selected from Anima, Craftsmanship, Fontcraft, Humanities or Tinkering, based on the creature or vantage selected.
+Make an Expertise skill check, with the skill selected from Anima, Fontcraft, Humanities or Tinkering, based on the creature or vantage selected.
 
 You have advantage on this skill check if your target is within range 2.
 Learn one of the facts from the appropriate list and one additional fact for every 10 points of your skill check results.

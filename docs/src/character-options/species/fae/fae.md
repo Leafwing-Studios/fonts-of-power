@@ -30,9 +30,9 @@ Confronted with the rise of both the thriving cities and the uncontrollable font
 
 ## Features
 
-**Gossamer Wings:** You can fly. While you are not flying, your basic attacks have disadvantage, and all basic attacks against you have advantage.
+**Gossamer Wings:** You can fly. While you are not flying, you have disadvantage on basic attacks, and all basic attacks against you have advantage.
 
-**Dart and Weave:** When you take the Move action, attacks of opportunity made against you have disadvantage until the end of this turn.
+**Dart and Weave:** When you take the Move action, attacks of opportunity made against you have disadvantage until the end of the current turn.
 
 **Tiny:** You are 0 tiles in size. See the rules on Creature Sizes in the Combat chapter for the exact effects.
 
