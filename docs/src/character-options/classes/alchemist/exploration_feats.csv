@@ -1,1 +1,6 @@
 "Name","Prerequisites","Effect"
+"Foraging",,"Whenever you complete a rest in an area with a danger level of 2 or higher, gain the benefits of the Harvest downtime activity."
+"Elaborate Preparation",,"You may add a modifer to consumable brews that you create."
+"Curative Preparation",,"Your consumable brews may be spent during the Tend and Recover downtime activity. Each creature affected may consume one of them, and recover an additional stack of exhaustion. Only consumable brews made from defensive category spells may be spent in this way."
+"Caffeinated",,"Whenever you complete a rest, you may choose not to remove a stack of exhaustion as normal. If you do, you may complete an additional downtime activity."
+"Soporifics",,"Your Recover downtime activity removes two additional stacks of exhaustion."
