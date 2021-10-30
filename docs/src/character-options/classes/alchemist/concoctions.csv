@@ -1,17 +1,18 @@
-Name,AP,Essence,Category,Range,Type,Target,Effect
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Name,,AP,Essence,Category,Range,Type,Target,Effect
+,,,,,,,,Immune to damage until the end of your next turn.
+,,,,,,,,Remove all ailments and afflictions.
+,,,,,,,,Next attack that they make before the end of your next turn is automatically a critical if it hits.
+,,,,,,,,Add 2 stacks of each ailment.
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

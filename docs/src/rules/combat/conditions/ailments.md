@@ -62,6 +62,7 @@ If a different source applies frightened to you, the object of your fear changes
 ## Pacified
 
 You cannot take offensive actions.
+You are allied with all other creatures.
 
 Whenever you lose life, remove all stacks of pacified.
 
