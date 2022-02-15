@@ -25,16 +25,6 @@ If this fails, or if no one attempts to rouse you, you instead regain consciousn
 
 **As a reminder, once you reach death’s door, you cannot heal in any way until you have been stabilized.**
 
-<div class="infobox">
-
-**Monsters on Death's Door**
-
-Monsters enter death's door just as any other creature would, but feel an added personal stake.
-Monsters in desperate situations will fight ferociously to avoid being absorbed back into their home font.
-While on death's door, monsters add their Presence to any damage dealt.
-
-</div>
-
 ## Flying
 
 If you have the ability to fly, you can spend half your movement to take flight. While flying:
