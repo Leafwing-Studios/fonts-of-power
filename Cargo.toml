@@ -5,12 +5,12 @@ authors = ["Leafwing Studios"]
 homepage = "https://fontsofpower.com"
 repository = "https://github.com/leafwing-studios/fop-game"
 license = "Proprietary"
-edition = "2018"
+edition = "2021"
 categories = ["games"]
 keywords = ["bevy", "rpg"]
 
 [dependencies]
-bevy = { git = "https://github.com/bevyengine/bevy", commit = "f4776f2ec413bb80ff4ee51e04bb57f0a44d9983", default-features = true}
+bevy = "0.6"
 rand = "0.8.3"
 derive_more = "0.99.11"
 num-rational = "0.3"
