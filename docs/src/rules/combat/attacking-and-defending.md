@@ -2,7 +2,8 @@
 
 Almost every offensive action, from swinging a sword to throwing a fireball at your enemy to tricking them with illusions requires making an attack.
 The attacker rolls a d20, adds their attack bonus, and then compares the result to the defender’s defense.
-If the result is greater than or equal to the defense, the attack hits. “Meets it, beats it” can be a useful mnemonic for remembering this rule.
+If the result is greater than or equal to the defense, the attack hits.
+“Meets it, beats it” can be a useful mnemonic for remembering this rule.
 
 Just like with skills, if you are attacking with **advantage,** roll two d20s and use the higher result.
 If you are attacking with **disadvantage,** roll two d20s and select the lower result.
@@ -10,7 +11,7 @@ If you are attacking with **disadvantage,** roll two d20s and select the lower r
 Attacks use either your **basic attack bonus** (proficiency bonus + Agility), or your **special attack bonus** (proficiency bonus + Expertise).
 
 **Basic attacks** are attempts to strike your opponent directly, and use the mundane properties of your currently equipped set of arms.
-This might be a classic sword or bow and arrows, but it could also be a set of claws, a flaming torch, or simple magic emanating from an ancient tome.
+This might be a classic sword or the arrow shot from a bow, but it could also be a set of claws, a flaming torch or a poisoned dart.
 
 Basic attacks are always made against the defender’s **basic defense.**
 This reflects the effectiveness of their armor and their ability to dodge or parry blows. Your basic defense is 10 + Prowess + Agility.
@@ -20,7 +21,7 @@ Armor affixes commonly alter basic defense as well.
 
 Each special attack is made against a particular special defense. Your **special defense** for that attribute is 10 + your proficiency bonus + your corresponding attribute.
 
-**You can always choose to be hit by an attack, after seeing the initial results of the attack.**
+**You can always choose to be hit by an attack, after seeing the initial results (including damage and other triggered effects) of the attack.**
 This can be a surprisingly useful tactical option.
 For example, you might choose to be hit by an attack when:
 
@@ -89,7 +90,7 @@ Some sets of arms can be used in different **modes** (such as _thrown_, _radial_
 Whenever you make a basic attack with one of these weapons, you may choose a mode to use, in addition to the **standard mode** (which attacks a single target at full efficacy at the weapon's range).
 The mode of a weapon alters the base behavior of the weapon, typically by altering its range, targets, efficacy or so on.
 
-Modes can be combined, multiplying together any changes to efficacy. For example, you might combine the _splashing_ and _thrown_ modes when making an attack with a vial of bubbling acid.
+Modes can be combined, and like always, changes to efficacy are multiplied together. For example, you might combine the _splashing_ and _thrown_ modes when making an attack with a vial of bubbling acid.
 
 **Types of area of effect**
 
