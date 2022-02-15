@@ -2,28 +2,26 @@
 
 ## Death's Door
 
-While you are at 0 life, you are at **death’s door** and cannot heal by any means. At the start of each of your turns while on death’s door, you must choose whether to slip safely into unconsciousness or to stay conscious.
+While you are at 0 life, you are at **death’s door**.
+At the start of each of your turns while on death’s door, you must choose whether to slip safely into unconsciousness or to stay conscious.
 
 While conscious and at death’s door, you must maintain your concentration at all times, lest your soul be consumed by the nearest fonts.
-Whenever you would lose life, you must make a difficulty 15 concentration check, but using Presence (Endurance) check instead of the normal roll.
-The outcomes are as follow:
+Whenever you would lose life,instead make a difficulty 15 concentration check, using Presence (Endurance):
 
 - **Failure by 5 or more:** you die.
 - **Failure by less than 5:** you slip into unconsciousness, and gain a stack of exhaustion.
 - **Success by less than 5:** you stay conscious, but gain a stack of exhaustion.
-- **Success by 5 or more:** you stay conscious
+- **Success by 5 or more:** you stay conscious.
 
-Remember that you have a penalty to all skill checks equal to your current stacks of exhaustion, including skill checks made to maintain your concentration.
+Like always, you have a penalty to all skill checks equal to your current stacks of exhaustion, including skill checks made to maintain your concentration.
 
 Once combat (and other intense activities such as Chase Scenes) have ended, you automatically slip into unconsciousness as the adrenaline (or its strange analog) fades.
 
-At that point, other creatures can attempt to Rouse you with a successful Focus (Medicine) skill check.
+At that point, other creatures can attempt to rouse you with a Focus (Medicine) skill check.
 The difficulty of this skill check is 10 + the number of stacks of exhaustion that the unconscious creature has.
 
 If this skill check succeeds, you regain consciousness and stabilize at 1 life.
 If this fails, or if no one attempts to rouse you, you instead regain consciousness and heal (regaining half your life like usual) when the party next completes a rest.
-
-**As a reminder, once you reach death’s door, you cannot heal in any way until you have been stabilized.**
 
 ## Flying
 
