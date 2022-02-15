@@ -43,7 +43,7 @@ Large creatures such as horses may take up two tiles, and particularly huge crea
 If a number of tiles that a unit is said to take up is inconvenient for your choice of battle grid, feel free to adjust the number of tiles slightly to make it fit comfortably.
 For example, a creature that takes up seven tiles is very convenient on a hexagonal grid and terrible on a square grid.
 
-For creatures that are not radially symmetric on your chosen grid (such as a cow that takes up two tiles), your orientation is fixed as you move laterally. You may **change your orientation** by spending one tile of movement.
+For creatures that are not radially symmetric on your chosen grid (such as a cow that takes up two tiles), your orientation is fixed as you move laterally. You may **change your orientation** freely by spending one tile of movement.
 
 Range is always calculated using the shortest path between the tiles that are occupied by the creatures in question. As a result, if two creatures are adjacent, they can always make melee attacks against each other, no matter how large they are.
 
@@ -81,9 +81,13 @@ Similarly, you can still teleport and be teleported while you are grappled (or g
 
 ## Shifts
 
-Various effects allow you to carefully move across the battlefield. When you shift, you may move into an adjacent empty tile of your choice. This does not cost movement and never provokes attacks of opportunity. The creature who is shifting controls where they move, and may choose not to move at all.
+Various effects allow you to carefully move across the battlefield.
+When you shift, you may move into an adjacent empty tile of your choice.
+This does not cost movement and never provokes attacks of opportunity.
+The creature who is shifting controls where they move, and may choose not to move at all.
 
 If it is not your turn when you shift, trigger any tile effects of the tile that you shifted out of.
 You can only trigger a particular tile effect once per turn in this way.
 
-Shifting is not forced movement. You can still shift even when you cannot spend movement (such as due to the grappled / grappling status or the rooted ailment). If you are part of a grappling graph when you shift, the distance to each creature that you are connected to must remain within their respective zone of control.
+Shifting is not forced movement. You can still shift even when you cannot spend movement (such as due to the grappled / grappling status or the rooted ailment).
+If you are part of a grappling graph when you shift, the distance to each creature that you are connected to must remain within their respective zone of control.

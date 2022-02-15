@@ -5,7 +5,7 @@
 Combat doesn't typically occur on a flat, featureless expanse.
 Objects of all sorts, from doors to switches to trees to ziplines are common elements in fights.
 
-Objects can be targeted with your actions, allowing you to Shove and Strike them.
+Objects can be targeted with your actions, allowing you to Shove them, Strike them, Interact with them and so on.
 By default, all objects have 10 life, are immune to ailments and afflictions, cannot be knocked prone and are automatically hit by attacks.
 Objects do not take damage from multi-target attacks or tile effects unless they are **fragile**.
 Unsurprisingly, **stationary** objects are immune to forced movement.
@@ -27,7 +27,8 @@ Tile effects (including ground effects) are triggered when:
 Once a creature has triggered a particular type of tile effect, they cannot trigger it again until the start of their next turn.
 
 Various effects, from glue to oil slicks to pools of acid to thorny underbrush, cover the ground.
-Tile effects like these are classified as **ground effects** and as you might expect, creatures that are flying or aloft ignore ground effects.
+This special type of tile effects are called **ground effects**.
+As you might expect, creatures that are flying or aloft ignore ground effects.
 
 ### Difficult terrain
 
@@ -41,7 +42,8 @@ The effects of difficult terrain do not stack with the effects of being prone.
 There are three levels of **visibility** that describe how well you can see other creatures or objects: clear, obscured and invisible.
 These descriptors are determined on the basis of both the character attempting to see and the target that is being seen: covering your eyes with your hands makes everyone else invisible to you, but not to anyone else.
 
-By default, your target is **clear.** As your target becomes **obscured:**
+By default, your target is **clear.**
+As your target becomes **obscured:**
 
 - you have disadvantage on skill checks made as part of the Scan action targeting them
 
@@ -61,15 +63,16 @@ If you have the tools (or patience) to carefully track light levels during comba
 Every light sources have a **light radius**, and shed bright light in that radius, and dim light in that radius beyond that.
 The light radius of common objects are:
 
-- 1 tile: a candle
-- 2 tiles: a small fire
-- 3 tiles: a sputtering torch
-- 6 tiles: a blazing torch, bonfire or lantern
-- 12 tiles: a brilliant magical light, gained by the _light_ trinket affix
+- **1 tile:** a candle
+- **2 tiles:** a small fire
+- **3 tiles:** a sputtering torch
+- **6 tiles:** a blazing torch, bonfire or lantern
+- **12 tiles:** a brilliant magical light, gained by the _light_ trinket affix
 
 Players can create objects with up to a 6 tile light radius using **Prepared for Anything.**
 Lighting or extinguishing your own torch while in combat takes an Interact action, as does extinguishing a light source found in the environment (typically at melee range).
-Creatures carrying a light source can fight normally. Extinguishing other creatures light sources should be left to the _extinguishing_ affix, or similar powers.
+Creatures carrying a light source can fight normally: _Fonts of Power_ is not a simulationist system.
+Extinguishing other creatures' light sources is both powerful and frustrating: it can only be done with an appropriate affix or power.
 
 </div>
 
@@ -88,7 +91,9 @@ While your target is behind full cover, your attacks automatically miss, and you
 
 When an effect does not physically originate from the attacking creature, cover needs to be calculated with respect to the target and the source of the effect. This is an important rule when, for example, a ball of fire explodes in mid-air, or the ground becomes covered in a dangerous effect.
 
-In general, when a creature is behind partial cover, they are obscured to you, and when a creature is behind full cover, they are also invisible to you. Transparent objects, such as windows or shimmering walls of force are an obvious exception to this. Unless specifically stated, you do not need to be able to see creatures in order to target them with an attack.
+In general, when a creature is behind partial cover, they are obscured to you, and when a creature is behind full cover, they are also invisible to you.
+Transparent objects, such as windows or shimmering walls of force are an obvious exception to this.
+Unless specifically stated, you do not need to be able to see creatures in order to target them with an attack.
 
 ## Height Tiers
 
