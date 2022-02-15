@@ -77,6 +77,8 @@ It is melee if your currently equipped arms makes melee basic attacks, and range
 ## Single-Target and Multi-Target Attacks
 
 Attacks are either **single-target** or **multi-target.**
+Each attack is only rolled once, no matter how many creatures would be hit by it.
+
 Many features are half as effective when used with multi-target attacks, in order to ensure their balance between hitting one versus many targets at once.
 
 There are several commonly used terms to describe the area of effect of powers; their meaning is described in the table below.
@@ -88,16 +90,6 @@ Whenever you make a basic attack with one of these weapons, you may choose a mod
 The mode of a weapon alters the base behavior of the weapon, typically by altering its range, targets, efficacy or so on.
 
 Modes can be combined, multiplying together any changes to efficacy. For example, you might combine the _splashing_ and _thrown_ modes when making an attack with a vial of bubbling acid.
-
-<div class="infobox">
-
-**Faster area attacks**
-
-To accelerate the pace of combat, you may roll the same attack made against multiple targets a single time, affecting all creatures whose defense it meets or exceeds.
-
-This has strange implications for the mechanics of combat even though the expected hit rate is the same (namely that lower defense creatures are always hit if a higher defense creature is), so we do not recommend calculating attacks this way unless you find it needed to speed up combat.
-
-</div>
 
 **Types of area of effect**
 
