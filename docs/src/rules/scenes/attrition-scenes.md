@@ -1,14 +1,21 @@
 # Attrition Scenes
 
-In many cases, the drama is not in whether a task is possible, but in how painful the road to get there will be. When, with enough determination and time, the outcome is a foregone conclusion, use an Attrition Scene. The party must attempt to complete their task through a series of challenging skill checks, facing complications whenever they fail.
+In many cases, the drama is not in whether a task is possible, but in how painful the road to get there will be.
+When, with enough determination and time, the outcome is a foregone conclusion, use an Attrition Scene.
+The party must attempt to complete their task through a series of challenging skill checks, facing complications whenever they fail.
 
-Whenever the party completes a rest (other than by spending Resolve) in an area with a [danger level](../downtime-activities.md?id=danger-levels) greater than zero, they must complete a one-success attrition scene to rest peacefully. If they fail, they still gain the benefit of their rest, but some complication occurs.
+Whenever the party completes a rest (other than by spending Resolve) in an area with a [danger level](../downtime-activities.md?id=danger-levels) greater than zero, they must complete a one-success attrition scene to rest peacefully.
+If they fail, they still gain the benefit of their rest, but some complication occurs.
 
 <div class="infobox">
 
 **When should you use an attrition scene?**
 
-Attrition scenes function on pressure and the consequences of delay. As with skill checks, if the consequences for failure or delay are not interesting, then the Attrition Scene should be put aside, and the party should accomplish their task without ceremony. For example, the party may need a lot of time to repair a town's wall, but if the nation is at peace, there is no interesting drama to be found from slow construction, and there is no reason in the narrative for consequences to suddenly arrive. However, if the party is attempting to rest and construct fortifications at an aggressive font of power, then potential delays risk attacks or supply shortages. In this case, the Attrition Scene is a fantastic tool for the job.
+Attrition scenes play with the themes of pressure and the consequences of delay.
+As with skill checks, if the consequences for failure or delay are not interesting, then the Attrition Scene should be put aside, and the party should accomplish their task without ceremony.
+For example, the party may need a lot of time to repair a town's wall, but if the nation is at peace, there is no interesting drama to be found from slow construction, and there is no reason in the narrative for consequences to suddenly arrive.
+However, if the party is attempting to rest and construct fortifications at an aggressive font of power, then potential delays risk attacks or supply shortages.
+In this case, the Attrition Scene is a fantastic tool for the job.
 
 </div>
 
@@ -64,6 +71,11 @@ Sometimes, an attrition scene will be interrupted or diverted to take care of an
 1. Pause the attrition scene, determining if and when any progress should be reset.
 2. Extend the current Attrition Scene to include the new diversion.
 
-For example, suppose the party is digging a tunnel under some enemy fortifications, but are having difficulty making progress. The party may decide to go find an ally to help dig the fortifications. The process of finding and making a deal with this NPC should be added to the current Attrition Scene, since it is working towards the same goal, but with a different method. Suppose instead that the party came upon a town in urgent need of help, and decided to leave their tunnel digging for later. In this case, the Attrition Scene should be paused. As a table, determine how many successes, if any, to reset based on the power and ability of their enemies and the time taken for the diversion.
+For example, suppose the party is digging a tunnel under some enemy fortifications, but are having difficulty making progress.
+The party may decide to go find an ally to help dig the fortifications.
+The process of finding and making a deal with this NPC should be added to the current Attrition Scene, since it is working towards the same goal, but with a different method.
+Suppose instead that the party came upon a town in urgent need of help, and decided to leave their tunnel digging for later.
+In this case, the Attrition Scene should be paused.
+As a table, determine how many successes, if any, to reset based on the power and ability of their enemies and the time taken for the diversion.
 
 </div>

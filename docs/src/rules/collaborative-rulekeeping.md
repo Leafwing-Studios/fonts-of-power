@@ -1,6 +1,7 @@
 # Collaborative Rulekeeping
 
-In _Fonts of Power,_ **everyone plays within the framework of the rules of the game on the same terms.** Adjudicating rules, and making any changes to them, is the responsibility of the table as a whole, as is the interpersonal burden of resolving conflicts and actually running the game.
+In _Fonts of Power,_ **everyone plays within the framework of the rules of the game on the same terms.**
+Adjudicating rules, and making any changes to them, is the responsibility of the table as a whole, as is the interpersonal burden of resolving conflicts and actually running the game.
 
 As a player, in contrast to other systems you might be familiar with, this gives you more freedom, but comes with added responsibility:
 
@@ -17,17 +18,17 @@ As a player, in contrast to other systems you might be familiar with, this gives
 - Be creative, and if you have an idea that you can’t find a home for, try to **homebrew** a balanced and interesting content or rules.
   - This system has lots of **hooks** for your mechanics, and balance guidelines and examples to go with them.
   - As a result, it’s much easier to safely and meaningfully hack than other systems you may be familiar with.
-  - Think about balance from the perspective of someone else at your table: would you be frustrated with a mechanic, concerned at its power level, or happy about the cool things it enables?
+  - Think about balance from the perspective of someone else at your table: would you be frustrated with a mechanic, concerned about its power level, or happy about the cool things it enables?
   - Talk to your table and get them on board before you throw in new homebrew content.
-  - For lots more advice, check out the _[Hacker’s Guide to Fonts of Power.](https://docs.google.com/document/d/1xEf2HRJ2-UwCwiutQgLcanuCgw-E6xJfRQWLfrBXHf4/edit)_.
 
-If you’re a worldspeaker reading this section and want more advice on how this works from your side of the table, check out the corresponding section in the _[Worldspeaker’s Guide to Fonts of Power.](https://docs.google.com/document/d/18WLBeS_Ei_BJYZnBafG6rWf7xODPFDSz8RQV2iA3WCU/edit#heading=h.49ykof8w292g)_
+If you’re a worldspeaker reading this section and want more advice on how this works from your side of the table, check out the corresponding section in the [_Worldspeaker’s Guide to Fonts of Power_](https://docs.google.com/document/d/18WLBeS_Ei_BJYZnBafG6rWf7xODPFDSz8RQV2iA3WCU/edit#heading=h.49ykof8w292g).
 
 ## Guidelines for Rules
 
 While playing the game, try to make fast, simple and approximate rulings that prioritize getting the game moving without feeling unfair or breaking immersion. Playing the game and telling your stories is more important than getting the rules right, at least until it becomes a recurring issue or is a clear exploit.
 
-_Fonts of Power_ is equipped with a robust design and balance framework, with the specific intent of allowing players and worldspeakers to create new content that matches their fantasies without requiring expert skill or repeated iteration to get a workable approximation of what they’d imagined. Making changes to the features of a class, species or affix (or inventing new ones entirely), or changing the details of how specific rules work can be proposed by anyone at the table. The Guide to Hacking Fonts of Power book goes into this in substantially more detail, and is an excellent resource for players and worldspeakers looking to move past the content that is officially published.
+_Fonts of Power_ is equipped with a robust design and balance framework, with the specific intent of allowing players and worldspeakers to create new content that matches their fantasies without requiring expert skill or repeated iteration to get a workable approximation of what they’d imagined. Making changes to the features of a class, species or affix (or inventing new ones entirely), or changing the details of how specific rules work can be proposed by anyone at the table.
+The _Hacker's Guide to Fonts of Power_ book goes into this in substantially more detail, and is an excellent resource for players and worldspeakers looking to move past the content that is officially published.
 
 When dealing with details of plot, be careful when changing details that have already been described (or bending rules for narrative reasons). Communicate what’s changing in order to get buy-in from the rest of the table, in order to make sure that the stories can be kept straight and ensure that the world feels consistent and reasonable.
 

@@ -1,7 +1,7 @@
 # Introduction
 
 _Fonts of Power_ is a d20 tabletop roleplaying game system, designed to capture the wonder of exploring magical places.
-Teeming with magic, the titular **fonts of power** have three defining characteristics: they are **dangerous, interesting,** and **magical.**
+Teeming with magic, **fonts of power** have three defining characteristics: they are **dangerous**, **interesting**, and **magical.**
 
 As a **player** in _Fonts of Power,_ you will delve deep into these fonts as you seek your fortune, fight for your ideals, win allies, and learn more about the wonderous world in front of you.
 

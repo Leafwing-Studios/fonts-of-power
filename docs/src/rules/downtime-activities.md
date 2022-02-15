@@ -9,7 +9,9 @@ Downtime activities provide excellent opportunities to develop or reveal charact
 **Extended periods of rest**
 
 If the party is resting for an extended period in a safe location, such as while they are in town, they may continue selecting downtime activities for each rest before they return to adventuring.
-If the number of rests is unclear, we recommend taking two downtime activities for the extended period of rest. For extended rests of this nature, we recommend performing small scenes, either based on the downtime activities themselves, or separate scenes in-between rests. These scenes help to break up the monotony of numerous downtimes, and keep the world from feeling stagnant.
+If the number of rests is unclear, we recommend taking two downtime activities for the extended period of rest.
+For extended rests of this nature, we recommend roleplaying small scenes, either based on the downtime activities themselves, or separate scenes in-between rests.
+These scenes help to break up the monotony of numerous downtimes, and keep the world from feeling stagnant.
 
 If the party is taking an extended rest in a dangerous area, such as an aggressive font of power, remember that each rest triggers a one success attrition scene as the party risks consequences from the nearby threat.
 
@@ -36,7 +38,8 @@ The danger level of an area affects the following:
 
 ## Bond
 
-Grow closer to another party member, improving your cooperation. Both party members must select this downtime activity in order to gain its benefits.
+Grow closer to another party member, improving your cooperation.
+Both party members must select this downtime activity in order to gain its benefits.
 
 Until you next complete a rest:
 
@@ -220,7 +223,9 @@ If you fail, you disappear as your spirit slips away forever.
 
 As a downtime activity, your allies can attempt to **Resurrect** you.
 In order to use the Resurrect downtime activity, they must be in the area with the highest danger level of the font that absorbed you.
-Additionally, they must have an adequate **vessel**, as described in the table below. They then must succeed on three separate skill checks, with a difficulty of 10 + your transcendence. These skill checks always use Focus, but the skill used (and the species you reincarnate as) varies based on the vessel used.
+Additionally, they must have an adequate **vessel**, as described in the table below.
+They then must succeed on three separate skill checks, with a difficulty of 10 + your transcendence.
+These skill checks always use Focus, but the skill used (and the species you reincarnate as) varies based on the vessel used.
 
 **Resurrection Options**
 
@@ -242,9 +247,12 @@ Additionally, they must have an adequate **vessel**, as described in the table b
 **Resurrection Example**
 
 Consider the scenario where 4 party members are attempting to resurrect a dead ally.
-Firstly, the party must acquire a vessel and journey into the most dangerous part of the font. They choose to use the original body, but they take two days to travel to the font's center, fighting progressively tougher monsters on the way.
+Firstly, the party must acquire a vessel and journey into the most dangerous part of the font.
+They choose to use the original body, but they take two days to travel to the font's center, fighting progressively tougher monsters on the way.
 
-Finally, they reach the center of the font, which is a danger level of 3. When the party arrives, their ally has 2 transcendence. They have a focus score of 2, so do not risk burning away until they reach 9 transcendence (7 + 2 = 9).
+Finally, they reach the center of the font, which is a danger level of 3.
+When the party arrives, their ally has 2 transcendence.
+They have a focus score of 2, so do not risk burning away until they reach 9 transcendence (7 + 2 = 9).
 
 The party immediately starts getting to work resurrecting their ally.
 They decide to all take the Resurrect downtime activity, for a total of 4 attempts. Because of the current transcendence and the chosen vessel, they all roll Focus (Medicine) against a difficulty of 12. After rolling, there are 2 successes and 2 failures. The two failures increase the target's transcendence to 4.
@@ -288,4 +296,6 @@ Characters who you assist in this way can use any of the recipes that you know a
 
 ## Tend
 
-Attempt to tend to illnesses and fatigue. Make a Focus (Medicine) skill check, attempting to speed the healing of some of your allies. The number of characters you help in this way is equal to your skill check result divided by 10, rounded down. Creatures that you help, gain the benefit of the Recover downtime activity.
+Attempt to tend to illnesses and fatigue.
+Make a Focus (Medicine) skill check, attempting to speed the healing of some of your allies.
+The number of characters you help in this way is equal to your skill check result divided by 10, rounded down. Creatures that you help, gain the benefit of the Recover downtime activity.

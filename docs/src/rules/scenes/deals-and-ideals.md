@@ -58,7 +58,7 @@ Many deals have moral factors that weigh both for and against them.
 For example, you may be attempting to convince a local miner to give you explosives that you can use to destroy the machinery that belongs to the oppressive owner of the mine who’s forcing orphans to work for him.
 This would be a moral benefit from the perspective of Equality and Liberty, but a moral harm from the perspective of Harmony and Progress.
 
-Suppose that the miner’s ideals are [4,3,2,1,0] in the standard alphabetical order.
+Suppose that the miner’s ideals are \[4,3,2,1,0\] in the standard alphabetical order.
 The value of 4 in Equality is higher than his value of 1 in Liberty, so we add 4 to the morality of the deal.
 However, he has a value of 3 in Harmony (which is higher than his value of 1 in Progress), so we subtract 3 from the morality of the deal. The final morality assessment is thus 1, reflecting his mixed feelings about the righteousness of the plan.
 
@@ -70,11 +70,11 @@ Of course, the deal you propose doesn't have to be *entirely* truthful.
 You may attempt to lie to the reactive party, evaluating your success based on the results of your Presence (Charm) skill check.
 The difficulty of this skill check depends on how serious of a lie you are making:
 
-- 10: You are lying about your motivations.
-- 15: You are lying about a small detail.
-- 20: You are lying about or omitting an important fact.
-- 25: Your story bears no resemblance to the underlying truth.
-- 30: The story is entirely unbelievable.
+- **10:** You are lying about your motivations.
+- **15:** You are lying about a small detail.
+- **20:** You are lying about or omitting an important fact.
+- **25:** Your story bears no resemblance to the underlying truth.
+- **30:** The story is entirely unbelievable.
 
 If you fail, the other party senses something is off and walks away from the deal.
 If you fail by 5 or more, the party is certain that you are lying and walks away from the deal.

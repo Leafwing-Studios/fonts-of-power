@@ -21,7 +21,8 @@ Risky skill checks might include:
 - Looking for incriminating documents on a bureaucrat's desk using Focus (Perception)
 - Grilling a noble for information at a party with Focus (Insight)
 
-While you’re pulling off your plan, your allies can help out by creating **distractions.** Resolve distractions by making an opposed skill check, with the attributes and skills in question set according to the details of the distractions:
+While you’re pulling off your plan, your allies can help out by creating **distractions.**
+Resolve distractions by making an opposed skill check, with the attributes and skills in question set according to the details of the distractions:
 
 - **Success:** Reduce suspicion once.
 - **Failure:** The guards Scan for you, making an opposed skill check. Increase suspicion once if they succeed.
