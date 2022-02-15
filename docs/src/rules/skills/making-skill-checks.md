@@ -148,7 +148,7 @@ If the table agrees that a circumstance changes the difficulty of a task meaning
 
 If you are making a skill check with **advantage,** roll two d20s and select the higher one. If you are making a skill check with **disadvantage,** roll two d20s and select the lower one.
 
-Advantage and disadvantage cancel each other out on a one*to*one basis in Fonts of Power. If you have sources of both advantage and disadvantage, compare the number of sources:
+Advantage and disadvantage cancel each other out on a one_to_one basis in Fonts of Power. If you have sources of both advantage and disadvantage, compare the number of sources:
 
 * If the number of sources of advantage is greater than the number of sources of disadvantage, you have advantage on the roll
 * If it is lower you have disadvantage

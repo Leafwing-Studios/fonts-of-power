@@ -111,7 +111,7 @@ Safely travelling up or down an abrupt edge takes one additional tile of movemen
 Creatures that are flying must spend one additional tile of movement for every two tiers of height changed beyond the first.
 Changing height tiers does not affect the distance that can be travelled via teleportation directly, but see the standard rules for how ranges are measured across height tiers.
 
-Forced movement cannot move creatures *up* across abrupt edges, but can move creatures *down* abrupt edges, typically causing **falling damage**:
+Forced movement cannot move creatures _up_ across abrupt edges, but can move creatures _down_ abrupt edges, typically causing **falling damage**:
 
 1. Falling deals 2d6 base physical damage for each height tier that the creature fell, measured from the start of the movement to the end of it.
 2. The creature that fell makes a Agility (Athletics) skill check to attempt to land gracefully.

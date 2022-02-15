@@ -35,7 +35,7 @@ This creates an uneasy tension between the living and undead: once beloved parts
 
 </div>
 
-### Features 
+## Features
 
 **Undying:** You have advantage on all skill checks made to maintain your concentration while at death’s door.
 

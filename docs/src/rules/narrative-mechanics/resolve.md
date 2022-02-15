@@ -6,7 +6,8 @@ We use **Resolve** as a powerful reward for this behavior, which represents the 
 
 - taking on a difficult task
   - helping a group of strangers in need
-  - pressing on to stop an evil plot even while their resources are running low \* hunting a dangerous monster for the sake of glory and treasure
+  - pressing on to stop an evil plot even while their resources are running low
+  - hunting a dangerous monster for the sake of glory and treasure
 - making personal sacrifices to follow your ideals
   - letting a villain escape to save innocents
   - donating a powerful magical item to a greater cause

@@ -66,7 +66,7 @@ It's harder to win the trust of your enemies: add their current loyalty to your 
 ## Craft
 
 Attempt to fashion something useful from the materials you have.
-Make an Expertise (Tinkering) skill check. For every 5 points of the skill check result, you may make a *prepared for anything* check to attempt to create an item of your choice.
+Make an Expertise (Tinkering) skill check. For every 5 points of the skill check result, you may make a _prepared for anything_ check to attempt to create an item of your choice.
 
 The plausibility of these checks is increased by 1.
 
