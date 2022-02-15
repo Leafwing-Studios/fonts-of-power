@@ -60,25 +60,32 @@ Finally, you may spend any remaining tiles of movement.
 
 ### Grapple (2 AP)
 
-Make a melee special attack against Agility against another creature within a one tile range. If you hit, they gain the [grappled](../../conditions/statuses.md?id=grappled) status, and you gain the [grappling](../../conditions/statuses.md?id=grappling) status.
+Make a melee special attack against Agility against another creature within a one tile range.
+If you hit, they gain the [grappled](../../conditions/statuses.md?id=grappled) status, and you gain the [grappling](../../conditions/statuses.md?id=grappling) status.
 
-You have disadvantage on Grapple attacks made against creatures smaller than a quarter of your size (in tiles). You cannot make Grapple attacks against creatures that are more than four times your size. You cannot make Grapple attacks while you have the grappled or grappling status.
+You have disadvantage on Grapple attacks made against creatures smaller than a quarter of your size (in tiles).
+You cannot make Grapple attacks against creatures that are more than four times your size.
+You cannot make Grapple attacks while you have the grappled or grappling status.
 
-You have disadvantage on melee Grapple attacks against creatures who have the high ground. You have advantage on Grapple attacks against creatures who are prone.
+You have disadvantage on melee Grapple attacks against creatures who have the high ground.
+You have advantage on Grapple attacks against creatures who are prone.
 
 ### Reverse Grapple (2 AP)
 
-Gain the benefits of the Break Grapple action to free yourself from a grapple. If you succeed, you may move into an adjacent tile, then immediately make a Grapple attack against the creature that was grappling you.
+Gain the benefits of the Break Grapple action to free yourself from a grapple.
+If you succeed, you may move into an adjacent tile, then immediately make a Grapple attack against the creature that was grappling you.
 
 ### Strike (2 AP)
 
-Strike at your target with your currently equipped set of arms. Make a basic attack against a creature or object within range of your current arms.
+Strike at your target with your currently equipped set of arms.
+Make a basic attack against a creature or object within range of your current arms.
 
 By default, the damage dealt by basic attacks is 1d8 + Prowess.
 
 ### Shove (1 AP)
 
-Make a melee special attack against Prowess against a creature within your zone of control. If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
+Make a melee special attack against Prowess against a creature within your zone of control.
+If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
 
 Melee Shove attacks have advantage if you have the high ground, and disadvantage if they have the high ground.
 
@@ -151,7 +158,8 @@ Gain 3 stacks of exhaustion, reduced by 1 for every 10 points of your skill chec
 
 ### Hide (1 AP)
 
-If your tile is a **hiding spot**, make a difficulty 10 Agility (Stealth) skill check. If you succeed, gain the [hidden](../../conditions/statuses.md#hidden) status.
+If your tile is a **hiding spot**, make a difficulty 10 Agility (Stealth) skill check.
+If you succeed, gain the [hidden](../../conditions/statuses.md#hidden) status.
 
 A tile is a hiding spot if at least two of the following conditions are true:
 
@@ -178,7 +186,8 @@ You lose the hidden status when:
 
 ### Interact (1 AP)
 
-Interact with an object in your environment. You might pull a lever, quickly slash a rope, kick down a door, throw a torch or so on.
+Interact with an object in your environment.
+You might pull a lever, quickly slash a rope, kick down a door, throw a torch or so on.
 
 Objects in their environment have their own rules for what using Interact on them does.
 This can be discovered by using Scan.

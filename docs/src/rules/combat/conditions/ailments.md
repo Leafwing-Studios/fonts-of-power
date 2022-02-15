@@ -72,7 +72,9 @@ You cannot use movement actions.
 
 ## Taunted
 
-Your offensive actions must target the creature that applied this ailment to you. You must take attacks of opportunity against that creature if able. If a different source applies taunted to you, the object of your ire changes to the most recent source.
+Your offensive actions must target the creature that applied this ailment to you.
+You must take attacks of opportunity against that creature if able.
+If a different source applies taunted to you, the object of your ire changes to the most recent source.
 
 ## Unlucky
 
