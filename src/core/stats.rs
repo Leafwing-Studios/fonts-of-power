@@ -16,11 +16,35 @@ pub enum Attribute {
 
 #[derive(Component, Clone, Debug)]
 pub struct Attributes {
-    prowess: isize,
-    agility: isize,
-    expertise: isize,
-    focus: isize,
-    presence: isize,
+    values: [usize; 5],
+}
+
+impl Attributes {
+    pub fn get(&self, attribute: Attribute) -> usize {
+        match attribute {
+            Attribute::Prowess => self.prowess(),
+            Attribute::Agility => self.agility(),
+            Attribute::Expertise => self.expertise(),
+            Attribute::Focus => self.focus(),
+            Attribute::Presence => self.presence(),
+        }
+    }
+
+    pub fn prowess(&self) -> usize {
+        self.values[0]
+    }
+    pub fn agility(&self) -> usize {
+        self.values[1]
+    }
+    pub fn expertise(&self) -> usize {
+        self.values[2]
+    }
+    pub fn focus(&self) -> usize {
+        self.values[3]
+    }
+    pub fn presence(&self) -> usize {
+        self.values[4]
+    }
 }
 
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
@@ -34,11 +58,35 @@ pub enum Ideal {
 
 #[derive(Component, Clone, Debug)]
 pub struct Ideals {
-    equality: isize,
-    harmony: isize,
-    liberty: isize,
-    progress: isize,
-    sanctity: isize,
+    values: [usize; 5],
+}
+
+impl Ideals {
+    pub fn get(&self, ideal: Ideal) -> usize {
+        match ideal {
+            Ideal::Equality => self.equality(),
+            Ideal::Harmony => self.harmony(),
+            Ideal::Liberty => self.liberty(),
+            Ideal::Progress => self.progress(),
+            Ideal::Sanctity => self.sanctity(),
+        }
+    }
+
+    pub fn equality(&self) -> usize {
+        self.values[0]
+    }
+    pub fn harmony(&self) -> usize {
+        self.values[1]
+    }
+    pub fn liberty(&self) -> usize {
+        self.values[2]
+    }
+    pub fn progress(&self) -> usize {
+        self.values[3]
+    }
+    pub fn sanctity(&self) -> usize {
+        self.values[4]
+    }
 }
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
