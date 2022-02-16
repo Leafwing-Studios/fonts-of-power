@@ -3,7 +3,6 @@ use bevy::prelude::Entity;
 use std::collections::HashSet;
 
 /// Component that tracks the items in the inventory
-#[allow(dead_code)]
 pub struct Inventory(HashSet<Entity>);
 
 /// Number of essence crystals

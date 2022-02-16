@@ -5,7 +5,6 @@ use std::collections::HashMap;
 use std::ops::Mul;
 
 #[non_exhaustive]
-#[allow(dead_code)]
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub enum Affliction {
     Aflame,
@@ -18,7 +17,6 @@ pub enum Affliction {
     Unstable,
 }
 
-#[allow(dead_code)]
 #[derive(Component, Clone, Debug)]
 pub struct Afflictions {
     map: HashMap<Affliction, u16>,
@@ -38,7 +36,6 @@ impl Mul<Efficacy> for Afflictions {
 }
 
 #[non_exhaustive]
-#[allow(dead_code)]
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub enum Ailment {
     Aloft,
@@ -57,7 +54,6 @@ pub enum Ailment {
     Withered,
 }
 
-#[allow(dead_code)]
 #[derive(Component, Clone, Debug)]
 pub struct Ailments {
     map: HashMap<Ailment, u16>,

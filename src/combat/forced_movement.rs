@@ -4,7 +4,6 @@ use bevy::prelude::Component;
 use std::fmt::Debug;
 use std::ops::Mul;
 
-#[allow(dead_code)]
 #[derive(Component, Clone, Debug, Hash, PartialEq, Eq)]
 pub enum ForcedMovement {
     Push {

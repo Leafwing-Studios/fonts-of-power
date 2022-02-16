@@ -50,7 +50,6 @@ pub struct Defender(Entity);
 #[derive(Component, Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
 pub struct AttackRoll(Roll);
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq)]
-#[allow(dead_code)]
 pub enum AttackType {
     Basic,
     Special(Attribute),

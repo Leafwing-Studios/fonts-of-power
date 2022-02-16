@@ -156,7 +156,6 @@ impl Plugin for AttackPlugin {
 pub struct Active;
 
 /// Objects that can be interacted with in combat
-#[allow(dead_code)]
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub enum ObjectKind {
     Creature,

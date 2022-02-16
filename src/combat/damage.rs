@@ -50,7 +50,6 @@ impl Mul<Efficacy> for DamageRoll {
     }
 }
 
-#[allow(dead_code)]
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
 #[non_exhaustive]
 pub enum Element {
@@ -67,7 +66,6 @@ pub enum Element {
     Corrosive,
 }
 
-#[allow(dead_code)]
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
 pub enum ResistanceLevel {
     Vulnerable,
@@ -98,7 +96,6 @@ impl ResistanceLevel {
         }
     }
 }
-#[allow(dead_code)]
 #[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct Resistances(HashMap<Element, ResistanceLevel>);
 
@@ -110,7 +107,6 @@ impl Resistances {
         }
     }
 }
-#[allow(dead_code)]
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub enum DamageType {
     Pure(Element),
@@ -137,7 +133,6 @@ pub fn apply_resistances(
     }
 }
 
-#[allow(dead_code)]
 #[derive(Clone)]
 pub struct LifeLost {
     defender: Defender,

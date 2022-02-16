@@ -1,7 +1,6 @@
 use crate::core::dice::Roll;
 use crate::core::stats::Attribute;
 
-#[allow(dead_code)]
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
 pub enum Skill {
     Anima,
@@ -19,7 +18,6 @@ pub enum Skill {
     Trickery,
 }
 
-#[allow(dead_code)]
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
 pub enum SkillCheckOutcome {
     Failure,
@@ -27,7 +25,8 @@ pub enum SkillCheckOutcome {
     Success,
     SmashingSuccess,
 }
-#[allow(dead_code)]
+
+#[derive(Clone, Copy, Debug, PartialEq, Component)]
 pub struct SkillCheck {
     attribute: Attribute,
     skill: Skill,
@@ -39,7 +38,6 @@ pub struct SkillCheck {
 }
 
 impl SkillCheck {
-    #[allow(dead_code)]
     pub fn roll(&self) -> SkillCheckOutcome {
         self.actor_roll.unwrap().roll();
 

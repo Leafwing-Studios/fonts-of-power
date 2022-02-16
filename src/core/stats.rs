@@ -7,7 +7,6 @@ use std::collections::HashSet;
 use std::ops::Mul;
 
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
-#[allow(dead_code)]
 pub enum Attribute {
     Prowess,
     Agility,
@@ -20,7 +19,6 @@ pub enum Attribute {
 pub struct AttributeVal(i8);
 
 #[derive(Component, Clone, Debug)]
-#[allow(dead_code)]
 pub struct Attributes {
     prowess: AttributeVal,
     agility: AttributeVal,
@@ -29,7 +27,6 @@ pub struct Attributes {
     presence: AttributeVal,
 }
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
-#[allow(dead_code)]
 pub enum Ideal {
     Equality,
     Harmony,
@@ -42,7 +39,6 @@ pub enum Ideal {
 pub struct IdealVal(i8);
 
 #[derive(Component, Clone, Debug)]
-#[allow(dead_code)]
 pub struct Ideals {
     equality: IdealVal,
     harmony: IdealVal,

@@ -16,7 +16,6 @@ pub trait AffixLabel: 'static + Send + Sync {
     fn affix_category(&self) -> AffixCategory;
 }
 
-#[allow(dead_code)]
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub enum AffixCategory {
     Arms,
@@ -30,14 +29,12 @@ pub enum AffixCategory {
 /// This is a sane alternative to a scripting system, as queries are cached.
 /// All affixes must be collected, combined and verified
 /// against the AffixLabel's max_replicates before being added as a component.
-#[allow(dead_code)]
 #[derive(Clone, Debug, PartialEq, Eq)]
 struct Affix<T: AffixLabel> {
     phantom: PhantomData<T>,
     pub replicates: u8,
 }
 
-#[allow(dead_code)]
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
 pub enum FeatureCategory {
     Class,
@@ -48,7 +45,6 @@ pub enum FeatureCategory {
 
 /// Features are special affix-like abilities that are granted by non-gear sources
 /// They are converted into Affix<T> before being used by the game.
-#[allow(dead_code)]
 #[derive(Clone, Debug, PartialEq, Eq)]
 struct Feature<T: AffixLabel> {
     phantom: PhantomData<T>,
@@ -65,7 +61,6 @@ impl<T: AffixLabel> From<Feature<T>> for Affix<T> {
     }
 }
 
-#[allow(dead_code)]
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
 #[non_exhaustive]
 pub enum AffixTag {

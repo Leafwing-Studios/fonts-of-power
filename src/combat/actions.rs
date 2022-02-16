@@ -45,7 +45,6 @@ pub struct Action {
 pub struct ActionChoices(Vec<Entity>);
 
 #[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
 pub enum ActionSpeed {
     Movement,
     Major,
@@ -57,18 +56,15 @@ pub enum ActionSpeed {
 pub struct Actor(Entity);
 
 #[derive(Component, Clone, Debug, PartialEq, Eq)]
-#[allow(dead_code)]
 pub struct ValidTargets(HashSet<ObjectKind>);
 
 #[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
 pub enum TargetArity {
     Single,
     Multi,
 }
 
 #[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
-#[allow(dead_code)]
 pub enum RangeCategory {
     Melee,
     Ranged,
@@ -78,7 +74,6 @@ pub enum RangeCategory {
 pub struct Range(Distance);
 
 #[derive(Component, Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
-#[allow(dead_code)]
 pub struct AreaOfEffect(Shape);
 
 #[derive(Component, Clone, Debug, Deref, DerefMut, PartialEq, Eq)]

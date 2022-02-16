@@ -4,7 +4,6 @@ use rand::Rng;
 use std::cmp::{max, min};
 use std::convert::TryFrom;
 
-#[allow(dead_code)]
 #[derive(Clone, Copy, Debug, Hash, Eq, PartialEq)]
 pub enum Advantage {
     Disadvantage,
