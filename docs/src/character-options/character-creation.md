@@ -97,9 +97,12 @@ As you play the game with your party and discover who your character is, try to 
 
 ### Backstory
 
-Every character in the game has a past, events and connections and ideals from before the game begins to tell their story that influences their behavior and ties them to the world. As you work out their backstory, take notes on the ideas you come up with to share with the worldspeaker and other players in the game. Feel free to leave your backstory fairly vague, and fill in the details as the story of your campaign unfolds.
+Every character in the game has a past, events and connections and ideals from before the game begins to tell their story that influences their behavior and ties them to the world. As you work out their backstory, take notes on the ideas you come up with to share with the worldspeaker and other players in the game.
+Feel free to leave your backstory fairly vague, and fill in the details as the story of your campaign unfolds.
 
-Begin by working with your worldspeaker and the other players in your party to determine how everyone met, and what ties them together even in the face of danger and hardship. Several reasonable starting points are listed in the table below, with the tables beneath that expanding on those options. If you’re not sure what sort of campaign you’d like to play, the answer to this question can be a great place to start.
+Begin by working with your worldspeaker and the other players in your party to determine how everyone met, and what ties them together even in the face of danger and hardship.
+Several reasonable starting points are listed in the table below, with the tables beneath that expanding on those options.
+If you’re not sure what sort of campaign you’d like to play, the answer to this question can be a great place to start.
 
 | Roll | What brings the party together?    |
 | ---- | ---------------------------------- |
@@ -164,7 +167,8 @@ Begin by working with your worldspeaker and the other players in your party to d
 | 5    | We were caught in a magical disaster.             |
 | 6    | We found ourselves tasked to do the same thing.   |
 
-With the party’s purpose established, each species and class has tables that pose a number of questions that relate to the fundamental identity and dilemmas posed by your character’s species and class. These can be excellent prompts for forming a high-level picture of the type of story you want your character to have.
+With the party’s purpose established, each species and class has tables that pose a number of questions that relate to the fundamental identity and dilemmas posed by your character’s species and class.
+These can be excellent prompts for forming a high-level picture of the type of story you want your character to have.
 
 From there, think about what their life before adventuring was like.
 

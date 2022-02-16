@@ -1,6 +1,8 @@
 {
-	"MD013": false,
-	"MD024": false,
-	"MD033": false,
-	"MD036": false
+	"line-length": {
+		"line_length": 400
+	},
+	"no-duplicate-header": false,
+	"no-inline-html": false,
+	"no-emphasis-as-header": false
 }

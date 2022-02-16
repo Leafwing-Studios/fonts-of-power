@@ -25,9 +25,11 @@ If you’re a worldspeaker reading this section and want more advice on how this
 
 ## Guidelines for Rules
 
-While playing the game, try to make fast, simple and approximate rulings that prioritize getting the game moving without feeling unfair or breaking immersion. Playing the game and telling your stories is more important than getting the rules right, at least until it becomes a recurring issue or is a clear exploit.
+While playing the game, try to make fast, simple and approximate rulings that prioritize getting the game moving without feeling unfair or breaking immersion.
+Playing the game and telling your stories is more important than getting the rules right, at least until it becomes a recurring issue or is a clear exploit.
 
-_Fonts of Power_ is equipped with a robust design and balance framework, with the specific intent of allowing players and worldspeakers to create new content that matches their fantasies without requiring expert skill or repeated iteration to get a workable approximation of what they’d imagined. Making changes to the features of a class, species or affix (or inventing new ones entirely), or changing the details of how specific rules work can be proposed by anyone at the table.
+_Fonts of Power_ is equipped with a robust design and balance framework, with the specific intent of allowing players and worldspeakers to create new content that matches their fantasies without requiring expert skill or repeated iteration to get a workable approximation of what they’d imagined.
+Making changes to the features of a class, species or affix (or inventing new ones entirely), or changing the details of how specific rules work can be proposed by anyone at the table.
 The _Hacker's Guide to Fonts of Power_ book goes into this in substantially more detail, and is an excellent resource for players and worldspeakers looking to move past the content that is officially published.
 
 When dealing with details of plot, be careful when changing details that have already been described (or bending rules for narrative reasons). Communicate what’s changing in order to get buy-in from the rest of the table, in order to make sure that the stories can be kept straight and ensure that the world feels consistent and reasonable.
