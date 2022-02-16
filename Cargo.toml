@@ -14,6 +14,7 @@ bevy = "0.6"
 rand = "0.8.3"
 derive_more = "0.99.11"
 num-rational = "0.3"
+bounded-integer = {version = "0.5", feature = "types"}
 
 [profile.dev]
 opt-level = 3
@@ -23,14 +24,6 @@ members = ["./", "tools/ci"]
 
 [dev-dependencies]
 criterion = "0.3"
-
-[lib]
-name = "template_lib"
-path = "src/lib.rs"
-
-[[bin]]
-name = "template_bin"
-path = "src/main.rs"
 
 [[bench]]
 name = "entity_spawning"

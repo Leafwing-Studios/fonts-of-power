@@ -1,6 +1,7 @@
 use crate::combat::attack::Efficacy;
 use crate::core::skills::Skill;
 use bevy::prelude::Component;
+use bounded_integer::{BoundedI8, BoundedU8};
 use num_rational::Ratio;
 use std::collections::HashSet;
 use std::ops::Mul;
@@ -16,11 +17,11 @@ pub enum Attribute {
 
 #[derive(Component, Clone, Debug)]
 pub struct Attributes {
-    values: [usize; 5],
+    values: [BoundedI8<-5, 5>; 5],
 }
 
 impl Attributes {
-    pub fn get(&self, attribute: Attribute) -> usize {
+    pub fn get(&self, attribute: Attribute) -> BoundedI8<-5, 5> {
         match attribute {
             Attribute::Prowess => self.prowess(),
             Attribute::Agility => self.agility(),
@@ -30,19 +31,19 @@ impl Attributes {
         }
     }
 
-    pub fn prowess(&self) -> usize {
+    pub fn prowess(&self) -> BoundedI8<-5, 5> {
         self.values[0]
     }
-    pub fn agility(&self) -> usize {
+    pub fn agility(&self) -> BoundedI8<-5, 5> {
         self.values[1]
     }
-    pub fn expertise(&self) -> usize {
+    pub fn expertise(&self) -> BoundedI8<-5, 5> {
         self.values[2]
     }
-    pub fn focus(&self) -> usize {
+    pub fn focus(&self) -> BoundedI8<-5, 5> {
         self.values[3]
     }
-    pub fn presence(&self) -> usize {
+    pub fn presence(&self) -> BoundedI8<-5, 5> {
         self.values[4]
     }
 }
@@ -58,11 +59,11 @@ pub enum Ideal {
 
 #[derive(Component, Clone, Debug)]
 pub struct Ideals {
-    values: [usize; 5],
+    values: [BoundedI8<0, 5>; 5],
 }
 
 impl Ideals {
-    pub fn get(&self, ideal: Ideal) -> usize {
+    pub fn get(&self, ideal: Ideal) -> BoundedI8<0, 5> {
         match ideal {
             Ideal::Equality => self.equality(),
             Ideal::Harmony => self.harmony(),
@@ -72,19 +73,19 @@ impl Ideals {
         }
     }
 
-    pub fn equality(&self) -> usize {
+    pub fn equality(&self) -> BoundedI8<0, 5> {
         self.values[0]
     }
-    pub fn harmony(&self) -> usize {
+    pub fn harmony(&self) -> BoundedI8<0, 5> {
         self.values[1]
     }
-    pub fn liberty(&self) -> usize {
+    pub fn liberty(&self) -> BoundedI8<0, 5> {
         self.values[2]
     }
-    pub fn progress(&self) -> usize {
+    pub fn progress(&self) -> BoundedI8<0, 5> {
         self.values[3]
     }
-    pub fn sanctity(&self) -> usize {
+    pub fn sanctity(&self) -> BoundedI8<0, 5> {
         self.values[4]
     }
 }
@@ -134,5 +135,5 @@ pub struct Exhaustion {
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Level {
-    level: usize,
+    level: BoundedI8<0, 10>,
 }
