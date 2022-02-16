@@ -14,18 +14,10 @@ bevy = "0.6"
 rand = "0.8.3"
 derive_more = "0.99.11"
 num-rational = "0.3"
-bounded-integer = {version = "0.5", feature = "types"}
+bounded-integer = {version = "0.5", features = ["types"]}
 
 [profile.dev]
 opt-level = 3
 
 [workspace]
 members = ["./", "tools/ci"]
-
-[dev-dependencies]
-criterion = "0.3"
-
-[[bench]]
-name = "entity_spawning"
-path = "benches/entity_spawning.rs"
-harness = false
