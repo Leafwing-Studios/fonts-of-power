@@ -4,10 +4,10 @@ use crate::core::dice::Roll;
 use crate::core::stats::{Absorption, Life};
 use bevy::app::Events;
 use bevy::prelude::{Component, Query, ResMut, With};
+use bevy::utils::HashMap;
 use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 use std::cmp::max;
-use std::collections::HashMap;
 use std::ops::Mul;
 
 #[derive(Component, Clone, Debug, PartialEq, Eq, Deref, DerefMut)]

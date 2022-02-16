@@ -1,7 +1,7 @@
 use crate::combat::attack::Efficacy;
 use bevy::prelude::Component;
+use bevy::utils::HashMap;
 use num_rational::Ratio;
-use std::collections::HashMap;
 use std::ops::Mul;
 
 #[non_exhaustive]
