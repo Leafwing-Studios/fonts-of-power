@@ -58,12 +58,12 @@ pub enum AttackType {
 
 #[derive(Component, Copy, Clone, Debug)]
 pub struct AttackBonus {
-    basic: i32,
-    special: i32,
+    basic: isize,
+    special: isize,
 }
 
 impl AttackBonus {
-    pub fn get(self, attack_type: AttackType) -> Option<i32> {
+    pub fn get(self, attack_type: AttackType) -> Option<isize> {
         match attack_type {
             AttackType::Basic => Some(self.basic),
             AttackType::Special(_) => Some(self.special),
@@ -74,16 +74,16 @@ impl AttackBonus {
 
 #[derive(Component, Copy, Clone, Debug)]
 pub struct Defenses {
-    basic: i32,
-    prowess: i32,
-    agility: i32,
-    expertise: i32,
-    focus: i32,
-    presence: i32,
+    basic: isize,
+    prowess: isize,
+    agility: isize,
+    expertise: isize,
+    focus: isize,
+    presence: isize,
 }
 
 impl Defenses {
-    pub fn get(self, attack_type: AttackType) -> Option<i32> {
+    pub fn get(self, attack_type: AttackType) -> Option<isize> {
         match attack_type {
             AttackType::Basic => Some(self.basic),
             AttackType::Special(attr) => Some(self.special_defense(attr)),
@@ -91,7 +91,7 @@ impl Defenses {
         }
     }
 
-    pub fn special_defense(self, attr: Attribute) -> i32 {
+    pub fn special_defense(self, attr: Attribute) -> isize {
         match attr {
             Attribute::Prowess => self.prowess,
             Attribute::Agility => self.agility,
@@ -104,15 +104,15 @@ impl Defenses {
 
 #[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct Defense {
-    val: Option<i32>,
+    val: Option<isize>,
 }
 #[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct CritThreshold {
-    val: u8,
+    val: usize,
 }
 #[derive(Component, Clone, Copy, Debug, PartialEq, Eq)]
 pub struct Efficacy {
-    pub val: Ratio<u16>,
+    pub val: Ratio<usize>,
 }
 
 /// Gets the attack bonus for the roll
@@ -186,7 +186,7 @@ pub fn check_attacks(
         if attack_roll.result().unwrap() >= defense.val.unwrap() {
             commands.entity(attack_entity).insert(Landed);
 
-            if attack_roll.natural_roll().unwrap() as u8 >= crit_threshold.val {
+            if attack_roll.natural_roll().unwrap() >= crit_threshold.val as isize {
                 commands.entity(attack_entity).insert(Crit);
             }
         }

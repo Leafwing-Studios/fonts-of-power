@@ -1,5 +1,6 @@
 use crate::core::dice::Roll;
 use crate::core::stats::Attribute;
+use bevy::prelude::Component;
 
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
 pub enum Skill {
@@ -31,7 +32,7 @@ pub struct SkillCheck {
     attribute: Attribute,
     skill: Skill,
     actor_roll: Option<Roll>,
-    flat_difficulty: Option<i32>,
+    flat_difficulty: Option<isize>,
     opposed_roll: Option<Roll>,
     combat: bool,
     proficient: bool,

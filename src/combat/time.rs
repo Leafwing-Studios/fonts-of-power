@@ -8,7 +8,7 @@ pub enum Duration {
     StartOfYourNextTurn,
     EndOfYourNextTurn,
     Concentration,
-    Rounds(u8),
+    Rounds(usize),
 }
 
 #[derive(Copy, Clone, Hash, PartialEq, Eq)]

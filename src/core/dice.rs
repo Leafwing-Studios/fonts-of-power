@@ -1,4 +1,3 @@
-use bevy::math::i32;
 use bevy::prelude::Component;
 use rand::Rng;
 use std::cmp::{max, min};
@@ -23,10 +22,10 @@ pub enum DieSize {
     d100,
 }
 
-impl TryFrom<i8> for DieSize {
+impl TryFrom<isize> for DieSize {
     type Error = &'static str;
 
-    fn try_from(d: i8) -> Result<Self, Self::Error> {
+    fn try_from(d: isize) -> Result<Self, Self::Error> {
         match d {
             4 => Ok(DieSize::d4),
             6 => Ok(DieSize::d6),
@@ -42,19 +41,19 @@ impl TryFrom<i8> for DieSize {
 
 #[derive(Component, Clone, Copy, Debug, Hash, Eq, PartialEq)]
 pub struct Roll {
-    pub n: i32,
+    pub n: isize,
     pub d: DieSize,
     pub advantage: Advantage,
-    pub modifier: i32,
-    natural_roll: Option<i32>,
-    result: Option<i32>,
+    pub modifier: isize,
+    natural_roll: Option<isize>,
+    result: Option<isize>,
 }
 
 impl Roll {
-    fn roll_once(n: i32, d: DieSize) -> i32 {
+    fn roll_once(n: isize, d: DieSize) -> isize {
         let mut rng = rand::thread_rng();
 
-        (0..n).map(|_| rng.gen_range(1..=d as i32)).sum()
+        (0..n).map(|_| rng.gen_range(1..=d as isize)).sum()
     }
 
     pub fn roll(mut self) {
@@ -73,16 +72,16 @@ impl Roll {
         self.result = Some(self.natural_roll.unwrap() + self.modifier);
     }
 
-    pub fn natural_roll(self) -> Option<i32> {
+    pub fn natural_roll(self) -> Option<isize> {
         self.natural_roll
     }
 
-    pub fn result(self) -> Option<i32> {
+    pub fn result(self) -> Option<isize> {
         self.result
     }
 
     /// This should only be called when directly modifying a rolled result. Prefer Roll::roll()
-    pub fn set_result(mut self, new_result: i32) {
+    pub fn set_result(mut self, new_result: isize) {
         self.result = Some(new_result);
     }
 }

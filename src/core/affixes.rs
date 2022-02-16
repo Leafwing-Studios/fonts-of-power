@@ -9,9 +9,9 @@ pub trait AffixLabel: 'static + Send + Sync {
 
     fn description(&self) -> String;
 
-    fn max_replicates(&self) -> u8;
+    fn max_replicates(&self) -> usize;
 
-    fn gear_points(&self) -> Option<i8>;
+    fn gear_points(&self) -> Option<isize>;
 
     fn affix_category(&self) -> AffixCategory;
 }
@@ -32,7 +32,7 @@ pub enum AffixCategory {
 #[derive(Clone, Debug, PartialEq, Eq)]
 struct Affix<T: AffixLabel> {
     phantom: PhantomData<T>,
-    pub replicates: u8,
+    pub replicates: usize,
 }
 
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]

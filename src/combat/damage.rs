@@ -15,7 +15,7 @@ pub struct DamageRoll(Roll);
 
 impl DamageRoll {
     pub fn apply_resistances(&self, damage_type: &DamageType, resistances: &Resistances) {
-        let current_damage: Ratio<u16> = Ratio::from_integer(self.result().unwrap() as u16);
+        let current_damage: Ratio<usize> = Ratio::from_integer(self.result().unwrap() as usize);
         let new_damage = match damage_type {
             DamageType::Pure(e) => current_damage * resistances.get(e).damage_multiplier(),
             DamageType::Hybrid(e1, e2) => {
@@ -35,7 +35,7 @@ impl DamageRoll {
             }
         };
 
-        self.set_result(new_damage.round().to_integer() as i32);
+        self.set_result(new_damage.round().to_integer() as isize);
     }
 }
 
@@ -43,9 +43,9 @@ impl Mul<Efficacy> for DamageRoll {
     type Output = Self;
 
     fn mul(self, rhs: Efficacy) -> Self {
-        let lhs = Ratio::from_integer(self.result().unwrap() as u16);
+        let lhs = Ratio::from_integer(self.result().unwrap() as usize);
 
-        self.set_result((lhs * rhs.val).to_integer() as i32);
+        self.set_result((lhs * rhs.val).to_integer() as isize);
         self
     }
 }
@@ -87,7 +87,7 @@ impl Default for &ResistanceLevel {
 }
 
 impl ResistanceLevel {
-    pub fn damage_multiplier(self) -> Ratio<u16> {
+    pub fn damage_multiplier(self) -> Ratio<usize> {
         match self {
             Self::Vulnerable => Ratio::new(2, 1),
             Self::Normal => Ratio::new(1, 1),
@@ -146,7 +146,7 @@ pub fn apply_damage(
     for (damage, defender) in damage_query.iter() {
         let (mut life, mut absorption) = life_query.get_mut(**defender).unwrap();
 
-        let damage_dealt = damage.result().unwrap() as u16;
+        let damage_dealt = damage.result().unwrap() as usize;
 
         if absorption.val > damage_dealt {
             absorption.val -= damage_dealt;

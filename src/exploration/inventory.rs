@@ -7,7 +7,7 @@ pub struct Inventory(HashSet<Entity>);
 
 /// Number of essence crystals
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
-pub struct EssenceCrystals(i32);
+pub struct EssenceCrystals(isize);
 /// Marker component for key items
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
 pub struct KeyItem;

@@ -19,7 +19,7 @@ pub enum Affliction {
 
 #[derive(Component, Clone, Debug)]
 pub struct Afflictions {
-    map: HashMap<Affliction, u16>,
+    map: HashMap<Affliction, usize>,
 }
 
 impl Mul<Efficacy> for Afflictions {
@@ -28,7 +28,7 @@ impl Mul<Efficacy> for Afflictions {
     fn mul(mut self, rhs: Efficacy) -> Self {
         for (_k, v) in self.map.iter_mut() {
             let lhs = Ratio::from_integer(*v);
-            *v = (lhs * rhs.val).to_integer() as u16;
+            *v = (lhs * rhs.val).to_integer() as usize;
         }
 
         self
@@ -56,7 +56,7 @@ pub enum Ailment {
 
 #[derive(Component, Clone, Debug)]
 pub struct Ailments {
-    map: HashMap<Ailment, u16>,
+    map: HashMap<Ailment, usize>,
 }
 
 impl Mul<Efficacy> for Ailments {
@@ -65,7 +65,7 @@ impl Mul<Efficacy> for Ailments {
     fn mul(mut self, rhs: Efficacy) -> Self {
         for (_k, v) in self.map.iter_mut() {
             let lhs = Ratio::from_integer(*v);
-            *v = (lhs * rhs.val).to_integer() as u16;
+            *v = (lhs * rhs.val).to_integer() as usize;
         }
 
         self

@@ -5,7 +5,7 @@ use std::ops::Mul;
 
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
 pub struct Distance {
-    pub val: u32,
+    pub val: usize,
 }
 
 /// Used to scale forced movement effects with efficacy
@@ -14,21 +14,21 @@ impl Mul<Efficacy> for Distance {
 
     fn mul(self, rhs: Efficacy) -> Self {
         let mut new = self.clone();
-        let lhs = Ratio::from_integer(self.val as u16);
+        let lhs = Ratio::from_integer(self.val as usize);
 
-        new.val = (lhs * rhs.val).to_integer() as u32;
+        new.val = (lhs * rhs.val).to_integer() as usize;
         new
     }
 }
 
 #[derive(Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
-pub struct Area(u16);
+pub struct Area(usize);
 
 // TODO: Revise Position, Direction etc. to be traits, then make generic over Hex and Square
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
 pub enum Position {
-    GridPosition { x: i8, y: i8 },
-    HexPosition { alpha: i8, beta: i8 },
+    GridPosition { x: isize, y: isize },
+    HexPosition { alpha: isize, beta: isize },
 }
 
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]

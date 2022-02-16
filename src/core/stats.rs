@@ -16,7 +16,7 @@ pub enum Attribute {
 }
 
 #[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct AttributeVal(i8);
+pub struct AttributeVal(isize);
 
 #[derive(Component, Clone, Debug)]
 pub struct Attributes {
@@ -36,7 +36,7 @@ pub enum Ideal {
 }
 
 #[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct IdealVal(i8);
+pub struct IdealVal(isize);
 
 #[derive(Component, Clone, Debug)]
 pub struct Ideals {
@@ -49,7 +49,7 @@ pub struct Ideals {
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
 pub struct ProficiencyBonus {
-    val: i32,
+    val: isize,
 }
 
 #[derive(Component, Clone, Debug, Eq, PartialEq, Deref, DerefMut)]
@@ -59,13 +59,13 @@ pub struct SkillProficiencies {
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Life {
-    pub current: u16,
-    pub max: u16,
+    pub current: usize,
+    pub max: usize,
 }
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Absorption {
-    pub val: u16,
+    pub val: usize,
 }
 
 impl Mul<Efficacy> for Absorption {
@@ -75,18 +75,18 @@ impl Mul<Efficacy> for Absorption {
         let lhs = Ratio::from_integer(self.val);
 
         Absorption {
-            val: (lhs * rhs.val).to_integer() as u16,
+            val: (lhs * rhs.val).to_integer() as usize,
         }
     }
 }
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Essence {
-    pub current: u16,
-    pub max: u16,
+    pub current: usize,
+    pub max: usize,
 }
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Exhaustion(pub u16);
+pub struct Exhaustion(pub usize);
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Level(pub u8);
+pub struct Level(pub usize);
