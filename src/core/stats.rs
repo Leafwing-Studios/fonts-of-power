@@ -59,11 +59,11 @@ pub enum Ideal {
 
 #[derive(Component, Clone, Debug)]
 pub struct Ideals {
-    values: [BoundedI8<0, 5>; 5],
+    values: [BoundedU8<0, 5>; 5],
 }
 
 impl Ideals {
-    pub fn get(&self, ideal: Ideal) -> BoundedI8<0, 5> {
+    pub fn get(&self, ideal: Ideal) -> BoundedU8<0, 5> {
         match ideal {
             Ideal::Equality => self.equality(),
             Ideal::Harmony => self.harmony(),
@@ -73,19 +73,19 @@ impl Ideals {
         }
     }
 
-    pub fn equality(&self) -> BoundedI8<0, 5> {
+    pub fn equality(&self) -> BoundedU8<0, 5> {
         self.values[0]
     }
-    pub fn harmony(&self) -> BoundedI8<0, 5> {
+    pub fn harmony(&self) -> BoundedU8<0, 5> {
         self.values[1]
     }
-    pub fn liberty(&self) -> BoundedI8<0, 5> {
+    pub fn liberty(&self) -> BoundedU8<0, 5> {
         self.values[2]
     }
-    pub fn progress(&self) -> BoundedI8<0, 5> {
+    pub fn progress(&self) -> BoundedU8<0, 5> {
         self.values[3]
     }
-    pub fn sanctity(&self) -> BoundedI8<0, 5> {
+    pub fn sanctity(&self) -> BoundedU8<0, 5> {
         self.values[4]
     }
 }
@@ -135,5 +135,5 @@ pub struct Exhaustion {
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct Level {
-    level: BoundedI8<0, 10>,
+    level: BoundedU8<0, 10>,
 }
