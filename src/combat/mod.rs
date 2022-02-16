@@ -38,7 +38,7 @@ pub enum ActionSystem {
 
 use ActionSystem::*;
 
-pub struct ActionPlugin {}
+pub struct ActionPlugin;
 impl Plugin for ActionPlugin {
     fn build(&self, app: &mut App) {
         app.add_stage_before(
@@ -82,7 +82,7 @@ pub enum AttackSystem {
 
 use AttackSystem::*;
 
-pub struct AttackPlugin {}
+pub struct AttackPlugin;
 impl Plugin for AttackPlugin {
     fn build(&self, app: &mut App) {
         // Adding stages

@@ -6,7 +6,7 @@ pub mod stats;
 
 use bevy::app::{App, Plugin};
 
-pub struct CorePlugin {}
+pub struct CorePlugin;
 impl Plugin for CorePlugin {
     fn build(&self, _app: &mut App) {}
 }

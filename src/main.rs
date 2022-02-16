@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 use bevy::{app::App, ecs::schedule::ReportExecutionOrderAmbiguities, DefaultPlugins};
 mod character_options;
 mod combat;
@@ -15,10 +17,10 @@ fn main() {
     App::new()
         .insert_resource(ReportExecutionOrderAmbiguities)
         .add_plugins(DefaultPlugins)
-        .add_plugin(CorePlugin {})
-        .add_plugin(AttackPlugin {})
-        .add_plugin(ActionPlugin {})
-        .add_plugin(ExplorationPlugin {})
-        .add_plugin(CharacterOptionsPlugin {})
+        .add_plugin(CorePlugin)
+        .add_plugin(AttackPlugin)
+        .add_plugin(ActionPlugin)
+        .add_plugin(ExplorationPlugin)
+        .add_plugin(CharacterOptionsPlugin)
         .run();
 }
