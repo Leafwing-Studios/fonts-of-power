@@ -8,6 +8,7 @@ use crate::core::stats::{Absorption, Attribute};
 use bevy::prelude::Component;
 use bevy::prelude::{Commands, Entity, Query, With};
 use num_rational::Ratio;
+use std::ops::Mul;
 
 /// Fundamental component for Attack entities, which store the information about an attack's effects
 /// Attack entities should always have the following fields, typically derived from the action taken by the attacker:
@@ -80,16 +81,16 @@ impl AttackBonus {
 
 #[derive(Component, Copy, Clone, Debug)]
 pub struct Defenses {
-    basic: isize,
-    prowess: isize,
-    agility: isize,
-    expertise: isize,
-    focus: isize,
-    presence: isize,
+    basic: usize,
+    prowess: usize,
+    agility: usize,
+    expertise: usize,
+    focus: usize,
+    presence: usize,
 }
 
 impl Defenses {
-    pub fn get(self, attack_type: AttackType) -> Option<isize> {
+    pub fn get(self, attack_type: AttackType) -> Option<usize> {
         match attack_type {
             AttackType::Basic => Some(self.basic),
             AttackType::Special(attr) => Some(self.special_defense(attr)),
@@ -97,7 +98,7 @@ impl Defenses {
         }
     }
 
-    pub fn special_defense(self, attr: Attribute) -> isize {
+    pub fn special_defense(self, attr: Attribute) -> usize {
         match attr {
             Attribute::Prowess => self.prowess,
             Attribute::Agility => self.agility,
@@ -110,7 +111,7 @@ impl Defenses {
 
 #[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct Defense {
-    val: Option<isize>,
+    val: Option<usize>,
 }
 #[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct CritThreshold {
@@ -119,6 +120,15 @@ pub struct CritThreshold {
 #[derive(Component, Clone, Copy, Debug, PartialEq, Eq)]
 pub struct Efficacy {
     pub val: Ratio<usize>,
+}
+
+impl Mul<Efficacy> for usize {
+    type Output = usize;
+
+    fn mul(self, rhs: Efficacy) -> usize {
+        let ratio: Ratio<usize> = self.into();
+        (ratio * rhs.val).ceil().to_integer()
+    }
 }
 
 /// Gets the attack bonus for the roll
@@ -138,7 +148,7 @@ pub fn get_attack_bonuses(
 
 /// Rolls the attack
 pub fn roll_attacks(mut query: Query<&mut AttackRoll, With<Active>>) {
-    for attack_roll in query.iter_mut() {
+    for mut attack_roll in query.iter_mut() {
         attack_roll.roll.roll();
     }
 }
@@ -177,10 +187,10 @@ pub struct Crit;
 
 /// Each attack is checked to see if it landed
 pub fn check_attacks(
-    attacks: Query<(Entity, &Roll, &Defense, &CritThreshold), (With<Attack>, With<Active>)>,
+    mut attacks: Query<(Entity, &mut Roll, &Defense, &CritThreshold), (With<Attack>, With<Active>)>,
     mut commands: Commands,
 ) {
-    for (attack_entity, attack_roll, defense, crit_threshold) in attacks.iter() {
+    for (attack_entity, mut attack_roll, defense, crit_threshold) in attacks.iter_mut() {
         // Attacks where no Defense value is present always hit but never crit
         if defense.val.is_none() {
             commands.entity(attack_entity).insert(Landed);
@@ -189,10 +199,10 @@ pub fn check_attacks(
 
         attack_roll.roll();
 
-        if attack_roll.result().unwrap() >= defense.val.unwrap() {
+        if attack_roll.result.unwrap() >= defense.val.unwrap() {
             commands.entity(attack_entity).insert(Landed);
 
-            if attack_roll.natural_roll().unwrap() >= crit_threshold.val as isize {
+            if attack_roll.natural_roll.unwrap() >= crit_threshold.val {
                 commands.entity(attack_entity).insert(Crit);
             }
         }

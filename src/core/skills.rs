@@ -32,7 +32,7 @@ pub struct SkillCheck {
     attribute: Attribute,
     skill: Skill,
     actor_roll: Option<Roll>,
-    flat_difficulty: Option<isize>,
+    flat_difficulty: Option<usize>,
     opposed_roll: Option<Roll>,
     combat: bool,
     proficient: bool,
@@ -42,10 +42,10 @@ impl SkillCheck {
     pub fn roll(&self) -> SkillCheckOutcome {
         self.actor_roll.unwrap().roll();
 
-        let result = self.actor_roll.unwrap().result().unwrap();
+        let result = self.actor_roll.unwrap().result.unwrap();
         let difficulty = if self.opposed_roll.is_some() {
             self.opposed_roll.unwrap().roll();
-            self.opposed_roll.unwrap().result().unwrap()
+            self.opposed_roll.unwrap().result.unwrap()
         } else {
             self.flat_difficulty.unwrap()
         };

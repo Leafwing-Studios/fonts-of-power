@@ -41,47 +41,52 @@ impl TryFrom<isize> for DieSize {
 
 #[derive(Component, Clone, Copy, Debug, Hash, Eq, PartialEq)]
 pub struct Roll {
+    /// How many dice should be rolled?
     pub n: isize,
+    /// How many sides do the dice rolled have?
     pub d: DieSize,
+    /// Should the higher or lower of two results be used?
     pub advantage: Advantage,
+    /// The sum of all modifiers
     pub modifier: isize,
-    natural_roll: Option<isize>,
-    result: Option<isize>,
+    /// The raw value shown by the dice, after advantage has been applied
+    pub natural_roll: Option<usize>,
+    /// The natural_roll + modifier
+    pub result: Option<usize>,
 }
 
 impl Roll {
-    fn roll_once(n: isize, d: DieSize) -> isize {
+    fn roll_once(&self) -> usize {
         let mut rng = rand::thread_rng();
 
-        (0..n).map(|_| rng.gen_range(1..=d as isize)).sum()
+        (0..self.n)
+            .map(|_| rng.gen_range(1..=self.d as usize))
+            .sum()
     }
 
-    pub fn roll(mut self) {
-        self.natural_roll = Some(match self.advantage {
-            Advantage::Disadvantage => min(
-                Roll::roll_once(self.n, self.d),
-                Roll::roll_once(self.n, self.d),
-            ),
-            Advantage::Neutral => Roll::roll_once(self.n, self.d),
-            Advantage::Advantage => max(
-                Roll::roll_once(self.n, self.d),
-                Roll::roll_once(self.n, self.d),
-            ),
-        });
+    pub fn roll(&mut self) {
+        let natural_roll = match self.advantage {
+            Advantage::Disadvantage => min(self.roll_once(), self.roll_once()),
+            Advantage::Neutral => self.roll_once(),
+            Advantage::Advantage => max(self.roll_once(), self.roll_once()),
+        };
+        self.natural_roll = Some(natural_roll);
 
-        self.result = Some(self.natural_roll.unwrap() + self.modifier);
+        let sum = natural_roll as isize + self.modifier;
+        // Negative rolls are treated as 0
+        self.result = Some(sum.try_into().unwrap_or_default());
     }
 
-    pub fn natural_roll(self) -> Option<isize> {
+    /// The raw value shown by the die, after advantage has been applied
+    pub fn natural_roll(&self) -> Option<usize> {
         self.natural_roll
     }
 
-    pub fn result(self) -> Option<isize> {
-        self.result
-    }
-
-    /// This should only be called when directly modifying a rolled result. Prefer Roll::roll()
-    pub fn set_result(mut self, new_result: isize) {
-        self.result = Some(new_result);
+    /// Computes the result of a roll as if `natural_roll` has been rolled
+    pub fn fixed_roll(&mut self, natural_roll: usize) {
+        self.natural_roll = Some(natural_roll);
+        let sum = natural_roll as isize + self.modifier;
+        // Negative rolls are treated as 0
+        self.result = Some(sum.try_into().unwrap_or_default());
     }
 }

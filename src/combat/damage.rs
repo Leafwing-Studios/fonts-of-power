@@ -15,9 +15,8 @@ pub struct DamageRoll {
 }
 
 impl DamageRoll {
-    pub fn apply_resistances(&self, damage_type: &DamageType, resistances: &Resistances) {
-        let current_damage: Ratio<usize> =
-            Ratio::from_integer(self.roll.result().unwrap() as usize);
+    pub fn apply_resistances(&mut self, damage_type: &DamageType, resistances: &Resistances) {
+        let current_damage: Ratio<usize> = Ratio::from_integer(self.roll.result.unwrap() as usize);
         let new_damage = match damage_type {
             DamageType::Pure(e) => current_damage * resistances.get(e).damage_multiplier(),
             DamageType::Hybrid(e1, e2) => {
@@ -37,8 +36,7 @@ impl DamageRoll {
             }
         };
 
-        self.roll
-            .set_result(new_damage.round().to_integer() as isize);
+        self.roll.result = Some(new_damage.round().to_integer());
     }
 }
 
@@ -46,10 +44,15 @@ impl Mul<Efficacy> for DamageRoll {
     type Output = Self;
 
     fn mul(self, rhs: Efficacy) -> Self {
-        let lhs = Ratio::from_integer(self.roll.result().unwrap() as usize);
+        let product = self.roll.result.unwrap() * rhs;
 
-        self.roll.set_result((lhs * rhs.val).to_integer() as isize);
-        self
+        DamageRoll {
+            roll: Roll {
+                result: Some(product),
+                ..self.roll
+            },
+            ..self
+        }
     }
 }
 
@@ -120,7 +123,7 @@ pub enum DamageType {
 impl DamageType {}
 
 pub fn roll_damage(mut query: Query<&mut DamageRoll, With<Active>>) {
-    for damage_roll in query.iter_mut() {
+    for mut damage_roll in query.iter_mut() {
         damage_roll.roll.roll();
     }
 }
@@ -129,7 +132,7 @@ pub fn apply_resistances(
     mut damage_query: Query<(&Defender, &DamageType, &mut DamageRoll), With<Active>>,
     resistance_query: Query<&Resistances>,
 ) {
-    for (defender, damage_type, damage) in damage_query.iter_mut() {
+    for (defender, damage_type, mut damage) in damage_query.iter_mut() {
         let resistances = resistance_query.get(defender.entity).unwrap();
 
         damage.apply_resistances(damage_type, resistances);
@@ -149,7 +152,7 @@ pub fn apply_damage(
     for (damage, defender) in damage_query.iter() {
         let (mut life, mut absorption) = life_query.get_mut(defender.entity).unwrap();
 
-        let damage_dealt = damage.roll.result().unwrap() as usize;
+        let damage_dealt = damage.roll.result.unwrap();
 
         if absorption.val > damage_dealt {
             absorption.val -= damage_dealt;
