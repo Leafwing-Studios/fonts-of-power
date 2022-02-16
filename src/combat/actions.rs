@@ -4,7 +4,6 @@ use crate::combat::{
 };
 use bevy::prelude::Component;
 use bevy::prelude::Entity;
-use derive_more::{Deref, DerefMut};
 use std::collections::HashSet;
 
 /// Workflow for actions:
@@ -41,8 +40,10 @@ pub struct Action {
 }
 
 /// The actions available to a specific actor
-#[derive(Clone, Deref, DerefMut, PartialEq, Eq)]
-pub struct ActionChoices(Vec<Entity>);
+#[derive(Clone, Debug, PartialEq, Eq)]
+pub struct ActionChoices {
+    choices: Vec<Entity>,
+}
 
 #[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub enum ActionSpeed {
@@ -52,8 +53,10 @@ pub enum ActionSpeed {
     Reaction,
 }
 
-#[derive(Component, Clone, Deref, DerefMut, PartialEq, Eq)]
-pub struct Actor(Entity);
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
+pub struct Actor {
+    entity: Entity,
+}
 
 #[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct ValidTargets(HashSet<ObjectKind>);
@@ -70,14 +73,20 @@ pub enum RangeCategory {
     Ranged,
 }
 
-#[derive(Component, Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
-pub struct Range(Distance);
+#[derive(Component, Clone, Debug, Hash, PartialEq, Eq)]
+pub struct Range {
+    tiles: Distance,
+}
 
-#[derive(Component, Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
-pub struct AreaOfEffect(Shape);
+#[derive(Component, Clone, Debug, Hash, PartialEq, Eq)]
+pub struct AreaOfEffect {
+    shape: Shape,
+}
 
-#[derive(Component, Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
-pub struct Targets(Vec<Entity>);
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
+pub struct Targets {
+    pub entities: Vec<Entity>,
+}
 
 // TODO: Complete
 /// Identifies which targets will be hit by the attack

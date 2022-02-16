@@ -7,7 +7,6 @@ use crate::core::dice::Roll;
 use crate::core::stats::{Absorption, Attribute};
 use bevy::prelude::Component;
 use bevy::prelude::{Commands, Entity, Query, With};
-use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 
 /// Fundamental component for Attack entities, which store the information about an attack's effects
@@ -41,14 +40,21 @@ use num_rational::Ratio;
 #[derive(Component, Clone, Copy, Debug, PartialEq, Eq)]
 pub struct Attack;
 
-#[derive(Component, Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
-pub struct Attacker(Entity);
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
+pub struct Attacker {
+    pub entity: Entity,
+}
 
-#[derive(Component, Clone, Debug, Deref, DerefMut, PartialEq, Eq)]
-pub struct Defender(Entity);
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
+pub struct Defender {
+    pub entity: Entity,
+}
 
-#[derive(Component, Clone, Debug, PartialEq, Eq, Deref, DerefMut)]
-pub struct AttackRoll(Roll);
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
+pub struct AttackRoll {
+    modifier: isize,
+    roll: Roll,
+}
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq)]
 pub enum AttackType {
     Basic,
@@ -120,9 +126,9 @@ pub fn get_attack_bonuses(
     mut attack_query: Query<(&mut AttackRoll, &Attacker, &AttackType), With<Active>>,
     attacker_query: Query<&AttackBonus>,
 ) {
-    for (mut attack_roll, attacker, attack_type) in attack_query.iter_mut() {
-        let attack_bonuses = attacker_query.get(**attacker).unwrap();
-        let attack_bonus = attack_bonuses.get(*attack_type);
+    for (mut attack_roll, attacker, &attack_type) in attack_query.iter_mut() {
+        let attack_bonuses = attacker_query.get(attacker.entity).unwrap();
+        let attack_bonus = attack_bonuses.get(attack_type);
 
         if let Some(bonus) = attack_bonus {
             attack_roll.modifier = bonus
@@ -133,7 +139,7 @@ pub fn get_attack_bonuses(
 /// Rolls the attack
 pub fn roll_attacks(mut query: Query<&mut AttackRoll, With<Active>>) {
     for attack_roll in query.iter_mut() {
-        attack_roll.roll();
+        attack_roll.roll.roll();
     }
 }
 
@@ -143,7 +149,7 @@ pub fn dispatch_attacks(
     mut _commands: Commands,
 ) {
     for (_attack_entity, targets) in query.iter() {
-        for _target in targets.iter() {
+        for _target in targets.entities.iter() {
             // TODO: clone effects here
         }
     }
@@ -155,7 +161,7 @@ pub fn get_defenses(
     defender_query: Query<&Defenses>,
 ) {
     for (mut defense, defender, attack_type) in attack_query.iter_mut() {
-        let defenses = defender_query.get(**defender).unwrap();
+        let defenses = defender_query.get(defender.entity).unwrap();
 
         defense.val = defenses.get(*attack_type);
     }

@@ -1,7 +1,6 @@
 use crate::combat::attack::Efficacy;
 use crate::core::skills::Skill;
 use bevy::prelude::Component;
-use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 use std::collections::HashSet;
 use std::ops::Mul;
@@ -15,17 +14,15 @@ pub enum Attribute {
     Presence,
 }
 
-#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct AttributeVal(isize);
-
 #[derive(Component, Clone, Debug)]
 pub struct Attributes {
-    prowess: AttributeVal,
-    agility: AttributeVal,
-    expertise: AttributeVal,
-    focus: AttributeVal,
-    presence: AttributeVal,
+    prowess: isize,
+    agility: isize,
+    expertise: isize,
+    focus: isize,
+    presence: isize,
 }
+
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
 pub enum Ideal {
     Equality,
@@ -35,26 +32,23 @@ pub enum Ideal {
     Sanctity,
 }
 
-#[derive(Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct IdealVal(isize);
-
 #[derive(Component, Clone, Debug)]
 pub struct Ideals {
-    equality: IdealVal,
-    harmony: IdealVal,
-    liberty: IdealVal,
-    progress: IdealVal,
-    sanctity: IdealVal,
+    equality: isize,
+    harmony: isize,
+    liberty: isize,
+    progress: isize,
+    sanctity: isize,
 }
 
-#[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
 pub struct ProficiencyBonus {
     val: isize,
 }
 
-#[derive(Component, Clone, Debug, Eq, PartialEq, Deref, DerefMut)]
+#[derive(Component, Clone, Debug, Eq, PartialEq)]
 pub struct SkillProficiencies {
-    val: HashSet<Skill>,
+    set: HashSet<Skill>,
 }
 
 #[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
@@ -85,8 +79,12 @@ pub struct Essence {
     pub current: usize,
     pub max: usize,
 }
-#[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Exhaustion(pub usize);
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
+pub struct Exhaustion {
+    pub stacks: usize,
+}
 
-#[derive(Component, Clone, Debug, Hash, Eq, PartialEq, Deref, DerefMut)]
-pub struct Level(pub usize);
+#[derive(Component, Clone, Debug, Hash, Eq, PartialEq)]
+pub struct Level {
+    level: usize,
+}

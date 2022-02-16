@@ -1,5 +1,4 @@
 use crate::combat::attack::Efficacy;
-use derive_more::{Deref, DerefMut};
 use num_rational::Ratio;
 use std::ops::Mul;
 
@@ -21,8 +20,10 @@ impl Mul<Efficacy> for Distance {
     }
 }
 
-#[derive(Clone, Debug, Hash, PartialEq, Eq, Deref, DerefMut)]
-pub struct Area(usize);
+#[derive(Clone, Debug, Hash, PartialEq, Eq)]
+pub struct Area {
+    tiles: usize,
+}
 
 // TODO: Revise Position, Direction etc. to be traits, then make generic over Hex and Square
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
