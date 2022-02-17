@@ -51,7 +51,6 @@ impl Mul<Efficacy> for DamageRoll {
                 result: Some(product),
                 ..self.roll
             },
-            ..self
         }
     }
 }
