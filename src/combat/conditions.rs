@@ -72,9 +72,9 @@ impl Mul<Efficacy> for Ailments {
     }
 }
 
-pub fn apply_afflictions() {}
+pub fn resolve_afflictions() {}
 
-pub fn apply_ailments() {}
+pub fn resolve_ailments() {}
 
 pub trait Status: Component {}
 

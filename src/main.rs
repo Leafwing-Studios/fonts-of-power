@@ -15,8 +15,7 @@ pub fn headless_app() -> App {
     let mut app = App::new();
 
     app.add_plugin(core::CorePlugin)
-        .add_plugin(combat::AttackPlugin)
-        .add_plugin(combat::ActionPlugin)
+        .add_plugin(combat::CombatPlugin)
         .add_plugin(exploration::ExplorationPlugin)
         .add_plugin(character_options::CharacterOptionsPlugin);
 

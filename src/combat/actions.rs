@@ -1,36 +1,38 @@
+//! Workflow for actions:
+//! 1. Determine which actions are possible for the unit
+//! 2. Select one of those actions
+//! 3. Emit an event containing that action, specialized by type
+//! 4. Hook into that event to actually do things with the action
+//!
+//! Each action is a unique entity, initialized from a prefab that defines the default behavior of that action
+//!
+//! Each action type should have its own Bundle of components
+//! The following components are always needed:
+//! - Action
+//! - ActionSpeed
+//! - Actor
+//!
+//! The following components are sometimes needed:
+//! - Essence
+//! - Targets
+//! - ValidTargets
+//! - TargetArity
+//! - Range
+//! - RangeCategory
+//! - AreaOfEffect
+//! - Duration
+
 use crate::combat::{
     tiles::{Distance, Shape},
     ObjectKind,
 };
-use bevy::prelude::Component;
-use bevy::prelude::Entity;
-use std::collections::HashSet;
+use bevy::prelude::{App, Component, Entity, Plugin};
+use bevy::utils::HashSet;
 
-/// Workflow for actions:
-/// 1. Determine which actions are possible for the unit
-/// 2. Select one of those actions
-/// 3. Emit an event containing that action, specialized by type
-/// 4. Hook into that event to actually do things with the action
-///
-/// Each action is a unique entity, initialized from a prefab that defines the default behavior of that action
-///
-/// Each action type should have its own Bundle of components
-/// The following components are always needed:
-/// - Action
-/// - ActionSpeed
-/// - Actor
-///
-/// The following components are sometimes needed:
-/// - Essence
-/// - Targets
-/// - ValidTargets
-/// - TargetArity
-/// - Range
-/// - RangeCategory
-/// - AreaOfEffect
-/// - Duration
-
-// TODO: add archetype invariants
+pub struct ActionPlugin;
+impl Plugin for ActionPlugin {
+    fn build(&self, _app: &mut App) {}
+}
 
 /// Fundamental action component that declares that an entity is an Action
 #[derive(Component, Clone, Debug, Hash, PartialEq, Eq)]
