@@ -11,10 +11,10 @@ keywords = ["bevy", "rpg"]
 
 [dependencies]
 bevy = "0.7"
-rand = "0.8.3"
-derive_more = "0.99.11"
-num-rational = "0.3"
 bounded-integer = {version = "0.5", features = ["types"]}
+derive_more = "0.99.11"
+fastrand = "1.7.0"
+num-rational = "0.3"
 
 [profile.dev]
 opt-level = 3

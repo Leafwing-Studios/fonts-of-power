@@ -1,5 +1,4 @@
 use bevy::prelude::Component;
-use rand::Rng;
 use std::cmp::{max, min};
 use std::convert::TryFrom;
 
@@ -57,10 +56,8 @@ pub struct Roll {
 
 impl Roll {
     fn roll_once(&self) -> usize {
-        let mut rng = rand::thread_rng();
-
         (0..self.n)
-            .map(|_| rng.gen_range(1..=self.d as usize))
+            .map(|_| fastrand::usize(1..=self.d as usize))
             .sum()
     }
 
