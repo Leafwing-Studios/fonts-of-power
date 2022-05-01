@@ -17,6 +17,7 @@ pub trait AffixLabel: 'static + Send + Sync {
 }
 
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[allow(dead_code)]
 pub enum AffixCategory {
     Arms,
     Armor,
@@ -36,6 +37,7 @@ struct Affix<T: AffixLabel> {
 }
 
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[allow(dead_code)]
 pub enum FeatureCategory {
     Class,
     Species,
@@ -63,6 +65,7 @@ impl<T: AffixLabel> From<Feature<T>> for Affix<T> {
 
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
 #[non_exhaustive]
+#[allow(dead_code)]
 pub enum AffixTag {
     Air,
     Earth,

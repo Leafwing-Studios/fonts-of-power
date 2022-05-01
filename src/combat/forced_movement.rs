@@ -5,6 +5,7 @@ use std::fmt::Debug;
 use std::ops::Mul;
 
 #[derive(Component, Clone, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum ForcedMovement {
     Push {
         source: Position,

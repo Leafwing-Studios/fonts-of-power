@@ -31,6 +31,7 @@ pub struct Active;
 
 /// Objects that can be interacted with in combat
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[allow(dead_code)]
 pub enum ObjectKind {
     Creature,
     Inanimate,

@@ -66,6 +66,7 @@ pub enum TargetArity {
 }
 
 #[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum RangeCategory {
     Melee,
     Ranged,
@@ -88,4 +89,5 @@ pub struct Targets {
 
 // TODO: Complete
 /// Identifies which targets will be hit by the attack
+#[allow(dead_code)]
 pub fn identify_targets() {}

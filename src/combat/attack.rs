@@ -88,6 +88,7 @@ pub struct AttackRoll {
     roll: Roll,
 }
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum AttackType {
     Basic,
     Special(Attribute),
@@ -334,7 +335,7 @@ impl Mul<Efficacy> for DamageRoll {
 }
 
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
-#[non_exhaustive]
+#[allow(dead_code)]
 pub enum Element {
     Physical,
     Air,
@@ -391,6 +392,7 @@ impl Resistances {
     }
 }
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[allow(dead_code)]
 pub enum DamageType {
     Pure(Element),
     Hybrid(Element, Element),
@@ -416,7 +418,9 @@ pub fn apply_resistances(
     }
 }
 
-#[derive(Clone)]
+#[derive(Clone, Debug)]
+#[allow(dead_code)]
+/// An event which records the loss of life
 pub struct LifeLost {
     defender: Defender,
 }
