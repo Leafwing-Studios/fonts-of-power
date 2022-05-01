@@ -2,7 +2,7 @@ use crate::combat::attack::{Defender, Efficacy};
 use crate::combat::Active;
 use crate::core::dice::Roll;
 use crate::core::stats::{Absorption, Life};
-use bevy::app::Events;
+use bevy::ecs::Events;
 use bevy::prelude::{Component, Query, ResMut, With};
 use bevy::utils::HashMap;
 use num_rational::Ratio;
