@@ -1,9 +1,9 @@
 [package]
-name = "fop-game"
+name = "fonts_of_power"
 version = "0.1.0"
 authors = ["Leafwing Studios"]
 homepage = "https://fontsofpower.com"
-repository = "https://github.com/leafwing-studios/fop-game"
+repository = "https://github.com/leafwing-studios/fonts-of-power"
 license = "Proprietary"
 edition = "2021"
 categories = ["games"]
