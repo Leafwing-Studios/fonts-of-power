@@ -34,6 +34,9 @@ impl Plugin for ActionPlugin {
     fn build(&self, _app: &mut App) {}
 }
 
+#[derive(Clone, Debug, Component)]
+pub struct ActionPoints(u8);
+
 /// Fundamental action component that declares that an entity is an Action
 #[derive(Component, Clone, Debug, Hash, PartialEq, Eq)]
 pub struct Action {
@@ -47,14 +50,6 @@ pub struct ActionChoices {
     choices: Vec<Entity>,
 }
 
-#[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
-pub enum ActionSpeed {
-    Movement,
-    Major,
-    Minor,
-    Reaction,
-}
-
 #[derive(Component, Clone, Debug, PartialEq, Eq)]
 pub struct Actor {
     entity: Entity,
@@ -64,6 +59,7 @@ pub struct Actor {
 pub struct ValidTargets(HashSet<ObjectKind>);
 
 #[derive(Component, Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum TargetArity {
     Single,
     Multi,
