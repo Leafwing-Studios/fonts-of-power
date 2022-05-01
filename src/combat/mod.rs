@@ -31,13 +31,6 @@ pub enum ActionStage {
     Dispatch,
 }
 
-#[derive(Debug, Hash, PartialEq, Eq, Clone, SystemLabel)]
-pub enum ActionSystem {
-    IdentifyTargets,
-}
-
-use ActionSystem::*;
-
 pub struct ActionPlugin;
 impl Plugin for ActionPlugin {
     fn build(&self, app: &mut App) {
@@ -51,10 +44,7 @@ impl Plugin for ActionPlugin {
             ActionStage::Selection,
             SystemStage::parallel(),
         )
-        .add_system_to_stage(
-            ActionStage::Dispatch,
-            identify_targets.label(IdentifyTargets),
-        );
+        .add_system_to_stage(ActionStage::Dispatch, identify_targets);
     }
 }
 
@@ -63,24 +53,6 @@ pub enum AttackStage {
     Setup,
     Resolution,
 }
-
-#[derive(Debug, Hash, PartialEq, Eq, Clone, SystemLabel)]
-pub enum AttackSystem {
-    GetAttackBonuses,
-    CheckAttacks,
-    RollAttacks,
-    RollDamage,
-    DispatchAttacks,
-    GetDefenses,
-    ApplyCrits,
-    ApplyEfficacy,
-    ApplyResistances,
-    ApplyDamage,
-    ApplyAfflictions,
-    ApplyAilments,
-}
-
-use AttackSystem::*;
 
 use self::damage::LifeLost;
 
@@ -99,54 +71,36 @@ impl Plugin for AttackPlugin {
             SystemStage::parallel(),
         )
         // AttackStage::Setup
+        .add_system_to_stage(AttackStage::Setup, get_attack_bonuses)
+        .add_system_to_stage(AttackStage::Setup, roll_attacks.after(get_attack_bonuses))
+        .add_system_to_stage(AttackStage::Setup, roll_damage)
         .add_system_to_stage(
             AttackStage::Setup,
-            get_attack_bonuses.label(GetAttackBonuses),
+            dispatch_attacks.after(roll_damage).after(roll_attacks),
         )
-        .add_system_to_stage(
-            AttackStage::Setup,
-            roll_attacks.label(RollAttacks).after(GetAttackBonuses),
-        )
-        .add_system_to_stage(AttackStage::Setup, roll_damage.label(RollDamage))
-        .add_system_to_stage(
-            AttackStage::Setup,
-            dispatch_attacks
-                .label(DispatchAttacks)
-                .after(RollDamage)
-                .after(RollAttacks),
-        )
-        .add_system_to_stage(
-            AttackStage::Setup,
-            get_defenses.label(GetDefenses).after(DispatchAttacks),
-        )
+        .add_system_to_stage(AttackStage::Setup, get_defenses.after(dispatch_attacks))
         // AttackStage::Resolution
-        .add_system_to_stage(AttackStage::Resolution, check_attacks.label(CheckAttacks))
+        .add_system_to_stage(AttackStage::Resolution, check_attacks)
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_crits
-                .label(ApplyCrits)
-                .after(CheckAttacks)
-                .after(RollDamage),
+            apply_crits.after(check_attacks).after(roll_damage),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_resistances.label(ApplyResistances).after(ApplyCrits),
+            apply_resistances.after(apply_crits),
+        )
+        .add_system_to_stage(AttackStage::Resolution, apply_efficacy.after(apply_crits))
+        .add_system_to_stage(
+            AttackStage::Resolution,
+            apply_damage.after(apply_resistances).after(apply_efficacy),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_efficacy.label(ApplyEfficacy).after(ApplyCrits),
+            apply_afflictions.after(apply_efficacy),
         )
         .add_system_to_stage(
             AttackStage::Resolution,
-            apply_damage.label(ApplyDamage).after(ApplyResistances),
-        )
-        .add_system_to_stage(
-            AttackStage::Resolution,
-            apply_afflictions.label(ApplyAfflictions).after(ApplyCrits),
-        )
-        .add_system_to_stage(
-            AttackStage::Resolution,
-            apply_ailments.label(ApplyAilments).after(ApplyCrits),
+            apply_ailments.after(apply_efficacy),
         );
 
         // Events
