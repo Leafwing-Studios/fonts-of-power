@@ -82,6 +82,8 @@ pub enum AttackSystem {
 
 use AttackSystem::*;
 
+use self::damage::LifeLost;
+
 pub struct AttackPlugin;
 impl Plugin for AttackPlugin {
     fn build(&self, app: &mut App) {
@@ -146,6 +148,9 @@ impl Plugin for AttackPlugin {
             AttackStage::Resolution,
             apply_ailments.label(ApplyAilments).after(ApplyCrits),
         );
+
+        // Events
+        app.add_event::<LifeLost>();
     }
 }
 

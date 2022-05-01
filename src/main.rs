@@ -3,27 +3,29 @@
 // TODO: remove once https://github.com/bevyengine/bevy/issues/4601 is fixed
 #![allow(clippy::forget_non_drop)]
 
-use bevy::{app::App, ecs::schedule::ReportExecutionOrderAmbiguities, DefaultPlugins};
+use bevy::{app::App, DefaultPlugins};
 mod character_options;
 mod combat;
 mod core;
 mod exploration;
+mod tests;
 
-use crate::{
-    character_options::CharacterOptionsPlugin,
-    combat::{ActionPlugin, AttackPlugin},
-    core::CorePlugin,
-    exploration::ExplorationPlugin,
-};
+/// Generates a headless vesion of the game, suitable for use in integration tests
+pub fn headless_app() -> App {
+    let mut app = App::new();
+
+    app.add_plugin(core::CorePlugin)
+        .add_plugin(combat::AttackPlugin)
+        .add_plugin(combat::ActionPlugin)
+        .add_plugin(exploration::ExplorationPlugin)
+        .add_plugin(character_options::CharacterOptionsPlugin);
+
+    app
+}
 
 fn main() {
-    App::new()
-        .insert_resource(ReportExecutionOrderAmbiguities)
-        .add_plugins(DefaultPlugins)
-        .add_plugin(CorePlugin)
-        .add_plugin(AttackPlugin)
-        .add_plugin(ActionPlugin)
-        .add_plugin(ExplorationPlugin)
-        .add_plugin(CharacterOptionsPlugin)
-        .run();
+    let mut app = headless_app();
+
+    // Add remaining plugins that will not work in headless tests or on CI
+    app.add_plugins(DefaultPlugins).run();
 }
