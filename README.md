@@ -1,6 +1,6 @@
 # *Fonts of Power*
 
-The code and rules for [*Fonts of Power*](https://rules.fontsofpower.com/#/), a tactical TTRPG / video game about exploring magical places.
+The home for developemnt of code and rules for *Fonts of Power*, a tactical TTRPG / video game about exploring magical places.
 
 You can follow its development in our [Discord server](https://discord.gg/V2KdnquRge)!
 
@@ -13,4 +13,4 @@ You can follow its development in our [Discord server](https://discord.gg/V2Kdnq
 ## Game Build Instructions
 
 1. Set up Bevy and Rust following the [Bevy book](https://bevyengine.org/learn/book/getting-started/).
-2. Run `cargo run --release` in the project root directory.
+2. Run `cargo run` in the project root directory.
