@@ -1,5 +1,7 @@
 #![allow(dead_code)]
 #![allow(clippy::type_complexity)]
+// TODO: remove once https://github.com/bevyengine/bevy/issues/4601 is fixed
+#![allow(clippy::forget_non_drop)]
 
 use bevy::{app::App, ecs::schedule::ReportExecutionOrderAmbiguities, DefaultPlugins};
 mod character_options;
