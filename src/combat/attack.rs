@@ -1,16 +1,55 @@
-use crate::combat::actions::Targets;
-use crate::combat::conditions::{Afflictions, Ailments};
-use crate::combat::damage::DamageRoll;
-use crate::combat::forced_movement::ForcedMovement;
-use crate::combat::Active;
+use crate::combat::{
+    actions::Targets,
+    conditions::{Afflictions, Ailments},
+    forced_movement::ForcedMovement,
+    Active, Flow, Schedules,
+};
 use crate::core::dice::Roll;
-use crate::core::stats::{Absorption, Attribute};
-use bevy::prelude::Component;
-use bevy::prelude::{Commands, Entity, Query, With};
+use crate::core::stats::{Absorption, Attribute, Life};
+use bevy::ecs::event::Events;
+use bevy::ecs::schedule::SystemStage;
+use bevy::prelude::*;
+use bevy::utils::HashMap;
 use num_rational::Ratio;
+use std::cmp::max;
 use std::ops::Mul;
 
-/// Fundamental component for Attack entities, which store the information about an attack's effects
+pub struct AttackPlugin;
+impl Plugin for AttackPlugin {
+    fn build(&self, app: &mut App) {
+        use crate::combat::conditions::{resolve_afflictions, resolve_ailments};
+
+        // Flows
+        let mut roll_attack = SystemStage::parallel();
+        let mut resolve_attack = SystemStage::parallel();
+
+        roll_attack
+            .add_system(get_attack_bonuses)
+            .add_system(roll_attacks.after(get_attack_bonuses))
+            .add_system(roll_damage.after(roll_attacks))
+            .add_system(dispatch_attacks)
+            .add_system(get_defenses.after(dispatch_attacks));
+
+        resolve_attack
+            .add_system(check_attacks)
+            .add_system(roll_damage.after(check_attacks))
+            .add_system(apply_resistances.after(roll_damage))
+            .add_system(apply_crits.after(roll_damage).after(apply_resistances))
+            .add_system(apply_efficacy.after(apply_crits).after(apply_resistances))
+            .add_system(resolve_damage.after(apply_efficacy))
+            .add_system(resolve_afflictions.after(apply_efficacy))
+            .add_system(resolve_ailments.after(apply_efficacy));
+
+        let mut schedules = app.world.resource_mut::<Schedules>();
+        schedules.add_stage_as_flow(Flow::RollAttack, roll_attack);
+        schedules.add_stage_as_flow(Flow::ResolveAttack, resolve_attack);
+
+        // Events
+        app.add_event::<LifeLost>();
+    }
+}
+
+/// Fundamental component for [`Attack`] entities, which store the information about an attack's effects
 /// Attack entities should always have the following fields, typically derived from the action taken by the attacker:
 /// - Attack
 /// - Attacker
@@ -37,7 +76,6 @@ use std::ops::Mul;
 /// The following field is added during attack dispatch, when the attack entities are cloned:
 /// - Defender
 /// - Defense
-
 #[derive(Component, Clone, Copy, Debug, PartialEq, Eq)]
 pub struct Attack;
 
@@ -57,6 +95,7 @@ pub struct AttackRoll {
     roll: Roll,
 }
 #[derive(Component, Copy, Clone, Debug, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum AttackType {
     Basic,
     Special(Attribute),
@@ -252,6 +291,166 @@ pub fn apply_efficacy(
 
         if let Some(mut fm) = forced_movement {
             *fm = fm.clone() * efficacy;
+        }
+    }
+}
+
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
+pub struct DamageRoll {
+    roll: Roll,
+}
+
+impl DamageRoll {
+    pub fn apply_resistances(&mut self, damage_type: &DamageType, resistances: &Resistances) {
+        let current_damage: Ratio<usize> = Ratio::from_integer(self.roll.result.unwrap() as usize);
+        let new_damage = match damage_type {
+            DamageType::Pure(e) => current_damage * resistances.get(e).damage_multiplier(),
+            DamageType::Hybrid(e1, e2) => {
+                current_damage
+                    * max(
+                        resistances.get(e1).damage_multiplier(),
+                        resistances.get(e2).damage_multiplier(),
+                    )
+            }
+            DamageType::Split(e1, e2) => {
+                let half_damage = Ratio::new(1, 2) * current_damage;
+                let partial_1 = half_damage * resistances.get(e1).damage_multiplier();
+                let partial_2 = half_damage * resistances.get(e2).damage_multiplier();
+
+                // Rounding up is equivalent to making the remainder count as the more effective damage type
+                partial_1 + partial_2
+            }
+        };
+
+        self.roll.result = Some(new_damage.round().to_integer());
+    }
+}
+
+impl Mul<Efficacy> for DamageRoll {
+    type Output = Self;
+
+    fn mul(self, rhs: Efficacy) -> Self {
+        let product = self.roll.result.unwrap() * rhs;
+
+        DamageRoll {
+            roll: Roll {
+                result: Some(product),
+                ..self.roll
+            },
+        }
+    }
+}
+
+#[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[allow(dead_code)]
+pub enum Element {
+    Physical,
+    Air,
+    Earth,
+    Fire,
+    Water,
+    Radiant,
+    Umbral,
+    Primal,
+    Decay,
+    Electric,
+    Corrosive,
+}
+
+#[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
+pub enum ResistanceLevel {
+    Vulnerable,
+    Normal,
+    Resistant,
+    Immune,
+}
+
+impl Default for ResistanceLevel {
+    fn default() -> Self {
+        ResistanceLevel::Normal
+    }
+}
+
+impl Default for &ResistanceLevel {
+    fn default() -> Self {
+        &ResistanceLevel::Normal
+    }
+}
+
+impl ResistanceLevel {
+    pub fn damage_multiplier(self) -> Ratio<usize> {
+        match self {
+            Self::Vulnerable => Ratio::new(2, 1),
+            Self::Normal => Ratio::new(1, 1),
+            Self::Resistant => Ratio::new(1, 2),
+            Self::Immune => Ratio::new(0, 1),
+        }
+    }
+}
+#[derive(Component, Clone, Debug, PartialEq, Eq)]
+pub struct Resistances(HashMap<Element, ResistanceLevel>);
+
+impl Resistances {
+    pub fn get(&self, element: &Element) -> ResistanceLevel {
+        match self.0.get(element) {
+            Some(rl) => *rl,
+            None => ResistanceLevel::Normal,
+        }
+    }
+}
+#[derive(Component, Copy, Clone, Debug, PartialEq, Eq, Hash)]
+#[allow(dead_code)]
+pub enum DamageType {
+    Pure(Element),
+    Hybrid(Element, Element),
+    Split(Element, Element),
+}
+
+impl DamageType {}
+
+pub fn roll_damage(mut query: Query<&mut DamageRoll, With<Active>>) {
+    for mut damage_roll in query.iter_mut() {
+        damage_roll.roll.roll();
+    }
+}
+
+pub fn apply_resistances(
+    mut damage_query: Query<(&Defender, &DamageType, &mut DamageRoll), With<Active>>,
+    resistance_query: Query<&Resistances>,
+) {
+    for (defender, damage_type, mut damage) in damage_query.iter_mut() {
+        let resistances = resistance_query.get(defender.entity).unwrap();
+
+        damage.apply_resistances(damage_type, resistances);
+    }
+}
+
+#[derive(Clone, Debug)]
+#[allow(dead_code)]
+/// An event which records the loss of life
+pub struct LifeLost {
+    defender: Defender,
+}
+
+pub fn resolve_damage(
+    damage_query: Query<(&DamageRoll, &Defender), With<Active>>,
+    mut life_query: Query<(&mut Life, &mut Absorption)>,
+    mut life_lost: ResMut<Events<LifeLost>>,
+) {
+    for (damage, defender) in damage_query.iter() {
+        let (mut life, mut absorption) = life_query.get_mut(defender.entity).unwrap();
+
+        let damage_dealt = damage.roll.result.unwrap();
+
+        if absorption.val > damage_dealt {
+            absorption.val -= damage_dealt;
+        } else {
+            life.current -= damage_dealt - absorption.val;
+            absorption.val = 0;
+
+            life_lost.send(LifeLost {
+                defender: defender.clone(),
+            });
         }
     }
 }

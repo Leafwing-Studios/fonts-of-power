@@ -7,6 +7,7 @@ use std::collections::HashSet;
 use std::ops::Mul;
 
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum Attribute {
     Prowess,
     Agility,
@@ -16,11 +17,13 @@ pub enum Attribute {
 }
 
 #[derive(Component, Clone, Debug)]
+#[allow(dead_code)]
 pub struct Attributes {
     values: [BoundedI8<-5, 5>; 5],
 }
 
 impl Attributes {
+    #[allow(dead_code)]
     pub fn get(&self, attribute: Attribute) -> BoundedI8<-5, 5> {
         match attribute {
             Attribute::Prowess => self.prowess(),
@@ -31,24 +34,34 @@ impl Attributes {
         }
     }
 
+    #[allow(dead_code)]
     pub fn prowess(&self) -> BoundedI8<-5, 5> {
         self.values[0]
     }
+
+    #[allow(dead_code)]
     pub fn agility(&self) -> BoundedI8<-5, 5> {
         self.values[1]
     }
+
+    #[allow(dead_code)]
     pub fn expertise(&self) -> BoundedI8<-5, 5> {
         self.values[2]
     }
+
+    #[allow(dead_code)]
     pub fn focus(&self) -> BoundedI8<-5, 5> {
         self.values[3]
     }
+
+    #[allow(dead_code)]
     pub fn presence(&self) -> BoundedI8<-5, 5> {
         self.values[4]
     }
 }
 
 #[derive(Clone, Copy, Debug, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum Ideal {
     Equality,
     Harmony,
@@ -59,10 +72,12 @@ pub enum Ideal {
 
 #[derive(Component, Clone, Debug)]
 pub struct Ideals {
+    #[allow(dead_code)]
     values: [BoundedU8<0, 5>; 5],
 }
 
 impl Ideals {
+    #[allow(dead_code)]
     pub fn get(&self, ideal: Ideal) -> BoundedU8<0, 5> {
         match ideal {
             Ideal::Equality => self.equality(),
@@ -73,18 +88,27 @@ impl Ideals {
         }
     }
 
+    #[allow(dead_code)]
     pub fn equality(&self) -> BoundedU8<0, 5> {
         self.values[0]
     }
+
+    #[allow(dead_code)]
     pub fn harmony(&self) -> BoundedU8<0, 5> {
         self.values[1]
     }
+
+    #[allow(dead_code)]
     pub fn liberty(&self) -> BoundedU8<0, 5> {
         self.values[2]
     }
+
+    #[allow(dead_code)]
     pub fn progress(&self) -> BoundedU8<0, 5> {
         self.values[3]
     }
+
+    #[allow(dead_code)]
     pub fn sanctity(&self) -> BoundedU8<0, 5> {
         self.values[4]
     }

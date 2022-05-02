@@ -3,6 +3,7 @@ use crate::core::stats::Attribute;
 use bevy::prelude::Component;
 
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
+#[allow(dead_code)]
 pub enum Skill {
     Anima,
     Athletics,
@@ -20,6 +21,7 @@ pub enum Skill {
 }
 
 #[derive(Copy, Clone, Debug, Hash, Eq, PartialEq)]
+#[allow(dead_code)]
 pub enum SkillCheckOutcome {
     Failure,
     MixedSuccess,
@@ -39,6 +41,7 @@ pub struct SkillCheck {
 }
 
 impl SkillCheck {
+    #[allow(dead_code)]
     pub fn roll(&self) -> SkillCheckOutcome {
         self.actor_roll.unwrap().roll();
 

@@ -27,18 +27,21 @@ pub struct Area {
 
 // TODO: Revise Position, Direction etc. to be traits, then make generic over Hex and Square
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum Position {
     GridPosition { x: isize, y: isize },
     HexPosition { alpha: isize, beta: isize },
 }
 
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum Direction {
     Grid(GridDirection),
     Hex(HexDirection),
 }
 
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum GridDirection {
     North,
     NorthEast,
@@ -51,6 +54,7 @@ pub enum GridDirection {
 }
 
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum HexDirection {
     North,
     NorthEast,
@@ -61,6 +65,7 @@ pub enum HexDirection {
 }
 
 #[derive(Clone, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum Shape {
     Circle {
         radius: Distance,

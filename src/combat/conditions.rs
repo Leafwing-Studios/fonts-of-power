@@ -6,6 +6,7 @@ use std::ops::Mul;
 
 #[non_exhaustive]
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum Affliction {
     Aflame,
     Anguish,
@@ -37,6 +38,7 @@ impl Mul<Efficacy> for Afflictions {
 
 #[non_exhaustive]
 #[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
+#[allow(dead_code)]
 pub enum Ailment {
     Aloft,
     Banished,
@@ -72,9 +74,9 @@ impl Mul<Efficacy> for Ailments {
     }
 }
 
-pub fn apply_afflictions() {}
+pub fn resolve_afflictions() {}
 
-pub fn apply_ailments() {}
+pub fn resolve_ailments() {}
 
 pub trait Status: Component {}
 

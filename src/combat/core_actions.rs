@@ -1,5 +1,5 @@
 use crate::combat::actions::{
-    Action, ActionSpeed, Actor, Range, RangeCategory, TargetArity, Targets, ValidTargets,
+    Action, ActionPoints, Actor, Range, RangeCategory, TargetArity, Targets, ValidTargets,
 };
 use crate::combat::time::Duration;
 use bevy::prelude::{Bundle, Component};
@@ -13,7 +13,7 @@ pub struct CoreAction;
 pub struct MoveAction {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -21,7 +21,7 @@ pub struct MoveAction {
 pub struct ClimbAction {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -29,7 +29,7 @@ pub struct ClimbAction {
 pub struct ProneAction {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -37,7 +37,7 @@ pub struct ProneAction {
 pub struct UnproneAction {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -45,7 +45,7 @@ pub struct UnproneAction {
 pub struct DefendAction {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -53,7 +53,7 @@ pub struct DefendAction {
 pub struct GrappleAction {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,
@@ -66,7 +66,7 @@ pub struct GrappleAction {
 pub struct ReverseGrappleAction {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,
@@ -79,7 +79,7 @@ pub struct ReverseGrappleAction {
 pub struct Strike {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,
@@ -92,14 +92,14 @@ pub struct Strike {
 pub struct Activate {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 #[derive(Bundle, Clone)]
 pub struct BreakGrapple {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,
@@ -112,7 +112,7 @@ pub struct BreakGrapple {
 pub struct Dash {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -120,7 +120,7 @@ pub struct Dash {
 pub struct EssenceTap {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -128,7 +128,7 @@ pub struct EssenceTap {
 pub struct Guard {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -136,7 +136,7 @@ pub struct Guard {
 pub struct Hide {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -144,7 +144,7 @@ pub struct Hide {
 pub struct Interact {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,
@@ -157,7 +157,7 @@ pub struct Interact {
 pub struct Scan {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -165,7 +165,7 @@ pub struct Scan {
 pub struct Shove {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,
@@ -178,7 +178,7 @@ pub struct Shove {
 pub struct Swap {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -186,7 +186,7 @@ pub struct Swap {
 pub struct Treat {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,
@@ -199,7 +199,7 @@ pub struct Treat {
 pub struct AoO {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,
@@ -212,7 +212,7 @@ pub struct AoO {
 pub struct Block {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     duration: Duration,
 }
@@ -221,7 +221,7 @@ pub struct Block {
 pub struct Dodge {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
 }
 
@@ -229,7 +229,7 @@ pub struct Dodge {
 pub struct Track {
     core_action: CoreAction,
     action: Action,
-    action_speed: ActionSpeed,
+    action_points: ActionPoints,
     actor: Actor,
     target: Targets,
     valid_targets: ValidTargets,

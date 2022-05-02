@@ -3,6 +3,7 @@ use std::cmp::{max, min};
 use std::convert::TryFrom;
 
 #[derive(Clone, Copy, Debug, Hash, Eq, PartialEq)]
+#[allow(dead_code)]
 pub enum Advantage {
     Disadvantage,
     Neutral,
@@ -75,11 +76,13 @@ impl Roll {
     }
 
     /// The raw value shown by the die, after advantage has been applied
+    #[allow(dead_code)]
     pub fn natural_roll(&self) -> Option<usize> {
         self.natural_roll
     }
 
     /// Computes the result of a roll as if `natural_roll` has been rolled
+    #[allow(dead_code)]
     pub fn fixed_roll(&mut self, natural_roll: usize) {
         self.natural_roll = Some(natural_roll);
         let sum = natural_roll as isize + self.modifier;
