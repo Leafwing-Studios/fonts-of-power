@@ -24,14 +24,22 @@
 
 use crate::combat::{
     tiles::{Distance, Shape},
-    ObjectKind,
+    Flow, ObjectKind, Schedules,
 };
-use bevy::prelude::{App, Component, Entity, Plugin};
+use bevy::prelude::*;
 use bevy::utils::HashSet;
 
 pub struct ActionPlugin;
 impl Plugin for ActionPlugin {
-    fn build(&self, _app: &mut App) {}
+    fn build(&self, app: &mut App) {
+        let select_action = SystemStage::parallel();
+
+        let select_target = SystemStage::parallel();
+
+        let mut schedules = app.world.resource_mut::<Schedules>();
+        schedules.add_stage_as_flow(Flow::SelectAction, select_action);
+        schedules.add_stage_as_flow(Flow::SelectTarget, select_target);
+    }
 }
 
 #[derive(Clone, Debug, Component)]

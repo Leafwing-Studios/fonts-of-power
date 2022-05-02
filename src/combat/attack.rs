@@ -1,7 +1,9 @@
-use crate::combat::actions::Targets;
-use crate::combat::conditions::{Afflictions, Ailments};
-use crate::combat::forced_movement::ForcedMovement;
-use crate::combat::Active;
+use crate::combat::{
+    actions::Targets,
+    conditions::{Afflictions, Ailments},
+    forced_movement::ForcedMovement,
+    Active, Flow, Schedules,
+};
 use crate::core::dice::Roll;
 use crate::core::stats::{Absorption, Attribute, Life};
 use bevy::ecs::event::Events;
@@ -17,17 +19,18 @@ impl Plugin for AttackPlugin {
     fn build(&self, app: &mut App) {
         use crate::combat::conditions::{resolve_afflictions, resolve_ailments};
 
-        let mut attack_setup = SystemStage::parallel();
-        let mut attack_resolution = SystemStage::parallel();
+        // Flows
+        let mut roll_attack = SystemStage::parallel();
+        let mut resolve_attack = SystemStage::parallel();
 
-        attack_setup
+        roll_attack
             .add_system(get_attack_bonuses)
             .add_system(roll_attacks.after(get_attack_bonuses))
             .add_system(roll_damage.after(roll_attacks))
             .add_system(dispatch_attacks)
             .add_system(get_defenses.after(dispatch_attacks));
 
-        attack_resolution
+        resolve_attack
             .add_system(check_attacks)
             .add_system(roll_damage.after(check_attacks))
             .add_system(apply_resistances.after(roll_damage))
@@ -36,6 +39,10 @@ impl Plugin for AttackPlugin {
             .add_system(resolve_damage.after(apply_efficacy))
             .add_system(resolve_afflictions.after(apply_efficacy))
             .add_system(resolve_ailments.after(apply_efficacy));
+
+        let mut schedules = app.world.resource_mut::<Schedules>();
+        schedules.add_stage_as_flow(Flow::RollAttack, roll_attack);
+        schedules.add_stage_as_flow(Flow::ResolveAttack, resolve_attack);
 
         // Events
         app.add_event::<LifeLost>();
