@@ -34,27 +34,17 @@ Then, spend any number of tiles of movement.
 
 Jump towards a tile of your choice.
 
-Building up momentum helps you jump further.
-If you have moved one tile towards the target tile this turn, gain a tile of movement.
-If you have moved at least two tiles towards the target tile this turn, gain two tiles of movement instead.
-
-Next, compute how far the tile is away from your current location.
-Note that if your current tile and the target tile are on different height tiers, ranges are measured differently, as described in the rules on height tiers.
-Jumping up height tiers is harder, and jumping down is easier.
-
-Then, spend tiles of movement, to a maximum of the range of the target tile:
-
-- if you have enough movement, move to the target tile, avoiding any ground effects between you and that tile
-- if you are one short, spend all movement to move to the targeted tile, avoiding any ground effects between you and that tile but are knocked prone
-- if you are more than one short, spend all movement to land a distance away from your starting position equal to the tiles of movement spent
-
-Take any falling damage, although you have advantage on the Agility(Athletics) skill check made to reduce it.
-
-If the tile is occupied by a creature whose tile you cannot enter (such as most enemies), immediately make a melee Shove attack against the creature in that tile.
-If you hit, you must either knock them prone or push them out of your way.
-If you miss or cannot clear enough space, they automatically hit you with a melee Shove attack and must either knock you prone or push you out of the way.
-
-Finally, you may spend any remaining tiles of movement.
+1. Building up momentum helps you jump further:
+   1. If you have moved exactly one tile towards the target tile this turn, gain a tile of movement.
+   1. If you have moved at least two tiles towards the target tile this turn, gain two tiles of movement instead.
+2. Spend tiles of movement equal to the distance to your chosen tile.
+   1. Remember that if your current tile and the target tile are on different height tiers, ranges are measured differently, as described in the rules on height tiers. Jumping up height tiers is harder, and jumping down is easier.
+3. Take any falling damage. You have advantage on the Agility(Athletics) skill check made to reduce this falling damage.
+4. If the tile you land in is occupied by a creature whose tile you cannot enter:
+   1. Immediately make a melee Shove attack against the creature in that tile.
+   2. If you hit, you must either knock them prone or push them out of your way.
+   3. If you miss or cannot clear enough space, they automatically hit you with a melee Shove attack and must either knock you prone or push you out of the way.
+5. You may spend any number of remaining tiles of movement.
 
 ## Offense
 
@@ -75,13 +65,6 @@ You have advantage on Grapple attacks against creatures who are prone.
 Gain the benefits of the Break Grapple action to free yourself from a grapple.
 If you succeed, you may move into an adjacent tile, then immediately make a Grapple attack against the creature that was grappling you.
 
-### Strike (2 AP)
-
-Strike at your target with your currently equipped set of arms.
-Make a basic attack against a creature or object within range of your current arms.
-
-By default, the damage dealt by basic attacks is 1d8 + Prowess.
-
 ### Shove (1 AP)
 
 Make a melee special attack against Prowess against a creature within your zone of control.
@@ -89,17 +72,14 @@ If you hit, you may choose to either knock them prone or push them into an empty
 
 Melee Shove attacks have advantage if you have the high ground, and disadvantage if they have the high ground.
 
+### Strike (2 AP)
+
+Strike at your target with your currently equipped set of arms.
+Make a basic attack against a creature or object within range of your current arms.
+
+By default, basic attacks deal 1d8 + Prowess physical damage.
+
 ## Defense
-
-### Defend (1 AP)
-
-Gain 6 + Presence absorption.
-
-### Ward (1 AP)
-
-The first time before the start of your next turn that you would gain any stacks of an ailment or affliction, ignore all ailments and afflictions that would be applied by that effect.
-
-If you use this action multiple times in a single turn, you prevent a second (or third or..) set of ailments or afflictions from being applied to you.
 
 ### Block (1 AP, reaction)
 
@@ -112,6 +92,16 @@ If you do, make a Prowess (Athletics) skill check:
 
 The efficacy of blocked attacks is halved. Like always, round up.
 
+### Break Grapple (1 AP)
+
+Attempt to break another creature’s hold on a target, ending the grappled status on yourself or another creature within 1 tile of you.
+
+To do so, make an opposed Prowess (Athletics) skill check against the grappling creature. If you succeed, the grapple ends.
+
+### Defend (1 AP)
+
+Gain 6 + Presence absorption.
+
 ### Dodge (1 AP, reaction)
 
 Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction.
@@ -119,17 +109,17 @@ If you do, make an Agility (Athletics) skill check.
 If your skill check result is greater than or equal to the attack roll that hit you, **dodge** the attack.
 Attacks that you dodge are treated as if the attacker missed.
 
-### Break Grapple (1 AP)
-
-Attempt to break another creature’s hold on a target, ending the grappled status on yourself or another creature within 1 tile of you.
-
-To do so, make an opposed Prowess (Athletics) skill check against the grappling creature. If you succeed, the grapple ends.
-
 ### Treat (1 AP)
 
 Attempt to treat a creature within 1 tile’s injuries and ailments, curing a single ailment or mitigating a single affliction of your choice.
 
 Select a ailment or affliction. If you succeed on a difficulty 10 Focus (Medicine) skill check, remove all stacks of the chosen ailment or half the stacks of the chosen affliction from them.
+
+### Ward (1 AP)
+
+The first time before the start of your next turn that you would gain any stacks of an ailment or affliction, ignore all ailments and afflictions that would be applied by that effect.
+
+If you use this action multiple times in a single turn, you prevent a second (or third or..) set of ailments or afflictions from being applied to you.
 
 ## Utility
 
@@ -166,7 +156,7 @@ A tile is a hiding spot if at least two of the following conditions are true:
 - it is lightly shrouded
 - it is adjacent to any opaque cover
 - it is in dim light
-- if you are prone
+- you are prone
 
 Or, if at least one of the following conditions are true:
 
@@ -181,8 +171,8 @@ Or, if at least one of the following conditions are true:
 You lose the hidden status when:
 
 - another creature successfully reveals you with the Spot action
-- you end your turn in a tile that is not an eligible hiding spot (see the Hide action)
-- you use an action targeting a non-allied creature
+- you end your turn in a tile that is not a hiding spot
+- you use an action targeting an enemy creature
 
 ### Interact (1 AP)
 
@@ -191,6 +181,19 @@ You might pull a lever, quickly slash a rope, kick down a door, throw a torch or
 
 Objects in their environment have their own rules for what using Interact on them does.
 This can be discovered by using Scan.
+
+### Jostle (1 AP)
+
+Choose a creature you are grappling, then either:
+
+- move them into an empty tile within range 2.
+- force them to stand up, then move them into an empty tile within range 1.
+
+If they leave your zone of control, you immediately stop grappling them.
+
+### Let Go (0 AP)
+
+Stop grappling a target you have grappled.
 
 ### Recover (1 AP)
 
@@ -235,16 +238,3 @@ You have disadvantage on this skill check if you are more than 3 tiles away from
 
 Change the set of arms that you currently have equipped.
 This also allows you to completely stow your arms (and have no arms equipped), or draw them when you do not have arms equipped.
-
-### Let Go (0 AP)
-
-Stop grappling a target you have grappled.
-
-### Jostle (1 AP)
-
-Choose a creature you are grappling, then either:
-
-- move them into an empty tile within range 2.
-- force them to stand up, then move them into an empty tile within range 1.
-
-If they leave your zone of control, you immediately stop grappling them.

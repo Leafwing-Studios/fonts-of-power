@@ -78,13 +78,16 @@ While hidden:
 - you do not impose disadvantage on ranged attacks to creatures in your zone of control
 - enemies cannot target you with single target effects
 
-The hidden status on you ends immediately after:
+The hidden status ends when:
 
 - another creature successfully reveals you with the Spot action
 - you end your turn in a tile that is not an eligible hiding spot (see the Hide action)
 - you use an action targeting a non-allied creature
 
-When the hidden status ends, you gain the **ambush** boon until the end of the current turn. When you have the ambush boon, gain advantage on all attacks.
+When the hidden status ends, you gain the **ambush** boon until the end of the current turn.
+
+**Ambush**: You have advantage on all attacks.
+
 Some affixes make use of the ambush keyword to provide additional benefits.
 
 ## Invisible
