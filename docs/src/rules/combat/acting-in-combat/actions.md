@@ -156,7 +156,7 @@ A tile is a hiding spot if at least two of the following conditions are true:
 - it is lightly shrouded
 - it is adjacent to any opaque cover
 - it is in dim light
-- if you are prone
+- you are prone
 
 Or, if at least one of the following conditions are true:
 
@@ -171,8 +171,8 @@ Or, if at least one of the following conditions are true:
 You lose the hidden status when:
 
 - another creature successfully reveals you with the Spot action
-- you end your turn in a tile that is not an eligible hiding spot (see the Hide action)
-- you use an action targeting a non-allied creature
+- you end your turn in a tile that is not a hiding spot
+- you use an action targeting an enemy creature
 
 ### Interact (1 AP)
 
