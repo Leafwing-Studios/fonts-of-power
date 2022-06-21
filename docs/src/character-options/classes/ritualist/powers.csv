@@ -1,4 +1,4 @@
-Name,Element,Cycle,AP,Essence,Category,Range,Type,Target,Prayer Effect,Miracle Effect
+Name,Element,Cycle,AP,Essence,Category,Range,Type,Target,rite Effect,Miracle Effect
 Avatar of the Zephyr,Air,Avatar,2,0,Offensive,Self,Basic,Single-target,"Strike, converting damage to air. Half of damage ignores absorption.",Your basic attacks are automatically criticals if you hit. You are flying at all times. You have a tile effect that applies one stack of aloft to any other creature.
 Blessing of Wings,Air,Blessing,2,0,Defensive,6,None,Single-target,Grant 6 + Presence absorption and immunity to air damage until the end of your next turn.,Target is flying at all times. All movement that they gain is doubled.
 Curse of Asphyxiation,Air,Curse,2,0,Offensive,6,Prowess,Single-target,Deal 1d4 + Presence air damage and apply 1 stack of blunted.,"At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, apply one stack of exhaustion. Hit or miss, then deal 1d8 + Presence air damage for each stack of exhaustion they have."

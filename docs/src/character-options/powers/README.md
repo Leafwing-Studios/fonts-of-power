@@ -14,7 +14,7 @@ This helps make sure you remember your options, and goes a long way to making su
 Using powers only takes essence and the ability to act. You do not have to utter magic words, make elaborate gestures with a free hand or hunt down exotic ingredients in order to use the powers you have acquired.
 If a player wants to do so to make their use of the powers more fun and immersive, such as a Ritualist uttering a specific plea every time they make use of their Invoke feature, they’re free to do so.
 But there’s no requirement for that,
-and that Ritualist losing their ability to speak would not stop them from being able to use their Prayer feature.
+and that Ritualist losing their ability to speak would not stop them from being able to use their rite feature.
 
 Powers are typically quite showy, and noticeable to those around you.
 You must make an appropriate skill check (typically Arcana, Charm, Stealth or Trickery) to hide their use, if the table rules that doing so is feasible in this instance.
