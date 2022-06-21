@@ -34,27 +34,17 @@ Then, spend any number of tiles of movement.
 
 Jump towards a tile of your choice.
 
-Building up momentum helps you jump further.
-If you have moved one tile towards the target tile this turn, gain a tile of movement.
-If you have moved at least two tiles towards the target tile this turn, gain two tiles of movement instead.
-
-Next, compute how far the tile is away from your current location.
-Note that if your current tile and the target tile are on different height tiers, ranges are measured differently, as described in the rules on height tiers.
-Jumping up height tiers is harder, and jumping down is easier.
-
-Then, spend tiles of movement, to a maximum of the range of the target tile:
-
-- if you have enough movement, move to the target tile, avoiding any ground effects between you and that tile
-- if you are one short, spend all movement to move to the targeted tile, avoiding any ground effects between you and that tile but are knocked prone
-- if you are more than one short, spend all movement to land a distance away from your starting position equal to the tiles of movement spent
-
-Take any falling damage, although you have advantage on the Agility(Athletics) skill check made to reduce it.
-
-If the tile is occupied by a creature whose tile you cannot enter (such as most enemies), immediately make a melee Shove attack against the creature in that tile.
-If you hit, you must either knock them prone or push them out of your way.
-If you miss or cannot clear enough space, they automatically hit you with a melee Shove attack and must either knock you prone or push you out of the way.
-
-Finally, you may spend any remaining tiles of movement.
+1. Building up momentum helps you jump further:
+   1. If you have moved exactly one tile towards the target tile this turn, gain a tile of movement.
+   1. If you have moved at least two tiles towards the target tile this turn, gain two tiles of movement instead.
+2. Spend tiles of movement equal to the distance to your chosen tile.
+   1. Remember that if your current tile and the target tile are on different height tiers, ranges are measured differently, as described in the rules on height tiers. Jumping up height tiers is harder, and jumping down is easier.
+3. Take any falling damage. You have advantage on the Agility(Athletics) skill check made to reduce this falling damage.
+4. If the tile you land in is occupied by a creature whose tile you cannot enter:
+   1. Immediately make a melee Shove attack against the creature in that tile.
+   2. If you hit, you must either knock them prone or push them out of your way.
+   3. If you miss or cannot clear enough space, they automatically hit you with a melee Shove attack and must either knock you prone or push you out of the way.
+5. You may spend any number of remaining tiles of movement.
 
 ## Offense
 
