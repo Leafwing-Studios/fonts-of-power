@@ -75,13 +75,6 @@ You have advantage on Grapple attacks against creatures who are prone.
 Gain the benefits of the Break Grapple action to free yourself from a grapple.
 If you succeed, you may move into an adjacent tile, then immediately make a Grapple attack against the creature that was grappling you.
 
-### Strike (2 AP)
-
-Strike at your target with your currently equipped set of arms.
-Make a basic attack against a creature or object within range of your current arms.
-
-By default, the damage dealt by basic attacks is 1d8 + Prowess.
-
 ### Shove (1 AP)
 
 Make a melee special attack against Prowess against a creature within your zone of control.
@@ -89,17 +82,14 @@ If you hit, you may choose to either knock them prone or push them into an empty
 
 Melee Shove attacks have advantage if you have the high ground, and disadvantage if they have the high ground.
 
+### Strike (2 AP)
+
+Strike at your target with your currently equipped set of arms.
+Make a basic attack against a creature or object within range of your current arms.
+
+By default, basic attacks deal 1d8 + Prowess physical damage.
+
 ## Defense
-
-### Defend (1 AP)
-
-Gain 6 + Presence absorption.
-
-### Ward (1 AP)
-
-The first time before the start of your next turn that you would gain any stacks of an ailment or affliction, ignore all ailments and afflictions that would be applied by that effect.
-
-If you use this action multiple times in a single turn, you prevent a second (or third or..) set of ailments or afflictions from being applied to you.
 
 ### Block (1 AP, reaction)
 
@@ -112,6 +102,16 @@ If you do, make a Prowess (Athletics) skill check:
 
 The efficacy of blocked attacks is halved. Like always, round up.
 
+### Break Grapple (1 AP)
+
+Attempt to break another creature’s hold on a target, ending the grappled status on yourself or another creature within 1 tile of you.
+
+To do so, make an opposed Prowess (Athletics) skill check against the grappling creature. If you succeed, the grapple ends.
+
+### Defend (1 AP)
+
+Gain 6 + Presence absorption.
+
 ### Dodge (1 AP, reaction)
 
 Whenever you would be hit a basic attack, Grapple attack or Shove attack (after seeing the initial results of the attack), you may use the Dodge reaction.
@@ -119,17 +119,17 @@ If you do, make an Agility (Athletics) skill check.
 If your skill check result is greater than or equal to the attack roll that hit you, **dodge** the attack.
 Attacks that you dodge are treated as if the attacker missed.
 
-### Break Grapple (1 AP)
-
-Attempt to break another creature’s hold on a target, ending the grappled status on yourself or another creature within 1 tile of you.
-
-To do so, make an opposed Prowess (Athletics) skill check against the grappling creature. If you succeed, the grapple ends.
-
 ### Treat (1 AP)
 
 Attempt to treat a creature within 1 tile’s injuries and ailments, curing a single ailment or mitigating a single affliction of your choice.
 
 Select a ailment or affliction. If you succeed on a difficulty 10 Focus (Medicine) skill check, remove all stacks of the chosen ailment or half the stacks of the chosen affliction from them.
+
+### Ward (1 AP)
+
+The first time before the start of your next turn that you would gain any stacks of an ailment or affliction, ignore all ailments and afflictions that would be applied by that effect.
+
+If you use this action multiple times in a single turn, you prevent a second (or third or..) set of ailments or afflictions from being applied to you.
 
 ## Utility
 
@@ -192,6 +192,19 @@ You might pull a lever, quickly slash a rope, kick down a door, throw a torch or
 Objects in their environment have their own rules for what using Interact on them does.
 This can be discovered by using Scan.
 
+### Jostle (1 AP)
+
+Choose a creature you are grappling, then either:
+
+- move them into an empty tile within range 2.
+- force them to stand up, then move them into an empty tile within range 1.
+
+If they leave your zone of control, you immediately stop grappling them.
+
+### Let Go (0 AP)
+
+Stop grappling a target you have grappled.
+
 ### Recover (1 AP)
 
 Make a Focus (Endurance) skill check.
@@ -235,16 +248,3 @@ You have disadvantage on this skill check if you are more than 3 tiles away from
 
 Change the set of arms that you currently have equipped.
 This also allows you to completely stow your arms (and have no arms equipped), or draw them when you do not have arms equipped.
-
-### Let Go (0 AP)
-
-Stop grappling a target you have grappled.
-
-### Jostle (1 AP)
-
-Choose a creature you are grappling, then either:
-
-- move them into an empty tile within range 2.
-- force them to stand up, then move them into an empty tile within range 1.
-
-If they leave your zone of control, you immediately stop grappling them.
