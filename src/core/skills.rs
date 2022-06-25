@@ -29,7 +29,7 @@ pub enum SkillCheckOutcome {
     SmashingSuccess,
 }
 
-#[derive(Clone, Copy, Debug, PartialEq, Component)]
+#[derive(Clone, Copy, Debug, PartialEq, Eq, Component)]
 pub struct SkillCheck {
     attribute: Attribute,
     skill: Skill,
