@@ -302,7 +302,7 @@ pub struct DamageRoll {
 
 impl DamageRoll {
     pub fn apply_resistances(&mut self, damage_type: &DamageType, resistances: &Resistances) {
-        let current_damage: Ratio<usize> = Ratio::from_integer(self.roll.result.unwrap() as usize);
+        let current_damage: Ratio<usize> = Ratio::from_integer(self.roll.result.unwrap());
         let new_damage = match damage_type {
             DamageType::Pure(e) => current_damage * resistances.get(e).damage_multiplier(),
             DamageType::Hybrid(e1, e2) => {
