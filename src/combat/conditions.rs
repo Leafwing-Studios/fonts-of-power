@@ -29,7 +29,7 @@ impl Mul<Efficacy> for Afflictions {
     fn mul(mut self, rhs: Efficacy) -> Self {
         for (_k, v) in self.map.iter_mut() {
             let lhs = Ratio::from_integer(*v);
-            *v = (lhs * rhs.val).to_integer() as usize;
+            *v = (lhs * rhs.val).to_integer();
         }
 
         self
@@ -67,7 +67,7 @@ impl Mul<Efficacy> for Ailments {
     fn mul(mut self, rhs: Efficacy) -> Self {
         for (_k, v) in self.map.iter_mut() {
             let lhs = Ratio::from_integer(*v);
-            *v = (lhs * rhs.val).to_integer() as usize;
+            *v = (lhs * rhs.val).to_integer();
         }
 
         self

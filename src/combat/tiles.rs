@@ -13,9 +13,9 @@ impl Mul<Efficacy> for Distance {
 
     fn mul(self, rhs: Efficacy) -> Self {
         let mut new = self.clone();
-        let lhs = Ratio::from_integer(self.val as usize);
+        let lhs = Ratio::from_integer(self.val);
 
-        new.val = (lhs * rhs.val).to_integer() as usize;
+        new.val = (lhs * rhs.val).to_integer();
         new
     }
 }

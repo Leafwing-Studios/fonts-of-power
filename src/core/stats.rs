@@ -142,7 +142,7 @@ impl Mul<Efficacy> for Absorption {
         let lhs = Ratio::from_integer(self.val);
 
         Absorption {
-            val: (lhs * rhs.val).to_integer() as usize,
+            val: (lhs * rhs.val).to_integer(),
         }
     }
 }
