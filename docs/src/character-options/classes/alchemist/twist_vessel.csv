@@ -1,7 +1,0 @@
-"Name","Effect"
-"Splash","2 tile melee cone."
-"Ampule","6 tile range, single target."
-"Coating","Apply to the arms of an adjacent ally, including yourself. The next time they make a single-target basic attack, cast as single target, using their attack roll (against the usual defense)."
-"Trap","Choose a tile within range 2. Create a ground effect that casts the spell when triggered, then removes itself."
-"Potion","Gain the benefit of the Treat action targeting a non-enemy creature. Apply this brew's effect to the creature that you targeted, using the skill check result in place of an attack roll if necessary."
-"Blast","2 tile radius."
