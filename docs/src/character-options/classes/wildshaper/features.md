@@ -141,7 +141,7 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Level:** 10
 
-**Details:** At the start of each of your turns, select two tiles within a six tile radius. Until the start of your next turn, these tiles are adjacent to each other. When travelling between these tiles, they are treated as if they were on the same height tier.
+**Details:** At the start of each of your turns, you may select two shaped tiles within a six tile radius. Until the start of your next turn, these tiles are adjacent to each other. When travelling between these tiles, they are treated as if they were on the same height tier.
 
 Among other things, this means:
 
