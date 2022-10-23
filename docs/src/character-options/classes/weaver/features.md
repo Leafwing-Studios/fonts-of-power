@@ -14,7 +14,9 @@
 
 **Level:** 1
 
-**Details:** 2 AP: Cast a pattern on a single target within a 6 tile range. At the start of each of your turns, you may choose to spend two eseence to **sustain** a pattern that you cast or sustained last turn.
+**Details:** 2 AP: Cast a pattern that you know on a single target within a 6 tile range. At the start of each of your turns, you may choose to spend two eseence to **sustain** a pattern that you cast or sustained last turn.
+
+When yoour concentration breaks, stop sustaining any patterns.
 
 Some patterns are guild-exclusive.
 
@@ -32,7 +34,7 @@ Some patterns are guild-exclusive.
 
 **Level:** 1
 
-**Details:** 1 essence 1 AP to create powerful vantage that lasts until your concentration breaks.
+**Details:** 1 essence, 1 AP: create powerful vantage that lasts until your concentration breaks.
 
 **Powers Known:** 4
 
@@ -64,7 +66,7 @@ Some patterns are guild-exclusive.
 
 **Level:** 4
 
-**Details:** 1 AP: choose a tile within a 3 tile range. At the start of your next turn, you may teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into the empty adjacent tile of their choice.
+**Details:** 1 AP: choose a tile within a 3 tile range. At the start of your next turn, you may teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
 
 **Powers Known:** 5
 
