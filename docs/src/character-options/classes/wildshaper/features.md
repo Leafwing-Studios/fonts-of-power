@@ -137,11 +137,17 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Powers Known:** 6
 
-### Heart of the Wilds
+### Hidden Paths
 
 **Level:** 10
 
-**Details:** Choose an additional terrain type. Can choose to add two terrain types when shaping.
+**Details:** At the start of each of your turns, select two tiles within a six tile radius. Until the start of your next turn, these tiles are adjacent to each other. When travelling between these tiles, they are treated as if they were on the same height tier.
+
+Among other things, this means:
+
+- creatures may move directly from one of these tiles to another, either willingly or via forced movement
+- when calculating ranges (including area of effects), count via this connection if it is shorter
+- when using your wildshaping powers, if both tiles are shaped, their regions are connected
 
 **Powers Known:** 7
 
