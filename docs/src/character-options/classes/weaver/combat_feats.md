@@ -71,3 +71,7 @@
 ## Cocoon
 
 **Effect:** Gain 2 absorption when you cast or sustain a pattern.
+
+## Patience
+
+**Effect** At the end of each of your turns, gain the benefit of the Focus action with advantage for each unspect action point.
