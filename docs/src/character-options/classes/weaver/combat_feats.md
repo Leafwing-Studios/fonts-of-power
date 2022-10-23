@@ -79,3 +79,7 @@
 ## Twinned Patterns
 
 **Effect:** You gain access to the Twinned Patterns action. 3 AP: Cast two copies of the same pattern.
+
+## Snapped Threads
+
+**Effect:** Whenever another creature causes your concentration to break, apply two stacks of an ailment of your choice to them.

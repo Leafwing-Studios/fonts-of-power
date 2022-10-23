@@ -98,11 +98,14 @@ Some patterns are guild-exclusive.
 
 **Powers Known:** 6
 
-### Snapped Threads
+### Power Lines
 
 **Level:** 7
 
-**Details:** Whenever another creature causes your concentration to break, apply two stacks of an ailment of your choice to them.
+**Details:** At the end of each of your turns, roll 1d4 + Presence. For each of your active patterns:
+
+- add that much absorption to any allies in a line between you and the target of that pattern
+- deal that much arcane damage to any enemies in a line between you and the target of that pattern
 
 **Powers Known:** 6
 
