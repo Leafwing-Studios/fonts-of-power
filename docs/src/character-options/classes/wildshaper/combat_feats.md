@@ -81,3 +81,7 @@
 ## Wilderness Management
 
 **Effect:** The range of your Overgrowth class feature is increased to 4 tiles. You may choose to shape these additional powers before your wildshaping powers resolve.
+
+## Chokepoint
+
+**Effect:** When you use your wildshaping powers, you may treat any two tiles as if they were not adjacent for the purpose of defining the connected region.
