@@ -75,3 +75,7 @@
 ## Patience
 
 **Effect** At the end of each of your turns, gain the benefit of the Focus action with advantage for each unspect action point.
+
+## Twinned Patterns
+
+**Effect:** You gain access to the Twinned Patterns action. 3 AP: Cast two copies of the same pattern.

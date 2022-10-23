@@ -134,7 +134,7 @@ Some patterns are guild-exclusive.
 
 **Level:** 10
 
-**Details:** 3 AP: Cast two patterns.
+**Details:** At the end of each of your turns, gain one essence and one AP for each active pattern.
 
 **Powers Known:** 8
 
