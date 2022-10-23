@@ -66,7 +66,7 @@ Some patterns are guild-exclusive.
 
 **Level:** 4
 
-**Details:** 1 AP: choose a tile within a 3 tile range. At the start of your next turn, you may teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
+**Details:** 1 essence, 1 AP: choose a tile within a 4 tile range. At the start of your next turn, you may teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
 
 **Powers Known:** 5
 
