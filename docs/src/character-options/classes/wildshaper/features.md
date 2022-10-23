@@ -40,11 +40,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Powers Known:** 3
 
-### Roots
+### Deep Roots
 
 **Level:** 1
 
-**Details:** At the end of each of your turns, regain 1 essence if you're on your terrain.
+**Details:** At the end of each of your turns, regain 1 essence if you're on a tile that you shaped.
 
 **Powers Known:** 3
 
