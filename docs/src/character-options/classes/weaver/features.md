@@ -16,7 +16,11 @@
 
 **Details:** 2 AP: Cast a pattern that you know on a single target within a 6 tile range. At the start of each of your turns, you may choose to spend two eseence to **sustain** a pattern that you cast or sustained last turn.
 
-When yoour concentration breaks, stop sustaining any patterns.
+Patterns end when:
+
+- you choose to stop sustaining them
+- your target is more than 12 tiles away from you
+- your concentration breaks
 
 Some patterns are guild-exclusive.
 
