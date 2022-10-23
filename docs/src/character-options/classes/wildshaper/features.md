@@ -108,7 +108,7 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Level:** 7
 
-**Details:** You can shape any tile adjacent to an already shaped tile with Overgrowth.
+**Details:** When you gain the effects of your Overgrowth class feature, you may instead choose to select any tile adjacent to an already shaped tile.
 
 **Powers Known:** 5
 
