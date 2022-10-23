@@ -137,7 +137,7 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Powers Known:** 6
 
-### Hidden Paths
+### Paths Unseen
 
 **Level:** 10
 
