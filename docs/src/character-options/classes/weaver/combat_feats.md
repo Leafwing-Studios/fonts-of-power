@@ -74,7 +74,7 @@
 
 ## Patience
 
-**Effect** At the end of each of your turns, gain the benefit of the Focus action with advantage for each unspect action point.
+**Effect** At the end of each of your turns, for each unspent action point, gain the benefit of the Focus action with advantage.
 
 ## Twinned Patterns
 
@@ -83,3 +83,13 @@
 ## Snapped Threads
 
 **Effect:** Whenever another creature causes your concentration to break, apply two stacks of an ailment of your choice to them.
+
+## Power Surge
+
+**Prerequisites:** Power Lines class feature
+
+**Effect:** Your Power Lines class feature also applies to all creatures on your Fabric of Reality vantages.
+
+## Reality Shaper
+
+**Effect:** At the start of each of your turns, you may choose to gain the benefits of either your Fabric of Reality and Step through the Weave class features.
