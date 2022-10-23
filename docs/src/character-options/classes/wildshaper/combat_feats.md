@@ -30,7 +30,11 @@
 
 ## Natural Immunity
 
-**Effect:** Ignore the tile effects of your own terrain.
+**Effect:** Ignore any tile effects caused by your own terrain.
+
+## One with the Wilds
+
+**Effect:** You may choose to ignore the effects of any of your wildshaping powers.
 
 ## Tenacious Growth
 
@@ -64,8 +68,16 @@
 
 ## Secret Paths
 
-**Effect:** 3 essence: Teleport from a tile of your terrain to any other tile of your terrain within range 6. Uses all three uses of Wildshaping. Can choose to activate Overgrowth before or after moving, but always occurs after targeting.
+**Effect:** 3 essence: Teleport from a tile of your terrain to any other tile of your terrain within range 6. This consumes three uses of Wildshaping. You may choose to activate Overgrowth before or after moving.
 
 ## Elemental Mastery
 
 **Effect:** You ignore resistance to elemental damage and treat immunity to elemental damage as if it was only resistance.
+
+## Unchecked Growth
+
+**Effect:** You may use your Wildshaping class feature up to five times each turn, rather than three.
+
+## Wilderness Management
+
+**Effect:** The range of your Overgrowth class feature is increased to 4 tiles. You may choose to shape these additional powers before your wildshaping powers resolve.
