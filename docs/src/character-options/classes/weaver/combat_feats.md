@@ -93,3 +93,11 @@
 ## Reality Shaper
 
 **Effect:** At the start of each of your turns, you may choose to gain the benefits of either your Fabric of Reality and Step through the Weave class features.
+
+## Singular Vision
+
+**Effect:** You can no longer cast patterns as an action. At the start of your turn, if you are not sustaining any patterns, cast a pattern of your choice.
+
+If you are sustaining at least one pattern, cast a copy of the same pattern on a target already affected by that pattern. This ignores range and line of sight limitations.
+
+You cannot sustain more than one type of pattern at once.
