@@ -1,19 +1,7 @@
-## Shaping
-**AP:** 0
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** 3
-
-**Type:** None
-
-**Target:** NA
-
-**Effect:** Shape or unshape 1 tile.
+# Wildshapings
 
 ## Winds
+
 **AP:** 0
 
 **Essence:** 1
@@ -29,6 +17,7 @@
 **Effect:** Make a Shove attack. Must choose same direction for all targets.
 
 ## Shelter
+
 **AP:** 0
 
 **Essence:** 1
@@ -44,6 +33,7 @@
 **Effect:** Grant 6 + Presence absorption.
 
 ## Respite
+
 **AP:** 0
 
 **Essence:** 1
@@ -59,6 +49,7 @@
 **Effect:** Use Treat.
 
 ## Hostility
+
 **AP:** 0
 
 **Essence:** 1
@@ -74,6 +65,7 @@
 **Effect:** 1d6 + Presence damage, half on miss.
 
 ## Hardship
+
 **AP:** 0
 
 **Essence:** 1
@@ -89,6 +81,7 @@
 **Effect:** 6 + Presence stacks of affliction, half on miss.
 
 ## Ruin
+
 **AP:** 0
 
 **Essence:** 1
@@ -104,6 +97,7 @@
 **Effect:** 2 stacks of ailment, half on miss.
 
 ## Resistance
+
 **AP:** 0
 
 **Essence:** 1
@@ -119,6 +113,7 @@
 **Effect:** Becomes difficult terrain until end of your next turn.
 
 ## Blight
+
 **AP:** 0
 
 **Essence:** 1
@@ -134,6 +129,7 @@
 **Effect:** Remove all tile effects until end of your next turn.
 
 ## Upheaval
+
 **AP:** 0
 
 **Essence:** 1
@@ -147,4 +143,3 @@
 **Target:** NA
 
 **Effect:** Choose a direction. Move all shaped tiles over one tile if able, starting at the far edge.
-

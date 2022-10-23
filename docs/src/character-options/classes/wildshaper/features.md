@@ -22,7 +22,13 @@
 
 **Level:** 1
 
-**Details:** 1 essence: modify shaped tile and all connected shaped tiles in some way. Up to 3 times per turn. These tiles stay shaped until the end of combat. Other creatures can use Interact to clear an adjacent tile. Always know Shaping power. Can create terrain during Shape downtime activity with Anima skill check.
+**Details:** 0 AP, 1 essence: Pick a tile within a 6 tile range and choose one:
+
+- Shape it, causing it to gain the tile effect specified by your choice of terrain.
+- Unshape it, removing this tile effect.
+- Use a **wildshaping** that you know. If the tile is shaped, apply an effect in that tile and all connected shaped tile according to the selected power.
+
+Tiles stay shaped until the end of combat. Other creatures may clear a single adjacent tile via the Interact action.
 
 **Powers Known:** 3
 
