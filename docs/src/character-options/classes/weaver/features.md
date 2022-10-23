@@ -22,7 +22,7 @@
 
 **Level:** 1
 
-**Details:** 1 essence to swap target of pattern.
+**Details:** At the start of each of your turns, you may swap the target of one of your patterns to another target within range 2 of the previous target.
 
 **Powers Known:** 4
 
