@@ -36,7 +36,7 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Level:** 1
 
-**Details:** Whenever you spend essence, shape 1 new tile per essence spent within a 3 tile range.
+**Details:** Whenever you spend essence, if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
 
 **Powers Known:** 3
 
