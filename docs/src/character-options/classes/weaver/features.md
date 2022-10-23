@@ -14,7 +14,9 @@
 
 **Level:** 1
 
-**Details:** 2 AP to cast, 2 essence to sustain. Any number can be sustained. Some patterns are guild-exclusive.
+**Details:** 2 AP: Cast a pattern on a single target within a 6 tile range. At the start of each of your turns, you may choose to spend two eseence to **sustain** a pattern that you cast or sustained last turn.
+
+Some patterns are guild-exclusive.
 
 **Powers Known:** 4
 
