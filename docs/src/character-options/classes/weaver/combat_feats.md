@@ -74,7 +74,7 @@
 
 ## Patience
 
-**Effect** At the end of each of your turns, for each unspent action point, gain the benefit of the Focus action with advantage.
+**Effect** At the end of each of your turns, for each unspent action point, gain the benefit of the Recover action with advantage.
 
 ## Twinned Patterns
 
