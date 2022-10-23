@@ -26,7 +26,8 @@
 
 - Shape it, causing it to gain the tile effect specified by your choice of terrain.
 - Unshape it, removing this tile effect.
-- Use a **wildshaping** that you know. If the tile is shaped, apply an effect in that tile and all connected shaped tile according to the selected power.
+
+If the tile is shaped and within a 3 tile range, you may instead use a **wildshaping** that you know. Wildshapings apply an effect in the selected tile and all connected shaped tiles of the same type.
 
 Tiles stay shaped until the end of combat. Other creatures may clear a single adjacent tile via the Interact action.
 
@@ -72,11 +73,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Powers Known:** 4
 
-### Locus
+### Locus of Power
 
 **Level:** 4
 
-**Details:** Whenever you use a Wildshaping power, you may choose to target only a single tile. Count the number of tiles in the connected area. Gain the shaping's effects once for every ten shaped tiles in that area, rounded up.
+**Details:** Whenever you use a Wildshaping power, you may choose to target only a single tile. Count the number of tiles in the connected area. Gain the shaping's effects once for every six shaped tiles in that area, rounded up.
 
 **Powers Known:** 4
 
