@@ -134,7 +134,9 @@ Some patterns are guild-exclusive.
 
 **Level:** 10
 
-**Details:** At the end of each of your turns, gain one essence and one AP for each active pattern.
+**Details:** When you choose to sustain a pattern, you may choose to spend 2 additional essence to duplicate it on the same target.
+
+At the end of each of your turns, gain one essence for each active pattern.
 
 **Powers Known:** 8
 
