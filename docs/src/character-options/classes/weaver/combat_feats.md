@@ -97,3 +97,11 @@
 If you are sustaining at least one pattern, cast a copy of the same pattern on a target already affected by that pattern. This ignores range and line of sight limitations.
 
 You cannot sustain more than one type of pattern at once.
+
+## Thread Twisting
+
+**Effect:** At the start of each of your turns, you may swap the target of one of your patterns to another target within range 2 of the previous target.
+
+## Threadbound
+
+**Effect:** Whenever you successfully treat an ally, you may spend 1 essence. If you do, that ally may, as a reaction, use your Fabric of Reality feature by spending 1 AP.

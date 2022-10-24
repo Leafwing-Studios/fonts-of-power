@@ -26,11 +26,11 @@ Some patterns are guild-exclusive.
 
 **Powers Known:** 4
 
-### Thread Twisting
+### PASSIVE
 
 **Level:** 1
 
-**Details:** At the start of each of your turns, you may swap the target of one of your patterns to another target within range 2 of the previous target.
+**Details:** When you successfully Treat a creature, you may make an Agility (Fontcraft) skill check with advantage. The result of that roll is **stored** on that creature. At any time, that creature may use the stored result in place of any other skill check or attack roll (after seeing the roll). Creatures may only have one result stored at a time. Using this feature again on a creature with a stored result replaces the original result.
 
 **Powers Known:** 4
 
@@ -38,7 +38,7 @@ Some patterns are guild-exclusive.
 
 **Level:** 1
 
-**Details:** 1 essence, 1 AP: create powerful vantage that lasts until your concentration breaks.
+**Details:** 1 essence, 1 AP: ???
 
 **Powers Known:** 4
 
@@ -68,11 +68,16 @@ TODO 2022-10-23: Add guidelines for information gained from this skill check. Ma
 
 **Powers Known:** 5
 
-### Step through the Weave
+### Power Lines
 
 **Level:** 4
 
-**Details:** 1 essence, 1 AP: choose a tile within a 4 tile range. At the start of your next turn, you must teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
+**Details:** At the end of each of your turns, roll 1d4 + Presence. For each of your active patterns:
+
+- add that much absorption to any allies in a line between you and the target of that pattern
+- deal that much arcane damage to any enemies in a line between you and the target of that pattern
+
+Creatures can only be affected by this ability once, regardless of how many power lines they are standing on.
 
 **Powers Known:** 5
 
@@ -100,16 +105,11 @@ TODO 2022-10-23: Add guidelines for information gained from this skill check. Ma
 
 **Powers Known:** 6
 
-### Power Lines
+### TACTICS
 
 **Level:** 7
 
-**Details:** At the end of each of your turns, roll 1d4 + Presence. For each of your active patterns:
-
-- add that much absorption to any allies in a line between you and the target of that pattern
-- deal that much arcane damage to any enemies in a line between you and the target of that pattern
-
-Creatures can only be affected by this ability once, regardless of how many power lines they are standing on.
+**Details:** ???
 
 **Powers Known:** 6
 
@@ -163,9 +163,9 @@ Your patterns only cost 1 essence to sustain.
 
 ### Space
 
-#### Fabric of Reality: Wrinkle in the Weave
+#### Fabric of Reality: Step through the Weave
 
-**Effect:** 1 AP, 1 essence: Pick a tile within range 3 to create a portal. If no portals are active, pick two tiles instead. Creatures in one can teleport to any other portal by using Interact action. Lasts until you lose your concentration.
+**Effect:** 1 essence, 1 AP: choose a tile within a 4 tile range. At the start of your next turn, you must teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
 
 ### Time
 
