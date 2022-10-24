@@ -48,6 +48,8 @@ Some patterns are guild-exclusive.
 
 **Details:** You can sense the presence or absence of magic on any item, creature or object that you can clearly see. Learning the nature of this magic requires a successful Expertise (Fontcraft) skill check.
 
+TODO 2022-10-23: Add guidelines for information gained from this skill check. Maybe we can make this a core part of the Fontcraft skill? Maybe instead we do a "number of questions" style design like with Scan.
+
 **Powers Known:** 5
 
 ### Attribute Improvement
@@ -70,7 +72,7 @@ Some patterns are guild-exclusive.
 
 **Level:** 4
 
-**Details:** 1 essence, 1 AP: choose a tile within a 4 tile range. At the start of your next turn, you may teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
+**Details:** 1 essence, 1 AP: choose a tile within a 4 tile range. At the start of your next turn, you must teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
 
 **Powers Known:** 5
 
@@ -107,6 +109,8 @@ Some patterns are guild-exclusive.
 - add that much absorption to any allies in a line between you and the target of that pattern
 - deal that much arcane damage to any enemies in a line between you and the target of that pattern
 
+Creatures can only be affected by this ability once, regardless of how many power lines they are standing on.
+
 **Powers Known:** 6
 
 ### Read the Weave
@@ -139,7 +143,7 @@ Some patterns are guild-exclusive.
 
 **Details:** When you choose to sustain a pattern, you may choose to spend 2 additional essence to duplicate it on the same target.
 
-At the end of each of your turns, gain one essence for each active pattern.
+Your patterns only cost 1 essence to sustain.
 
 **Powers Known:** 8
 
@@ -161,7 +165,7 @@ At the end of each of your turns, gain one essence for each active pattern.
 
 #### Fabric of Reality: Wrinkle in the Weave
 
-**Effect:** 1 AP, 1 essence: Pick two tiles within range 3 to create portals. Creatures in one can teleport to any other portal by using Interact action. Lasts until you lose your concentration.
+**Effect:** 1 AP, 1 essence: Pick a tile within range 3 to create a portal. If no portals are active, pick two tiles instead. Creatures in one can teleport to any other portal by using Interact action. Lasts until you lose your concentration.
 
 ### Time
 
