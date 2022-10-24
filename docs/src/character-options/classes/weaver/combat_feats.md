@@ -10,7 +10,7 @@
 
 ## Web Weaving
 
-**Effect:** You may choose to cast suspended patterns for 1 AP (1 essence to suspend) between two creatures or objects (including walls) that are seperated by at most 3 tiles. These have no immediate effect. The first time that a creature passes between these objects, immediately apply the suspended pattern to that creature.
+**Effect:** Gain the Suspend action. 1AP: Choose two creatures or objects (including walls) that are seperated by no more than 3 tiles, and choose a pattern to Suspend between them. The first time a creature other than yourself passes between the two objects, immediately apply the chosen pattern to them, and begin sustaining it.
 
 ## Dance through the Weave
 
@@ -50,7 +50,7 @@
 
 ## Tangled Web
 
-**Effect:** The range of your Patterns is reduced to 2 tiles, and their max range is reduced to 4 tiles. You have advantage on all concentration skill checks, and weaving new patterns only costs 1 AP.
+**Effect:** The range of your Patterns is reduced to 2 tiles, and their max range is reduced to 4 tiles. Weaving new patterns only costs 1 AP.
 
 ## Judicious Technique
 
@@ -71,10 +71,6 @@
 ## Cocoon
 
 **Effect:** Gain 2 absorption when you cast or sustain a pattern.
-
-## Patience
-
-**Effect** At the end of each of your turns, for each unspent action point, gain the benefit of the Recover action with advantage.
 
 ## Twinned Patterns
 
