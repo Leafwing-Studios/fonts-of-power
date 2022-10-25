@@ -4,33 +4,25 @@
 
 **Effect:** At the start of your turn, you may choose a creature that you are sustaining a pattern on and either pull yourself one tile closer to them, or make a Prowess attack against them, pulling them one tile closer to you if you hit.
 
-## Power Lines
-
-**Effect:** When you cast a pattern, if the target is in a line between you and an existing pattern, refund 1 AP. You cannot cast more than one pattern in a turn.
-
 ## Web Weaving
 
 **Effect:** Gain the Suspend action. 1AP: Choose two creatures or objects (including walls) that are seperated by no more than 3 tiles, and choose a pattern to Suspend between them. The first time a creature other than yourself passes between the two objects, immediately apply the chosen pattern to them, and begin sustaining it.
 
 ## Dance through the Weave
 
-**Prerequisites:** Step Through the Weave
+**Prerequisites:** Space weaver
 
-**Effect:** When you teleport with Walk Through the Weave, immediately gain its effect for free targeting the tile you came from.
+**Effect:** When you teleport with Walk Through the Weave, you may immediately gain its effect for free targeting the tile you came from.
 
 ## Branching Fate
 
-**Prerequisites:** Step Through the Weave
+**Prerequisites:** Space weaver
 
-**Effect:** You may pick a second teleportation location for Walk Through The Weave.
+**Effect:** You may pick a second teleportation location for Walk Through The Weave. When the effect resolves, choose which location to teleport to.
 
 ## Desperate Focus
 
 **Effect:** Whenever you make a concentration skill check, you may choose to gain any number of stacks of exhaustion after you see the result. Add 5 times the number of exhaustion stacks gained to your skill check result.
-
-## Stubborn Thread
-
-**Effect:** Whenever you lose your concentration, choose one of your patterns to keep.
 
 ## Trailing Threads
 
@@ -56,25 +48,13 @@
 
 **Effect:** Whenever you choose to let a pattern lapse, regain 2 essence.
 
-## Fold in the Weave
-
-**Effect:** 1 AP, 1 essence: Create or destroy a 1 tile height tier one block within range 6. Only removed when you lose your concentration.
-
-## Tear in the Weave
-
-**Effect:** 1 AP, 1 essence: Eliminate a wall or object and all tile effects in a tile within range 6 until you lose your concentration. Creatures harmlessly pushed aside when ends.
-
-## Knot in the Weave
-
-**Effect:** 1 AP, 1 essence: Pick two tiles within range 3 to create portals. Creatures in one can teleport to any other portal by using Interact action. Lasts until you lose your concentration.
-
 ## Cocoon
 
 **Effect:** Gain 2 absorption when you cast or sustain a pattern.
 
 ## Twinned Patterns
 
-**Effect:** You gain access to the Twinned Patterns action. 3 AP: Cast two copies of the same pattern.
+**Effect:** You gain access to the Twinned Patterns action. 3 AP: Cast two copies of the same pattern on different targets.
 
 ## Snapped Threads
 
@@ -85,10 +65,6 @@
 **Prerequisites:** Power Lines class feature
 
 **Effect:** Your Power Lines class feature also applies to all creatures on your Fabric of Reality vantages.
-
-## Reality Shaper
-
-**Effect:** At the start of each of your turns, you may choose to gain the benefits of either your Fabric of Reality and Step through the Weave class features.
 
 ## Singular Vision
 
@@ -104,7 +80,7 @@ You cannot sustain more than one type of pattern at once.
 
 ## Threadbound
 
-**Effect:** Whenever you successfully treat an ally, you may spend 1 essence. If you do, that ally may, as a reaction, use your Fabric of Reality feature by spending 1 AP.
+**Effect:** Whenever you use the Treat action, you may spend 1 essence. If you do, the target of that action may, as a reaction, use your Fabric of Reality feature by spending 1 AP.
 
 ## Hanging by a Thread
 
