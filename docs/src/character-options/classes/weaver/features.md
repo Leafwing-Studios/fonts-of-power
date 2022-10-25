@@ -30,7 +30,9 @@ Some patterns are guild-exclusive.
 
 **Level:** 1
 
-**Details:** When you successfully Treat a creature, you may make an Agility (Fontcraft) skill check with advantage. The result of that roll is **stored** on that creature. At any time, that creature may use the stored result in place of any other skill check or attack roll (after seeing the roll). Creatures may only have one result stored at a time. Using this feature again on a creature with a stored result replaces the original result.
+**Details:** When you successfully Treat a creature, you may make an Agility (Fontcraft) skill check with advantage. The result of that roll is **stored** on that creature. At any time, that creature may use the stored result in place of any other skill check or attack roll (after seeing the roll).
+
+Creatures may only have one result stored at a time. Using this feature again on a creature with a stored result replaces the original result.
 
 **Powers Known:** 4
 
