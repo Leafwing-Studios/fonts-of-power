@@ -105,3 +105,7 @@ You cannot sustain more than one type of pattern at once.
 ## Threadbound
 
 **Effect:** Whenever you successfully treat an ally, you may spend 1 essence. If you do, that ally may, as a reaction, use your Fabric of Reality feature by spending 1 AP.
+
+## Hanging by a Thread
+
+**Effect:** Whenever you lose your concentration, you may choose to retain a single pattern of your choice.
