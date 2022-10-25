@@ -14,19 +14,19 @@
 
 **Level:** 1
 
-**Details:** 2 AP: Cast a pattern that you know on a single target within a 6 tile range. At the start of each of your turns, you may choose to spend two eseence to **sustain** a pattern that you cast or sustained last turn.
+**Details:** 2 AP: Cast a pattern that you know on a single target within a 4 tile range. At the start of each of your turns, you may choose to spend two eseence to **sustain** a pattern that you cast or sustained last turn.
 
 Patterns end when:
 
 - you choose to stop sustaining them
-- your target is more than 12 tiles away from you
+- your target is more than 8 tiles away from you
 - your concentration breaks
 
 Some patterns are guild-exclusive.
 
 **Powers Known:** 4
 
-### PASSIVE
+### Patchwork
 
 **Level:** 1
 
@@ -81,11 +81,11 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 **Powers Known:** 5
 
-### Reality Weaving
+### Guild: Reality Weaving
 
 **Level:** 5
 
-**Details:** When you use the Shape downtime activity and select Fontcraft as the skill, you can create permanent versions of your guild vantage.
+**Details:** Gain access to a downtime activity defined by your guild.
 
 **Powers Known:** 6
 
@@ -105,11 +105,11 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 **Powers Known:** 6
 
-### TACTICS
+### Quiltwork
 
 **Level:** 7
 
-**Details:** ???
+**Details:** At the start of each of your turns, you may choose a creature within 4 tiles. If you do, they gain the benefits of your Patchwork feature.
 
 **Powers Known:** 6
 
@@ -151,24 +151,40 @@ Your patterns only cost 1 essence to sustain.
 
 ### Making
 
-#### Fabric of Reality: Bunch in the Weave
+#### Fabric of Reality: Replicate
 
-**Effect:** 1 AP, 1 essence: Create a 1 tile height tier one block within range 6. Only removed when you lose your concentration. Lifts creatures up if created underneath them.
+**Effect:** 1 AP, 1 essence: Create a 1 tile block within range 4. These can be destroyed via the Interact action.
+
+#### Reality Weaving: Fabrication
+
+**Effect:** Fabricate downtime activity. Make an appropriate skill check. You do not require materials or tools. Fixed limit on size of creation, provide a difficulty table for the complexity of the thing, non-magical items only.
 
 ### Unmaking
 
-#### Fabric of Reality: Tear in the Weave
+#### Fabric of Reality: Unravel
 
-**Effect:** 1 AP, 1 essence: Eliminate a wall or object or all tile effects in a tile within range 6 until you lose your concentration. Creatures harmlessly pushed aside when ends.
+**Effect:** 1 AP, 1 essence: become invisible until the start of your next turn. Gain the benefits of the Hide action.
+
+#### Reality Weaving: Annhilate
+
+**Effect:** Downtme activity: completely destroy up to 3 cubic meters of solid material. If the material is magically imbued, you must pass an appropriate skill check. The difficulty of this skill check is determined by the power level of the item. Make a table for this.
 
 ### Space
 
 #### Fabric of Reality: Step through the Weave
 
-**Effect:** 1 essence, 1 AP: choose a tile within a 4 tile range. At the start of your next turn, you must teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
+**Effect:** 1 AP, 1 essence: choose a tile within a 4 tile range. At the start of your next turn, you must teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
+
+#### Reality Weaving: Warp and Weft
+
+**Effect:** Downtime activity: mark a location as a place you can teleport to, or teleport your entire party to an existing marked location.
 
 ### Time
 
-#### Fabric of Reality: Knot in the Weave
+#### Fabric of Reality: Buying Time
 
-**Effect:** 1 AP, 1 essence: Create 1 tile time-stop bubble within range 6. Ailments, afflictions and absorption do not reduce / reset within that tile effect.
+**Effect:** 1 AP, 1 essence: as a reaction whenever you would suffer an attack, completely delay its effects. At the end of your next turn, you suffer those effects. If you delay multiple attacks in this way, they resolve in the order of your choice, they only test your concentration once, and can be blocked or dodged as a single attack.
+
+#### Reality Weaving: Memories in the Weave
+
+**Effect:** Downtime activity. View the full past history of an item or location of your choice. You see only the state of the item at each point in time, but not any creature interacting with it.

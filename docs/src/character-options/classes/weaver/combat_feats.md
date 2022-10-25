@@ -52,9 +52,9 @@
 
 **Effect:** The range of your Patterns is reduced to 2 tiles, and their max range is reduced to 4 tiles. Weaving new patterns only costs 1 AP.
 
-## Judicious Technique
+## Thrifty
 
-**Effect:** Whenever you choose to let a pattern lapse, gain the benefit of the Recover action.
+**Effect:** Whenever you choose to let a pattern lapse, regain 2 essence.
 
 ## Fold in the Weave
 
