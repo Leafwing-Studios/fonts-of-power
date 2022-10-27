@@ -14,7 +14,7 @@
 
 **Level:** 1
 
-**Details:** Choose a terrain, element, ailment and affliction. Wildshaping powers take on those effects.
+**Details:** Choose a terrain, elemental damage type, ailment and affliction. Wildshaping powers take on those effects.
 
 **Powers Known:** 3
 
@@ -37,7 +37,7 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Level:** 1
 
-**Details:** After you spend essence, if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
+**Details:** After you spend essence other than to unshape a tile, if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
 
 **Powers Known:** 3
 
