@@ -1,5 +1,20 @@
 # Paragon
 
+## Powers Known
+
+|   Level   | Powers Known |
+|:-----:|:-----:|
+|   1   |   3   |
+|   2   |   4   |
+|   3   |   4   |
+|   4   |   4   |
+|   5   |   5   |
+|   6   |   5   |
+|   7   |   5   |
+|   8   |   6   |
+|   9   |   6   |
+|   10   |   7   |
+
 ## Features
 
 ### Feats
@@ -7,112 +22,80 @@
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
-**Powers Known:** 3
-
 ### Auras
 **Level:** 1
 
 **Details:** 2 tile radius tile effects. 0 AP once per turn to toggle, 1/3/6 essence drain at end of turn. Up to 3 active, duplicates allowed. If you don't have enough essence to pay cost, disable all auras.
-
-**Powers Known:** 3
 
 ### Ideal: Stand Your Ground
 **Level:** 1
 
 **Details:** At the start of your turn, decide. Until the start of your next turn, you cannot take movement actions, are immune to forced movement, cannot be knocked prone. Gain an additional benefit based on your ideal.
 
-**Powers Known:** 3
-
 ### Shield of Faith
 **Level:** 1
 
 **Details:** Whenever you sucessfully block, grant the ally (including yourself) with the lowest life within a 2 tile range 2 absorption.
-
-**Powers Known:** 3
 
 ### Conviction
 **Level:** 2
 
 **Details:** When attempting to convince someone to act to directly benefit your Cause, you have advantage on all Guidance and Charm skill checks made.
 
-**Powers Known:** 4
-
 ### Attribute Improvement
 **Level:** 3
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 4
-
 ### Feats
 **Level:** 3
 
 **Details:** Gain a new combat feat and a new exploration feat.
-
-**Powers Known:** 4
 
 ### Unsassailable
 **Level:** 4
 
 **Details:** When you the Block action, you can choose to reroll the skill check after seeing the result. If you do, you must use new result.
 
-**Powers Known:** 4
-
 ### Consecrate
 **Level:** 5
 
 **Details:** You gain access to the Consecrate downtime activity, along you to modify an area to reflect your beliefs until the end of your next rest.
-
-**Powers Known:** 5
 
 ### Attribute Improvement
 **Level:** 6
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 5
-
 ### Feats
 **Level:** 6
 
 **Details:** Gain a new combat feat and a new exploration feat.
-
-**Powers Known:** 5
 
 ### Rallying Blow
 **Level:** 7
 
 **Details:** Whenever you hit a creature with an attack that cost at least one AP, each ally within a 2 tile radius of you may make an attack of opportunity against that creature.
 
-**Powers Known:** 5
-
 ### Redemption
 **Level:** 8
 
 **Details:** Downtime activity: Make a difficulty 25 Presence (Guidance) skill check targeting an NPC, adding their loyalty towards you to the skill check result. If you succeed, their value in your chosen Ideal permanently changes by 1. This skill check benefits from your Conviction feature. If you fail this skill check by 10 or more their loyalty towards you decreases by 1.
-
-**Powers Known:** 6
 
 ### Attribute Improvement
 **Level:** 9
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 6
-
 ### Feats
 **Level:** 9
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
-**Powers Known:** 6
-
 ### Ideal: Apotheosis
 **Level:** 10
 
 **Details:** While you have 3 auras active, gain a powerful personal buff based on your subclass.
-
-**Powers Known:** 7
 
 ## Ideals
 
