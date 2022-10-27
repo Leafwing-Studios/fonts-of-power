@@ -56,7 +56,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and move to an empty adjacent tile.
+**Effect:** Weapon's effect at half efficacy and you may move to an empty adjacent tile.
 
 ## Guard
 **AP:** 2
@@ -147,8 +147,3 @@
 **Target:** Single target
 
 **Effect:** Weapon's effect at half efficacy and knocking prone.
-
-## 
-## 
-## 
-## 

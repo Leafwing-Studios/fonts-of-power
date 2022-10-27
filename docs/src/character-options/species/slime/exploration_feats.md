@@ -23,7 +23,7 @@
 ## Opaque
 **Effect:** Objects within your body are concealed from view.
 
-## Katamari
+## Accidental Stockpile
 **Prerequisites:** Sticky subspecies
 
 **Effect:** At the start of each rest, if your size is 1 or greater, you may gain the benefits of the Resupply downtime activity with disadvantage. If you do, become one tile smaller. If you don't, become one tile larger.
