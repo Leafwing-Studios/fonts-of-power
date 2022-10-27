@@ -31,17 +31,31 @@
 
 ### Forethought
 
+<<<<<<< HEAD
+=======
+### Forethought
+
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 **Level:** 1
 
 **Details:** The first time each turn (including other creatures' turns) that you spend AP, you may spend essence up to the amount of AP spent. If you do, regain 1 AP per essence spent.
 
 ### Counterattacks
 
+<<<<<<< HEAD
+=======
+### Counterattacks
+
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 **Level:** 1
 
 **Details:** Variable AP 0 essence actions that can only be used as AoO. Weapon attacks, but use Expertise and Presence instead of Agility and Prowess and target special defenses.
 
+<<<<<<< HEAD
 ### Watch My Back
+=======
+### Precisely Planned
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 
 **Level:** 1
 
@@ -51,6 +65,11 @@
 
 ### Skill Memory
 
+<<<<<<< HEAD
+=======
+### Skill Memory
+
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 **Level:** 2
 
 **Details:** After you make a skill check, you may make a difficulty 10 Presence (Charm) skill check to convince your weapon to guide you. On a success, you may treat your result as if you were proficient in that skill. If you fail the Presence (Charm) skill check to use this ability, you cannot use it again until you complete a rest.
@@ -59,21 +78,33 @@
 
 ### Attribute Improvement
 
+<<<<<<< HEAD
+=======
+### Attribute Improvement
+
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 **Level:** 3
 
 **Details:** Increase one Attribute of your choice by 1.
 
+<<<<<<< HEAD
 **Powers Known:** 4
 
+=======
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 ### Feats
 
 **Level:** 3
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
+<<<<<<< HEAD
 **Powers Known:** 4
 
 ### Weapon Bond: Bloodied
+=======
+### One Step Ahead
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 
 **Level:** 4
 
@@ -83,6 +114,11 @@
 
 ### Lead the Way
 
+<<<<<<< HEAD
+=======
+### Lead the Way
+
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 **Level:** 5
 
 **Details:** As a downtime activity, you may ask your weapon the direction to a specific creature, location or object. If you pass a difficulty 15 Focus (Insight) skill check, your bonded arms point the way to them until the end of your next rest, even if they move.
@@ -91,21 +127,33 @@
 
 ### Attribute Improvement
 
+<<<<<<< HEAD
+=======
+### Attribute Improvement
+
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 **Level:** 6
 
 **Details:** Increase one Attribute of your choice by 1.
 
+<<<<<<< HEAD
 **Powers Known:** 5
 
+=======
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 ### Feats
 
 **Level:** 6
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
+<<<<<<< HEAD
 **Powers Known:** 5
 
 ### One Step Ahead
+=======
+### Superior Positioning
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 
 **Level:** 7
 
@@ -115,6 +163,11 @@
 
 ### Second Thought
 
+<<<<<<< HEAD
+=======
+### Second Thought
+
+>>>>>>> c74b626 (Fixing markdown lints in features.md, which also fixes making things look more like Paragon's feature.md.)
 **Level:** 8
 
 **Details:** You have advantage on all Insight skill checks.
