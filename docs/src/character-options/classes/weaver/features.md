@@ -139,13 +139,11 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 **Powers Known:** 7
 
-### Tapestry
+### Handiwork
 
 **Level:** 10
 
-**Details:** When you choose to sustain a pattern, you may choose to spend 2 additional essence to duplicate it on the same target.
-
-Your patterns only cost 1 essence to sustain.
+**Details:** The first pattern you cast each turn costs one less action point.
 
 **Powers Known:** 8
 
