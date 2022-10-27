@@ -41,11 +41,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Powers Known:** 3
 
-### Deep Roots
+### Land's Connection
 
 **Level:** 1
 
-**Details:** At the end of each of your turns, regain 1 essence if you're on a tile that you shaped.
+**Details:** While you are on your own shaped terrain, you may treat any connected tiles as if they were adjacent for the purpose of the Strike, Treat and Shove actions. This does not increase your zone of control.
 
 **Powers Known:** 3
 
