@@ -70,3 +70,7 @@
 ## Rolling
 **Effect:** While prone, the effects of forced movement against you is doubled. Gradual slopes have a triggered tile effect for you, pushing you one tile downhill. When you use the Stand Up action, gain 2 tiles of movement rather than 1.
 
+## Katamari
+**Prerequisites:** Sticky Slime subspecies
+
+**Effect:** You may grapple any number of targets at once. You cannot use the Let Go action.
