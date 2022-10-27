@@ -2,7 +2,7 @@
 **Effect:** Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control.
 
 ## Relentless
-**Effect:** Enemies provoke an attack of opportunity whenever they use a defensive or utility action.
+**Effect:** Enemies provoke an attack of opportunity whenever they use a defensive action.
 
 ## Collaborative
 **Effect:** Enemies provoke an attack of opportunity whenever they take damage from another source, rather than when they lose life.
@@ -22,8 +22,8 @@
 ## Deliberate Stance
 **Effect:** Stance: You have disadvantage on all attacks. Immediately gain the benefit of the Recover action when you hit with an attack.
 
-## Meticulous Stance
-**Effect:** Stance: You have disadvantage on all attacks. Double the stacks of any ailments applied by your attacks.
+## Versatile
+**Effect:** When you pick this feat, gain the stance of a Bond other than your own. 
 
 ## Transforming Armaments
 **Effect:** Select a total of 3 forms for your weapon, selecting a mundane base for each. When you use the Swap action, you may change which form you have equipped.
