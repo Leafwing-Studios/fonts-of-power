@@ -1,19 +1,19 @@
 # Wildshaper
 
-## Class Summary
+## Powers Known
 
-|   Level   | Powers Known |
-|:-----:|:-----:|
-|   1   |   3   |
-|   2   |   4   |
-|   3   |   4   |
-|   4   |   4   |
-|   5   |   5   |
-|   6   |   5   |
-|   7   |   5   |
-|   8   |   6   |
-|   9   |   6   |
-|   10   |   7   |
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Homeland, Wildshaping, Overgrowth, Land's Connection |   3   |
+|   2   |   +2  |   Wilderness Lore |   4   |
+|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   4   |
+|   4   |   +3  |   Locus of Power  |   4   |
+|   5   |   +3  |   Cultivation |   5   |
+|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat    |   5   |
+|   7   |   +4  |   Spreading Wilds |   5   |
+|   8   |   +5  |   Wild Home   |   6   |
+|   9   |   +5  |   Attribute Improvement, Combat Feat, Exploration Feat    |   6   |
+|   10  |   +6  |   Paths Unseen    |   7   |
 
 ## Features
 
@@ -48,13 +48,7 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Details:** After you spend essence other than to unshape a tile, if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
 
-<<<<<<< HEAD
-**Powers Known:** 3
-
 ### Land's Connection
-=======
-### Deep Roots
->>>>>>> 57522a0 (Moving known powers into their own table.)
 
 **Level:** 1
 

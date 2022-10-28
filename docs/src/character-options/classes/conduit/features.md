@@ -3,7 +3,7 @@
 ## Class Summary
 
 |   Level   |   Proficiency Bonus |   Features  |   Powers Known |
-|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |   1   |   +1  |   Combat Feat, Exploration Feat, Conduit Casting, Buffer Overflow, Injection Attack, Power Supply: Recharge   |   3   |
 |   2   |   +2  |   Power Supply: Siphon    |   4   |
 |   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   4   |
