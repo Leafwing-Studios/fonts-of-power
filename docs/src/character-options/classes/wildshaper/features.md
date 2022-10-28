@@ -1,6 +1,6 @@
 # Wildshaper
 
-## Powers Known
+## Class Summary
 
 |   Level   | Powers Known |
 |:-----:|:-----:|

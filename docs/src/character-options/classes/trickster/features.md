@@ -1,19 +1,19 @@
 # Trickster
 
-## Powers Known
+## Class Summary
 
-|   Level   | Powers Known |
-|:-----:|:-----:|
-|   1   |   3   |
-|   2   |   4   |
-|   3   |   4   |
-|   4   |   4   |
-|   5   |   5   |
-|   6   |   5   |
-|   7   |   5   |
-|   8   |   6   |
-|   9   |   6   |
-|   10   |   7   |
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Just Lucky, Winning Streak, Trickery, Flair: Payout  |   3   |
+|   2   |   +2  |   Roll the Dice   |   4   |
+|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   4   |
+|   4   |   +3  |   Dirty Tricks    |   4   |
+|   5   |   +3  |   Fast Talker |   5   |
+|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat    |   5   |
+|   7   |   +4  |   Push Your Luck  |   5   |
+|   8   |   +5  |   Flair: Trump Card   |   6   |
+|   9   |   +5  |   Attribute Improvement, Combat Feat, Exploration Feat    |   6   |
+|   10  |   +6  |   Double or Nothing   |   7   |
 
 ## Features
 

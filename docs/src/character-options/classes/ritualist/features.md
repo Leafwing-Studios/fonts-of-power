@@ -1,19 +1,19 @@
 # Ritualist
 
-## Powers Known
+## Class Summary
 
-|   Level   | Powers Known |
-|:-----:|:-----:|
-|   1   |   4   |
-|   2   |   5   |
-|   3   |   5   |
-|   4   |   5   |
-|   5   |   6   |
-|   6   |   6   |
-|   7   |   6   |
-|   8   |   7   |
-|   9   |   7   |
-|   10   |   8   |
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Rite, Miracle, Devotion, Deliberation, Rebuke    |   4   |
+|   2   |   +2  |   Augury  |   5   |
+|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   5   |
+|   4   |   +3  |   Reprieve    |   5   |
+|   5   |   +3  |   Sage Reputation |   6   |
+|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat    |   6   |
+|   7   |   +4  |   Desperate Plea  |   6   |
+|   8   |   +5  |   Privileged Information  |   7   |
+|   9   |   +5  |   Attribute Improvement, Combat Feat, Exploration Feat    |   7   |
+|   10  |   +6  |   Miracle Worker  |   8   |
 
 ## Features
 

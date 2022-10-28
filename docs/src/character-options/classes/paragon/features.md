@@ -1,19 +1,19 @@
 # Paragon
 
-## Powers Known
+## Class Summary
 
-|   Level   | Powers Known |
-|:-----:|:-----:|
-|   1   |   3   |
-|   2   |   4   |
-|   3   |   4   |
-|   4   |   4   |
-|   5   |   5   |
-|   6   |   5   |
-|   7   |   5   |
-|   8   |   6   |
-|   9   |   6   |
-|   10   |   7   |
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Auras, Ideal: Stand Your Ground, Shield of Faith   |   3   |
+|   2   |   +2  |   Conviction  |   4   |
+|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   4   |
+|   4   |   +3  |   Unassailable    |   4   |
+|   5   |   +3  |   Ideal: Consecrate  |   5   |
+|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat    |   5   |
+|   7   |   +4  |   Rallying Blow   |   5   |
+|   8   |   +5  |   Redemption  |   6   |
+|   9   |   +5  |   Attribute Improvement   |   6   |
+|   10  |   +6  |   Ideal: Apotheosis  |   7   |
 
 ## Features
 
@@ -39,7 +39,7 @@
 
 **Level:** 1
 
-**Details:** Whenever you sucessfully block, grant the ally (including yourself) with the lowest life within a 2 tile range 2 absorption.
+**Details:** Whenever you successfully block, grant the ally (including yourself) with the lowest life within a 2 tile range 2 absorption.
 
 ### Conviction
 
@@ -59,13 +59,13 @@
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
-### Unsassailable
+### Unassailable
 
 **Level:** 4
 
 **Details:** When you the Block action, you can choose to reroll the skill check after seeing the result. If you do, you must use new result.
 
-### Consecrate
+### Ideal: Consecrate
 
 **Level:** 5
 

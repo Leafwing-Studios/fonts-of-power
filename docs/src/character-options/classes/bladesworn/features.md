@@ -1,19 +1,19 @@
 # Bladesworn
 
-## Powers Known
+## Class Summary
 
-|   Level   | Powers Known |
-|:-----:|:-----:|
-|   1   |   3   |
-|   2   |   4   |
-|   3   |   4   |
-|   4   |   4   |
-|   5   |   5   |
-|   6   |   5   |
-|   7   |   5   |
-|   8   |   6   |
-|   9   |   6   |
-|   10   |   7   |
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Weapon Bond, Forethought, Counterattacks, Precisely Planned  |   3   |
+|   2   |   +2  |   Skill Memory    |   4   |
+|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   4   |
+|   4   |   +3  |   One Step Ahead  |   4   |
+|   5   |   +3  |   Lead the Way    |   5   |
+|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat    |   5   |
+|   7   |   +4  |   Superior Positioning    |   5   |
+|   8   |   +5  |   Second Thought  |   6   |
+|   9   |   +5  |   Attribute Improvement, Combat Feat, Exploration Feat    |   6   |
+|   10  |   +6  |   Finisher    |   7   |
 
 ## Features
 

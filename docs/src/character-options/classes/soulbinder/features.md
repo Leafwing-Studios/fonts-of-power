@@ -1,19 +1,19 @@
 # Soulbinder
 
-## Powers Known
+## Class Summary
 
-|   Level   | Powers Known |
-|:-----:|:-----:|
-|   1   |   4   |
-|   2   |   5   |
-|   3   |   5   |
-|   4   |   5   |
-|   5   |   6   |
-|   6   |   6   |
-|   7   |   6   |
-|   8   |   7   |
-|   9   |   7   |
-|   10   |   8   |
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Soulbinding, Pulse, Qualia: Backchannel, Moment of Weakness  |   4   |
+|   2   |   +2  |   Empathy,    |   5   |
+|   3   |   +2  |   Attribute Improvement,  Combat Feat, Exploration Feat   |   5   |
+|   4   |   +3  |   Heightened Connection   |   5   |
+|   5   |   +3  |   Soul Search |   6   |
+|   6   |   +4  |   Attribute Improvement,  Combat Feat, Exploration Feat    |   6   |
+|   7   |   +4  |   Close Contact   |   6   |
+|   8   |   +5  |   Qualia: Heightened Bond |   7   |
+|   9   |   +5  |   Attribute Improvement,  Combat Feat, Exploration Feat    |   7   |
+|   10  |   +6  |   Qualia: Soulbond    |   8   |
 
 ## Features
 

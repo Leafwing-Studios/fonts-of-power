@@ -1,19 +1,19 @@
 # Weaver
 
-## Powers Known
+## Class Summary
 
-|   Level   | Powers Known |
-|:-----:|:-----:|
-|   1   |   4   |
-|   2   |   5   |
-|   3   |   5   |
-|   4   |   5   |
-|   5   |   6   |
-|   6   |   6   |
-|   7   |   6   |
-|   8   |   7   |
-|   9   |   7   |
-|   10   |   8   |
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Weave Magic, Patchwork, Guild: Fabric of Reality |   4   |
+|   2   |   +2  |   Sense the Weave |   5   |
+|   3   |   +2  |   Attribute Improvement,  Combat Feat, Exploration Feat    |   5   |
+|   4   |   +3  |   Power Lines |   5   |
+|   5   |   +3  |   Reality Weaving |   6   |
+|   6   |   +4  |   Attribute Improvement,  Combat Feat, Exploration Feat    |   6   |
+|   7   |   +4  |   Quiltwork   |   6   |
+|   8   |   +5  |   Read the Weave  |   7   |
+|   9   |   +5  |   Attribute Improvement,  Combat Feat, Exploration Feat    |   7   |
+|   10  |   +6  |   Handiwork   |   8   |
 
 ## Features
 
@@ -29,7 +29,7 @@
 
 **Level:** 1
 
-**Details:** 2 AP: Cast a pattern that you know on a single target within a 4 tile range. At the start of each of your turns, you may choose to spend two eseence to **sustain** a pattern that you cast or sustained last turn.
+**Details:** 2 AP: Cast a pattern that you know on a single target within a 4 tile range. At the start of each of your turns, you may choose to spend two essence to **sustain** a pattern that you cast or sustained last turn.
 
 Patterns end when:
 

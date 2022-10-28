@@ -1,19 +1,19 @@
 # Conduit
 
-## Powers Known
+## Class Summary
 
-|   Level   | Powers Known |
-|:-----:|:-----:|
-|   1   |   3   |
-|   2   |   4   |
-|   3   |   4   |
-|   4   |   4   |
-|   5   |   5   |
-|   6   |   5   |
-|   7   |   5   |
-|   8   |   6   |
-|   9   |   6   |
-|   10   |   7   |
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Conduit Casting, Buffer Overflow, Injection Attack, Power Supply: Recharge   |   3   |
+|   2   |   +2  |   Power Supply: Siphon    |   4   |
+|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   4   |
+|   4   |   +3  |   Alternating Current |   4   |
+|   5   |   +3  |   Random Access   |   5   |
+|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat   |   5   |
+|   7   |   +4  |   Exception Handling  |   5   |
+|   8   |   +5  |   Fault Tolerance |   6   |
+|   9   |   +5  |   Attribute Improvement, Combat Feat, Exploration Feat    |   6   |
+|   10  |   +6  |   Overclock  |   7   |
 
 ## Features
 
