@@ -1,7 +1,7 @@
 ## Favored One
 **Name:** Happy-go-lucky
 
-**Effect:** Gain the benefits of the Recover action with advantage.
+**Effect:** Apply one stack of defenseless
 
 ## Magician
 **Name:** Magic Trick
