@@ -1,5 +1,20 @@
 # Weaver
 
+## Class Summary
+
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Weave Magic, Patchwork, Guild: Fabric of Reality |   4   |
+|   2   |   +2  |   Sense the Weave |   5   |
+|   3   |   +2  |   Attribute Improvement,  Combat Feat, Exploration Feat    |   5   |
+|   4   |   +3  |   Power Lines |   5   |
+|   5   |   +3  |   Reality Weaving |   6   |
+|   6   |   +4  |   Attribute Improvement,  Combat Feat, Exploration Feat    |   6   |
+|   7   |   +4  |   Quiltwork   |   6   |
+|   8   |   +5  |   Read the Weave  |   7   |
+|   9   |   +5  |   Attribute Improvement,  Combat Feat, Exploration Feat    |   7   |
+|   10  |   +6  |   Handiwork   |   8   |
+
 ## Features
 
 ### Feats
@@ -14,7 +29,7 @@
 
 **Level:** 1
 
-**Details:** 2 AP: Cast a pattern that you know on a single target within a 4 tile range. At the start of each of your turns, you may choose to spend two eseence to **sustain** a pattern that you cast or sustained last turn.
+**Details:** 2 AP: Cast a pattern that you know on a single target within a 4 tile range. At the start of each of your turns, you may choose to spend two essence to **sustain** a pattern that you cast or sustained last turn.
 
 Patterns end when:
 
@@ -24,8 +39,6 @@ Patterns end when:
 
 Some patterns are guild-exclusive.
 
-**Powers Known:** 4
-
 ### Patchwork
 
 **Level:** 1
@@ -34,15 +47,11 @@ Some patterns are guild-exclusive.
 
 Creatures may only have one result stored at a time. Using this feature again on a creature with a stored result replaces the original result.
 
-**Powers Known:** 4
-
 ### Guild: Fabric of Reality
 
 **Level:** 1
 
 **Details:** 1 essence, 1 AP: ???
-
-**Powers Known:** 4
 
 ### Sense the Weave
 
@@ -52,23 +61,17 @@ Creatures may only have one result stored at a time. Using this feature again on
 
 TODO 2022-10-23: Add guidelines for information gained from this skill check. Maybe we can make this a core part of the Fontcraft skill? Maybe instead we do a "number of questions" style design like with Scan.
 
-**Powers Known:** 5
-
 ### Attribute Improvement
 
 **Level:** 3
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 5
-
 ### Feats
 
 **Level:** 3
 
 **Details:** Gain a new combat feat and a new exploration feat.
-
-**Powers Known:** 5
 
 ### Power Lines
 
@@ -81,15 +84,11 @@ TODO 2022-10-23: Add guidelines for information gained from this skill check. Ma
 
 Creatures can only be affected by this ability once, regardless of how many power lines they are standing on.
 
-**Powers Known:** 5
-
 ### Guild: Reality Weaving
 
 **Level:** 5
 
 **Details:** Gain access to a downtime activity defined by your guild.
-
-**Powers Known:** 6
 
 ### Attribute Improvement
 
@@ -97,15 +96,11 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 6
-
 ### Feats
 
 **Level:** 6
 
 **Details:** Gain a new combat feat and a new exploration feat.
-
-**Powers Known:** 6
 
 ### Quiltwork
 
@@ -113,15 +108,11 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 **Details:** At the start of each of your turns, you may choose a creature within 4 tiles. If you do, they gain the benefits of your Patchwork feature.
 
-**Powers Known:** 6
-
 ### Read the Weave
 
 **Level:** 8
 
 **Details:** You have advantage on all skill checks made to determine facts about the magical nature of creatures, locations, effects, or items.
-
-**Powers Known:** 7
 
 ### Attribute Improvement
 
@@ -129,23 +120,17 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 7
-
 ### Feats
 
 **Level:** 9
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
-**Powers Known:** 7
-
 ### Handiwork
 
 **Level:** 10
 
 **Details:** The first pattern you cast each turn costs one less action point.
-
-**Powers Known:** 8
 
 ## Guilds
 

@@ -1,5 +1,20 @@
 # Wildshaper
 
+## Powers Known
+
+|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
+|:-:|:-:|:-:|:-:|
+|   1   |   +1  |   Combat Feat, Exploration Feat, Homeland, Wildshaping, Overgrowth, Land's Connection |   3   |
+|   2   |   +2  |   Wilderness Lore |   4   |
+|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   4   |
+|   4   |   +3  |   Locus of Power  |   4   |
+|   5   |   +3  |   Cultivation |   5   |
+|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat    |   5   |
+|   7   |   +4  |   Spreading Wilds |   5   |
+|   8   |   +5  |   Wild Home   |   6   |
+|   9   |   +5  |   Attribute Improvement, Combat Feat, Exploration Feat    |   6   |
+|   10  |   +6  |   Paths Unseen    |   7   |
+
 ## Features
 
 ### Feats
@@ -8,15 +23,11 @@
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
-**Powers Known:** 3
-
 ### Homeland
 
 **Level:** 1
 
 **Details:** Choose a terrain, elemental damage type, ailment and affliction. Wildshaping powers take on those effects.
-
-**Powers Known:** 3
 
 ### Wildshaping
 
@@ -31,15 +42,11 @@ If the tile is shaped and within a 3 tile range, you may instead use a **wildsha
 
 Tiles stay shaped until the end of combat. Other creatures may clear a single adjacent tile via the Interact action.
 
-**Powers Known:** 3
-
 ### Overgrowth
 
 **Level:** 1
 
 **Details:** After you spend essence other than to unshape a tile, if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
-
-**Powers Known:** 3
 
 ### Land's Connection
 
@@ -47,15 +54,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Details:** While you are on your own shaped terrain, you may treat any connected tiles as if they were adjacent for the purpose of the Strike, Treat and Shove actions. This does not increase your zone of control.
 
-**Powers Known:** 3
-
 ### Wilderness Lore
 
 **Level:** 2
 
 **Details:** Downtime activity. Make a Focus (Anima) skill check. Learn 1 fact about the area you are currently in, plus an additional fact for every 10 points of the skill check result.
-
-**Powers Known:** 4
 
 ### Attribute Improvement
 
@@ -63,15 +66,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 4
-
 ### Feats
 
 **Level:** 3
 
 **Details:** Gain a new combat feat and a new exploration feat.
-
-**Powers Known:** 4
 
 ### Locus of Power
 
@@ -79,15 +78,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Details:** Whenever you use a Wildshaping power, you may choose to target only a single tile. Count the number of tiles in the connected area. Gain the shaping's effects once for every six shaped tiles in that area, rounded up.
 
-**Powers Known:** 4
-
 ### Cultivation
 
 **Level:** 5
 
 **Details:** You have advantage on all skill checks made as part of the Shape downtime activity.
-
-**Powers Known:** 5
 
 ### Attribute Improvement
 
@@ -95,15 +90,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 5
-
 ### Feats
 
 **Level:** 6
 
 **Details:** Gain a new combat feat and a new exploration feat.
-
-**Powers Known:** 5
 
 ### Spreading Wilds
 
@@ -111,15 +102,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Details:** When you gain the effects of your Overgrowth class feature, you may instead choose to select any tile adjacent to an already shaped tile.
 
-**Powers Known:** 5
-
 ### Wild Home
 
 **Level:** 8
 
 **Details:** When resting in areas with a danger level of at least two, you may use an additional downtime activity.
-
-**Powers Known:** 6
 
 ### Attribute Improvement
 
@@ -127,15 +114,11 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Details:** Increase one Attribute of your choice by 1.
 
-**Powers Known:** 6
-
 ### Feats
 
 **Level:** 9
 
 **Details:** Gain a new combat feat and a new exploration feat.
-
-**Powers Known:** 6
 
 ### Paths Unseen
 
@@ -148,8 +131,6 @@ Among other things, this means:
 - creatures may move directly from one of these tiles to another, either willingly or via forced movement
 - when calculating ranges (including area of effects), count via this connection if it is shorter
 - when using your wildshaping powers, if both tiles are shaped, their regions are connected
-
-**Powers Known:** 7
 
 ## Terrains
 
