@@ -106,7 +106,7 @@ To make an attack roll, roll 1d20 and then add both your proficiency bonus and e
 Basic attacks are standard attacks using weapons (or claws, fists, etc.) that might be protected from by a suit of armor, while special attacks target a specific attribute and represent more specialized abilities, such as an attempt to shove a creature, grapple them, or affect them with magic.
 Typically, you add your Prowess to the damage dealt with any basic attack, and add your Presence to any damage dealt with any special attack.
 
-**Basic defense** is determined by the armor you are wearing, your Prowess and your Agility.
+**Basic defense** is determined by the armor you are wearing and your Agility.
 There is one **special defense** for each attribute.
 These are determined by your proficiency bonus, your corresponding attribute, and whether or not you are proficient in defending against that sort of attack.
 

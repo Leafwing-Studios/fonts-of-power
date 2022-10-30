@@ -14,7 +14,7 @@ Attacks use either your **basic attack bonus** (proficiency bonus + Agility), or
 This might be a classic sword or the arrow shot from a bow, but it could also be a set of claws, a flaming torch or a poisoned dart.
 
 Basic attacks are always made against the defender’s **basic defense.**
-This reflects the effectiveness of their armor and their ability to dodge or parry blows. Your basic defense is 10 + Prowess + Agility.
+This reflects the effectiveness of their armor and their ability to dodge or parry blows. Your basic defense starts at 10 + Agility.
 Armor affixes commonly alter basic defense as well.
 
 **Special** attacks are used for unusual effects and magical spells: attempting to trip your opponent, light them on fire, banish them to another realm or so on in ways that armor won’t help defend them from.
