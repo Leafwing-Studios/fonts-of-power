@@ -124,4 +124,6 @@ At the start of each of your turns, swap polarity.
 
 **Level:** 10
 
-**Details:** The gear point total that you can equip is increased by 6.
+**Details:** The gear point total that you can equip is increased by 4. You can equip more gear points than your gear point total.
+
+When you change your gear loadout or complete a rest, gain 1 stack of exhaustion for each gear point that you've exceeded your gear point total by.
