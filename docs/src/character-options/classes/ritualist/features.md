@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                   Features                                   | Powers Known |
-| :---: | :---------------: | :--------------------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Combat Feat, Exploration Feat, Rite, Miracle, Devotion, Deliberation, Rebuke |      4       |
-|   2   |        +2         |                                    Augury                                    |      5       |
-|   3   |        +2         |             Attribute Improvement, Combat Feat, Exploration Feat             |      5       |
-|   4   |        +3         |                                   Reprieve                                   |      5       |
-|   5   |        +3         |                               Sage Reputation                                |      6       |
-|   6   |        +4         |             Attribute Improvement, Combat Feat, Exploration Feat             |      6       |
-|   7   |        +4         |                                Desperate Plea                                |      6       |
-|   8   |        +5         |                            Privileged Information                            |      7       |
-|   9   |        +5         |             Attribute Improvement, Combat Feat, Exploration Feat             |      7       |
-|  10   |        +6         |                                Miracle Worker                                |      8       |
+| Level | Proficiency Bonus |                                    Features                                    | Powers Known |
+| :---: | :---------------: | :----------------------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Combat Feat, Exploration Feat, Prayer, Miracle, Devotion, Deliberation, Rebuke |      4       |
+|   2   |        +2         |                                     Augury                                     |      5       |
+|   3   |        +2         |              Attribute Improvement, Combat Feat, Exploration Feat              |      5       |
+|   4   |        +3         |                                    Reprieve                                    |      5       |
+|   5   |        +3         |                                Sage Reputation                                 |      6       |
+|   6   |        +4         |              Attribute Improvement, Combat Feat, Exploration Feat              |      6       |
+|   7   |        +4         |                                 Desperate Plea                                 |      6       |
+|   8   |        +5         |                             Privileged Information                             |      7       |
+|   9   |        +5         |              Attribute Improvement, Combat Feat, Exploration Feat              |      7       |
+|  10   |        +6         |                                 Miracle Worker                                 |      8       |
 
 ## Features
 
@@ -23,17 +23,35 @@
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
-### Rite
+### Prayer
 
 **Level:** 1
 
-**Details:** 2 AP: 0 essence spell. Favor increases by 1 for each one you use.
+**Details:** 2 AP: cast a simple **prayer** and increase your favor by 1.
+
+Favor is used to improve the odds of succesfully calling upon miracles.
 
 ### Miracle
 
 **Level:** 1
 
-**Details:** 3 AP: Chance to cast sustained miracle, ends when concentration broken. Spend essence to improve odds, roll d20s based on favor.
+**Details:** 3 AP: Choose a prayer, and attempt to cast a sustained **miracle**. To see if this succeeds, you must make a **favor check**:
+
+1. Choose how much essence to spend, increasing the final result by the essence spent.
+2. Roll a number of d20s based on your current favor.
+3. If your result was 20 or higher, you succeeded. Otherwise, you failed.
+
+The number of d20s rolled based on your current favor, in a fashion similar to advantage and disadvantage:
+
+- Favor < 0: roll X + 1 d20s, where X is the absolute value of your Favor, and use the lowest result
+- Favor = 0: roll 1 d20 and use that result
+- Favor > 0: roll Y + 1 d20s, where Y your Favor, and use the highest result.
+
+As a party, you may choose to spend Resolve to modify the result of this rol.
+
+If the favor check is successful, gain the benefit of an incredibly powerful miracle that lasts until your concentration is broken or the end of combat.
+
+If it fails, your favor decreases by 1 and you suffer the Consequences laid out by your Devotion subclass.
 
 ### Devotion
 
@@ -51,7 +69,7 @@
 
 **Level:** 1
 
-**Details:** After a creature uses an offensive action against you, you may spend 1 AP to make a ranged attack against Presence against them. If you hit, apply two stacks of pacified.
+**Details:** After a creature uses an offensive action against you, you may spend 1 AP to make a ranged attack against Presence targeting them. If you hit, apply two stacks of pacified.
 
 ### Augury
 
