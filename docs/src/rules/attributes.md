@@ -42,6 +42,8 @@ When making skill checks, Expertise would be used when you need to do research, 
 
 Attacks against your Expertise defense include an illusion of a monster charging at you and an elaborate magical technique which makes you ethereal.
 
+Expertise affects the number of skills that you know.
+
 In combat, Expertise determines the reliability of your powers. Your special attack bonus is given by your proficiency bonus plus your Expertise, and is used for launching fireballs at your enemies, paralyzing them in fear landing a grapple or tripping them.
 
 ## Focus

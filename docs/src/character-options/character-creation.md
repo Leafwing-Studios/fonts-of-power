@@ -38,7 +38,7 @@ When making a level 0 character, you need to pick:
   - Choose any combination of attributes such that their total is +5.
   - Alternatively, for each attribute, roll 1d6 - 1d6 + 1. Reroll all attributes if the total is not between +0 and +10.
 - Skills
-  - Select any 5 skills.
+  - Select 4 + 1/2 Expertise skills. Like always, round up.
 - Starting gear
   - Pick two of the starting sets of arms.
   - Pick one of the starting sets of armor.
@@ -49,11 +49,11 @@ Finally, finish your basic character sheet by computing your **vital statistics:
 
 - **Proficiency bonus:** +1 at level 1
 - Determine your defenses:
-  - **Basic defense:** 10 + Prowess + Agility, or 10 + Agility + any relevant armor affixes
+  - **Basic defense:** 10 + Agility + any relevant armor affixes
   - **Special defenses:** 10 + proficiency bonus + the corresponding attribute
 - **Basic attack bonus:** proficiency bonus + Agility
 - **Special attack bonus:** proficiency bonus + Expertise
-- **Maximum life:** 25
+- **Maximum life:** 20 + 2 * Prowess
 - **Maximum essence:** 20 + 2 * Focus
 
 You're now ready to explore the world of *Fonts of Power*.
