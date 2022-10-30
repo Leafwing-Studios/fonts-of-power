@@ -76,10 +76,6 @@ Your offensive actions must target the creature that applied this ailment to you
 You must take attacks of opportunity against that creature if able.
 If a different source applies taunted to you, the object of your ire changes to the most recent source.
 
-## Unlucky
-
-You have disadvantage on all skill checks.
-
 ## Withered
 
 You gain 1 fewer AP at the end of each of your turns.

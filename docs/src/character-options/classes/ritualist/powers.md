@@ -266,7 +266,6 @@ Treat any immunity to electric damage that the selected creature may have as if 
 **Miracle Effect:** A 12 tile radius around you has the gathering storm tile effect. Whenever a creature in this tile effect takes electric damage, add that many stacks of shock as well. When this happens, remove the same number of stacks of any afflictions other than shock that creature might have (of your choice) if able.
 You gain access to the call lightning power. As a 1 AP action, with no essence cost, make a ranged Agility attack against all creatures in a one tile radius centered on a tile of your choice with the gathering storm tile effect. If you hit, deal 1d12 + Presence electric damage. If you miss, creatures suffer the attacks effects at half efficacy instead.
 
-
 ## Avatar of Misfortune
 **Element:** Fate
 
@@ -286,7 +285,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 
 **rite Effect:** Strike. Ignore disadvantage on this attack.
 
-**Miracle Effect:** Your basic attacks are automatically criticals if you hit. One tile radius tile effect: apply two stacks of unlucky and blunted to each adjacent creature. Immune to own tile effect.
+**Miracle Effect:** Your basic attacks are automatically criticals if you hit. One tile radius tile effect: apply two stacks of cursed and blunted to each adjacent creature. Immune to own tile effect.
 
 ## Blessing of Luck
 **Element:** Fate

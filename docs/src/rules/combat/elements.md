@@ -114,4 +114,4 @@ Mechanically, reality effects tend to create mundane but strange vantages, play 
 Fate is the element of strange coincidences and tricks of time; of bizarre paradoxes and fortune telling.
 
 Mechanically, fate effects tend to buff and disable in interesting, luck-based ways or play with the flow of time.
-It is particularly prone to applying the unlucky and cursed ailments.
+It is particularly prone to applying the cursed ailment.
