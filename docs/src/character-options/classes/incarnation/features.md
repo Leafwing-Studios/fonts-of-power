@@ -123,7 +123,7 @@ Your transformation ends when you reach 0 emotion.
 
 **Level:** 10
 
-**Details:** Gain emotion even when transformed.
+**Details:** Rather than gaining emotion whenever you lose life or land a critical hit, gain one emotion whenever you take damage or hit with an attack.
 
 ## Temperaments
 
