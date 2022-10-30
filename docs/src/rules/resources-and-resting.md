@@ -11,7 +11,8 @@ Life is quickly recovered as creatures’ innate essence mends them back into th
 
 Your life can never go below 0: instead, when your life reaches 0 you enter [death’s door](../combat/statuses.md#death39s-door), and must choose whether to slip into unconsciousness or continue fighting while risking death.
 
-Both player characters and monsters have 25 maximum life (although various customization options can change this).
+Player characters have 20 + 2 * Prowess maximum life (although various customization options can change this).
+Life is fully restored at the end of each combat scene; longer term attrition is tracked using exhaustion.
 In combat, it can only be restored through the essence tap action or consumable magic items.
 
 Occasionally, the distinction between **losing life** and **taking damage** can matter. Damage can be **prevented** in several ways: commonly via resistance or immunity to a damage type, absorption, or the Block reaction.

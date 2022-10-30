@@ -14,7 +14,7 @@ When making skill checks, Prowess would be used when a door needs to be forced o
 
 Attacks against your Prowess defense include being grabbed by a monstrous tentacle and being poisoned.
 
-In combat, your Prowess is added to your basic defense, reflecting your ability to wear heavier armor, and the damage you deal with any basic attack, whether that's the damage from a crushing mace or the strength of your bow.
+In combat, your Prowess improves your maximum life, representing your overall toughness, and increases the damage you deal with any basic attack, whether that's the damage from a crushing mace or the strength of your bow.
 It is also used to Block attacks effectively, as well as maintain and escape from grapples.
 
 ## Agility
