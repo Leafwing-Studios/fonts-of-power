@@ -27,7 +27,13 @@
 
 **Level:** 1
 
-**Details:** While not transformed, gain 1 emotion at the start of each turn. Then, you may pay 3*emotion essence to Transform. (Emotion you cannot pay for is lost.) While transformed, lose 1 emotion at the end of each turn. Your transformation ends when you reach 0 emotion.
+**Details:** You can **transform**, gaining superhuman powers.
+
+At the start of each of your turns, if you are not transformed gain 1 emotion.
+Then, you may spend 3 times your current emotion to transform.
+
+While transformed you are incredibly powerful, but lose 1 emotion at the end of each of your turns.
+Your transformation ends when you reach 0 emotion.
 
 ### Temperament
 
@@ -69,7 +75,7 @@
 
 **Level:** 4
 
-**Details:** Subclass emotion dump. (Use the last iteration for inspiration)
+**Details:** You gain a new way to spend excess emotion, based on your temperament.
 
 ### Pathos
 
