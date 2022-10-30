@@ -69,7 +69,7 @@ When this happens, you should change:
 
 The following features also change, because they rely on your proficiency bonus:
 
-- the maximum gear gear point totals of your arms and armor, equal to your proficiency bonus + 2
+- the maximum gear gear point totals of your equipped arms and armor, equal to your proficiency bonus + 2
 - the amount of essence you can spend with many of your features
 
 No matter what you change, ensure that every feature you have is consistent with the new changes. For example, if you change your attributes, double-check that your maximum essence, defenses and attack bonuses are consistent with the new scores. Finally, remember that attributes are always between -5 and 5, while ideals are always between 0 and 5.
