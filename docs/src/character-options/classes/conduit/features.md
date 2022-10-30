@@ -11,7 +11,7 @@
 |   5   |        +3         |                                               Random Access                                               |      5       |
 |   6   |        +4         |                           Attribute Improvement, Combat Feat, Exploration Feat                            |      5       |
 |   7   |        +4         |                                            Exception Handling                                             |      5       |
-|   8   |        +5         |                                              Fault Tolerance                                              |      6       |
+|   8   |        +5         |                                               Cyclic Graph                                                |      6       |
 |   9   |        +5         |                           Attribute Improvement, Combat Feat, Exploration Feat                            |      6       |
 |  10   |        +6         |                                                 Overclock                                                 |      7       |
 
@@ -96,11 +96,11 @@ At the start of each of your turns, swap polarity.
 
 **Details:** Gain a new combat feat and a new exploration feat.
 
-### Exception Handling
+### Cyclic Graph
 
 **Level:** 7
 
-**Details:** Immediately after you enter death's door, immediately teleport to a tile of your choice within range 4.
+**Effect:** Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time.
 
 ### Fault Tolerance
 

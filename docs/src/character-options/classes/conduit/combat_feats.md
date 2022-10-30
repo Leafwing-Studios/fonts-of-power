@@ -56,10 +56,6 @@
 
 **Effect:** Your charges have a range of 6 tiles, up from 3.
 
-## Cyclic Graph
-
-**Effect:** Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time.
-
 ## Decapacitate
 
 **Effect:** 0 AP, 1 essence: reduce your critical hit threshold by 1 until the end of the turn.
