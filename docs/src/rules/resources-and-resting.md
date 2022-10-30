@@ -23,8 +23,7 @@ This distinction can matter for various effects such as the [_absolute zero_](ht
 
 Creatures can gain **absorption,** a short-lasting replacement for life points that represents absorptive armoring or a protective force.
 Damage taken is subtracted from your absorption before your life.
-At the start of each of your turns (before any other effects occur), reduce your absorption by the amount of absorption you had at the end of your last turn, to a minimum of 0. Ordinarily, this just causes your absorption to be reduced to 0 at the start of each of your turns.
-The only time this does not occur is when you gain absorption at a time when it was not your turn, such as when it was received as a boon from an ally.
+At the start of each of your turns (before any other effects occur), you lose all absorption.
 
 Absorption gained can stack, increasing the buffer of life points that must be dealt with before you suffer actual damage. The amount of absorption that a creature has is always publicly known.
 
