@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-|   Level   |   Proficiency Bonus |   Features  |   Powers Known |
-|:-:|:-:|:-:|:-:|
-|   1   |   +1  |   Combat Feat, Exploration Feat, Auras, Ideal: Stand Your Ground, Shield of Faith   |   3   |
-|   2   |   +2  |   Conviction  |   4   |
-|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |   4   |
-|   4   |   +3  |   Unassailable    |   4   |
-|   5   |   +3  |   Ideal: Consecrate  |   5   |
-|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat    |   5   |
-|   7   |   +4  |   Rallying Blow   |   5   |
-|   8   |   +5  |   Redemption  |   6   |
-|   9   |   +5  |   Attribute Improvement   |   6   |
-|   10  |   +6  |   Ideal: Apotheosis  |   7   |
+| Level | Proficiency Bonus |                                    Features                                     | Powers Known |
+| :---: | :---------------: | :-----------------------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Combat Feat, Exploration Feat, Auras, Ideal: Stand Your Ground, Shield of Faith |      3       |
+|   2   |        +2         |                                   Conviction                                    |      4       |
+|   3   |        +2         |              Attribute Improvement, Combat Feat, Exploration Feat               |      4       |
+|   4   |        +3         |                                  Unassailable                                   |      4       |
+|   5   |        +3         |                                Ideal: Consecrate                                |      5       |
+|   6   |        +4         |              Attribute Improvement, Combat Feat, Exploration Feat               |      5       |
+|   7   |        +4         |                                  Rallying Blow                                  |      5       |
+|   8   |        +5         |                                   Redemption                                    |      6       |
+|   9   |        +5         |                              Attribute Improvement                              |      6       |
+|  10   |        +6         |                                Ideal: Apotheosis                                |      7       |
 
 ## Features
 

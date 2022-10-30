@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-|   Level   |   Proficiency Bonus |   Features  |
-|:-:|:-:|:-:|
-|   1   |   +1  |   Combat Feat, Exploration Feat, Companion, Nudge, Coexistence: Dynamic   |
-|   2   |   +2  |   Deviance    |
-|   3   |   +2  |   Attribute Improvement, Combat Feat, Exploration Feat    |
-|   4   |   +3  |   Shifting Focus  |
-|   5   |   +3  |   Deviance    |
-|   6   |   +4  |   Attribute Improvement, Combat Feat, Exploration Feat    |
-|   7   |   +4  |   A Burden Shared |
-|   8   |   +5  |   Deviance    |
-|   9   |   +5  |   Attribute Improvement, Combat Feat, Exploration Feat    |
-|   10  |   +6  |   Coexistence: Synergy    |
+| Level | Proficiency Bonus |                               Features                                |
+| :---: | :---------------: | :-------------------------------------------------------------------: |
+|   1   |        +1         | Combat Feat, Exploration Feat, Companion, Nudge, Coexistence: Dynamic |
+|   2   |        +2         |                               Deviance                                |
+|   3   |        +2         |         Attribute Improvement, Combat Feat, Exploration Feat          |
+|   4   |        +3         |                            Shifting Focus                             |
+|   5   |        +3         |                               Deviance                                |
+|   6   |        +4         |         Attribute Improvement, Combat Feat, Exploration Feat          |
+|   7   |        +4         |                            A Burden Shared                            |
+|   8   |        +5         |                               Deviance                                |
+|   9   |        +5         |         Attribute Improvement, Combat Feat, Exploration Feat          |
+|  10   |        +6         |                         Coexistence: Synergy                          |
 
 ## Features
 
