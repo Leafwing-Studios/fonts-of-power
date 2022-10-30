@@ -27,13 +27,18 @@
 
 **Level:** 1
 
-**Details:** 0 AP 2 essence charges with 3 tile range. Can cast into weapon. Charge not lost when you miss. Can only cast 1 per turn.
+**Details:** 0 AP 2 essence: Once per turn, you may cast a **charge**. Choose one:
+
+- target a single creature with 3 tile range
+- cast into weapon. The next time you hit with a basic attack, the target of that attack suffers the effect of that charge.
+
+Charges stored in your weapon are not lost when you miss. If your basic attack hits more than one creature, choose one to affect with your charge.
 
 ### Buffer Overflow
 
 **Level:** 1
 
-**Details:** After you hit with a charge, can pay 2 essence to chain to a new target within 2 tiles. Roll a new attack.
+**Details:** After you hit with a charge, you may pay 2 essence to chain to a new target within 2 tiles. This can chain indefinitely, but each creature can only be hit by the same charge once. Make a new attack for each target.
 
 ### Injection Attack
 
@@ -45,13 +50,13 @@
 
 **Level:** 1
 
-**Details:** Gain an essence recovery feature.
+**Details:** Gain an essence recovery feature based on your subclass.
 
 ### Power Supply: Siphon
 
 **Level:** 2
 
-**Details:** Downtime activity to draw on source of power.
+**Details:** Downtime activity to draw on source of power based on your subclass.
 
 ### Attribute Improvement
 
@@ -69,7 +74,9 @@
 
 **Level:** 4
 
-**Details:** At the start of each of your turns, swap polarity. Alternates between advantage on basic attacks and advantage on special attacks.
+**Details:** At the start of combat, choose a **polarity**. While your polarity is positive, you have advantage on basic attacks. While it is negative, you have advantage on special attacks.
+
+At the start of each of your turns, swap polarity.
 
 ### Random Access
 
@@ -117,4 +124,4 @@
 
 **Level:** 10
 
-**Details:** The enchantment point total of gear that you can equip is increased by 6.
+**Details:** The gear point total that you can equip is increased by 6.
