@@ -4,7 +4,7 @@
 
 **Prerequisites:** Coexistence: Tension
 
-**Effect:** When you use Recover, you may choose to lose 1 life. If you do, you have advantage on the skill check.
+**Effect:** When you use Recover, you may spend 1 life. If you do, you have advantage on the skill check.
 
 ## Soul Tap
 

@@ -130,7 +130,7 @@ If you and your companion attack same target in a turn, second attack has advant
 
 #### Synergy: Spirited
 
-The first time each turn that you or your companion hits with an attack, the other gains 1 AP.
+The first time during your turn that you or your companion hits with an attack, the other gains 1 AP.
 
 ### Symbiosis
 
@@ -138,9 +138,15 @@ The first time each turn that you or your companion hits with an attack, the oth
 
 Whenever you or your companion spend AP to use an offensive action, the other may spend the same amount of AP. If you do, double the efficacy of that action.
 
-### Synergy: Mutual Aid
+### Synergy: Resilience
 
-At the start of each of your turns, remove one stack of each ailment from yourself.
+At the start of each of your turns, gain the benefit of one of the following actions of your choice:
+
+- Defend
+- Ward
+- Recover
+- Break Grapple, targeting yourself
+- Treat, targeting yourself
 
 ### Tension
 
@@ -151,3 +157,5 @@ At the start of each of your turns, choose companion or host. Chosen half has ad
 #### Synergy: Vital Struggle
 
  Whenever you would lose life, you may choose to lose that much essence instead. When you would spend essence, you may choose to lose that much life instead.
+
+ This feature can not be used if you do not have enough life or essence to pay the cost.
