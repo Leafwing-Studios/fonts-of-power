@@ -112,3 +112,35 @@
 **Level:** 10
 
 **Details:** Gain a powerful passive bonus based on the relationship with your companion.
+
+## Coexistence Strategies
+
+### Camraderie
+
+#### Dynamic: Counterpoint
+
+If you and your companion attack same target in a turn, second attack has advantage if from opposite range category.
+
+#### Synergy: Spirited
+
+The first time each turn that you or your companion hits with an attack, the other gains 1 AP.
+
+### Symbiosis
+
+#### Dynamic: Unison
+
+Whenever you or your companion spend AP to use an offensive action, the other may spend the same amount of AP. If you do, double the efficacy of that action.
+
+### Synergy: Mutual Aid
+
+At the start of each of your turns, remove one stack of each ailment from yourself.
+
+### Tension
+
+#### Dynamic: Balance of Power
+
+At the start of each of your turns, choose companion or host. Chosen half has advantage on all attacks and skill checks, other has disadvantage.
+
+#### Synergy: Vital Struggle
+
+ Whenever you would lose life, you may choose to lose that much essence instead. When you would spend essence, you may choose to lose that much life instead.
