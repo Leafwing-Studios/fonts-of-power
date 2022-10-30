@@ -75,7 +75,7 @@ Your transformation ends when you reach 0 emotion.
 
 **Level:** 4
 
-**Details:** You gain a new way to spend excess emotion, based on your temperament.
+**Details:** You gain access to a new 1 AP action that spends any amount of emotion. The effect varies based on your temperament.
 
 ### Pathos
 
@@ -133,11 +133,22 @@ Your transformation ends when you reach 0 emotion.
 
 While transformed, damage that you deal cannot be prevented by any means. You have advantage on all attacks. Attacks of opportunity made against you have disadvantage, rather than advantage.
 
+#### Outburst: Frenzied Fervor
+
+1 AP: Spend any amount of emotion. Gain 1 AP. For each every two emotion spent, gain 1 additional AP. You may only use this ability once each turn.
+
 ### Courage
 
 #### Transformation: Unshakeable Courage
 
-While transformed, your critical hit threshold is reduced by 1 for each point of life you are missing. At the start of each of your turns, gain the benefit of the Defend action and apply one stack of taunted to all enemies. You cannot move away from enemies.
+While transformed, your critical hit threshold is reduced by 1 for each point of life you are missing. You are immune to the effects of the frightened ailment.
+
+At the start of each of your turns, gain the benefit of the Defend action and choose a **nemesis**.
+Apply one stack of taunted to your nemesis. You cannot move away from your nemesis.
+
+#### Outburst: Rallying Cry
+
+1 AP: Spend any amount of emotion. For each emotion spent, each ally within a 2 tile radius may remove one stack of an ailment or two stacks of an affliction from themselves.
 
 ### Grief
 
@@ -145,14 +156,28 @@ While transformed, your critical hit threshold is reduced by 1 for each point of
 
 While transformed, at the start of each of your turns apply 6 + Presence stacks of anguish to all creatures within a 2 tile radius. Whenever you hit a creature with a basic attack, or at the end of your turn if they are grappled by you, trigger their afflictions. Whenever a creature within 2 tiles of you, including yourself, loses life due to an affliction, gain that much absorption.
 
+#### Outburst: Terrible Wail
+
+1 AP: Spend any amount of emotion. Make a Presence attack against all other creatures within a 2 tile radius. If you hit, apply one stack of frightened for each emotion spent to each creature within a two tile radius.
+
 ### Hope
 
 #### Transformation: Shining Hope
 
 While transformed, whenever you deal damage, grant the ally with the lowest life within a 3 tile range that much absorption. Your Grit class feature removes all stacks of the chosen ailment, rather than just one.
 
+#### Outburst: Rallying Cry
+
+1 AP: Spend any amount of emotion. For each emotion spent, grant 3 + 1/2 Presence absorption to each ally within a 2 tile radius.
+
 ### Rage
 
 #### Transformation: Burning Rage
 
 While transformed, your basic attacks deal additional damage equal to the stacks of rage you have. You are immune to the pacified condition and damage from the temperance ailment. At the start of each of your turns, gain 4 rage for each stack of emotion you have.
+
+#### Outburst: Spreading Bloodlust
+
+1 AP: Spend any amount of emotion. Make a Presence attacka against all reatures within a 2 tile radius. For each emotion spent, apply 3 + 1/2 presence stacks of rage to all creatures within a 2 tile radius, including yourself.
+
+Like always, you may choose to be hit by any attacks.
