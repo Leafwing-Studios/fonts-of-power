@@ -124,3 +124,35 @@
 **Level:** 10
 
 **Details:** You can sustain two miracles at once.
+
+## Devotions
+
+## Benevolent
+
+### Consequence: Disappointment
+
+**Effect:** You instead immediately cast the standard version of the rite you selected
+
+### Augury: Vague Portents
+
+When you use your Augury downtime activity, if the result is 10 or less, you cannot discern any useful information. If the result is 11 or higher, you learn the true answer.
+
+## Malevolent
+
+### Consequence: Power at Any Price
+
+**Effect:** You cast the Miracle version of the rite you selected, but the hostile or adversarial creature with the highest current life gains the benefit of an identical miracle as well.
+
+### Augury: Malicious Advice
+
+When you use your Augury downtime activity, if the result is 5 or less, you are told the wrong answer. If the result is 6 or higher, you learn the true answer.
+
+## Primordial
+
+### Consequence: Direct Line
+
+**Effect:** You cast the miracle version of the rite you selected, but must make a Focus (Fontcraft) skill check to mitigate the damage done by the uncontrolled energy flowing through your body. Gain 5 stacks of exhaustion, reduced by 1 stack for each 5 points of your skill check result.
+
+### Augury: Places of Power
+
+When you use your Augury downtime activity, Add 5 times the current danger level to the result. If the final result is 20 or higher, you learn the true answer. Otherwise, learn nothing.
