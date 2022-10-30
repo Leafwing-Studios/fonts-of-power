@@ -27,7 +27,7 @@
 
 **Level:** 1
 
-**Details:** 0 AP 2 essence: Once per turn, you may cast a **charge**. Choose one:
+**Details:** 0 AP 2 essence: Once during your turn, you may cast a **charge**. Choose one:
 
 - target a single creature with 3 tile range
 - cast into weapon. The next time you hit with a basic attack, the target of that attack suffers the effect of that charge.
