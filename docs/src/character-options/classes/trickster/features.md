@@ -10,10 +10,10 @@
 |   4   |        +3         |                                    Dirty Tricks                                    |      4       |
 |   5   |        +3         |                                    Fast Talker                                     |      5       |
 |   6   |        +4         |                Attribute Improvement, Combat Feat, Exploration Feat                |      5       |
-|   7   |        +4         |                                   Push Your Luck                                   |      5       |
-|   8   |        +5         |                                 Flair: Trump Card                                  |      6       |
+|   7   |        +4         |                                 Flair: Trump Card                                  |      5       |
+|   8   |        +5         |                                   Push Your Luck                                   |      6       |
 |   9   |        +5         |                Attribute Improvement, Combat Feat, Exploration Feat                |      6       |
-|  10   |        +6         |                                 Double or Nothing                                  |      7       |
+|  10   |        +6         |                                Reversal of Fortunes                                |      7       |
 
 ## Features
 
