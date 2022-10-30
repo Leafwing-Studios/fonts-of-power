@@ -1,7 +1,7 @@
 # Powers
 
 In _Fonts of Power,_ every character class and monster gains access to special actions that they can take, expressing their magical energy in unique ways.
-Most classes gain access to new variants of these powers every time they receive an attribute increase (at level 4, 8, 12, 16 and 19).
+Classes with powers gain access to new variants of these powers when they level up, at levels 2, 5, 8 and 10.
 If an effect refers to “learning additional powers from your class”,
 learn additional variants of this sort, as shown in the right-hand column of your class.
 
