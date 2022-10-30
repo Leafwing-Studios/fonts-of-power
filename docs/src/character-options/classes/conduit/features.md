@@ -127,3 +127,45 @@ At the start of each of your turns, swap polarity.
 **Details:** The gear point total that you can equip is increased by 4. You can equip more gear points than your gear point total.
 
 When you change your gear loadout or complete a rest, gain 1 stack of exhaustion for each gear point that you've exceeded your gear point total by.
+
+## Power Supplies
+
+### Capacitator Crystals
+
+#### Recharge: Batteries Not Included
+
+Double any essence gained from consumables.
+
+#### Siphon: Solid State
+
+Instead of rolling your skill check when you use the Harvest downtime activity, you may choose to treat your skill check result as if you had rolled a 15. If you do, you may only choose to gain essence crystals.
+
+### Soulwell
+
+#### Recharge: Reservoir
+
+You have advantage on skill checks made as part of the Essence Tap action. Essence Tap restores all of your essence, rather than half.
+
+#### Siphon: Preprocessing
+
+Whenever you use the Prepare downtime activity, gain its benefits a second time.
+
+### Geomancy
+
+### Recharge: Regenerative Resistors
+
+Whenever you lose life due to elemental damage, restore 1 essence. If it was due to one of your charges, restore 2 essence instead.
+
+#### Siphon: Control Flow
+
+Advantage on all skill checks made to use the Enchant downtime activity.
+
+### Higher Authority
+
+#### Recharge: Reflection
+
+You have advantage on all skill checks made to use the Recover action.
+
+#### Siphon: Error Correction
+
+Downtime activity: make a difficulty 15 Focus (Insight) skill check. If you succeed, gain a resolve.
