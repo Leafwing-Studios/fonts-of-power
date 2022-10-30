@@ -27,19 +27,26 @@
 
 **Level:** 1
 
-**Details:** Companion can only use Strike, Spot, Scan and Block, gets two weapons of their own. Uses Expertise and Presence for the attacks instead, target special defense. When you regain AP at the end of your turn, you may spend up to 3 essence. Grant companion one AP for each essence spent.
+**Details:** In addition to your character, you also control a **companion** that shares your body. They share your skill proficiencies and attribute bonuses. In combat, the companion can only use Strike, Spot, Scan, Swap and Block actions.
+
+When your companion makes a basic attack, it uses your special attack bonus instead of your basic attack bonus.
+Add your Presence rather than your Prowess to its basic attacks.
+
+Your companion does not regain AP as usual. When you regain AP at the end of your turn, you may spend up to 3 essence. Your companion gains one AP for each essence spent.
+
+When you gain this feature, create two sets of arms for your companions. These can be enchanted as usual, and must obey your gear point total.
 
 ### Nudge
 
 **Level:** 1
 
-**Details:** Once during each of your turns, companion can spend 1 AP to move you into a tile within movement range 1. This does not provoke attacks of opportunity.
+**Details:** Once during each of your turns, your companion can spend 1 AP to cause you to gain the benefit of the Shift action.
 
 ### Coexistence: Dynamic
 
 **Level:** 1
 
-**Details:** Tactical interplay between host and companion.
+**Details:** Gain a combat feature that describes how the tactical interplay between the host and companion.
 
 ### Deviance
 
