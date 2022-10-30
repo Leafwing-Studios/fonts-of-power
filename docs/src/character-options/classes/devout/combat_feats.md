@@ -26,14 +26,14 @@
 **Effect:** Gain 1 favor when you use Recover.
 
 ## Humility
-**Effect:** While you do not have an active miracle, may spend two essence to copy any rite used. Grants one more favor as expected.
+**Effect:** While you do not have an active miracle, may spend two essence to copy any prayer that you cast. Like usual, this grants an additional favor.
 
 ## Pact
 **Effect:** When you use the Invoke action, you may instead choose to automatically succeed on the favor check. If you do, at the start of each of your turns for the duration of the miracle, roll 2d6. Pay that much essence. If you cannot, pay all remaining essence and gain one stack of exhaustion.
 
 ## Pantheism
-**Effect:** You may learn rites from an additional domain. Learn an additional rite.
+**Effect:** You may learn prayers from an additional domain. Learn an additional prayer.
 
 ## Divided Loyalty
-**Effect:** Select another devotion, gain access to another domain and split your domains evenly between your devotions. Rites from the appropriate domain increase favor in that direction by 1. When you attempt to invoke a miracle, favor in the matching direction is positive, otherwise negative. Choose direction of favor gain freely for other sources. When you select this feat, reselect all powers.
+**Effect:** Select another devotion, gain access to another domain and split your domains evenly between your devotions. Prayers from the appropriate domain increase favor in that direction by 1. When you attempt to invoke a miracle, favor in the matching direction is positive, otherwise negative. Choose direction of favor gain freely for other sources. When you select this feat, reselect all powers.
 
