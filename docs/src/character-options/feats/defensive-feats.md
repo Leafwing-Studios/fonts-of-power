@@ -13,9 +13,6 @@
 ## Swift
 **Effect:** You may use the Dodge reaction to attempt to completely evade Prowess or Agility attacks.
 
-## Protective
-**Effect:** You may use your Block reaction to reduce the efficacy of attacks made against any creature within your zone of control, rather than just yourself. When you do so, you take any other effects of that attack in their place as well and they gain any additional effects of your Block.
-
 ## Responsive
 **Effect:** Whenever an allied creature within 6 tiles of you is hit by an attack, you may use any action which applies a boon to that creature as a reaction.
 
