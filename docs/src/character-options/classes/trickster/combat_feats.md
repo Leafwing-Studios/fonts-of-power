@@ -75,8 +75,3 @@
 **Prerequisites:** Push Your Luck class feature
 
 **Effect:** You may use the Push Your Luck class feature in combat to reroll skill checks.
-
-## Seize Weakness
-
-**Effect:** You have mastered thhttps://github.com/pagnabros/fonts-of-powere ability to take advantage of enemies that exposes themselves or are temporarily weakened.
-Once per turn, when you hit a creature suffering from a condition with an attack roll, your damage against that creature increases by 2d6. If the creature you hit is suffering from three or more conditions, the extra damage increases to 4d6.
