@@ -169,21 +169,3 @@
 **Type:** None
 
 **Effect:** Until the end of your next turn, treat all skill checks made by your targets as if they had rolled a 15.
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##

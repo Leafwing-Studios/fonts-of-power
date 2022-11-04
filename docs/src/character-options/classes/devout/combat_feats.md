@@ -22,7 +22,7 @@
 
 ## One More Thing
 
-**Effect:** You may attempt to invoke another miracle while one is active. If you suceed, replace the old one.
+**Effect:** You may attempt to invoke another miracle while one is active. If you succeed, replace the old one.
 
 ## Heresy
 

@@ -42,7 +42,9 @@
 
 ## Embodiment
 
-**Effect:** Replaces Nudge. 1 AP from companion: seperate, gaining its own token in adjacent tile. While seperated, can take any core action. Life, essence, and exhaustion shared, everything else seperate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life. You may communicate telepathically with your companion. When you take this feat, sacrifice an exploration feat.
+**Effect:** Replaces Nudge. 1 AP from companion: separate, gaining its own token in adjacent tile. While separated, can take any core action. Life, essence, and exhaustion shared, everything else separate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life. You may communicate telepathically with your companion.
+
+When you take this feat, sacrifice an exploration feat.
 
 ## Well-Adapted
 
@@ -68,7 +70,7 @@
 
 ## Friendly Competition
 
-**Prerequisites:** Coexistence: Camarederie
+**Prerequisites:** Coexistence: Camaraderie
 
 **Effect:** After you hit an enemy creature with an attack, your counterpart's critical hit threshold is reduced by 3 until the end of the turn.
 
@@ -78,7 +80,7 @@
 
 ## Dance Partner
 
-**Prerequisites:** Coexistence: Camarederie
+**Prerequisites:** Coexistence: Camaraderie
 
 **Effect:** 3 AP from each: Move into an adjacent tile, one makes an attack, move into an adjacent tile, other makes an attack, move into an adjacent tile. This movement does not provoke attacks of opportunity.
 

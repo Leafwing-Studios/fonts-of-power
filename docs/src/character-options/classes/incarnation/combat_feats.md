@@ -50,7 +50,7 @@
 
 ## Ignore Pain
 
-**Effect:** Also remove 2 stacks of an affliction when you sucessfully use your Grit feature.
+**Effect:** Also remove 2 stacks of an affliction when you successfully use your Grit feature.
 
 ## Chase Down
 

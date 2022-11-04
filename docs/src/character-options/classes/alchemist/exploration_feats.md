@@ -6,7 +6,7 @@
 
 ## Elaborate Preparation
 
-**Effect:** You may add a modifer to consumable concoctions that you create.
+**Effect:** You may add a modifier to consumable concoctions that you create.
 
 ## Curative Preparation
 
