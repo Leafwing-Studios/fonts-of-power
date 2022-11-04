@@ -37,12 +37,6 @@
 ## Dangerous
 **Effect:** Create a set of arms using the standard rules which have a gear point total of 2. You always have them equipped, and they do not count as one of the two sets of arms you can equip. Whenever you land a critical hit, you may choose to gain the benefits of the Swap action.
 
-## Brawny
-**Effect:** You have advantage on Shove attacks.
-
-## Scrawny
-**Effect:** Shove and Grapple attacks against you have disadvantage.
-
 ## Lumbering
 **Effect:** You can only take at most one movement action each turn. Whenever you move, make a Prowess attack against all creatures in a 1 tile radius. If you hit, knock them prone. The effects of forced movement against you is reduced by 1 tile.
 
