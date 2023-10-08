@@ -4,15 +4,15 @@
 
 **Effect:** After you teleport, you may gain the benefit of the Swap action.
 
-## GOTO
-
-**Effect:** 1 essence, 1 AP: Teleport up to 2 tiles away.
-
 ## Arcing
+
+**Prerequisites:** Buffer Overflow class feature
 
 **Effect:** Your Buffer Overflow chains now have a range of 3 tiles.
 
 ## Overload
+
+**Prerequisites:** Buffer Overflow class feature
 
 **Effect:** You may choose to affect a radius around the target with your charges instead of chaining. Increase radius by 1 for every 2 essence spent.
 
@@ -26,7 +26,7 @@
 
 ## Direct Current
 
-**Effect:** Can choose to cast charges as a melee attack.
+**Effect:** You may treat charges as a melee attack. If you do, their critical hit threshold is reduced by 2.
 
 ## Circuit Breaker
 
@@ -34,15 +34,19 @@
 
 ## Jump Instruction
 
-**Effect:** After you use the Dodge action, you may teleport into an adjacent tile.
+**Effect:** After you use the Dodge action, you may teleport up to range 1 away.
 
 ## Memory Safety
 
-**Effect:** After you teleport, gain 2 absorption.
+**Effect:** After you teleport, gain absorption equal to the distance teleported.
 
 ## Garbage Collection
 
 **Effect:** After you teleport, remove one stack of an ailment of your choice from yourself.
+
+## GOTO
+
+**Effect:** Whenever you would teleport, you may choose to teleport into any tile adjacent to your original target instead.
 
 ## Privilege Escalation
 
@@ -56,10 +60,36 @@
 
 **Effect:** Your charges have a range of 6 tiles, up from 3.
 
-## Cyclic Graph
-
-**Effect:** Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time.
-
 ## Decapacitate
 
 **Effect:** 0 AP, 1 essence: reduce your critical hit threshold by 1 until the end of the turn.
+
+## Exception Handling
+
+**Effect:** Immediately after you enter death's door, immediately teleport to a tile of your choice within range 4.
+
+## Alternator
+
+**Prerequisites:** Alternating Current class feature
+
+**Effect:** When you use the Swap action, you may swap your polarity.
+
+## Heavily Polarized
+
+**Prerequisites:** Alternating Current class feature
+
+**Effect:** Polarity now grants you disadvantage on the opposite attack type. Your critical hit threshold with the favored attack type is reduced by 3.
+
+## Oscillation
+
+**Prerequisites:** Alternating Current class feature
+
+**Effect:** While your polarity is postive, your attacks push creatures 1 tile away from the source of the attack. While your polarity is negative, your attacks pull creatures 1 tile closer to the source of the attack.
+
+For clarification, the source of the attacks for chained charges is the origin of the previous jump.
+
+## Attack Vector
+
+**Prerequisites:** Buffer Overflow class feature
+
+**Effect:** Lose access to your Buffer Overflow class feature: your charges can no longer be chained. You may now use charges as attacks of opportunity, and may choose to use this action to channel a charge into your weapon before using the Strike action as part of an attack of opportunity.
