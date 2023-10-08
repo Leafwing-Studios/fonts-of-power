@@ -74,6 +74,8 @@ When you take this feat, sacrifice an exploration feat.
 
 **Prerequisites:** Coexistence: Camarederie
 
+**Prerequisites:** Coexistence: Camaraderie
+
 **Effect:** After you hit an enemy creature with an attack, your counterpart's critical hit threshold is reduced by 3 until the end of the turn.
 
 ## Poised
@@ -84,15 +86,19 @@ When you take this feat, sacrifice an exploration feat.
 
 **Prerequisites:** Coexistence: Camarederie
 
+**Prerequisites:** Coexistence: Camaraderie
+
 **Effect:** 3 AP from each: Move into an adjacent tile, one makes an attack, move into an adjacent tile, other makes an attack, move into an adjacent tile. This movement does not provoke attacks of opportunity.
 
 ## Hit and Run
+**Prerequisites:** Shifting Forms
 
 **Prerequisites:** Shifting Forms class feature
 
 **Effect:** Replaces Shifting Forms. If your last movement action this turn moved you closer to your target, your melee attacks have advantage against them. If your last movement action this turn moved you away from your target, your ranged attacks have advantage against them.
 
 ## Analytical
+**Prerequisites:** Shifting Forms
 
 **Prerequisites:** Shifting Forms class feature
 

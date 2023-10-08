@@ -1,8 +1,8 @@
-# Bladesworn
+# Class Name
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                        Features                                        | Powers Known |
+| Level | Proficiency Bonus |                                        Features                                        | Powers-Like Known |
 | :---: | :---------------: | :------------------------------------------------------------------------------------: | :----------: |
 |   1   |        +1         | Combat Feat, Exploration Feat, Weapon Bond, Forethought, Counterattacks, Watch My Back |      3       |
 |   2   |        +2         |                                      Skill Memory                                      |      4       |
