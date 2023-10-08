@@ -1,4 +1,7 @@
+# Powers
+
 ## Avatar of the Zephyr
+
 **Element:** Air
 
 **Cycle:** Avatar
@@ -20,6 +23,7 @@
 **Miracle Effect:** Your basic attacks are automatically criticals if you hit. You are flying at all times. You have a tile effect that applies one stack of aloft to any other creature.
 
 ## Blessing of Wings
+
 **Element:** Air
 
 **Cycle:** Blessing
@@ -41,6 +45,7 @@
 **Miracle Effect:** Target is flying at all times. All movement that they gain is doubled.
 
 ## Curse of Asphyxiation
+
 **Element:** Air
 
 **Cycle:** Curse
@@ -62,6 +67,7 @@
 **Miracle Effect:** At the start of each of your turns for the duration of this effect, make a Prowess attack against them. If it hits, apply one stack of exhaustion. Hit or miss, then deal 1d8 + Presence air damage for each stack of exhaustion they have.
 
 ## Gift of Grace
+
 **Element:** Air
 
 **Cycle:** Gift
@@ -83,6 +89,7 @@
 **Miracle Effect:** For the duration of this effect, their ranged basic attacks are made with advantage and their range is doubled. Additionally, they can make ranged basic attacks against any creature within range, as long as a path to them exists, ignoring line of sight and cover.
 
 ## Genesis of Wind
+
 **Element:** Air
 
 **Cycle:** Genesis
@@ -104,6 +111,7 @@
 **Miracle Effect:** When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. When the tile effect is triggered, make a Prowess attack against them. If you hit, they are knocked prone and pushed 4 tiles in the direction of the wind. If you miss, they are pushed 2tiles instead.
 
 ## Wrath of the Cyclone
+
 **Element:** Air
 
 **Cycle:** Wrath
@@ -126,8 +134,8 @@
 
 Whenever a creature starts their turn within the tornado or enters it for the first time on their turn, make a Prowess attack against them. If you hit, deal 2d6 + 2 * Presence air damage to them and apply two stacks of aloft and push them up to 2 tiles to an empty tile of your choice. If you miss, they suffer the effects at half efficacy.
 
-
 ## Avatar of the Arc
+
 **Element:** Electric
 
 **Cycle:** Avatar
@@ -151,6 +159,7 @@ Whenever a creature starts their turn within the tornado or enters it for the fi
 In addition, when you make a basic attack against a creature, your attacks chain uncontrollably between targets. Begin with your selected target, then the attack chains to a new target of your choice within 2 tiles of the previous one. The chain must continue until there are no more targets within range who have not already been hit.
 
 ## Blessing of Capacitance
+
 **Element:** Electric
 
 **Cycle:** Blessing
@@ -178,6 +187,7 @@ The damage type of this attack is always electric and cannot be changed.
 Treat any immunity to electric damage that the selected creature may have as if it were only resistance.
 
 ## Curse of Attraction
+
 **Element:** Electric
 
 **Cycle:** Curse
@@ -198,8 +208,8 @@ Treat any immunity to electric damage that the selected creature may have as if 
 
 **Miracle Effect:** All attacks made against a creature within a 1 tile radius of the selected creature target and affect only the selected creature instead. This does not affect attacks made by the selected creature. At the start of each of your turns for the duration of this effect, make a Prowess attack against all creatures within a 3 tile radius of the selected creature. If you hit, pull them up to 3 tiles directly towards the selected creature. You may choose the order creatures are pulled in.
 
-
 ## Gift of Swiftness
+
 **Element:** Electric
 
 **Cycle:** Gift
@@ -221,6 +231,7 @@ Treat any immunity to electric damage that the selected creature may have as if 
 **Miracle Effect:** All movement gained is doubled. Attacks of opportunity against them no longer have advantage. They can pass through the tiles of enemy creatures. They have a tile effect that deals 1d12 + Presence electric damage on hit to any other creature, half on miss.
 
 ## Genesis of Charge
+
 **Element:** Electric
 
 **Cycle:** Genesis
@@ -240,11 +251,13 @@ Treat any immunity to electric damage that the selected creature may have as if 
 **rite Effect:** Apply 6 + Presence stacks of shock.
 
 **Miracle Effect:** Create the electrostatic isolation tile effect in a 4 tile radius around a tile of your choice within range. In this tile effect:
+
 - the shock affliction cannot be removed by any means
 - treat any immunity to electric damage as if it were resistance instead
 - when this tile effect is triggered, deal electric damage to the triggering creature equal to their current stacks of shocked
 
 ## Wrath of Lightning
+
 **Element:** Electric
 
 **Cycle:** Wrath
@@ -267,6 +280,7 @@ Treat any immunity to electric damage that the selected creature may have as if 
 You gain access to the call lightning power. As a 1 AP action, with no essence cost, make a ranged Agility attack against all creatures in a one tile radius centered on a tile of your choice with the gathering storm tile effect. If you hit, deal 1d12 + Presence electric damage. If you miss, creatures suffer the attacks effects at half efficacy instead.
 
 ## Avatar of Misfortune
+
 **Element:** Fate
 
 **Cycle:** Avatar
@@ -288,6 +302,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 **Miracle Effect:** Your basic attacks are automatically criticals if you hit. One tile radius tile effect: apply two stacks of cursed and blunted to each adjacent creature. Immune to own tile effect.
 
 ## Blessing of Luck
+
 **Element:** Fate
 
 **Cycle:** Blessing
@@ -309,6 +324,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 **Miracle Effect:** All attacks made against them have disadvantage. All skill checks and attack rolls are made with advantage.
 
 ## Curse of Repetition
+
 **Element:** Fate
 
 **Cycle:** Curse
@@ -330,6 +346,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 **Miracle Effect:** Snapshot status when miracle begins. At the start of each of their turns, teleport back to the tile they started their turn in. Reset absorption, ailments and affliction.
 
 ## Gift of Time
+
 **Element:** Fate
 
 **Cycle:** Gift
@@ -351,6 +368,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 **Miracle Effect:** Gain 3 more AP at the end of the turn.
 
 ## Genesis of ??
+
 **Element:** Fate
 
 **Cycle:** Genesis
@@ -370,6 +388,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 **Miracle Effect:** ??
 
 ## Wrath of Ages
+
 **Element:** Fate
 
 **Cycle:** Wrath
@@ -389,4 +408,3 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 **rite Effect:** If you hit, apply one stack of exhaustion.
 
 **Miracle Effect:** Create 3 tile radius tile effect. When triggered, apply one stack of exhaustion.
-
