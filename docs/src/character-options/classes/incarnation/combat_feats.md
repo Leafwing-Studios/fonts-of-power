@@ -4,6 +4,8 @@
 
 **Effect:** If you succeed on a Grit skill check, try again.
 
+**Effect:** The first time each turn that you succeed on a Grit skill check, try again.
+
 ## Undying
 
 **Effect:** You have advantage on all death's door checks.
@@ -13,10 +15,11 @@
 **Effect:** When you use the Block action, also make a Prowess (Endurance) skill check. Use the higher of the two results.
 
 ## Dig Deep
-
 **Effect:** At the start of each of your turns, if you have 0 essence, gain the benefits of the Recover action.
 
-## Reckless Swing
+**Effect:** At the start of each of your turns, if you have less than 3 essence, gain the benefits of the Recover action.
+
+## Reckless
 
 **Effect:** 3 AP: make a melee attack that costs 2 AP or less with advantage. It's automatically a critical if you hit. Provoke an attack of opportunity.
 
@@ -50,6 +53,8 @@
 
 ## Ignore Pain
 
+**Effect:** Also remove 2 stacks of an affliction when you sucessfully use your Grit feature.
+
 **Effect:** Also remove 2 stacks of an affliction when you successfully use your Grit feature.
 
 ## Chase Down
@@ -73,7 +78,6 @@
 **Effect:** Ignore all exhaustion penalties to attack rolls.
 
 ## Fervor
-
 **Effect:** While you are transformed, you gain access to the *Fervor* action. 1 emotion: Gain 1 AP.
 
 ## Masochism
