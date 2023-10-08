@@ -29,8 +29,8 @@
 
 **Details:** 0 AP 2 essence: Once during your turn, you may cast a **charge**. Choose one:
 
-- target a single creature with 3 tile range
-- cast into weapon. The next time you hit with a basic attack, the target of that attack suffers the effect of that charge.
+- Target a single creature with 3 tile range
+- Channel the charge into your weapon. The next time you hit with a basic attack, the target of that attack suffers the effect of that charge.
 
 Charges stored in your weapon are not lost when you miss. If your basic attack hits more than one creature, choose one to affect with your charge.
 
@@ -44,7 +44,7 @@ Charges stored in your weapon are not lost when you miss. If your basic attack h
 
 **Level:** 1
 
-**Details:** After you hit a creature with an attack, you may pay 1 essence to teleport into an empty adjacent tile.
+**Details:** After you hit a creature with an attack, you may pay 1 essence to teleport into an empty tile adjacent to any creature you hit.
 
 ### Power Supply: Recharge
 
