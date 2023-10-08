@@ -8,4 +8,4 @@ You can follow its development in our [Discord server](https://discord.gg/V2Kdnq
 
 1. Install the current version of [mdBook](https://github.com/rust-lang/mdBook)
 2. Navigate to the project root directory using `cd FONTS-OF-POWER-DIRECTORY`.
-3. Run `mdbook serve docs --open`.
+3. Run `mdbook serve rules --open`.
