@@ -1,0 +1,6 @@
+[book]
+authors = ["Rose Peck"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Fonts of Power"

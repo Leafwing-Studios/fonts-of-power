@@ -1,0 +1,11 @@
+"Name",Effect
+"Well-Lit","By default, all tiles are in bright light."
+"Dim","By default, all tiles are in dim light."
+"Dark","By default, all tiles are in darkness."
+"Snowing","All tiles that do not have a roof are in the snow. Tile effect: lightly shrouded, one stack of chilled when triggered."
+"Blizzard","All tiles that do not have a roof are in the blizzard. Tile effect: heavily shrouded, one stack of chilled when triggered."
+"Raining",All tiles that do not have a roof are in the rain. Tile effect: lightly shrouded. You have disadvantage on all Athletics skill checks.
+"Lightning Storm","All tiles that do not have a roof are in the lightning storm. Tile effect: when triggered, roll 1d6. On a 1, take 1d12 electric damage."
+"Sandstorm","All tiles that do not have a roof are in the sandstorm. Tile effect: heavily shrouded. When triggered, take 1d4 earth damage."
+"Hailing","All tiles that do not have a roof are in the hail. Tile effect: When triggered, take 1d4 water damage and gain 1 stack of chilled."
+"Gusting Wind","All tiles that do not have a roof are in the gusting wind. Tile effect: When triggered, take 1d4 water damage and gain 1 stack of chilled."
