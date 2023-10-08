@@ -100,7 +100,7 @@ At the start of each of your turns, swap polarity.
 
 **Level:** 7
 
-**Effect:** Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time.
+**Details:** Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time.
 
 ### Fault Tolerance
 
