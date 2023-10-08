@@ -26,7 +26,7 @@ Effects which do not, on their own, qualify as a boon include:
 
 ## Concentration
 
-Many classes (particularly Ritualist, Shamans, Soulbinders and Weavers) use **concentration** as a mechanic in order to maintain control over ongoing effects. Whenever you lose life while you are concentrating on an effect, you must pass a difficulty 15 Endurance **concentration check** to maintain your concentration or the effect ends.
+Many classes (particularly Devout, Shamans, Soulbinders and Weavers) use **concentration** as a mechanic in order to maintain control over ongoing effects. Whenever you lose life while you are concentrating on an effect, you must pass a difficulty 15 Endurance **concentration check** to maintain your concentration or the effect ends.
 If you lost life due to physical damage, you must make a Prowess (Endurance) skill check.
 If it was elemental damage make a Focus (Endurance) skill check instead.
 
