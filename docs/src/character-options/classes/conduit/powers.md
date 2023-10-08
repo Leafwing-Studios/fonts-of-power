@@ -1,4 +1,7 @@
+# Powers
+
 ## Electric Contraction
+
 **Cycle:** Chaining
 
 **Element:** Electric
@@ -18,6 +21,7 @@
 **Effect:** Deal 1d8 + Presence, pull 2 tiles towards previous member of chain.
 
 ## Water Jet
+
 **Cycle:** Chaining
 
 **Element:** Water
@@ -37,6 +41,7 @@
 **Effect:** Deal 1d8 + Presence, push 2 tiles away from previous member of chain.
 
 ## Mocking Flames
+
 **Cycle:** Chaining
 
 **Element:** Fire
@@ -56,6 +61,7 @@
 **Effect:** Deal 1d8 + Presence fire damage, apply two stacks of taunted. Previous member of chain is object of taunted.
 
 ## Rainbow Accumulation
+
 **Cycle:** Chaining
 
 **Element:** Prismatic
@@ -75,6 +81,7 @@
 **Effect:** Transfer all absorption, ailments and affliction to next target in chain.
 
 ## Spectral Glow
+
 **Cycle:** Chaining
 
 **Element:** Radiant
@@ -94,6 +101,7 @@
 **Effect:** Apply two stacks of frightened, two stacks of pacified. Previous member of chain is object of frightened.
 
 ## Utter Chaos
+
 **Cycle:** Chaining
 
 **Element:** Umbral
@@ -113,6 +121,7 @@
 **Effect:** Swap with previous in chain. Apply two stacks of crazed.
 
 ## Blue Flame Blast
+
 **Cycle:** Off-color
 
 **Element:** Fire
@@ -132,6 +141,7 @@
 **Effect:** Deal 1d8 + Presence fire damage and apply 2 stacks of chilled.
 
 ## Corrupted Ice
+
 **Cycle:** Off-color
 
 **Element:** Water
@@ -151,6 +161,7 @@
 **Effect:** Deal 1d8 + Presence water damage and apply 2 stacks of withered.
 
 ## Piercing Ray
+
 **Cycle:** Off-color
 
 **Element:** Radiant
@@ -170,6 +181,7 @@
 **Effect:** Deal 1d8 + Presence radiant damage and apply 2 stacks of defenseless.
 
 ## Raging Storm
+
 **Cycle:** Off-color
 
 **Element:** Electric
@@ -189,6 +201,7 @@
 **Effect:** Deal 1d8 + Presence electric damage and apply 4 stacks of rage.
 
 ## Dark Energy
+
 **Cycle:** Off-color
 
 **Element:** Umbral
@@ -208,6 +221,7 @@
 **Effect:** Deal 1d8 + Presence umbral damage and apply 2 stacks of cursed.
 
 ## Wild Lightning
+
 **Cycle:** Excess
 
 **Element:** Electric
@@ -227,6 +241,7 @@
 **Effect:** 1d12 + Presence electric damage. Hit or miss, apply 4 stacks of shock to you and your target.
 
 ## Pure Pain
+
 **Cycle:** Excess
 
 **Element:** Umbral
@@ -246,6 +261,7 @@
 **Effect:** 1d12 + Presence umbral damage. Hit or miss, apply 4 stacks of anguish to you and your target.
 
 ## Roar of Fire
+
 **Cycle:** Excess
 
 **Element:** Fire
@@ -265,6 +281,7 @@
 **Effect:** 1d12 + Presence fire damage. Hit or miss, apply 4 stacks of rage to you and your target.
 
 ## Bitter Cold
+
 **Cycle:** Excess
 
 **Element:** Water
@@ -284,6 +301,7 @@
 **Effect:** 1d12 + Presence water damage. Hit or miss, apply 2 stack of chilled to you and your target.
 
 ## Searing Judgement
+
 **Cycle:** Excess
 
 **Element:** Radiant
@@ -301,4 +319,3 @@
 **Target:** Single-target
 
 **Effect:** 1d12 + Presence radiant damage. Hit or miss, apply 4 stacks of temperance to you and your target.
-

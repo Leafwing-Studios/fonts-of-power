@@ -25,6 +25,7 @@
 **Effect:** At the end of each of your turns, you may spend 1 essence to gain the benefits of the Recover action.
 
 ## Direct Current
+**Effect:** Can choose to cast charges as a melee attack.
 
 **Effect:** You may treat charges as a melee attack. If you do, their critical hit threshold is reduced by 2.
 
@@ -33,10 +34,12 @@
 **Effect:** After you see the results of an attack targeting you but before its effects are applied, you may choose to use Essence Tap as a reaction.
 
 ## Jump Instruction
+**Effect:** After you use the Dodge action, you may teleport into an adjacent tile.
 
 **Effect:** After you use the Dodge action, you may teleport up to range 1 away.
 
 ## Memory Safety
+**Effect:** After you teleport, gain 2 absorption.
 
 **Effect:** After you teleport, gain absorption equal to the distance teleported.
 
@@ -62,6 +65,7 @@
 
 ## Decapacitate
 
+## Decapacitate
 **Effect:** 0 AP, 1 essence: reduce your critical hit threshold by 1 until the end of the turn.
 
 ### Exception Handling

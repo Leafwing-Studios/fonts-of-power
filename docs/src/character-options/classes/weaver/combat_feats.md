@@ -6,7 +6,7 @@
 
 ## Web Weaving
 
-**Effect:** Gain the Suspend action. 1AP: Choose two creatures or objects (including walls) that are seperated by no more than 3 tiles, and choose a pattern to Suspend between them. The first time a creature other than yourself passes between the two objects, immediately apply the chosen pattern to them, and begin sustaining it.
+**Effect:** Gain the Suspend action. 1AP: Choose two creatures or objects (including walls) that are separated by no more than 3 tiles, and choose a pattern to Suspend between them. The first time a creature other than yourself passes between the two objects, immediately apply the chosen pattern to them, and begin sustaining it.
 
 ## Dance through the Weave
 

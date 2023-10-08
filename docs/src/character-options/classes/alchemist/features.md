@@ -118,3 +118,87 @@
 **Level:** 10
 
 **Details:** Gain a subclass specific effect whenever you use the Activate action.
+
+## Twists
+
+### Vessel
+
+## Splash
+
+2 tile melee cone.
+
+## Ampule
+
+6 tile range, single target.
+
+## Coating
+
+Apply to the arms of an adjacent ally, including yourself. The next time they make a single-target basic attack, cast as single target, using their attack roll (against the usual defense).
+
+## Trap
+
+Choose a tile within range 2. Create a ground effect that casts the spell when triggered, then removes itself.
+
+## Potion
+
+Gain the benefit of the Treat action targeting a non-enemy creature. Apply this brew's effect to the creature that you targeted, using the skill check result in place of an attack roll if necessary.
+
+## Blast
+
+2 tile radius.
+
+### Exotic Ingredients
+
+#### Noxious
+
+Whenever you would deal damage with this brew, instead apply stacks of brittle equal to the damage that you would have dealt.
+
+#### Homeopathic
+
+Whenever you would apply stacks of an ailment or affliction with this brew, instead remove that many stacks of that ailment or affliction.
+
+#### Eclectic
+
+At the start of combat, roll to select a random ailment. Your brew applies stacks of that ailment instead. Then, roll to select next ailment.
+
+## Pursuits
+
+### Eternal Life
+
+#### Secret Ingredient: Fertile
+
+Create a tile of difficult terrain under each tile your brew hit.
+
+#### End Product: ## Elixir of Life
+
+Whenever you use the Activate action, also regain half your life.
+
+### Transmutation
+
+#### Secret Ingredient: Cyclic
+
+Consult diagram. You may convert any elemental damage done to a connected type.
+
+#### End Product: Equivalent Exchange
+
+Whenever you use the Activate action to use one of your brews, you may freely select which ailments, afflictions and damage types it does.
+
+### Perpetual Motion
+
+### Secret Ingredient: Inverted
+
+The direction vector of forced movement applied by this brew is reversed.
+
+#### End Product: Self-Perpetuating
+
+Whenever you use the Activate action to use one of your brews, instead create a tile effect at that location. When triggered, apply the effect of your brew.
+
+### Free Energy
+
+#### Secret Ingredient: Inverted
+
+Critical hit threshold reduced by 5. No effect on a miss.
+
+#### End Product: Unlimited Power
+
+Whenever you use the Activate action, also regain half your essence.
