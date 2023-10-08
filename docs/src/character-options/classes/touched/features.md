@@ -27,19 +27,26 @@
 
 **Level:** 1
 
-**Details:** Companion can only use Strike, Spot, Scan and Block, gets two weapons of their own. Uses Expertise and Presence for the attacks instead, target special defense. When you regain AP at the end of your turn, you may spend up to 3 essence. Grant companion one AP for each essence spent.
+**Details:** In addition to your character, you also control a **companion** that shares your body. They share your skill proficiencies and attribute bonuses. In combat, the companion can only use Strike, Spot, Scan, Swap and Block actions.
+
+When your companion makes a basic attack, it uses your special attack bonus instead of your basic attack bonus.
+Add your Presence rather than your Prowess to its basic attacks.
+
+Your companion does not regain AP as usual. When you regain AP at the end of your turn, you may spend up to 3 essence. Your companion gains one AP for each essence spent.
+
+When you gain this feature, create two sets of arms for your companions. These can be enchanted as usual, and must obey your gear point total.
 
 ### Nudge
 
 **Level:** 1
 
-**Details:** Once during each of your turns, companion can spend 1 AP to move you into a tile within movement range 1. This does not provoke attacks of opportunity.
+**Details:** Once during each of your turns, your companion can spend 1 AP to cause you to gain the benefit of the Shift action.
 
 ### Coexistence: Dynamic
 
 **Level:** 1
 
-**Details:** Tactical interplay between host and companion.
+**Details:** Gain a combat feature that describes how the tactical interplay between the host and companion.
 
 ### Deviance
 
@@ -112,3 +119,43 @@
 **Level:** 10
 
 **Details:** Gain a powerful passive bonus based on the relationship with your companion.
+
+## Coexistence Strategies
+
+### Camraderie
+
+#### Dynamic: Counterpoint
+
+If you and your companion attack same target in a turn, second attack has advantage if from opposite range category.
+
+#### Synergy: Spirited
+
+The first time during your turn that you or your companion hits with an attack, the other gains 1 AP.
+
+### Symbiosis
+
+#### Dynamic: Unison
+
+Whenever you or your companion spend AP to use an offensive action, the other may spend the same amount of AP. If you do, double the efficacy of that action.
+
+### Synergy: Resilience
+
+At the start of each of your turns, gain the benefit of one of the following actions of your choice:
+
+- Defend
+- Ward
+- Recover
+- Break Grapple, targeting yourself
+- Treat, targeting yourself
+
+### Tension
+
+#### Dynamic: Balance of Power
+
+At the start of each of your turns, choose companion or host. Chosen half has advantage on all attacks and skill checks, other has disadvantage.
+
+#### Synergy: Vital Struggle
+
+ Whenever you would lose life, you may choose to lose that much essence instead. When you would spend essence, you may choose to lose that much life instead.
+
+ This feature can not be used if you do not have enough life or essence to pay the cost.

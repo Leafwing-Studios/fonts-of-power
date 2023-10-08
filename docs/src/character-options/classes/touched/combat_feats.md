@@ -4,13 +4,13 @@
 
 **Prerequisites:** Coexistence: Tension
 
-**Effect:** When you use Recover, you may choose to lose 1 life. If you do, you have advantage on the skill check.
+**Effect:** When you use Recover, you may spend 1 life. If you do, you have advantage on the skill check.
 
 ## Soul Tap
 
 **Prerequisites:** Coexistence: Tension
 
-**Effect:** Companion can choose to use Defend or Ward.
+**Effect:** Companion can use the Defend and Ward actions.
 
 ## Chimeric
 
@@ -42,7 +42,9 @@
 
 ## Embodiment
 
-**Effect:** Replaces Nudge. 1 AP from companion: separate, gaining its own token in adjacent tile. While separated, can take any core action. Life, essence, and exhaustion shared, everything else separate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life. You may communicate telepathically with your companion.
+**Prerequisites:** Nudge class feature
+
+**Effect:** Replaces Nudge. 1 AP from companion: seperate, gaining its own token in adjacent tile. While seperated, can take any core action. Life, essence, and exhaustion shared, everything else seperate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life. You may communicate telepathically with your companion.
 
 When you take this feat, sacrifice an exploration feat.
 
@@ -70,6 +72,8 @@ When you take this feat, sacrifice an exploration feat.
 
 ## Friendly Competition
 
+**Prerequisites:** Coexistence: Camarederie
+
 **Prerequisites:** Coexistence: Camaraderie
 
 **Effect:** After you hit an enemy creature with an attack, your counterpart's critical hit threshold is reduced by 3 until the end of the turn.
@@ -80,19 +84,23 @@ When you take this feat, sacrifice an exploration feat.
 
 ## Dance Partner
 
+**Prerequisites:** Coexistence: Camarederie
+
 **Prerequisites:** Coexistence: Camaraderie
 
 **Effect:** 3 AP from each: Move into an adjacent tile, one makes an attack, move into an adjacent tile, other makes an attack, move into an adjacent tile. This movement does not provoke attacks of opportunity.
 
 ## Hit and Run
-
 **Prerequisites:** Shifting Forms
+
+**Prerequisites:** Shifting Forms class feature
 
 **Effect:** Replaces Shifting Forms. If your last movement action this turn moved you closer to your target, your melee attacks have advantage against them. If your last movement action this turn moved you away from your target, your ranged attacks have advantage against them.
 
 ## Analytical
-
 **Prerequisites:** Shifting Forms
+
+**Prerequisites:** Shifting Forms class feature
 
 **Effect:** Replaces Shifting Forms. The first time each turn that you use the Scan action, refund any AP spent.
 
