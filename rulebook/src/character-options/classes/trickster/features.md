@@ -13,7 +13,7 @@
 |   7   |        +4         |                                 Flair: Trump Card                                  |      5       |
 |   8   |        +5         |                                   Push Your Luck                                   |      6       |
 |   9   |        +5         |                Attribute Improvement, Combat Feat, Exploration Feat                |      6       |
-|  10   |        +6         |                                Reversal of Fortunes                                |      7       |
+|  10   |        +6         |                                Reversal of Fortunes                                |      6       |
 
 ## Features
 

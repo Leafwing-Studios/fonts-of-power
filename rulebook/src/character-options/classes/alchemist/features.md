@@ -13,7 +13,7 @@
 |   7   |        +4         |                               Twist: Exotic Ingredient                               |      6       |
 |   8   |        +5         |                                       Epiphany                                       |      7       |
 |   9   |        +5         |                 Attribute Improvement, Combat Feat, Exploration Feat                 |      7       |
-|  10   |        +6         |                                 Pursuit: End Product                                 |      8       |
+|  10   |        +6         |                                 Pursuit: End Product                                 |      7       |
 
 ## Features
 

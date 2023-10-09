@@ -13,7 +13,7 @@
 |   7   |        +4         |                                     One Step Ahead                                     |      5       |
 |   8   |        +5         |                                     Second Thought                                     |      6       |
 |   9   |        +5         |                  Attribute Improvement, Combat Feat, Exploration Feat                  |      6       |
-|  10   |        +6         |                                        Finisher                                        |      7       |
+|  10   |        +6         |                                        Finisher                                        |      6       |
 
 ## Features
 

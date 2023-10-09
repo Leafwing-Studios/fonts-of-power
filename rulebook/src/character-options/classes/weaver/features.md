@@ -13,7 +13,7 @@
 |   7   |        +4         |                                    Quiltwork                                    |      6       |
 |   8   |        +5         |                                 Read the Weave                                  |      7       |
 |   9   |        +5         |              Attribute Improvement,  Combat Feat, Exploration Feat              |      7       |
-|  10   |        +6         |                                    Handiwork                                    |      8       |
+|  10   |        +6         |                                    Handiwork                                    |      7       |
 
 ## Features
 

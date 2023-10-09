@@ -13,7 +13,7 @@
 |   7   |        +4         |                                   Spreading Wilds                                   |      5       |
 |   8   |        +5         |                                      Wild Home                                      |      6       |
 |   9   |        +5         |                Attribute Improvement, Combat Feat, Exploration Feat                 |      6       |
-|  10   |        +6         |                                    Paths Unseen                                     |      7       |
+|  10   |        +6         |                                    Paths Unseen                                     |      6       |
 
 ## Features
 

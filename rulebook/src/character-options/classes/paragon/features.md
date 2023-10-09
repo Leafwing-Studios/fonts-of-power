@@ -13,7 +13,7 @@
 |   7   |        +4         |                                  Rallying Blow                                  |      5       |
 |   8   |        +5         |                                   Redemption                                    |      6       |
 |   9   |        +5         |                              Attribute Improvement                              |      6       |
-|  10   |        +6         |                                Ideal: Apotheosis                                |      7       |
+|  10   |        +6         |                                Ideal: Apotheosis                                |      6       |
 
 ## Features
 

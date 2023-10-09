@@ -13,7 +13,7 @@
 |   7   |        +4         |                                            Exception Handling                                             |      5       |
 |   8   |        +5         |                                               Cyclic Graph                                                |      6       |
 |   9   |        +5         |                           Attribute Improvement, Combat Feat, Exploration Feat                            |      6       |
-|  10   |        +6         |                                                 Overclock                                                 |      7       |
+|  10   |        +6         |                                                 Overclock                                                 |      6       |
 
 ## Features
 

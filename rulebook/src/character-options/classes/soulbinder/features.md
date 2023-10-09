@@ -13,7 +13,7 @@
 |   7   |        +4         |                                       Close Contact                                        |      6       |
 |   8   |        +5         |                                  Qualia: Heightened Bond                                   |      7       |
 |   9   |        +5         |                   Attribute Improvement,  Combat Feat, Exploration Feat                    |      7       |
-|  10   |        +6         |                                      Qualia: Soulbond                                      |      8       |
+|  10   |        +6         |                                      Qualia: Soulbond                                      |      7       |
 
 ## Features
 

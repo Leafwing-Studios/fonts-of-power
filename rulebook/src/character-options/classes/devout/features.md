@@ -13,7 +13,7 @@
 |   7   |        +4         |                                 Desperate Plea                                 |      6       |
 |   8   |        +5         |                             Privileged Information                             |      7       |
 |   9   |        +5         |              Attribute Improvement, Combat Feat, Exploration Feat              |      7       |
-|  10   |        +6         |                                 Miracle Worker                                 |      8       |
+|  10   |        +6         |                                 Miracle Worker                                 |      7       |
 
 ## Features
 
