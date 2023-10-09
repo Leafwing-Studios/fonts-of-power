@@ -1,5 +1,18 @@
 # Inventor
 
+| Level | Proficiency Bonus |                                Features                                | Powers Known |
+| :---: | :---------------: | :--------------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Creation, Animate, Repair, Living Creations, Constant Companion |      3       |
+|   2   |        +2         |                                Scrappy                                 |      4       |
+|   3   |        +2         |                      Attribute Improvement, Feats                      |      4       |
+|   4   |        +3         |                           Battlefield Repair                           |      4       |
+|   5   |        +3         |                             Helping Hands                              |      5       |
+|   6   |        +4         |                      Attribute Improvement, Feats                      |      5       |
+|   7   |        +4         |                             Spark of Life                              |      5       |
+|   8   |        +5         |                              EXPLORATION                               |      6       |
+|   9   |        +5         |                      Attribute Improvement, Feats                      |      6       |
+|  10   |        +6         |                               Automation                               |      6       |
+
 ## Feats
 
 **Level:** 1
