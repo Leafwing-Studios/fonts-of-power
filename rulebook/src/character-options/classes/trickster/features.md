@@ -165,4 +165,4 @@ When you land a critical hit with a basic attack, you may push the creature hit 
 
 #### Trump Card: Quick on the Draw
 
-**Effect:** At the start of each combat, take an extra turn. You only have 2 AP during this turn.
+**Effects:** At the start of each combat, take an extra turn. You only have 2 AP during this turn.

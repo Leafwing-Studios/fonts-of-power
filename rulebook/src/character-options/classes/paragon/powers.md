@@ -14,7 +14,7 @@
 
 **Target:** Multitarget
 
-**Effect:** One stack of taunted.
+**Effects:** One stack of taunted.
 
 ## Aura of Awe
 
@@ -30,7 +30,7 @@
 
 **Target:** Multitarget
 
-**Effect:** One stack of frightened.
+**Effects:** One stack of frightened.
 
 ## Aura of Conviction
 
@@ -46,7 +46,7 @@
 
 **Target:** Multitarget
 
-**Effect:** Advantage on special attacks.
+**Effects:** Advantage on special attacks.
 
 ## Aura of Deflection
 
@@ -62,7 +62,7 @@
 
 **Target:** Multitarget
 
-**Effect:** Disadvantage on basic attacks against allies.
+**Effects:** Disadvantage on basic attacks against allies.
 
 ## Aura of Determination
 
@@ -78,7 +78,7 @@
 
 **Target:** Multitarget
 
-**Effect:** Immune to forced movement.
+**Effects:** Immune to forced movement.
 
 ## Aura of Force
 
@@ -94,7 +94,7 @@
 
 **Target:** Multitarget
 
-**Effect:** Knock prone.
+**Effects:** Knock prone.
 
 ## Aura of Life
 
@@ -110,7 +110,7 @@
 
 **Target:** Multitarget
 
-**Effect:** Area is difficult terrain.
+**Effects:** Area is difficult terrain.
 
 ## Aura of Might
 
@@ -126,7 +126,7 @@
 
 **Target:** Multitarget
 
-**Effect:** Advantage on basic attacks.
+**Effects:** Advantage on basic attacks.
 
 ## Aura of Peace
 
@@ -142,7 +142,7 @@
 
 **Target:** Multitarget
 
-**Effect:** One stack of pacified.
+**Effects:** One stack of pacified.
 
 ## Aura of Protection
 
@@ -158,7 +158,7 @@
 
 **Target:** Multitarget
 
-**Effect:** 3 + 1/2 Presence absorption.
+**Effects:** 3 + 1/2 Presence absorption.
 
 ## Aura of Purity
 
@@ -174,7 +174,7 @@
 
 **Target:** Multitarget
 
-**Effect:** Prevent one stack of each ailment, 2 stacks of each affliction.
+**Effects:** Prevent one stack of each ailment, 2 stacks of each affliction.
 
 ## Aura of Radiance
 
@@ -190,7 +190,7 @@
 
 **Target:** Multitarget
 
-**Effect:** One stack of blinded.
+**Effects:** One stack of blinded.
 
 ## Aura of Resolve
 
@@ -206,7 +206,7 @@
 
 **Target:** Multitarget
 
-**Effect:** 1d4 + Presence damage. Gain absorption equal to damage dealt.
+**Effects:** 1d4 + Presence damage. Gain absorption equal to damage dealt.
 
 ## Aura of Retribution
 
@@ -222,7 +222,7 @@
 
 **Target:** Multitarget
 
-**Effect:** 1d4 + Presence thorns damage.
+**Effects:** 1d4 + Presence thorns damage.
 
 ## Aura of Reverence
 
@@ -238,7 +238,7 @@
 
 **Target:** Multitarget
 
-**Effect:** One stack of rooted.
+**Effects:** One stack of rooted.
 
 ## Aura of Righteousness
 
@@ -254,7 +254,7 @@
 
 **Target:** Multitarget
 
-**Effect:** 1d4 + Presence damage, ignores absorption.
+**Effects:** 1d4 + Presence damage, ignores absorption.
 
 ## Aura of Temperance
 
@@ -270,7 +270,7 @@
 
 **Target:** Multitarget
 
-**Effect:** 3 + 1/2 Presence stacks of temperance.
+**Effects:** 3 + 1/2 Presence stacks of temperance.
 
 ## Aura of Tranquility
 
@@ -286,7 +286,7 @@
 
 **Target:** Multitarget
 
-**Effect:** Disadvantage on special attacks against allies.
+**Effects:** Disadvantage on special attacks against allies.
 
 ## Aura of Vitality
 
@@ -302,4 +302,4 @@
 
 **Target:** Multitarget
 
-**Effect:** Remove one stack of each ailment, 2 stacks of each affliction at end of turn.
+**Effects:** Remove one stack of each ailment, 2 stacks of each affliction at end of turn.

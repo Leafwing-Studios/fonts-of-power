@@ -14,7 +14,7 @@
 
 **Target:** Multi-target
 
-**Effect:** Make a Shove attack. Must choose same direction for all targets.
+**Effects:** Make a Shove attack. Must choose same direction for all targets.
 
 ## Shelter
 
@@ -30,7 +30,7 @@
 
 **Target:** Multi-target
 
-**Effect:** Grant 6 + Presence absorption.
+**Effects:** Grant 6 + Presence absorption.
 
 ## Respite
 
@@ -46,7 +46,7 @@
 
 **Target:** Multi-target
 
-**Effect:** Use Treat.
+**Effects:** Use Treat.
 
 ## Hostility
 
@@ -62,7 +62,7 @@
 
 **Target:** Multi-target
 
-**Effect:** 1d6 + Presence damage, half on miss.
+**Effects:** 1d6 + Presence damage, half on miss.
 
 ## Hardship
 
@@ -78,7 +78,7 @@
 
 **Target:** Multi-target
 
-**Effect:** 6 + Presence stacks of affliction, half on miss.
+**Effects:** 6 + Presence stacks of affliction, half on miss.
 
 ## Ruin
 
@@ -94,7 +94,7 @@
 
 **Target:** Multi-target
 
-**Effect:** 2 stacks of ailment, half on miss.
+**Effects:** 2 stacks of ailment, half on miss.
 
 ## Resistance
 
@@ -110,7 +110,7 @@
 
 **Target:** NA
 
-**Effect:** Becomes difficult terrain until end of your next turn.
+**Effects:** Becomes difficult terrain until end of your next turn.
 
 ## Blight
 
@@ -126,7 +126,7 @@
 
 **Target:** NA
 
-**Effect:** Remove all tile effects until end of your next turn.
+**Effects:** Remove all tile effects until end of your next turn.
 
 ## Upheaval
 
@@ -142,4 +142,4 @@
 
 **Target:** NA
 
-**Effect:** Choose a direction. Move all shaped tiles over one tile if able, starting at the far edge.
+**Effects:** Choose a direction. Move all shaped tiles over one tile if able, starting at the far edge.

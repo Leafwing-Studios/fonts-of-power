@@ -14,7 +14,7 @@
 
 **Target:** Single
 
-**Effect:** 6 + Presence absorption.
+**Effects:** 6 + Presence absorption.
 
 ## Pattern of Annihilation
 
@@ -30,7 +30,7 @@
 
 **Target:** Single
 
-**Effect:** If you hit, trigger their afflictions. Hit or miss, trigger your own afflictions.
+**Effects:** If you hit, trigger their afflictions. Hit or miss, trigger your own afflictions.
 
 ## Pattern of Augmentation
 
@@ -46,7 +46,7 @@
 
 **Target:** Single
 
-**Effect:** For the duration of this effect, they have advantage on basic attacks and have advantage on all Block skill checks.
+**Effects:** For the duration of this effect, they have advantage on basic attacks and have advantage on all Block skill checks.
 
 ## Pattern of Binding
 
@@ -62,7 +62,7 @@
 
 **Target:** Single
 
-**Effect:** If you hit, apply two stacks of rooted.
+**Effects:** If you hit, apply two stacks of rooted.
 
 ## Pattern of Concealment
 
@@ -78,7 +78,7 @@
 
 **Target:** Single
 
-**Effect:** Make target invisible. This effect ends immediately after they make an attack.
+**Effects:** Make target invisible. This effect ends immediately after they make an attack.
 
 ## Pattern of Dampening
 
@@ -94,7 +94,7 @@
 
 **Target:** Single
 
-**Effect:** Efficacy of all attacks and boons is halved, both incoming and outgoing.
+**Effects:** Efficacy of all attacks and boons is halved, both incoming and outgoing.
 
 ## Pattern of Disintegration
 
@@ -110,7 +110,7 @@
 
 **Target:** Single
 
-**Effect:** If you hit, deal 1d10 + Presence physical damage.
+**Effects:** If you hit, deal 1d10 + Presence physical damage.
 
 ## Pattern of Displacement
 
@@ -126,7 +126,7 @@
 
 **Target:** Single
 
-**Effect:** If you hit, teleport the affected creature up to 2 tiles.
+**Effects:** If you hit, teleport the affected creature up to 2 tiles.
 
 ## Pattern of Empowerment
 
@@ -142,7 +142,7 @@
 
 **Target:** Single
 
-**Effect:** For the duration of this effect, they have advantage on special attacks and they ignore resistance to damage that they deal.
+**Effects:** For the duration of this effect, they have advantage on special attacks and they ignore resistance to damage that they deal.
 
 ## Pattern of Grasping
 
@@ -158,7 +158,7 @@
 
 **Target:** Single
 
-**Effect:** At the end of each of your turns while this effect is active, gain the benefit of the Grapple action against a creature of your choice within range.
+**Effects:** At the end of each of your turns while this effect is active, gain the benefit of the Grapple action against a creature of your choice within range.
 
 You may grapple any number of creatures in this way. When this pattern ends, the grappled status immediately ends on all creatures you were grappling in this way (and the grappling status also ends on yourself).
 
@@ -176,7 +176,7 @@ You may grapple any number of creatures in this way. When this pattern ends, the
 
 **Target:** Single
 
-**Effect:** If you hit, choose one:
+**Effects:** If you hit, choose one:
 
 - apply 3 + ½ Presence stacks of an affliction of your choice to them.
 - apply one stack of each of their current afflictions to them.
@@ -195,7 +195,7 @@ You may grapple any number of creatures in this way. When this pattern ends, the
 
 **Target:** Single
 
-**Effect:** If you hit, apply one stack of each of their current ailments.
+**Effects:** If you hit, apply one stack of each of their current ailments.
 
 ## Pattern of Reconstitution
 
@@ -211,7 +211,7 @@ You may grapple any number of creatures in this way. When this pattern ends, the
 
 **Target:** Single
 
-**Effect:** Treat target with advantage.
+**Effects:** Treat target with advantage.
 
 ## Pattern of Quickening
 
@@ -227,7 +227,7 @@ You may grapple any number of creatures in this way. When this pattern ends, the
 
 **Target:** Single
 
-**Effect:** Target gains 1 AP.
+**Effects:** Target gains 1 AP.
 
 ## Pattern of Sight
 
@@ -243,7 +243,7 @@ You may grapple any number of creatures in this way. When this pattern ends, the
 
 **Target:** Single
 
-**Effect:** For the duration of this effect, the affected creature is unimpeded by any shroud or invisibility effects.
+**Effects:** For the duration of this effect, the affected creature is unimpeded by any shroud or invisibility effects.
 
 ## Pattern of Suspension
 
@@ -259,4 +259,4 @@ You may grapple any number of creatures in this way. When this pattern ends, the
 
 **Target:** Single
 
-**Effect:** If you hit, apply two stacks of aloft.
+**Effects:** If you hit, apply two stacks of aloft.

@@ -2,4 +2,4 @@
 
 ## Feat Title
 
-**Effect:** Feat effect description.
+**Effects:** Feat effect description.

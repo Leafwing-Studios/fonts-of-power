@@ -18,7 +18,7 @@
 
 **Target:** Single-target
 
-**Effect:** Deal 1d8 + Presence, pull 2 tiles towards previous member of chain.
+**Effects:** Deal 1d8 + Presence, pull 2 tiles towards previous member of chain.
 
 ## Water Jet
 
@@ -38,7 +38,7 @@
 
 **Target:** Single-target
 
-**Effect:** Deal 1d8 + Presence, push 2 tiles away from previous member of chain.
+**Effects:** Deal 1d8 + Presence, push 2 tiles away from previous member of chain.
 
 ## Mocking Flames
 
@@ -58,7 +58,7 @@
 
 **Target:** Single-target
 
-**Effect:** Deal 1d8 + Presence fire damage, apply two stacks of taunted. Previous member of chain is object of taunted.
+**Effects:** Deal 1d8 + Presence fire damage, apply two stacks of taunted. Previous member of chain is object of taunted.
 
 ## Rainbow Accumulation
 
@@ -78,7 +78,7 @@
 
 **Target:** Single-target
 
-**Effect:** Transfer all absorption, ailments and affliction to next target in chain.
+**Effects:** Transfer all absorption, ailments and affliction to next target in chain.
 
 ## Spectral Glow
 
@@ -98,7 +98,7 @@
 
 **Target:** Single-target
 
-**Effect:** Apply two stacks of frightened, two stacks of pacified. Previous member of chain is object of frightened.
+**Effects:** Apply two stacks of frightened, two stacks of pacified. Previous member of chain is object of frightened.
 
 ## Utter Chaos
 
@@ -118,7 +118,7 @@
 
 **Target:** Single-target
 
-**Effect:** Swap with previous in chain. Apply two stacks of crazed.
+**Effects:** Swap with previous in chain. Apply two stacks of crazed.
 
 ## Blue Flame Blast
 
@@ -138,7 +138,7 @@
 
 **Target:** Single-target
 
-**Effect:** Deal 1d8 + Presence fire damage and apply 2 stacks of chilled.
+**Effects:** Deal 1d8 + Presence fire damage and apply 2 stacks of chilled.
 
 ## Corrupted Ice
 
@@ -158,7 +158,7 @@
 
 **Target:** Single-target
 
-**Effect:** Deal 1d8 + Presence water damage and apply 2 stacks of withered.
+**Effects:** Deal 1d8 + Presence water damage and apply 2 stacks of withered.
 
 ## Piercing Ray
 
@@ -178,7 +178,7 @@
 
 **Target:** Single-target
 
-**Effect:** Deal 1d8 + Presence radiant damage and apply 2 stacks of defenseless.
+**Effects:** Deal 1d8 + Presence radiant damage and apply 2 stacks of defenseless.
 
 ## Raging Storm
 
@@ -198,7 +198,7 @@
 
 **Target:** Single-target
 
-**Effect:** Deal 1d8 + Presence electric damage and apply 4 stacks of rage.
+**Effects:** Deal 1d8 + Presence electric damage and apply 4 stacks of rage.
 
 ## Dark Energy
 
@@ -218,7 +218,7 @@
 
 **Target:** Single-target
 
-**Effect:** Deal 1d8 + Presence umbral damage and apply 2 stacks of cursed.
+**Effects:** Deal 1d8 + Presence umbral damage and apply 2 stacks of cursed.
 
 ## Wild Lightning
 
@@ -238,7 +238,7 @@
 
 **Target:** Single-target
 
-**Effect:** 1d12 + Presence electric damage. Hit or miss, apply 4 stacks of shock to you and your target.
+**Effects:** 1d12 + Presence electric damage. Hit or miss, apply 4 stacks of shock to you and your target.
 
 ## Pure Pain
 
@@ -258,7 +258,7 @@
 
 **Target:** Single-target
 
-**Effect:** 1d12 + Presence umbral damage. Hit or miss, apply 4 stacks of anguish to you and your target.
+**Effects:** 1d12 + Presence umbral damage. Hit or miss, apply 4 stacks of anguish to you and your target.
 
 ## Roar of Fire
 
@@ -278,7 +278,7 @@
 
 **Target:** Single-target
 
-**Effect:** 1d12 + Presence fire damage. Hit or miss, apply 4 stacks of rage to you and your target.
+**Effects:** 1d12 + Presence fire damage. Hit or miss, apply 4 stacks of rage to you and your target.
 
 ## Bitter Cold
 
@@ -298,7 +298,7 @@
 
 **Target:** Single-target
 
-**Effect:** 1d12 + Presence water damage. Hit or miss, apply 2 stack of chilled to you and your target.
+**Effects:** 1d12 + Presence water damage. Hit or miss, apply 2 stack of chilled to you and your target.
 
 ## Searing Judgement
 
@@ -318,4 +318,4 @@
 
 **Target:** Single-target
 
-**Effect:** 1d12 + Presence radiant damage. Hit or miss, apply 4 stacks of temperance to you and your target.
+**Effects:** 1d12 + Presence radiant damage. Hit or miss, apply 4 stacks of temperance to you and your target.

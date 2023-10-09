@@ -149,7 +149,7 @@ If it fails, your favor decreases by 1 and you suffer the Consequences laid out 
 
 ### Consequence: Disappointment
 
-**Effect:** You instead immediately cast the standard version of the prayer you selected
+**Effects:** You instead immediately cast the standard version of the prayer you selected
 
 ### Augury: Vague Portents
 
@@ -159,7 +159,7 @@ When you use your Augury downtime activity, if the result is 10 or less, you can
 
 ### Consequence: Power at Any Price
 
-**Effect:** You cast the Miracle version of the prayer you selected, but the hostile or adversarial creature with the highest current life gains the benefit of an identical miracle as well.
+**Effects:** You cast the Miracle version of the prayer you selected, but the hostile or adversarial creature with the highest current life gains the benefit of an identical miracle as well.
 
 ### Augury: Malicious Advice
 
@@ -169,7 +169,7 @@ When you use your Augury downtime activity, if the result is 5 or less, you are 
 
 ### Consequence: Direct Line
 
-**Effect:** You cast the miracle version of the prayer you selected, but must make a Focus (Fontcraft) skill check to mitigate the damage done by the uncontrolled energy flowing through your body. Gain 5 stacks of exhaustion, reduced by 1 stack for each 5 points of your skill check result.
+**Effects:** You cast the miracle version of the prayer you selected, but must make a Focus (Fontcraft) skill check to mitigate the damage done by the uncontrolled energy flowing through your body. Gain 5 stacks of exhaustion, reduced by 1 stack for each 5 points of your skill check result.
 
 ### Augury: Places of Power
 

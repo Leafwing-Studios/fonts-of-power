@@ -14,7 +14,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and apply 4 stacks of bleeding.
+**Effects:** Weapon's effect at half efficacy and apply 4 stacks of bleeding.
 
 ## Distract
 
@@ -30,7 +30,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and apply one stack of taunted.
+**Effects:** Weapon's effect at half efficacy and apply one stack of taunted.
 
 ## Dull
 
@@ -46,7 +46,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and apply one stack of blunted.
+**Effects:** Weapon's effect at half efficacy and apply one stack of blunted.
 
 ## Evade
 
@@ -62,7 +62,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and you may move to an empty adjacent tile.
+**Effects:** Weapon's effect at half efficacy and you may move to an empty adjacent tile.
 
 ## Guard
 
@@ -78,7 +78,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and gain the benefits of the Defend action.
+**Effects:** Weapon's effect at half efficacy and gain the benefits of the Defend action.
 
 ## Halt
 
@@ -94,7 +94,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and apply one stack of rooted.
+**Effects:** Weapon's effect at half efficacy and apply one stack of rooted.
 
 ## Overpower
 
@@ -110,7 +110,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and apply one stack of defenseless.
+**Effects:** Weapon's effect at half efficacy and apply one stack of defenseless.
 
 ## Pierce
 
@@ -126,7 +126,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy, ignoring absorption.
+**Effects:** Weapon's effect at half efficacy, ignoring absorption.
 
 ## Rout
 
@@ -142,7 +142,7 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and push one tile.
+**Effects:** Weapon's effect at half efficacy and push one tile.
 
 ## Trip
 
@@ -158,4 +158,4 @@
 
 **Target:** Single target
 
-**Effect:** Weapon's effect at half efficacy and knocking prone.
+**Effects:** Weapon's effect at half efficacy and knocking prone.

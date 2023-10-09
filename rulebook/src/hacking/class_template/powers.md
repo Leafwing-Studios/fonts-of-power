@@ -14,4 +14,4 @@
 
 **Target:** ???
 
-**Effect:** Description of skill effect.
+**Effects:** Description of skill effect.

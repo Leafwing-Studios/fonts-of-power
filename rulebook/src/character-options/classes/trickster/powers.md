@@ -14,7 +14,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Knock prone and blunted.
+**Effects:** Knock prone and blunted.
 
 ## Cold Shower
 
@@ -30,7 +30,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** 2 stacks of chilled.
+**Effects:** 2 stacks of chilled.
 
 ## Pure Chaos
 
@@ -46,7 +46,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** 2 stacks of crazed
+**Effects:** 2 stacks of crazed
 
 ## Soothing Vapors
 
@@ -62,7 +62,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** 2 stacks of pacified.
+**Effects:** 2 stacks of pacified.
 
 ## Trick-or-Treat
 
@@ -78,7 +78,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** 2 stacks of frightened, trick center as target of fear.
+**Effects:** 2 stacks of frightened, trick center as target of fear.
 
 ## Grease Trap
 
@@ -94,7 +94,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Ground effect: whenever creatures use a movement action, make an special attack against Agility. If you hit, they are knocked prone. All forced movement other than teleportation is doubled.
+**Effects:** Ground effect: whenever creatures use a movement action, make an special attack against Agility. If you hit, they are knocked prone. All forced movement other than teleportation is doubled.
 
 ## Invisible Ink
 
@@ -110,7 +110,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Creatures become invisible until immediately after they use a non-movement action.
+**Effects:** Creatures become invisible until immediately after they use a non-movement action.
 
 ## Now You Don't
 
@@ -126,7 +126,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Teleport all creatures hit by same vector. Make them invisible until start of your next turn or they use a non-movement action.
+**Effects:** Teleport all creatures hit by same vector. Make them invisible until start of your next turn or they use a non-movement action.
 
 ## Over Here
 
@@ -142,7 +142,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Teleport to the destination of the trick.
+**Effects:** Teleport to the destination of the trick.
 
 ## Smelling Salts
 
@@ -158,7 +158,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Roll once for Treat action on all creatures.
+**Effects:** Roll once for Treat action on all creatures.
 
 ## Smoke Bomb
 
@@ -174,7 +174,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Tiles become heavily shrouded.
+**Effects:** Tiles become heavily shrouded.
 
 ## Spikestravaganza
 
@@ -190,7 +190,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** 2 stacks of bleeding per tile they walk through. Can treat as difficult terrain, taking only 1 stack per tile.
+**Effects:** 2 stacks of bleeding per tile they walk through. Can treat as difficult terrain, taking only 1 stack per tile.
 
 ## Superior Glue
 
@@ -206,7 +206,7 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Tile effect: if you hit, apply one stack of rooted.
+**Effects:** Tile effect: if you hit, apply one stack of rooted.
 
 ## Pyrotechnics
 
@@ -222,4 +222,4 @@
 
 **Target:** Multi, 2 tile radius
 
-**Effect:** Tile effect: 3 + 1/2 Presence stacks of aflame.
+**Effects:** Tile effect: 3 + 1/2 Presence stacks of aflame.

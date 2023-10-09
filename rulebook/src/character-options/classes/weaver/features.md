@@ -138,38 +138,38 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 #### Fabric of Reality: Replicate
 
-**Effect:** 1 AP, 1 essence: Create a 1 tile block within range 4. These can be destroyed via the Interact action.
+**Effects:** 1 AP, 1 essence: Create a 1 tile block within range 4. These can be destroyed via the Interact action.
 
 #### Reality Weaving: Fabrication
 
-**Effect:** Fabricate downtime activity. Make an appropriate skill check. You do not require materials or tools. Fixed limit on size of creation, provide a difficulty table for the complexity of the thing, non-magical items only.
+**Effects:** Fabricate downtime activity. Make an appropriate skill check. You do not require materials or tools. Fixed limit on size of creation, provide a difficulty table for the complexity of the thing, non-magical items only.
 
 ### Unmaking
 
 #### Fabric of Reality: Unravel
 
-**Effect:** 1 AP, 1 essence: become invisible until the start of your next turn. Gain the benefits of the Hide action.
+**Effects:** 1 AP, 1 essence: become invisible until the start of your next turn. Gain the benefits of the Hide action.
 
 #### Reality Weaving: Annhilate
 
-**Effect:** Downtme activity: completely destroy up to 3 cubic meters of solid material. If the material is magically imbued, you must pass an appropriate skill check. The difficulty of this skill check is determined by the power level of the item. Make a table for this.
+**Effects:** Downtme activity: completely destroy up to 3 cubic meters of solid material. If the material is magically imbued, you must pass an appropriate skill check. The difficulty of this skill check is determined by the power level of the item. Make a table for this.
 
 ### Space
 
 #### Fabric of Reality: Step through the Weave
 
-**Effect:** 1 AP, 1 essence: choose a tile within a 4 tile range. At the start of your next turn, you must teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
+**Effects:** 1 AP, 1 essence: choose a tile within a 4 tile range. At the start of your next turn, you must teleport into that tile. Any creatures that were occupying your new tiles are pushed harmlessly aside, into an empty adjacent tile of their choice.
 
 #### Reality Weaving: Warp and Weft
 
-**Effect:** Downtime activity: mark a location as a place you can teleport to, or teleport your entire party to an existing marked location.
+**Effects:** Downtime activity: mark a location as a place you can teleport to, or teleport your entire party to an existing marked location.
 
 ### Time
 
 #### Fabric of Reality: Buying Time
 
-**Effect:** 1 AP, 1 essence: as a reaction whenever you would suffer an attack, completely delay its effects. At the end of your next turn, you suffer those effects. If you delay multiple attacks in this way, they resolve in the order of your choice, they only test your concentration once, and can be blocked or dodged as a single attack.
+**Effects:** 1 AP, 1 essence: as a reaction whenever you would suffer an attack, completely delay its effects. At the end of your next turn, you suffer those effects. If you delay multiple attacks in this way, they resolve in the order of your choice, they only test your concentration once, and can be blocked or dodged as a single attack.
 
 #### Reality Weaving: Memories in the Weave
 
-**Effect:** Downtime activity. View the full past history of an item or location of your choice. You see only the state of the item at each point in time, but not any creature interacting with it.
+**Effects:** Downtime activity. View the full past history of an item or location of your choice. You see only the state of the item at each point in time, but not any creature interacting with it.
