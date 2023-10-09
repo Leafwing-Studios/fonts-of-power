@@ -98,7 +98,7 @@ Attacks that you dodge are treated as if the attacker missed.
 Attempt to treat the maladies of a creature within a 1 tile range, curing a single ailment or mitigating a single affliction of your choice.
 You are always within range of yourself, and so can target yourself with this action.
 
-Select a ailment or affliction. If you succeed on a difficulty 10 Focus (Medicine) skill check, remove all stacks of an ailment or half the stacks rounded up of an affliction of your choice from your target. If your result was 15 or higher, remove all stacks of that affliction instead.
+Select a ailment or affliction. If you succeed on a difficulty 10 Focus (Medicine) skill check, remove all stacks of an ailment or half the stacks, rounded up, of an affliction of your choice from your target. On a smashing success, remove all stacks of that affliction instead.
 
 ### Ward (1 AP)
 
