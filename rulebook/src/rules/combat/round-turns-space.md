@@ -5,9 +5,8 @@
 
 When it becomes clear that a fight is inevitable, combat begins.
 
-The worldspeaker defines **starting areas** for both players and NPCs.
-Every character is assigned a **turn order card**, which are shuffled together.
-These are revealed one at a time: when your character is revealed, place them wherever you want within the starting area.
+The players and the worldspeaker place thier characters and monsters on the map, based on their locations when the fight broke out.
+Then, every character (players and mosters) is assigned a **turn order card**, which are shuffled together.
 
 ## Turn Order
 
