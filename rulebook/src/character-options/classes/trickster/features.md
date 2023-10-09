@@ -166,3 +166,35 @@ When you land a critical hit with a basic attack, you may push the creature hit 
 #### Trump Card: Quick on the Draw
 
 **Effects:** At the start of each combat, take an extra turn. You only have 2 AP during this turn.
+
+## Flairs
+
+### Favored One
+
+#### Payout: Happy-go-lucky
+
+**Effects:** Apply one stack of defenseless
+
+### Trump Card: Plot Armor
+
+**Effects:** The first time each rest that you would die, instead don't.
+
+### Magician
+
+#### Payout: Magic Trick
+
+**Effects:** Use a trick for free. Ignores depletion.
+
+#### Trump Card: Vanishing Act
+
+**Effects:** Once per rest, you may instantly teleport back to the last place you completed a rest. If you are in combat, this costs 1 AP.
+
+### Ruffian
+
+#### Payout: Swagger
+
+**Effects:** Regain 1 AP.
+
+#### Trump Card: Gumption
+
+**Effects:** Whenever you complete a rest, gain one Resolve.
