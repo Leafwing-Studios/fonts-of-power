@@ -222,3 +222,7 @@ You have disadvantage on this skill check if you are more than 3 tiles away from
 
 Change the set of arms that you currently have equipped.
 This also allows you to completely stow your arms (and have no arms equipped), or draw them when you do not have arms equipped.
+
+### Use Trinket (2 AP)
+
+Use a trinket you currently have equipped

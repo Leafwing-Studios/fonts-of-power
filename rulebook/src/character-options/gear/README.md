@@ -2,6 +2,8 @@
 
 Treasure, magical trinkets, fantastical swords and elaborate suits of armor lie at the heart of the fantasy genre. *Fonts of Power* provides a robust affix system and allows players to freely flavor any items they might create, allowing your character’s gear to live up to your imagination while still integrating with the rules of the game in an interesting and fair way.
 
+## Combat Gear
+
 In *Fonts of Power*, there are three different types of combat-relevant items characters (and monsters!) can use:
 
 - **Arms:** Swords, bows, wands and claws, for all your combat needs!
@@ -18,7 +20,7 @@ In *Fonts of Power*, there are three different types of combat-relevant items ch
 
 When you make your first level 0 character, select two sets of arms and one set of armor from the Premade Gear list.
 
-## Customizing your arms and armor
+### Customizing your arms and armor
 
 The world of *Fonts of Power* is brimming with strange and dangerous magic.
 By enchanting their gear, adventurers can capture this magic in their equipment and prepare themselves to venture even deeper next time.
@@ -39,3 +41,12 @@ Modifying gear is done using downtime activities:
 - **Harvest:** Gather an ingredient or essence crystals from the area around you. Each ingredient allows you to create a single, specific affix.
 - **Enchant:** Spend an ingredient to add its affix to your gear. You can spend essence crystals to make this process easier.
 - **Disenchant:** Salvage a piece of gear to recover an ingredient and some essence crystals.
+
+## Trinkets
+
+Trinkets are non-combat magical items, that can have various effects.
+Like arms and armor, trinkets have a gear point cost.
+You can have at most **3 + your proficiency bonus** points of trinkets equipped at once.
+Trickets can be swapped whenever you rest.
+Additionally, if you find a trinket in the wild, you may immediatley swap it for one you have currently equipped.
+Trinkets can be used in combat using the Use Trinket action, although most of them will be useless.
