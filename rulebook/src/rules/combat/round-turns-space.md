@@ -1,23 +1,25 @@
 # Time and Space
 
-## Rounds and Turns
+
+## Starting Combat
 
 When it becomes clear that a fight is inevitable, combat begins.
-First split the creatures into **sides,** which fight together as allies. Typically, this will be the player characters and the monsters.
-Then, each side determines the **turn order** they wish to act in, without seeing the choices made by any other side.
 
-Every round, the sides alternate turns, progressing down their turn order until every creature has taken a turn.
+The worldspeaker defines **starting areas** for both players and NPCs.
+Every character is assigned a **turn order card**, which are shuffled together.
+These are revealed one at a time: when your character is revealed, place them wherever you want within the starting area.
 
-Particularly powerful monsters tend to take multiple turns per round; these must all be completed before the round can advance.
+## Turn Order
 
-<div class="infobox">
+At the beginning of each **round** shuffle the turn order cards together face down into a deck.
+Then, at the end of each **turn** flip up the top card to determine whose turn it is to act.
+When the deck is empty, the round ends and the deck is reshuffled.
+During the last character's turn; a player (or worldspeaker) who is not acting should shuffle the deck to avoid delays in play.
 
-**Choosing turn order**
+Note that the back of the turn order cards reveal whether the next actor is a player or a monster.
+You can use that information to your advantage, especially as the deck runs low!
 
-The order in which your turns are taken is typically not of tremendous tactical importance from combat-to-combat.
-You can speed up play by sticking to a standard turn order for your party, in which your frontline acts before your backline, or simply using the arrangement of players around the table.
-
-</div>
+Particularly powerful monsters tend to take **multiple turns per round.** Add one turn order card for that monster to the deck for each turn it takes per round.
 
 ### Surprise Rounds
 
