@@ -84,7 +84,7 @@
   - [Wildshaper](character-options/classes/wildshaper/features.md)
     - [Combat Feats](character-options/classes/wildshaper/combat_feats.md)
     - [Exploration Feats](character-options/classes/wildshaper/exploration_feats.md)
-    - [Powers](character-options/classes/wildshaper/powers.md.md)
+    - [Powers](character-options/classes/wildshaper/powers.md)
 
 - [Powers](character-options/powers/README.md)
 - [Feats](character-options/feats/README.md)
