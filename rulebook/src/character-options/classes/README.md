@@ -1,4 +1,4 @@
 # Classes
 
-Classes are currently stored in .csv file format.
-Use the [Edit CSV extension](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) to read and manipulate them.
+Each character's class defines the magical powers and abilities they have.
+This is the most important choice during character creation, and defines their basic role and features in combat.
