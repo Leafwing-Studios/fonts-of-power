@@ -13,8 +13,8 @@ There are two phases in the process of making deals:
 After spending some time determining what each side wants and what each side can provide, one party (usually the player characters) proposes a specific deal: if the other party does X, they will do Y in return.
 At this point, the worldspeaker determines the **willingness** of any non-player parties:
 
-1. **Strictly Opposed:** the party is unwilling under any circumstances
-2. **Unwilling:** the party is unwilling, but will tell the active party what, if anything would be needed for them to agree
+1. **Unwilling:** the party is unwilling under any circumstances
+2. **Begrudging:** the party is unwilling, but will tell the active party what, if anything would be needed for them to agree
 3. **Lukewarm:** the party is willing to agree to the deal, but on a condition of their choosing
 4. **Interested:** the party is willing to agree to the deal as it's proposed
 5. **Excited:** the party is very interested in the deal, and wants to go above and beyond the original terms
@@ -33,7 +33,7 @@ Now that the deal has been evaluated, both parties work to make the deal better 
 During standard haggling, either party may propose a change to the deal or it's terms.
 Some examples include:
 
-- Increaseing or decreasing payment for work done
+- Increasing or decreasing payment for work done
 - Putting up some collateral upfront
 - Adding additional requirements on what must be completed
 - Adding additional restrictions on how tasks can be completed
