@@ -49,4 +49,4 @@ Like arms and armor, trinkets have a gear point cost.
 You can have at most **3 + your proficiency bonus** points of trinkets equipped at once.
 Trickets can be swapped whenever you rest.
 Additionally, if you find a trinket in the wild, you may immediatley swap it for one you have currently equipped.
-Trinkets can be used in combat using the Use Trinket action, although most of them will be useless.
+Trinkets can be used in combat using the Use Trinket action, although most of them will have little practical effect in the middle of a fight.

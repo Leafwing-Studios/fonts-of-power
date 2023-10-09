@@ -13,27 +13,27 @@ For example, you might want to create:
 
 What follows is a basic overview of how you can use trinkets for dungeon design and world building.
 There are three main categories:
-1. Non-combat dungeon items
-2. Combat dungeon items
-3. Non-combat exploration items ("normral" trinkets fall into this category)
+1. Dungeon-specific non-combat items
+2. Dungeon-specific combat items
+3. Non-combat exploration items ("normal" trinkets fall into this category)
 
-## Non-combat dungeon items
+## Dungeon-specific non-combat items: magic keys
 
 Unlike normal trinkets, trinkets in this category mostly serve to be used within the scope of a single dungeon or adventure.
 Their uses are generally specific and tightly scoped, though they may see general use after the dungeon is over.
 
 For example:
 - A magical key that can open certain doors in the dungeon
-- A metal spigot that spews out water constantly. This might be used to fill a resivoir as part of a puzzle.
+- A metal spigot that spews out water constantly. This might be used to fill a reservoir as part of a puzzle.
 - A talking book that helps guide the players through rooms, or gives explanation about the background of the area.
 - A pair of spectacles that lets the players tell friends from enemies in disguise
 
-These can add a lot of richness and depth to your dungeons and scenes, to do make full use of them!
+These can add a lot of richness and depth to your dungeons and scenes, so do make full use of them!
 From a balance perspective, be careful to make sure their power level isn't too high outside of the situation they were designed for.
 For example, an electric baton that stuns guards can be very fun for a stealth section,
 but being able to one-hit KO any creature with a spinal cord might cause issues in future combats.
 
-## Combat dungeon items: how to kill Dracula
+## Dungeon-specific combat items: how to kill Dracula
 
 It is often desirable to make enemies or bosses that have to be dealt with in a specific way.
 This can add a unique flair to fights, and turn otherwise boring combats into their own mini-puzzles.
@@ -42,12 +42,12 @@ Trinkets are the intended system to enable this.
 A classic example: fighting Dracula.
 Dracula is a vampire, so he can't be killed by normal means.
 Instead, the players must get his health down to zero, the stake him in the heart.
-If you were designing dracula's castle, you might want to hide a "wooden stake" item somewhere in the dungeon.
+If you were designing Dracula's castle, you might want to hide a "wooden stake" item somewhere in the dungeon.
 The players have to find it, then go confront the big man.
 To enable this, simply make the wooden stake a trinket who's only ability is "can kill dracula once he's down to 1 health".
 
 Some other examples of combat trinkets:
-- Items which stun or weaken bosses
+- Items which stun, weaken or finish off bosses
 - Items which can enrage an enemy to bait certain attacks
 - Items which can remotely control vantages
 
@@ -60,7 +60,7 @@ Another option is to turn the specific combat trinket into a standard non-combat
 As a final piece of food for thought, you can do this with special affixes too :).
 Same rules apply.
 
-## Non-combat exploration items
+## Non-combat exploration items: handy gizmos
 
 This category covers all the "normal" prebuild trinkets that players can find.
 Though trinkets can technically be used in combat, trinkets are non-combat items by design.

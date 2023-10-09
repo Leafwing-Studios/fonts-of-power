@@ -225,4 +225,4 @@ This also allows you to completely stow your arms (and have no arms equipped), o
 
 ### Use Trinket (2 AP)
 
-Use a trinket you currently have equipped
+Use a trinket you currently have equipped. If its effect is ongoing, it lasts until the end of combat, unless otherwise specified.
