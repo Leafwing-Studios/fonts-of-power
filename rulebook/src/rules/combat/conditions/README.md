@@ -28,8 +28,10 @@ This leaves you with two options:
 
 </div>
 
-**Ailments** stack in duration. While you have at least one stack of a particular ailment, suffer its effects.
-At the end of each of your turns, remove one stack of each ailment you are suffering from.
+**Ailments** are impairing effects: they do not stack in duration or intensity, although you can suffer the effects of multiple ailments at once.
+At the start of each of your turns, cure all ailments that you are currently suffering from.
+
+Ailments can also be removed using the Treat action.
 
 **Statuses** are common special effects (such as being flying, prone or invisible), that do not follow the rules of either afflictions or ailments.
 They may be good or bad, and do not share a particular structure or mechanics. Their complete rules are listed here for easy reference.
