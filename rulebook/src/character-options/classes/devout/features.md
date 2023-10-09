@@ -21,13 +21,13 @@
 
 **Level:** 1
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Prayer
 
 **Level:** 1
 
-**Details:** 2 AP: cast a simple **prayer** and increase your favor by 1.
+**Effects:** 2 AP: cast a simple **prayer** and increase your favor by 1.
 
 Favor is used to improve the odds of succesfully calling upon miracles.
 
@@ -35,7 +35,7 @@ Favor is used to improve the odds of succesfully calling upon miracles.
 
 **Level:** 1
 
-**Details:** 3 AP: Choose a prayer, and attempt to cast a sustained **miracle**. To see if this succeeds, you must make a **favor check**:
+**Effects:** 3 AP: Choose a prayer, and attempt to cast a sustained **miracle**. To see if this succeeds, you must make a **favor check**:
 
 1. Choose how much essence to spend, increasing the final result by the essence spent.
 2. Roll a number of d20s based on your current favor.
@@ -57,91 +57,91 @@ If it fails, your favor decreases by 1 and you suffer the Consequences laid out 
 
 **Level:** 1
 
-**Details:** Choose 3 domains. Choose miracle mechanics.
+**Effects:** Choose 3 domains. Choose miracle mechanics.
 
 ### Deliberation
 
 **Level:** 1
 
-**Details:** Advantage on skill checks to maintain concentration.
+**Effects:** Advantage on skill checks to maintain concentration.
 
 ### Rebuke
 
 **Level:** 1
 
-**Details:** After a creature uses an offensive action against you, you may spend 1 AP to make a ranged attack against Presence targeting them. If you hit, apply two stacks of pacified.
+**Effects:** After a creature uses an offensive action against you, you may spend 1 AP to make a ranged attack against Presence targeting them. If you hit, apply two stacks of pacified.
 
 ### Augury
 
 **Level:** 2
 
-**Details:** Downtime activity: ask a Yes / No question. Answer you get depends on chance based on your devotion.
+**Effects:** Downtime activity: ask a Yes / No question. Answer you get depends on chance based on your devotion.
 
 ### Attribute Improvement
 
 **Level:** 3
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 3
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Reprieve
 
 **Level:** 4
 
-**Details:** After you successfully cast a miracle, gain the benefits of the Defend action.
+**Effects:** After you successfully cast a miracle, gain the benefits of the Defend action.
 
 ### Sage Reputation
 
 **Level:** 5
 
-**Details:** You have advantage on all Guidance skill checks made outside of downtime.
+**Effects:** You have advantage on all Guidance skill checks made outside of downtime.
 
 ### Attribute Improvement
 
 **Level:** 6
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 6
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Desperate Plea
 
 **Level:** 7
 
-**Details:** Once per rest, you may treat a failure on a Favor or concentration skill check as if it were a success.
+**Effects:** Once per rest, you may treat a failure on a Favor or concentration skill check as if it were a success.
 
 ### Privileged Information
 
 **Level:** 8
 
-**Details:** Once per rest, you may immediately gain the benefit of the Augury downtime activity specific to your subclass.
+**Effects:** Once per rest, you may immediately gain the benefit of the Augury downtime activity specific to your subclass.
 
 ### Attribute Improvement
 
 **Level:** 9
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 9
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Miracle Worker
 
 **Level:** 10
 
-**Details:** You can sustain two miracles at once.
+**Effects:** You can sustain two miracles at once.
 
 ## Devotions
 

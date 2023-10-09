@@ -21,103 +21,103 @@
 
 **Level:** 1
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Weapon Bond
 
 **Level:** 1
 
-**Details:** Cannot lose weapon. Cannot use any class features while wielding a different weapon. Whenever you use the Swap action, you enter or exit your **Stance** (determined by subclass)
+**Effects:** Cannot lose weapon. Cannot use any class features while wielding a different weapon. Whenever you use the Swap action, you enter or exit your **Stance** (determined by subclass)
 
 ### Forethought
 
 **Level:** 1
 
-**Details:** The first time each turn (including other creatures' turns) that you spend AP, you may spend essence up to the amount of AP spent. If you do, regain 1 AP per essence spent.
+**Effects:** The first time each turn (including other creatures' turns) that you spend AP, you may spend essence up to the amount of AP spent. If you do, regain 1 AP per essence spent.
 
 ### Counterattacks
 
 **Level:** 1
 
-**Details:** Variable AP 0 essence actions that can only be used as AoO. Weapon attacks, but use Expertise and Presence instead of Agility and Prowess and target special defenses.
+**Effects:** Variable AP 0 essence actions that can only be used as AoO. Weapon attacks, but use Expertise and Presence instead of Agility and Prowess and target special defenses.
 
 ### Watch My Back
 
 **Level:** 1
 
-**Details:** Attacks of Opportunity against you have disadvantage.
+**Effects:** Attacks of Opportunity against you have disadvantage.
 
 ### Skill Memory
 
 **Level:** 2
 
-**Details:** After you make a skill check, you may make a difficulty 10 Presence (Charm) skill check to convince your weapon to guide you. On a success, you may treat your result as if you were proficient in that skill. If you fail the Presence (Charm) skill check to use this ability, you cannot use it again until you complete a rest.
+**Effects:** After you make a skill check, you may make a difficulty 10 Presence (Charm) skill check to convince your weapon to guide you. On a success, you may treat your result as if you were proficient in that skill. If you fail the Presence (Charm) skill check to use this ability, you cannot use it again until you complete a rest.
 
 ### Attribute Improvement
 
 **Level:** 3
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 3
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Weapon Bond: Bloodied
 
 **Level:** 4
 
-**Details:** The first time each turn that you lose life due to an attack from another creature, gain a benefit determined by your subclass.
+**Effects:** The first time each turn that you lose life due to an attack from another creature, gain a benefit determined by your subclass.
 
 ### Lead the Way
 
 **Level:** 5
 
-**Details:** As a downtime activity, you may ask your weapon the direction to a specific creature, location or object. If you pass a difficulty 15 Focus (Insight) skill check, your bonded arms point the way to them until the end of your next rest, even if they move.z
+**Effects:** As a downtime activity, you may ask your weapon the direction to a specific creature, location or object. If you pass a difficulty 15 Focus (Insight) skill check, your bonded arms point the way to them until the end of your next rest, even if they move.z
 
 ### Attribute Improvement
 
 **Level:** 6
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 6
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### One Step Ahead
 
 **Level:** 7
 
-**Details:** At the start of each of your turns, you may move 1 tile (even if you are prone).
+**Effects:** At the start of each of your turns, you may move 1 tile (even if you are prone).
 
 ### Second Thought
 
 **Level:** 8
 
-**Details:** You have advantage on all Insight skill checks.
+**Effects:** You have advantage on all Insight skill checks.
 
 ### Attribute Improvement
 
 **Level:** 9
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 9
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Finisher
 
 **Level:** 10
 
-**Details:** Whenever you hit with an attack, gain one stack of **momentum**. Gain access to the Thousand Cuts action.
+**Effects:** Whenever you hit with an attack, gain one stack of **momentum**. Gain access to the Thousand Cuts action.
 
 **Thousand cuts:** 3AP, 5 momentum. Gain the benefits of the Strike or Grapple actions, or one of your known counterattacks without paying it's cost. Repeat this for a total of 5 attacks. (You may choose different targets for each repetition.)
 

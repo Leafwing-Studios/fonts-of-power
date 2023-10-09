@@ -21,13 +21,13 @@
 
 **Level:** 1
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Conduit Casting
 
 **Level:** 1
 
-**Details:** 0 AP 2 essence: Once during your turn, you may cast a **charge**. Choose one:
+**Effects:** 0 AP 2 essence: Once during your turn, you may cast a **charge**. Choose one:
 
 - Target a single creature with 3 tile range
 - Channel the charge into your weapon. The next time you hit with a basic attack, the target of that attack suffers the effect of that charge.
@@ -38,43 +38,43 @@ Charges stored in your weapon are not lost when you miss. If your basic attack h
 
 **Level:** 1
 
-**Details:** After you hit with a charge, you may pay 2 essence to chain to a new target within 2 tiles. This can chain indefinitely, but each creature can only be hit by the same charge once. Make a new attack for each target.
+**Effects:** After you hit with a charge, you may pay 2 essence to chain to a new target within 2 tiles. This can chain indefinitely, but each creature can only be hit by the same charge once. Make a new attack for each target.
 
 ### Injection Attack
 
 **Level:** 1
 
-**Details:** After you hit a creature with an attack, you may pay 1 essence to teleport into an empty tile adjacent to any creature you hit.
+**Effects:** After you hit a creature with an attack, you may pay 1 essence to teleport into an empty tile adjacent to any creature you hit.
 
 ### Power Supply: Recharge
 
 **Level:** 1
 
-**Details:** Gain an essence recovery feature based on your subclass.
+**Effects:** Gain an essence recovery feature based on your subclass.
 
 ### Power Supply: Siphon
 
 **Level:** 2
 
-**Details:** Downtime activity to draw on source of power based on your subclass.
+**Effects:** Downtime activity to draw on source of power based on your subclass.
 
 ### Attribute Improvement
 
 **Level:** 3
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 3
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Alternating Current
 
 **Level:** 4
 
-**Details:** At the start of combat, choose a **polarity**. While your polarity is positive, you have advantage on basic attacks. While it is negative, you have advantage on special attacks.
+**Effects:** At the start of combat, choose a **polarity**. While your polarity is positive, you have advantage on basic attacks. While it is negative, you have advantage on special attacks.
 
 At the start of each of your turns, swap polarity.
 
@@ -82,49 +82,49 @@ At the start of each of your turns, swap polarity.
 
 **Level:** 5
 
-**Details:** Draw twice as many random ingredients and recipes to to select from when using Enchant, Devise or Harvest.
+**Effects:** Draw twice as many random ingredients and recipes to to select from when using Enchant, Devise or Harvest.
 
 ### Attribute Improvement
 
 **Level:** 6
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 6
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Cyclic Graph
 
 **Level:** 7
 
-**Details:** Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time.
+**Effects:** Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time.
 
 ### Fault Tolerance
 
 **Level:** 8
 
-**Details:** The first time each rest that you would die due to exhaustion, instead don't.
+**Effects:** The first time each rest that you would die due to exhaustion, instead don't.
 
 ### Attribute Improvement
 
 **Level:** 9
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 9
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Overclock
 
 **Level:** 10
 
-**Details:** The gear point total that you can equip is increased by 4. You can equip more gear points than your gear point total.
+**Effects:** The gear point total that you can equip is increased by 4. You can equip more gear points than your gear point total.
 
 When you change your gear loadout or complete a rest, gain 1 stack of exhaustion for each gear point that you've exceeded your gear point total by.
 

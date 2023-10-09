@@ -21,19 +21,19 @@
 
 **Level:** 1
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Homeland
 
 **Level:** 1
 
-**Details:** Choose a terrain, elemental damage type, ailment and affliction. Wildshaping powers take on those effects.
+**Effects:** Choose a terrain, elemental damage type, ailment and affliction. Wildshaping powers take on those effects.
 
 ### Wildshaping
 
 **Level:** 1
 
-**Details:** 0 AP, 1 essence: Pick a tile within a 6 tile range and choose one:
+**Effects:** 0 AP, 1 essence: Pick a tile within a 6 tile range and choose one:
 
 - Shape it, causing it to gain the tile effect specified by your choice of terrain.
 - Unshape it, removing this tile effect.
@@ -46,85 +46,85 @@ Tiles stay shaped until the end of combat. Other creatures may clear a single ad
 
 **Level:** 1
 
-**Details:** After you spend essence other than to unshape a tile, if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
+**Effects:** After you spend essence other than to unshape a tile, if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
 
 ### Land's Connection
 
 **Level:** 1
 
-**Details:** While you are on your own shaped terrain, you may treat any connected tiles as if they were adjacent for the purpose of the Strike, Treat and Shove actions. This does not increase your zone of control.
+**Effects:** While you are on your own shaped terrain, you may treat any connected tiles as if they were adjacent for the purpose of the Strike, Treat and Shove actions. This does not increase your zone of control.
 
 ### Wilderness Lore
 
 **Level:** 2
 
-**Details:** Downtime activity. Make a Focus (Anima) skill check. Learn 1 fact about the area you are currently in, plus an additional fact for every 10 points of the skill check result.
+**Effects:** Downtime activity. Make a Focus (Anima) skill check. Learn 1 fact about the area you are currently in, plus an additional fact for every 10 points of the skill check result.
 
 ### Attribute Improvement
 
 **Level:** 3
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 3
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Locus of Power
 
 **Level:** 4
 
-**Details:** Whenever you use a Wildshaping power, you may choose to target only a single tile. Count the number of tiles in the connected area. Gain the shaping's effects once for every six shaped tiles in that area, rounded up.
+**Effects:** Whenever you use a Wildshaping power, you may choose to target only a single tile. Count the number of tiles in the connected area. Gain the shaping's effects once for every six shaped tiles in that area, rounded up.
 
 ### Cultivation
 
 **Level:** 5
 
-**Details:** You have advantage on all skill checks made as part of the Shape downtime activity.
+**Effects:** You have advantage on all skill checks made as part of the Shape downtime activity.
 
 ### Attribute Improvement
 
 **Level:** 6
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 6
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Spreading Wilds
 
 **Level:** 7
 
-**Details:** When you gain the effects of your Overgrowth class feature, you may instead choose to select any tile adjacent to an already shaped tile.
+**Effects:** When you gain the effects of your Overgrowth class feature, you may instead choose to select any tile adjacent to an already shaped tile.
 
 ### Wild Home
 
 **Level:** 8
 
-**Details:** When resting in areas with a danger level of at least two, you may use an additional downtime activity.
+**Effects:** When resting in areas with a danger level of at least two, you may use an additional downtime activity.
 
 ### Attribute Improvement
 
 **Level:** 9
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 9
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Paths Unseen
 
 **Level:** 10
 
-**Details:** At the start of each of your turns, you may select two shaped tiles within a six tile radius. Until the start of your next turn, these tiles are adjacent to each other. When travelling between these tiles, they are treated as if they were on the same height tier.
+**Effects:** At the start of each of your turns, you may select two shaped tiles within a six tile radius. Until the start of your next turn, these tiles are adjacent to each other. When travelling between these tiles, they are treated as if they were on the same height tier.
 
 Among other things, this means:
 

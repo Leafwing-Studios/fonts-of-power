@@ -21,13 +21,13 @@
 
 **Level:** 1
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Companion
 
 **Level:** 1
 
-**Details:** In addition to your character, you also control a **companion** that shares your body. They share your skill proficiencies and attribute bonuses. In combat, the companion can only use Strike, Spot, Scan, Swap and Block actions.
+**Effects:** In addition to your character, you also control a **companion** that shares your body. They share your skill proficiencies and attribute bonuses. In combat, the companion can only use Strike, Spot, Scan, Swap and Block actions.
 
 When your companion makes a basic attack, it uses your special attack bonus instead of your basic attack bonus.
 Add your Presence rather than your Prowess to its basic attacks.
@@ -40,85 +40,85 @@ When you gain this feature, create two sets of arms for your companions. These c
 
 **Level:** 1
 
-**Details:** Once during each of your turns, your companion can spend 1 AP to cause you to gain the benefit of the Shift action.
+**Effects:** Once during each of your turns, your companion can spend 1 AP to cause you to gain the benefit of the Shift action.
 
 ### Coexistence: Dynamic
 
 **Level:** 1
 
-**Details:** Gain a combat feature that describes how the tactical interplay between the host and companion.
+**Effects:** Gain a combat feature that describes how the tactical interplay between the host and companion.
 
 ### Deviance
 
 **Level:** 2
 
-**Details:** Choose an exploration feat. You may now select from the monstrous feat lists for both combat and exploration feats.
+**Effects:** Choose an exploration feat. You may now select from the monstrous feat lists for both combat and exploration feats.
 
 ### Attribute Improvement
 
 **Level:** 3
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 3
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Shifting Forms
 
 **Level:** 4
 
-**Details:** At the start of each of your turns, you may gain the benefits of the Swap action.
+**Effects:** At the start of each of your turns, you may gain the benefits of the Swap action.
 
 ### Deviance
 
 **Level:** 5
 
-**Details:** Choose an exploration feat.
+**Effects:** Choose an exploration feat.
 
 ### Attribute Improvement
 
 **Level:** 6
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 6
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### A Burden Shared
 
 **Level:** 7
 
-**Details:** Remove an additional stack of each ailment from yourself at the end of each turn.
+**Effects:** Remove an additional stack of each ailment from yourself at the end of each turn.
 
 ### Deviance
 
 **Level:** 8
 
-**Details:** Choose an exploration feat.
+**Effects:** Choose an exploration feat.
 
 ### Attribute Improvement
 
 **Level:** 9
 
-**Details:** Increase one Attribute of your choice by 1.
+**Effects:** Increase one Attribute of your choice by 1.
 
 ### Feats
 
 **Level:** 9
 
-**Details:** Gain a new combat feat and a new exploration feat.
+**Effects:** Gain a new combat feat and a new exploration feat.
 
 ### Coexistence: Synergy
 
 **Level:** 10
 
-**Details:** Gain a powerful passive bonus based on the relationship with your companion.
+**Effects:** Gain a powerful passive bonus based on the relationship with your companion.
 
 ## Coexistence Strategies
 
