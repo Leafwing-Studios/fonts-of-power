@@ -46,7 +46,7 @@
     - [Combat Feats](character-options/classes/alchemist/combat_feats.md)
     - [Exploration Feats](character-options/classes/alchemist/exploration_feats.md)
     - [Powers](character-options/classes/alchemist/powers.md)
-- [Bladesworn](character-options/classes/bladesworn/features.md)
+  - [Bladesworn](character-options/classes/bladesworn/features.md)
     - [Combat Feats](character-options/classes/bladesworn/combat_feats.md)
     - [Exploration Feats](character-options/classes/bladesworn/exploration_feats.md)
     - [Powers](character-options/classes/bladesworn/powers.md)
