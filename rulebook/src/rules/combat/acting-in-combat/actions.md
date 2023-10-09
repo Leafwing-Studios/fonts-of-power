@@ -95,9 +95,10 @@ Attacks that you dodge are treated as if the attacker missed.
 
 ### Treat (1 AP)
 
-Attempt to treat a creature within 1 tile’s injuries and ailments, curing a single ailment or mitigating a single affliction of your choice.
+Attempt to treat the maladies of a creature within a 1 tile range, curing a single ailment or mitigating a single affliction of your choice.
+You are always within range of yourself, and so can target yourself with this action.
 
-Select a ailment or affliction. If you succeed on a difficulty 10 Focus (Medicine) skill check, remove all stacks of the chosen ailment or half the stacks of the chosen affliction from them.
+Select a ailment or affliction. If you succeed on a difficulty 15 Focus (Medicine) skill check, remove all stacks of an ailment or half the stacks rounded up of an affliction of your choice from your target.
 
 ### Ward (1 AP)
 
