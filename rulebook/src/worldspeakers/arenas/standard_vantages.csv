@@ -1,0 +1,49 @@
+"Name","Stationary","Fragile","Shape Skill","Category","Life","Positioning","Effect","Parameters","Vulnerable","Resistant","Immune"
+"Door","True","False","Tinkering","Interactable","10","Edge","Open or close the door, swinging outwards.
+
+If another creature is blocking the door, make an opposed Prowess(Athletics) skill check.
+If you pass, push them one tile out of the way and open the door.",,"Corrosive",,"Decay"
+"Sliding Door","True","False","Tinkering","Interactable","10","Edge","Open or close the door, sliding linearly.
+If another creature is blocking the door, make an opposed Prowess(Athletics) skill check. If you pass, push them one tile out of the way and open the door.",,"Corrosive",,"Decay"
+"Lock","True","False","Tinkering","Interactable","10","Interactable","Locked interactables cannot be interacted with.
+
+Use Interact and make a difficulty 15 Agility (Trickery) skill check to lock or unlock. You automatically pass if you have the key.",,"Corrosive",,"Decay"
+"Barred Door","True","False","Tinkering","Interactable","10","Edge","From the barred side of the door, you may use Interact to lock or unlock this door.
+Locked interactables cannot be interacted with.
+
+From the barred side of the door, you can use Interact and make a difficulty 15 Prowess (Athletics) skill check to destroy this object.",,"Corrosive",,"Decay"
+"Ladder","True","True","Tinkering","Interactable","5","Edge","Move to the tile at the top or bottom of this ladder. Max ladder height of 3 height tiers.","Height","Corrosive",,
+"Fixture","True","True","Tinkering","Lighting",,"Ceiling","Casts bright light in a 3 tile radius, and dim light in a 3 tile radius beyond that.",,,,
+"Torch","True","True","Tinkering","Lighting","5","Wall","Casts bright light in a 3 tile radius, and dim light in a 3 tile radius beyond that.",,"Water, Umbral",,"Fire, Radiant"
+"Campfire","True","False","Tinkering","Lighting","5","Ground","Casts bright light in a 3 tile radius, and dim light in a 3 tile radius beyond that. Ground effect: deal 1d4 fire damage and apply two stacks of aflame when triggered.",,"Water, Umbral",,"Fire, Radiant"
+"Block","True","False","Tinkering, Anima, Fontcraft","Block","20","Block","A 1 tile block of some description.","Which edges are sloped.",,,
+"Sealing Rune","True","False","Fontcraft","Interactable","10","Interactable","Locked interactables cannot be interacted with.
+Use Interact and make a difficulty 15 Expertise (Fontcraft) skill check to lock or unlock. You automatically pass if you know the password.",,,,"Physical"
+"Clutter","False","True","Any","Ground Effect","5","Tile","Difficult terrain, partial cover.",,,,
+"Plane","True","False","Any","Block","10","Plane","Cover the horizontal area of a tile. Must be attached on at least one edge to a solid tile or other plane.",,,,
+"Wall","True","False","Any","Block","20","Edge","A wall, 2 height tiers in height.",,,,
+"Half-Wall","True","False","Any","Block","10","Edge","A wall, 1 height tier in height.",,,,
+"Chest","True","False","Tinkering","Interactable","20","Block","Use Interact to open or shut, retrieving or stowing an item as you do. 1 height tier block.",,,,
+"Zipline","True","True","Tinkering, Tinkering","Interactable","5","Line","Use Interact to move from the top of the zipline to the bottom, along the line it makes.",,"Physical, Corrosive",,
+"Swinging Rope","True","True","Anima, Tinkering","Interactable","5","Ceiling","Use Interact to grab onto, 0 AP to put down (if in an appropriate tile, can choose to hook onto something). When you use the Leap action while holding, you may choose to swing with the rope, moving to an appropriate tile within range without needing to make a skill check. Cannot move further than length of rope while holding it.","Length","Physical, Corrosive, Fire",,
+"Tightrope","True","True","Anima, Tinkering","Interactable","5","Line","1 tile wide path. Difficult terrain. Ground effect: attacks which apply forced movement to you have advantage.",,"Physical, Corrosive, Fire",,
+"Shallow Water","True","False","Fontcraft","Ground Effect","Infinite","Tile","Difficult terrain. Other ground effects cannot be placed here unless they are specifically compatible.",,,,
+"Deep Water","True","False","Fontcraft","Ground Effect","Infinite","Tile","Difficult terrain. Other ground effects cannot be placed here unless they are specifically compatible. You have disadvantage on all attacks, and all attacks have disadvantage against you. When triggered, make a difficulty 10 Prowess (Athletics) skill check. If you fail, gain one stack of exhaustion.",,,,
+"Water Current","True","False","Fontcraft","Ground Effect","Infinite","Tile","Must be placed on tiles with shallow or deep water. When triggered, make a difficulty 10/15/20 Prowess (Athletics) skill check. If you fail, you are pushed one tile downstream.","Difficulty, direction",,,
+"Wind","True","False","Fontcraft","Tile Effect","Infinite","Tile","When triggered, make a difficulty 10/15/20 Prowess (Athletics) skill check. If you fail, you are pushed one tile downwind.","Difficulty, direction",,,
+"Underbrush","True","True","Anima","Ground Effect","5","Tile","Difficult terrain. Lightly shrouded.",,"Fire, Decay",,"Primal"
+"Ice","True","False","Fontcraft","Ground Effect","10","Tile","Difficult terrain. When triggered, make a difficulty 10 Agility (Athletics) skill check or be knocked prone. Can be placed on top of water.",,"Fire",,"Water"
+"Brush","True","True","Fontcraft","Ground Effect","5","Tile","Partial cover, difficult terrain, heavily shrouded.",,"Fire, Decay",,"Primal"
+"Boulder","True","False","Fontcraft","Interactable","20","Block","Two height block. Use Interact to roll. Moves 1 tile for every 10 points of your Prowess (Athletics) skill check result. Advantage on skill check if round enough to roll.
+
+If it can roll, when created or moved, if on a tile with a gradual edge, pick a random gradual downhill direction and move it there. Repeat until comes to rest.
+
+If it falls or rolls into a creature, creatures in the way must make a difficulty 15 Agility (Athletics) skill check to dodge. Take 2d6 physical damage and be pushed into empty tile of defender's choice on hit.
+",,,,
+"Tree","True","False","Fontcraft","Block","10","Block","2 / 3 / 4 height block. Other blocks cannot be placed on top of it.","Height","Fire, Decay",,"Primal"
+"Fog","True","True","Fontcraft","Tile Effect","Infinite","Tile","Light / heavily shrouded. Dissipates for one turn if it takes air or fire damage.",,,,
+"Smoke","True","True","Fontcraft","Tile Effect","Infinite","Tile","Difficult terrain. Ground effect that deals 1d4 acid damage and applies 1 stack of defenseless when triggered.",,,,
+"Acid Pool","True","False","Fontcraft","Tile Effect","Infinite","Ground","Ground effect that applies 4 stacks of brittle when triggered. Other ground effects cannot be placed here unless they are specifically compatible.",,,,
+"Lava","True","False","Fontcraft","Tile Effect","Infinite","Ground","Ground effect that deals 1d4 fire damage and applies 2 stacks of aflame when triggered. Other ground effects cannot be placed here unless they are specifically compatible.",,,,
+"Quicksand","True","False","Fontcraft","Tile Effect","Infinite","Ground","Difficult terrain. Ground effect that applies 1 stack of rooted when triggered. Other ground effects cannot be placed here unless they are specifically compatible.",,,,
+"Narrow Gap","True","False","Tinkering, Fontcraft","Blocl","10","Edge","2 tile wall that grants partial cover. If you are size 1, can use Interact to squeeze between. Size 0 creatures can move between for free, larger creatures cannot fit.",,,,
