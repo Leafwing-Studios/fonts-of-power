@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                        Features                                        | Powers Known |
-| :---: | :---------------: | :------------------------------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Combat Feat, Exploration Feat, Weapon Bond, Forethought, Counterattacks, Watch My Back |      3       |
-|   2   |        +2         |                                      Skill Memory                                      |      4       |
-|   3   |        +2         |                  Attribute Improvement, Combat Feat, Exploration Feat                  |      4       |
-|   4   |        +3         |                                 Weapon Bond: Bloodied                                  |      4       |
-|   5   |        +3         |                                      Lead the Way                                      |      5       |
-|   6   |        +4         |                  Attribute Improvement, Combat Feat, Exploration Feat                  |      5       |
-|   7   |        +4         |                                     One Step Ahead                                     |      5       |
-|   8   |        +5         |                                     Second Thought                                     |      6       |
-|   9   |        +5         |                  Attribute Improvement, Combat Feat, Exploration Feat                  |      6       |
-|  10   |        +6         |                                        Finisher                                        |      6       |
+| Level | Proficiency Bonus |                            Features                            | Powers Known |
+| :---: | :---------------: | :------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Weapon Bond, Forethought, Counterattacks, Watch My Back |      3       |
+|   2   |        +2         |                          Skill Memory                          |      4       |
+|   3   |        +2         |                  Attribute Improvement, Feats                  |      4       |
+|   4   |        +3         |                     Weapon Bond: Bloodied                      |      4       |
+|   5   |        +3         |                          Lead the Way                          |      5       |
+|   6   |        +4         |                  Attribute Improvement, Feats                  |      5       |
+|   7   |        +4         |                         One Step Ahead                         |      5       |
+|   8   |        +5         |                         Second Thought                         |      6       |
+|   9   |        +5         |                  Attribute Improvement, Feats                  |      6       |
+|  10   |        +6         |                            Finisher                            |      6       |
 
 ## Features
 

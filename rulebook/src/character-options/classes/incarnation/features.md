@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                  Features                                   |
-| :---: | :---------------: | :-------------------------------------------------------------------------: |
-|   1   |        +1         | Combat Feat, Exploration Feat, Emotion, Temperament, Thrill of Battle, Grit |
-|   2   |        +2         |                                Overexertion                                 |
-|   3   |        +2         |            Attribute Improvement,  Combat Feat, Exploration Feat            |
-|   4   |        +3         |                                  Outburst                                   |
-|   5   |        +3         |                                   Pathos                                    |
-|   6   |        +4         |            Attribute Improvement,  Combat Feat, Exploration Feat            |
-|   7   |        +4         |                                Push Through                                 |
-|   8   |        +5         |                                   Rebound                                   |
-|   9   |        +5         |            Attribute Improvement,  Combat Feat, Exploration Feat            |
-|  10   |        +6         |                                 Unrelenting                                 |
+| Level | Proficiency Bonus |                      Features                       |
+| :---: | :---------------: | :-------------------------------------------------: |
+|   1   |        +1         | Feats, Emotion, Temperament, Thrill of Battle, Grit |
+|   2   |        +2         |                    Overexertion                     |
+|   3   |        +2         |            Attribute Improvement,  Feats            |
+|   4   |        +3         |                      Outburst                       |
+|   5   |        +3         |                       Pathos                        |
+|   6   |        +4         |            Attribute Improvement,  Feats            |
+|   7   |        +4         |                    Push Through                     |
+|   8   |        +5         |                       Rebound                       |
+|   9   |        +5         |            Attribute Improvement,  Feats            |
+|  10   |        +6         |                     Unrelenting                     |
 
 ## Features
 

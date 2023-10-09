@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                    Features                                    | Powers Known |
-| :---: | :---------------: | :----------------------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Combat Feat, Exploration Feat, Prayer, Miracle, Devotion, Deliberation, Rebuke |      4       |
-|   2   |        +2         |                                     Augury                                     |      5       |
-|   3   |        +2         |              Attribute Improvement, Combat Feat, Exploration Feat              |      5       |
-|   4   |        +3         |                                    Reprieve                                    |      5       |
-|   5   |        +3         |                                Sage Reputation                                 |      6       |
-|   6   |        +4         |              Attribute Improvement, Combat Feat, Exploration Feat              |      6       |
-|   7   |        +4         |                                 Desperate Plea                                 |      6       |
-|   8   |        +5         |                             Privileged Information                             |      7       |
-|   9   |        +5         |              Attribute Improvement, Combat Feat, Exploration Feat              |      7       |
-|  10   |        +6         |                                 Miracle Worker                                 |      7       |
+| Level | Proficiency Bonus |                        Features                        | Powers Known |
+| :---: | :---------------: | :----------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Prayer, Miracle, Devotion, Deliberation, Rebuke |      4       |
+|   2   |        +2         |                         Augury                         |      5       |
+|   3   |        +2         |              Attribute Improvement, Feats              |      5       |
+|   4   |        +3         |                        Reprieve                        |      5       |
+|   5   |        +3         |                    Sage Reputation                     |      6       |
+|   6   |        +4         |              Attribute Improvement, Feats              |      6       |
+|   7   |        +4         |                     Desperate Plea                     |      6       |
+|   8   |        +5         |                 Privileged Information                 |      7       |
+|   9   |        +5         |              Attribute Improvement, Feats              |      7       |
+|  10   |        +6         |                     Miracle Worker                     |      7       |
 
 ## Features
 

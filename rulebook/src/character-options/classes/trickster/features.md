@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                      Features                                      | Powers Known |
-| :---: | :---------------: | :--------------------------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Combat Feat, Exploration Feat, Just Lucky, Winning Streak, Trickery, Flair: Payout |      3       |
-|   2   |        +2         |                                   Roll the Dice                                    |      4       |
-|   3   |        +2         |                Attribute Improvement, Combat Feat, Exploration Feat                |      4       |
-|   4   |        +3         |                                    Dirty Tricks                                    |      4       |
-|   5   |        +3         |                                    Fast Talker                                     |      5       |
-|   6   |        +4         |                Attribute Improvement, Combat Feat, Exploration Feat                |      5       |
-|   7   |        +4         |                                 Flair: Trump Card                                  |      5       |
-|   8   |        +5         |                                   Push Your Luck                                   |      6       |
-|   9   |        +5         |                Attribute Improvement, Combat Feat, Exploration Feat                |      6       |
-|  10   |        +6         |                                Reversal of Fortunes                                |      6       |
+| Level | Proficiency Bonus |                          Features                          | Powers Known |
+| :---: | :---------------: | :--------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Just Lucky, Winning Streak, Trickery, Flair: Payout |      3       |
+|   2   |        +2         |                       Roll the Dice                        |      4       |
+|   3   |        +2         |                Attribute Improvement, Feats                |      4       |
+|   4   |        +3         |                        Dirty Tricks                        |      4       |
+|   5   |        +3         |                        Fast Talker                         |      5       |
+|   6   |        +4         |                Attribute Improvement, Feats                |      5       |
+|   7   |        +4         |                     Flair: Trump Card                      |      5       |
+|   8   |        +5         |                       Push Your Luck                       |      6       |
+|   9   |        +5         |                Attribute Improvement, Feats                |      6       |
+|  10   |        +6         |                    Reversal of Fortunes                    |      6       |
 
 ## Features
 

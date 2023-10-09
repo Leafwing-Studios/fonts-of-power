@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                                 Features                                                  | Powers Known |
-| :---: | :---------------: | :-------------------------------------------------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Combat Feat, Exploration Feat, Conduit Casting, Buffer Overflow, Injection Attack, Power Supply: Recharge |      3       |
-|   2   |        +2         |                                           Power Supply: Siphon                                            |      4       |
-|   3   |        +2         |                           Attribute Improvement, Combat Feat, Exploration Feat                            |      4       |
-|   4   |        +3         |                                            Alternating Current                                            |      4       |
-|   5   |        +3         |                                               Random Access                                               |      5       |
-|   6   |        +4         |                           Attribute Improvement, Combat Feat, Exploration Feat                            |      5       |
-|   7   |        +4         |                                            Exception Handling                                             |      5       |
-|   8   |        +5         |                                               Cyclic Graph                                                |      6       |
-|   9   |        +5         |                           Attribute Improvement, Combat Feat, Exploration Feat                            |      6       |
-|  10   |        +6         |                                                 Overclock                                                 |      6       |
+| Level | Proficiency Bonus |                                     Features                                      | Powers Known |
+| :---: | :---------------: | :-------------------------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Conduit Casting, Buffer Overflow, Injection Attack, Power Supply: Recharge |      3       |
+|   2   |        +2         |                               Power Supply: Siphon                                |      4       |
+|   3   |        +2         |                           Attribute Improvement, Feats                            |      4       |
+|   4   |        +3         |                                Alternating Current                                |      4       |
+|   5   |        +3         |                                   Random Access                                   |      5       |
+|   6   |        +4         |                           Attribute Improvement, Feats                            |      5       |
+|   7   |        +4         |                                Exception Handling                                 |      5       |
+|   8   |        +5         |                                   Cyclic Graph                                    |      6       |
+|   9   |        +5         |                           Attribute Improvement, Feats                            |      6       |
+|  10   |        +6         |                                     Overclock                                     |      6       |
 
 ## Features
 

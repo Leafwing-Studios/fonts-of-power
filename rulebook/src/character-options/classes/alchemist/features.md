@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                       Features                                       | Powers Known |
-| :---: | :---------------: | :----------------------------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Combat Feat, Exploration Feat, Alchemy, Preparations, Complex Process, Twist: Vessel |      4       |
-|   2   |        +2         |                                  Supply and Demand                                   |      5       |
-|   3   |        +2         |                 Attribute Improvement, Combat Feat, Exploration Feat                 |      5       |
-|   4   |        +3         |                               Twist: Secret Ingredient                               |      5       |
-|   5   |        +3         |                                    Field Research                                    |      6       |
-|   6   |        +4         |                 Attribute Improvement, Combat Feat, Exploration Feat                 |      6       |
-|   7   |        +4         |                               Twist: Exotic Ingredient                               |      6       |
-|   8   |        +5         |                                       Epiphany                                       |      7       |
-|   9   |        +5         |                 Attribute Improvement, Combat Feat, Exploration Feat                 |      7       |
-|  10   |        +6         |                                 Pursuit: End Product                                 |      7       |
+| Level | Proficiency Bonus |                           Features                           | Powers Known |
+| :---: | :---------------: | :----------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Alchemy, Preparations, Complex Process, Twist: Vessel |      4       |
+|   2   |        +2         |                      Supply and Demand                       |      5       |
+|   3   |        +2         |                 Attribute Improvement, Feats                 |      5       |
+|   4   |        +3         |                   Twist: Secret Ingredient                   |      5       |
+|   5   |        +3         |                        Field Research                        |      6       |
+|   6   |        +4         |                 Attribute Improvement, Feats                 |      6       |
+|   7   |        +4         |                   Twist: Exotic Ingredient                   |      6       |
+|   8   |        +5         |                           Epiphany                           |      7       |
+|   9   |        +5         |                 Attribute Improvement, Feats                 |      7       |
+|  10   |        +6         |                     Pursuit: End Product                     |      7       |
 
 ## Features
 
