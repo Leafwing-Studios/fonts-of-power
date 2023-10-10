@@ -30,16 +30,17 @@
 **Effects:** You can **transform**, gaining superhuman powers.
 
 At the start of each of your turns, if you are not transformed gain 1 emotion.
-Then, you may spend 3 times your current emotion to transform.
+Then, you may choose to spend 3 essence per emotion to transform.
+Your emotion after transformation is capped at one third of the essence spent: any excess is immediately lost.
 
-While transformed you are incredibly powerful, but lose 1 emotion at the end of each of your turns.
+While transformed you are incredibly powerful, but you lose 1 emotion at the end of each of your turns.
 Your transformation ends when you reach 0 emotion.
 
 ### Temperament
 
 **Level:** 1
 
-**Effects:** Choose an emotion subclass. Gain a unique transformation.
+**Effects:** Choose a subclass based on which emotion you embody. At level 1, this determines the details of your unique transformation.
 
 ### Thrill of Battle
 
@@ -57,7 +58,7 @@ Your transformation ends when you reach 0 emotion.
 
 **Level:** 2
 
-**Effects:** After you make a skill check using a skill you are proficient in and see the initial results, you may choose to treat the result as if you had rolled a 15 instead, but gain 1 stacks of exhaustion for doing so. You cannot use this on death's door skill checks.
+**Effects:** After you make a skill check using a skill you are proficient in and see the initial results, you may choose to treat the result as if you had rolled a 15 instead. If you do, gain 1 stack of exhaustion. You cannot use this ability to affect skill checks made as part of death's door.
 
 ### Attribute Improvement
 
