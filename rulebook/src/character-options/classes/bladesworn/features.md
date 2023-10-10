@@ -13,7 +13,7 @@
 |   7   |        +4         |                         One Step Ahead                         |      5       |
 |   8   |        +5         |                         Second Thought                         |      6       |
 |   9   |        +5         |                  Attribute Improvement, Feats                  |      6       |
-|  10   |        +6         |                            Finisher                            |      6       |
+|  10   |        +6         |                         Thousand Cuts                          |      6       |
 
 ## Features
 
@@ -27,25 +27,35 @@
 
 **Level:** 1
 
-**Effects:** Cannot lose weapon. Cannot use any class features while wielding a different weapon. Whenever you use the Swap action, you enter or exit your **Stance** (determined by subclass)
+**Effects:** When you gain this ability, select your subclass from the list below, which determines the way in which you are connected to your weapon.
+
+Bladesworns powers are particularly tied to their chosen weapon, and they cannot use any class features while wielding a different weapon. However, as explained by your subclass, it is nearly impossible for them to lose access to it.
+
+Whenever a bladesworn uses the Swap action, rather than changing which set of arms they are using, instead they enter or exit a **stance**. You can only be in at most one stance at once.
+
+Each subclass grants access to a unique stance at level 1.
 
 ### Forethought
 
 **Level:** 1
 
-**Effects:** The first time each turn (including other creatures' turns) that you spend AP, you may spend essence up to the amount of AP spent. If you do, regain 1 AP per essence spent.
+**Effects:** The first time each turn that you spend AP, you may spend essence up to the amount of AP spent. If you do, regain 1 AP per essence spent.
+
+Note that this can trigger multiple times per round, and works particularly well with attacks of opportunity and other reactions.
 
 ### Counterattacks
 
 **Level:** 1
 
-**Effects:** Variable AP 0 essence actions that can only be used as AoO. Weapon attacks, but use Expertise and Presence instead of Agility and Prowess and target special defenses.
+**Effects:** As a bladesworn, you gain access to powers known as **counterattacks**. These may only be used as attacks of opportunity, and never cost essence.
+
+While counterattacks use your weapon, they are special attacks: their effects scale off of Presence, not Prowess, and their attack roll is based on your Expertise, not Agility.
 
 ### Watch My Back
 
 **Level:** 1
 
-**Effects:** Attacks of Opportunity against you have disadvantage.
+**Effects:** Attacks of opportunity against you have disadvantage.
 
 ### Skill Memory
 
@@ -113,13 +123,15 @@
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Finisher
+### Thousand Cuts
 
 **Level:** 10
 
-**Effects:** Whenever you hit with an attack, gain one stack of **momentum**. Gain access to the Thousand Cuts action.
+**Effects:** Gain access to the Thousand Cuts action.
 
-**Thousand cuts:** 3AP, 5 momentum. Gain the benefits of the Strike or Grapple actions, or one of your known counterattacks without paying it's cost. Repeat this for a total of 5 attacks. (You may choose different targets for each repetition.)
+**Thousand Cuts:** 3AP, 5 momentum. Gain the benefits of the Strike, Grapple, or one of your known counterattack actions without paying its cost. Repeat this for a total of 5 attacks. You may choose different targets for each attack, but the selected action must be the same.
+
+After you use an action that cost AP or essence, if you hit at least one target with an attack as part of that action, gain one stack of **momentum**.
 
 ## Weapon Bonds
 
@@ -127,7 +139,7 @@
 
 #### Unbreakable Bond: Soulbound
 
-Can be summoned with Interact action.
+Your bonded weapon can be summoned at any time, using the Interact action.
 
 #### Stance: Scornful
 
@@ -135,7 +147,10 @@ You have disadvantage on all attacks. After you hit with an attack, you may imme
 
 #### Bloodied: Perfectionist
 
-The first time each turn that you lose life due to an attack from another creature, your next attack automatically hits.
+The first time each turn that you lose life due to an attack from another creature, the next attack you make cannot miss.
+Roll as normal to determine if the attack is a critical hit.
+
+This effect does not stack: only one "guaranteed hit" can be queued up at once.
 
 ### Ancestral Guardian
 
@@ -149,7 +164,7 @@ You have disadvantage on all attacks. After you hit with an attack, you may imme
 
 #### Bloodied: Respite
 
-The first time each turn that you lose life due to an attack from another creature, gain that much absorption. (This is gained after the life is lost.)
+The first time each turn that you lose life due to an attack from another creature, gain that much absorption. The absorption is gained after the life is lost.
 
 ### Cursed Blade
 
@@ -163,13 +178,13 @@ You have disadvantage on all attacks. Your critical hit threshold is reduced by 
 
 #### Bloodied: Hunger
 
-The first time each turn that you lose life due to an attack from another creature, lose an additional 1d6 life. The next attack that you hit deals twice that much extra damage.
+The first time each turn that you lose life due to an attack from another creature, lose an additional 1d6 life. The next attack that you hit deals extra damage equal to twice the life lost.
 
 ### Ghostly Blade
 
 #### Unbreakable Bond: Ethereal
 
-You may choose whether or not other creatures can interact with your blade.
+You may freely choose whether or not other creatures can interact with your blade at any moment.
 
 #### Stance: Haunted Touch
 
@@ -177,4 +192,4 @@ When you gain this ability, choose an Ailment. You have disadvantage on all atta
 
 #### Bloodied: Revenge
 
-The first time each turn that you lose life due to an attack from another creature, you may make an attack of opportunity with disadvantage against the creature that caused you to lose life.
+The first time each turn that you lose life due to an attack from another creature, you may make an attack of opportunity against the creature that caused you to lose life. You have disadvantage on that attack.
