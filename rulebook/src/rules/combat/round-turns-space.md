@@ -1,6 +1,5 @@
 # Time and Space
 
-
 ## Starting Combat
 
 When it becomes clear that a fight is inevitable, combat begins.
