@@ -27,27 +27,29 @@
 
 **Level:** 1
 
-**Effects:** 2 AP: cast a simple **prayer** and increase your favor by 1.
+**Effects:** As a Devout, your powers are known as **prayers**. Casting a prayer costs 2 AP and increases your favor by 1.
 
-Favor is used to improve the odds of succesfully calling upon miracles.
+**Favor** is used to improve the odds of succesfully calling upon miracles.
+It resets to zero at the start of every fight, and miracles cannot be sustained between fights.
 
 ### Miracle
 
 **Level:** 1
 
-**Effects:** 3 AP: Choose a prayer, and attempt to cast a sustained **miracle**. To see if this succeeds, you must make a **favor check**:
+**Effects:** You gain access to the **miracle** action, which costs 3 AP.
+
+Choose a prayer that you know, and attempt to cast a sustained miracle version of it. To see if this succeeds, you must make a **favor check**:
 
 1. Choose how much essence to spend, increasing the final result by the essence spent.
-2. Roll a number of d20s based on your current favor.
-3. If your result was 20 or higher, you succeeded. Otherwise, you failed.
+2. Determine the base result by rolling a number of d20s based on your current favor:
+   - Favor < 0: roll |Favor| + 1 d20s and use the lowest result.
+   - Favor = 0: roll 1 d20 and use that result.
+   - Favor > 0: roll Favor + 1 d20s and use the highest result.
+3. Add the amount of essence you spent in step 1 to your base result.
+4. You succeed if and only if the final result is 20 or higher.
 
-The number of d20s rolled based on your current favor, in a fashion similar to advantage and disadvantage:
-
-- Favor < 0: roll X + 1 d20s, where X is the absolute value of your Favor, and use the lowest result
-- Favor = 0: roll 1 d20 and use that result
-- Favor > 0: roll Y + 1 d20s, where Y your Favor, and use the highest result.
-
-As a party, you may choose to spend Resolve to modify the result of this rol.
+As a party, you may choose to spend Resolve to modify the result of this roll.
+Typically, this will set the result to a 15.
 
 If the favor check is successful, gain the benefit of an incredibly powerful miracle that lasts until your concentration is broken or the end of combat.
 
@@ -57,13 +59,15 @@ If it fails, your favor decreases by 1 and you suffer the Consequences laid out 
 
 **Level:** 1
 
-**Effects:** Choose 3 domains. Choose miracle mechanics.
+**Effects:** Determine the nature of the supreme power that you worship. Choose 3 elemental domains, which determine the prayers that you can learn.
+
+Additionally, select the nature of the power. At level 1, this determines the consequences of failing to cast a miracle.
 
 ### Deliberation
 
 **Level:** 1
 
-**Effects:** Advantage on skill checks to maintain concentration.
+**Effects:** You have advantage on skill checks made to maintain your concentration.
 
 ### Rebuke
 
@@ -75,7 +79,11 @@ If it fails, your favor decreases by 1 and you suffer the Consequences laid out 
 
 **Level:** 2
 
-**Effects:** Downtime activity: ask a Yes / No question. Answer you get depends on chance based on your devotion.
+**Effects:** Gain access to the Augury downtime activity.
+
+During this downtime activity, you may ask the worldspeaker one yes or no question.
+Whether or not they answer truthfully depends on both random chance and the nature of your devotion.
+Check your subclass for the exact mechanics.
 
 ### Attribute Improvement
 
@@ -141,7 +149,7 @@ If it fails, your favor decreases by 1 and you suffer the Consequences laid out 
 
 **Level:** 10
 
-**Effects:** You can sustain two miracles at once.
+**Effects:** You can sustain two miracles at once. If your concentration is lost, both miracles end.
 
 ## Devotions
 
@@ -149,11 +157,11 @@ If it fails, your favor decreases by 1 and you suffer the Consequences laid out 
 
 ### Consequence: Disappointment
 
-**Effects:** You instead immediately cast the standard version of the prayer you selected
+**Effects:** You instead immediately cast the standard version of the prayer you selected. Like usual, your favor is increased by 1 after casting a prayer.
 
 ### Augury: Vague Portents
 
-When you use your Augury downtime activity, if the result is 10 or less, you cannot discern any useful information. If the result is 11 or higher, you learn the true answer.
+When you use your Augury downtime activity, roll a d20. If the result is 10 or less, you cannot discern any useful information. If the result is 11 or higher, you learn the true answer.
 
 ## Malevolent
 
@@ -163,7 +171,7 @@ When you use your Augury downtime activity, if the result is 10 or less, you can
 
 ### Augury: Malicious Advice
 
-When you use your Augury downtime activity, if the result is 5 or less, you are told the wrong answer. If the result is 6 or higher, you learn the true answer.
+When you use your Augury downtime activity, roll a d20. If the result is 5 or less, you are told the wrong answer. If the result is 6 or higher, you learn the true answer.
 
 ## Primordial
 
@@ -173,4 +181,4 @@ When you use your Augury downtime activity, if the result is 5 or less, you are 
 
 ### Augury: Places of Power
 
-When you use your Augury downtime activity, Add 5 times the current danger level to the result. If the final result is 20 or higher, you learn the true answer. Otherwise, learn nothing.
+When you use your Augury downtime activity, roll a d20, then add 5 times the current danger level to the result. If the final result is 20 or higher, you learn the true answer. Otherwise, learn nothing.
