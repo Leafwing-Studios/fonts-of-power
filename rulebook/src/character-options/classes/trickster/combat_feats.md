@@ -74,7 +74,7 @@
 
 **Prerequisites:** Push Your Luck class feature
 
-**Effects:** You may use the Push Your Luck class feature in combat to reroll skill checks
+**Effects:** You may use the Push Your Luck class feature in combat to reroll skill checks.
 
 ## Reversal of Fortunes
 
