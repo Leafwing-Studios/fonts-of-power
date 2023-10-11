@@ -13,7 +13,7 @@
 |   7   |        +4         |                     Flair: Trump Card                      |      5       |
 |   8   |        +5         |                       Push Your Luck                       |      6       |
 |   9   |        +5         |                Attribute Improvement, Feats                |      6       |
-|  10   |        +6         |                    Reversal of Fortunes                    |      6       |
+|  10   |        +6         |                          CAPSTONE                          |      6       |
 
 ## Features
 
@@ -130,11 +130,11 @@ If you roll a 1, describe the unlikely fashion in which you attempted to perform
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Reversal of Fortunes
+### Luck Unending
 
 **Level:** 10
 
-**Effects:** Whenever another creature makes an attack roll (after you see whether or not their attack would hit), you may spend 1 AP to force them to reroll their attack roll. They must use the new result. You may use this ability again on that result.
+**Effects:** At the start of your turn, restore 3 + Focus / 2 essence.
 
 ## Flairs
 

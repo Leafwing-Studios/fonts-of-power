@@ -74,4 +74,8 @@
 
 **Prerequisites:** Push Your Luck class feature
 
-**Effects:** You may use the Push Your Luck class feature in combat to reroll skill checks.
+**Effects:** You may use the Push Your Luck class feature in combat to reroll skill checks
+
+## Reversal of Fortunes
+
+**Effects:**  Whenever a hostile creature makes an attack roll (after you see whether or not their attack would hit), you may spend 1 AP to force them to reroll their attack roll. They must use the new result. You cannot use this ability again on that result.
