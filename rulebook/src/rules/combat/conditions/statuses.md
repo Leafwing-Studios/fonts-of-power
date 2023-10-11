@@ -69,7 +69,7 @@ The efficacy of single-target forced movement effects is halved.
 
 If you are flying, creatures that you are grappling are also flying.
 
-You cannot make Grapple attacks or use the Dodge reaction.
+You cannot make Grapple attacks or use the Dodge reaction. You cannot grapple yourself.
 
 ## Hidden
 
