@@ -29,11 +29,13 @@
 
 **Effects:** After you make an attack or damage roll (and see the immediate results), you may spend 1 essence to reroll the results. You must use the new result.
 
+Using this feature a single time rerolls only your attack roll, or only your damage roll: the other roll remains unchanged.
+
 ### Winning Streak
 
 **Level:** 1
 
-**Effects:** At level 1, damage that you deal explodes. Whenever you roll the maximum possible value on a damage die, reroll that die and add it to the total damage dealt.
+**Effects:** At level 1, damage that you deal **explodes**. Whenever you roll the maximum possible value on a damage die, reroll that die and add it to the total damage dealt.
 
 This effect can recur indefinitely. If you are rolling multiple dice, you do not need to roll maximum damage on all dice simultaneously. For example, if you hit with a pair of brass knuckles which deal 2d4 damage, and you roll a 2 and a 4, reroll the 4 and add the result to the original 6 damage that would be dealt.
 
@@ -49,7 +51,7 @@ Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skil
 
 **Level:** 1
 
-**Effects:** Whenever you land a critical hit with a basic attack, gain a bonus effect.
+**Effects:** Choose a subclass; which determines the flair with which you use your luck-manipulating abilities. Whenever you land a critical hit with a basic attack, gain a bonus effect.
 
 ### Roll the Dice
 
@@ -59,12 +61,13 @@ Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skil
 
 To determine which skill is used, roll a d6:
 
-1: The skill check automatically fails and you cannot use this feature again until you’ve completed a rest.
-2: Prowess
-3: Agility
-4: Expertise
-5: Focus
-6: Presence
+* **1:** The skill check automatically fails and you cannot use this feature again until you’ve completed a rest.
+* **2:** Prowess
+* **3:** Agility
+* **4:** Expertise
+* **5:** Focus
+* **6:** Presence
+
 If you roll a 1, describe the unlikely fashion in which you attempted to perform the skill and how it failed. On any other result, describe the fashion in which you used the attribute rolled to perform the action attempted.
 
 ### Attribute Improvement
@@ -83,7 +86,7 @@ If you roll a 1, describe the unlikely fashion in which you attempted to perform
 
 **Level:** 4
 
-**Effects:** At the start of any other creatures' turn, you may spend 1 essence to immediately detonate a trick.
+**Effects:** At the start of each turn other than your own, you may spend 1 essence to immediately detonate a trick.
 
 ### Fast Talker
 
@@ -131,7 +134,7 @@ If you roll a 1, describe the unlikely fashion in which you attempted to perform
 
 **Level:** 10
 
-**Effects:** Whenever another creature makes an attack roll (after you see whether or not their attack would hit), you may spend 1 AP to force them to reroll their attack roll. They must use the new result.
+**Effects:** Whenever another creature makes an attack roll (after you see whether or not their attack would hit), you may spend 1 AP to force them to reroll their attack roll. They must use the new result. You may use this ability again on that result.
 
 ## Flairs
 
