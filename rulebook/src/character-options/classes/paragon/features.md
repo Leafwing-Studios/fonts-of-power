@@ -27,25 +27,39 @@
 
 **Level:** 1
 
-**Effects:** 2 tile radius tile effects. 0 AP once per turn to toggle, 1/3/6 essence drain at end of turn. Up to 3 active, duplicates allowed. If you don't have enough essence to pay cost, disable all auras.
+**Effects:** As a paragon, you have access to powers called **auras.** These are potent passive effects, that affect creatures within a 2 tile radius (including yourself).
+
+Once during each of your turns if you have more than zero essence, you may use the Toggle Aura action for 0 AP, allowing you to enable or disable any number of auras, up to a limit of 3 active at once.
+
+At the end of each of your turns, you lose essence based on the number of active auras you have present: 0/1/3/6 essenmce for 0/1/2/3 auras.
+If this reduces your essence to zero, disable all of your auras.
 
 ### Ideal: Stand Your Ground
 
 **Level:** 1
 
-**Effects:** At the start of your turn, decide. Until the start of your next turn, you cannot take movement actions, are immune to forced movement, cannot be knocked prone. Gain an additional benefit based on your ideal.
+**Effects:** Each paragon devotes their life to upholding a powerful ideal. This grants them power, and changes how their abilities work.
+
+At level 1, this modifies the *stand your ground* effect, as described below.
+
+At the start of your turn, you may choose to gain the *stand your ground effect* until the start of your next turn. While this effect is active:
+
+* you cannot take movement actions
+* you are immune to forced movement
+* you cannot be knocked prone
+* you gain an additional benefit based on your ideal
 
 ### Shield of Faith
 
 **Level:** 1
 
-**Effects:** Whenever you successfully block, grant the ally (including yourself) with the lowest life within a 2 tile range 2 absorption.
+**Effects:** Whenever you successfully block, grant 2 absorption to the ally (including yourself) with the lowest life within a 2 tile range.
 
 ### Conviction
 
 **Level:** 2
 
-**Effects:** When attempting to convince someone to act to directly benefit your Cause, you have advantage on all Guidance and Charm skill checks made.
+**Effects:** When attempting to convince someone to act in a way that is directly in line with your ideal, you have advantage on all Guidance and Charm skill checks made.
 
 ### Attribute Improvement
 
@@ -69,7 +83,9 @@
 
 **Level:** 5
 
-**Effects:** You gain access to the Consecrate downtime activity, along you to modify an area to reflect your beliefs until the end of your next rest.
+**Effects:** You gain access to the Consecrate downtime activity, along you to modify the area in which you are resting to reflect your beliefs until the end of your next rest.
+
+The exact effect is determined by your subclass: check below for details.
 
 ### Attribute Improvement
 
@@ -93,7 +109,8 @@
 
 **Level:** 8
 
-**Effects:** Downtime activity: Make a difficulty 25 Presence (Guidance) skill check targeting an NPC, adding their loyalty towards you to the skill check result. If you succeed, their value in your chosen Ideal permanently changes by 1. This skill check benefits from your Conviction feature. If you fail this skill check by 10 or more their loyalty towards you decreases by 1.
+**Effects:** (FIXME) You gain access to the Redeem downtime activity. When you use this downtime activity: Make a difficulty 25 Presence (Guidance) skill check targeting an NPC, adding their loyalty towards you to the skill check result. If you succeed, their value in your chosen Ideal permanently changes by 1. This skill check benefits from your Conviction feature.
+If you fail this skill check by 10 or more their loyalty towards you decreases by 1.
 
 ### Attribute Improvement
 
@@ -111,7 +128,9 @@
 
 **Level:** 10
 
-**Effects:** While you have 3 auras active, gain a powerful personal buff based on your subclass.
+**Effects:** While you have 3 auras active, gain a powerful personal buff.
+
+The exact effect varies based on your subclass: check below for details.
 
 ## Ideals
 
@@ -120,6 +139,8 @@
 #### Stand Your Ground: Sacrifice
 
 At level 1, your belief in Equality allows you to withstand unbelievable pain as you sacrifice yourself to protect the least among us. When you use your Stand Your Ground class feature, until the start of your next turn, you can choose to take the effects of any attack targeted at another creature within a 2 tile radius.
+
+You must choose whether or not to use this ability before the attack is rolled.
 
 #### Consecrate: Fraternity
 
@@ -190,4 +211,6 @@ Until the start of your next rest, creatures in the consecrated area have disadv
 
 #### Apotheosis: Avatar of Righteousness
 
-Whenever you make an attack, if the natural roll is less than or equal to 10, treat it as if it were 10 higher. (This may cause your attack to land a crit when it otherwise would not have.)
+Whenever you make an attack, if the natural roll is less than or equal to 10, treat it as if it were 10 higher.
+
+This may cause your attack to become a critical hit when it otherwise would not have been one.
