@@ -27,7 +27,7 @@
 
 **Level:** 1
 
-**Effects:** Whenever you hit a creature with a basic attack, Shove attack or succesfully use the Treat action on them, form a **bond** to them. The creature that you are bonded to is referred to as your **dual**.
+**Effects:** Whenever you hit a creature with a basic attack, Grapple attack, Shove attack or succesfully use the Treat action on them, form a **bond** to them. The creature that you are bonded to is referred to as your **dual**.
 
 You are bonded to them until either:
 
@@ -49,7 +49,7 @@ You always know the following pulses:
 - Strange Symbiosis
 - the Distinctive Pulse that corresponds to your Qualia
 
-The "Pulses Known" column in your class summary table includes the 3 you always you know.
+The "Pulses Known" column in your class summary table includes these 3 pulses.
 
 ### Qualia: Backchannel
 
