@@ -32,7 +32,7 @@
 When your companion makes a basic attack, it uses your special attack bonus instead of your basic attack bonus.
 Add your Presence rather than your Prowess to its basic attacks.
 
-Your companion does not regain AP as usual. When you regain AP at the end of your turn, you may spend up to 3 essence. Your companion gains one AP for each essence spent.
+Your companion does not regain AP as usual. At the start of your turn, you may spend up to 3 essence. Your companion gains one AP for each essence spent. These AP are lost at the start of your turn as usual.
 
 When you gain this feature, create two sets of arms for your companions. These can be enchanted as usual, and must obey your gear point total.
 
@@ -40,7 +40,7 @@ When you gain this feature, create two sets of arms for your companions. These c
 
 **Level:** 1
 
-**Effects:** Once during each of your turns, your companion can spend 1 AP to cause you to gain the benefit of the Shift action.
+**Effects:** Once during your turn, your companion can spend 1 AP to cause you to gain the benefit of the Shift action.
 
 ### Coexistence: Dynamic
 

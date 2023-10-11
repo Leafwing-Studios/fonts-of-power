@@ -91,6 +91,7 @@ When you take this feat, sacrifice an exploration feat.
 **Effects:** 3 AP from each: Move into an adjacent tile, one makes an attack, move into an adjacent tile, other makes an attack, move into an adjacent tile. This movement does not provoke attacks of opportunity.
 
 ## Hit and Run
+
 **Prerequisites:** Shifting Forms
 
 **Prerequisites:** Shifting Forms class feature
@@ -98,6 +99,7 @@ When you take this feat, sacrifice an exploration feat.
 **Effects:** Replaces Shifting Forms. If your last movement action this turn moved you closer to your target, your melee attacks have advantage against them. If your last movement action this turn moved you away from your target, your ranged attacks have advantage against them.
 
 ## Analytical
+
 **Prerequisites:** Shifting Forms
 
 **Prerequisites:** Shifting Forms class feature
@@ -107,3 +109,7 @@ When you take this feat, sacrifice an exploration feat.
 ## Cunning
 
 **Effects:** When you use the Swap action, you may instead choose to change the special defense that your companion's current weapon is targeting.
+
+## Stolen Time
+
+**Effects:** Your companion does not lose AP at the start of each turn.
