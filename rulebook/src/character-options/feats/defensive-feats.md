@@ -40,7 +40,7 @@
 
 **Effects:** At the end of each of your turns, if you used the Defend action this turn, gain 1 AP.
 
-## Vigilant
+## Blurred
 
 **Effects:** Once during your turn, if you've spent two AP on movement actions, gain the benefit of the Defend action.
 

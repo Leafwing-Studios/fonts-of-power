@@ -88,4 +88,4 @@
 
 ## Simering Emotion
 
-**Effects:** When you use the Defend action, gain 1 emotion.
+**Effects:** The first time each turn that you use the Defend action, gain 1 emotion.

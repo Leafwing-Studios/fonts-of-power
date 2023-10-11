@@ -30,7 +30,7 @@
 
 ## Retaliation
 
-**Effects:** Choose an element when you gain this feature. Whenever your companion successfully uses the Block reaction, apply one stack of the chosen ailment to the creature whose attack it blocked.
+**Effects:** Choose an ailment when you gain this feature. Whenever your companion successfully uses the Block reaction, apply one stack of the chosen ailment to the creature whose attack it blocked.
 
 ## Vengeful
 

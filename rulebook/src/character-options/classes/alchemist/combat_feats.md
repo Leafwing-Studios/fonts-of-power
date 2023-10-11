@@ -68,4 +68,4 @@
 
 ## Blast Guard
 
-**Effects:** After you make an attack that targets yourself, but before the attack's effects resolve, gain the benefit of the Defend action twice.
+**Effects:** After you make a damaging attack that targets yourself, but before the attack's effects resolve, gain the benefit of the Defend action twice.
