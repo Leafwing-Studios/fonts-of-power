@@ -2,18 +2,18 @@
 
 ## Powers Known
 
-| Level | Proficiency Bonus |                          Features                           | Powers Known |
-| :---: | :---------------: | :---------------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Homeland, Wildshaping, Overgrowth, Land's Connection |      3       |
-|   2   |        +2         |                       Wilderness Lore                       |      4       |
-|   3   |        +2         |                Attribute Improvement, Feats                 |      4       |
-|   4   |        +3         |                       Locus of Power                        |      4       |
-|   5   |        +3         |                         Cultivation                         |      5       |
-|   6   |        +4         |                Attribute Improvement, Feats                 |      5       |
-|   7   |        +4         |                       Spreading Wilds                       |      5       |
-|   8   |        +5         |                          Wild Home                          |      6       |
-|   9   |        +5         |                Attribute Improvement, Feats                 |      6       |
-|  10   |        +6         |                        Paths Unseen                         |      6       |
+| Level | Proficiency Bonus |                     Features                      | Powers Known |
+| :---: | :---------------: | :-----------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Wildshaping, Overgrowth, Land's Connection |      3       |
+|   2   |        +2         |                  Wilderness Lore                  |      4       |
+|   3   |        +2         |           Attribute Improvement, Feats            |      4       |
+|   4   |        +3         |                  Locus of Power                   |      4       |
+|   5   |        +3         |                    Cultivation                    |      5       |
+|   6   |        +4         |           Attribute Improvement, Feats            |      5       |
+|   7   |        +4         |                  Spreading Wilds                  |      5       |
+|   8   |        +5         |                     Wild Home                     |      6       |
+|   9   |        +5         |           Attribute Improvement, Feats            |      6       |
+|  10   |        +6         |                   Paths Unseen                    |      6       |
 
 ## Features
 
@@ -23,30 +23,37 @@
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Homeland
-
-**Level:** 1
-
-**Effects:** Choose a terrain, elemental damage type, ailment and affliction. Wildshaping powers take on those effects.
-
 ### Wildshaping
 
 **Level:** 1
 
-**Effects:** 0 AP, 1 essence: Pick a tile within a 6 tile range and choose one:
+**Effects:** Your wildshaping powers reflect the terrain of your homeland. At level 1, select:
+
+- a terrain type
+- an elemental damage type
+- an ailment
+- an affliction
+
+Your wildshaping powers will use these choices to determine their effects.
+
+You gain access to the *wildshape* action:
+
+0 AP, 1 essence: Pick a tile within a 6 tile range and choose one:
 
 - Shape it, causing it to gain the tile effect specified by your choice of terrain.
 - Unshape it, removing this tile effect.
 
-If the tile is shaped and within a 3 tile range, you may instead use a **wildshaping** that you know. Wildshapings apply an effect in the selected tile and all connected shaped tiles of the same type.
-
 Tiles stay shaped until the end of combat. Other creatures may clear a single adjacent tile via the Interact action.
+
+If the tile is shaped and within a 3 tile range, you may instead use a **wildshaping** that you know. Wildshapings apply an effect in the selected tile and all connected shaped tiles of the same type. Tiles are connected if they share an edge.
+
+The number of wildshapings you know at each level is given in your class table.
 
 ### Overgrowth
 
 **Level:** 1
 
-**Effects:** After you spend essence other than to unshape a tile, if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
+**Effects:** After you spend essence (other than to unshape a tile), if you are able to, you must shape 1 unshaped tile within a 3 tile range per point of essence spent.
 
 ### Land's Connection
 
