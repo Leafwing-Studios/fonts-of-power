@@ -10,7 +10,7 @@
 
 **Prerequisites:** Coexistence: Tension
 
-**Effects:** Companion can use the Defend and Ward actions.
+**Effects:** Your companion can use the Defend and Ward actions, granting you its effects.
 
 ## Chimeric
 
@@ -22,7 +22,7 @@
 
 ## Caring Form
 
-**Effects:** Companion can choose to use Treat or Defend or Block action on any creature in its zone of control.
+**Effects:** When your companion uses the Treat, Defend, Ward or Block action, they can choose to affect on any creature in its zone of control instead of you.
 
 ## Desperate Protector
 
@@ -30,7 +30,7 @@
 
 ## Retaliation
 
-**Effects:** Whenever your Companion uses the Block reaction, apply one stack of the specified ailment to the creature whose attack it blocked.
+**Effects:** Choose an ailment when you gain this feature. Whenever your companion successfully uses the Block reaction, apply one stack of the chosen ailment to the creature whose attack it blocked.
 
 ## Vengeful
 

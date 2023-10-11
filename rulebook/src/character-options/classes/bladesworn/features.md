@@ -160,7 +160,7 @@ Can be created / destroyed with Interact action.
 
 #### Stance: Guarded
 
-You have disadvantage on all attacks. After you hit with an attack, you may immediately use the Defend action for free.
+You have disadvantage on all attacks. After you hit with an attack, gain the benefit of the Defend action.
 
 #### Bloodied: Respite
 

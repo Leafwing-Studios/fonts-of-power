@@ -51,3 +51,11 @@
 ## Divided Loyalty
 
 **Effects:** Select another devotion, gain access to another domain and split your domains evenly between your devotions. Prayers from the appropriate domain increase favor in that direction by 1. When you attempt to invoke a miracle, favor in the matching direction is positive, otherwise negative. Choose direction of favor gain freely for other sources. When you select this feat, reselect all powers.
+
+## Unshakeable Faith
+
+**Effect:** While you have absorption, your concentration cannot be broken.
+
+## Turn the Other Cheek
+
+**Effect:** At the end of each of your turns, if you did not use any movement or offensive actions, gain the benefits of the Defend action.

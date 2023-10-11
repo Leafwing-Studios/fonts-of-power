@@ -85,3 +85,7 @@
 ## Masochism
 
 **Effects:** When you select this feat, choose an affliction. Whenever you gain emotion, gain 2 stacks of the chosen affliction
+
+## Simering Emotion
+
+**Effects:** The first time each turn that you use the Defend action, gain 1 emotion.

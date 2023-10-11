@@ -69,3 +69,13 @@
 ## Shield of Mercy
 
 **Effects:** Whenever you block an attack, remove one stack of each ailment from the ally with the lowest life (including yourself) within a 2 tile radius.
+
+## Bastion
+
+**Effects:** Whenever you use the Defend action, grant the absorption gained to all creatures within a 2 tile range, rather than just yourself.
+
+## Immovable Object
+
+**Prerequisites:** Stand your Ground class feature
+
+**Effects:** While affected by the *stand your ground* effect, after using the Defend action, trigger it a second time.
