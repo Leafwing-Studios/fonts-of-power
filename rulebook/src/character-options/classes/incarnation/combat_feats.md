@@ -15,6 +15,7 @@
 **Effects:** When you use the Block action, also make a Prowess (Endurance) skill check. Use the higher of the two results.
 
 ## Dig Deep
+
 **Effects:** At the start of each of your turns, if you have 0 essence, gain the benefits of the Recover action.
 
 **Effects:** At the start of each of your turns, if you have less than 3 essence, gain the benefits of the Recover action.
@@ -78,6 +79,7 @@
 **Effects:** Ignore all exhaustion penalties to attack rolls.
 
 ## Fervor
+
 **Effects:** While you are transformed, you gain access to the *Fervor* action. 1 emotion: Gain 1 AP.
 
 ## Masochism

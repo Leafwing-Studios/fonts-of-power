@@ -108,7 +108,9 @@
 
 **rite Effect:** Shove twice, rolling once.
 
-**Miracle Effect:** When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. When the tile effect is triggered, make a Prowess attack against them. If you hit, they are knocked prone and pushed 4 tiles in the direction of the wind. If you miss, they are pushed 2tiles instead.
+**Miracle Effect:** When you cast this miracle, select a tile within range. For the duration of this effect, a fierce wind blows in a 3 tile wide line between that tile and your original location. You choose which direction along the line the wind blows when you first cast this miracle. When the tile effect is triggered, make a Prowess attack against them.
+
+If you hit, they are knocked prone and pushed 4 tiles in the direction of the wind. If you miss, they are pushed 2tiles instead.
 
 ## Wrath of the Cyclone
 
@@ -206,7 +208,8 @@ Treat any immunity to electric damage that the selected creature may have as if 
 
 **rite Effect:** Pull 2 tiles towards you.
 
-**Miracle Effect:** All attacks made against a creature within a 1 tile radius of the selected creature target and affect only the selected creature instead. This does not affect attacks made by the selected creature. At the start of each of your turns for the duration of this effect, make a Prowess attack against all creatures within a 3 tile radius of the selected creature. If you hit, pull them up to 3 tiles directly towards the selected creature. You may choose the order creatures are pulled in.
+**Miracle Effect:** All attacks made against a creature within a 1 tile radius of the selected creature target and affect only the selected creature instead. This does not affect attacks made by the selected creature. At the start of each of your turns for the duration of this effect, make a Prowess attack against all creatures within a 3 tile radius of the selected creature.
+If you hit, pull them up to 3 tiles directly towards the selected creature. You may choose the order creatures are pulled in.
 
 ## Gift of Swiftness
 
