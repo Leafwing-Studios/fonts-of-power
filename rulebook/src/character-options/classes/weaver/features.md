@@ -29,15 +29,15 @@
 
 **Level:** 1
 
-**Effects:** 2 AP: Cast a pattern that you know on a single target within a 4 tile range. At the start of each of your turns, you may choose to spend two essence to **sustain** a pattern that you cast or sustained last turn.
+**Effects:** As a weaver, you have access to powers known as **paterns**. To initiate a pattern, spend 2 AP to cast a pattern that you know on a single target within a 4 tile range. At the start of each of your turns, you may choose to spend two essence to **sustain** a pattern that you cast or sustained last turn.
 
-Patterns end when:
+Patterns end when any of:
 
 - you choose to stop sustaining them
 - your target is more than 8 tiles away from you
 - your concentration breaks
 
-Some patterns are guild-exclusive.
+The number of patterns that you know at any level is shown in your class table.
 
 ### Patchwork
 
@@ -51,7 +51,9 @@ Creatures may only have one result stored at a time. Using this feature again on
 
 **Level:** 1
 
-**Effects:** 1 essence, 1 AP: ???
+**Effects:** Select a subclass known as a **guild**: this describes what you use your mastery over the Weave to accomplish.
+
+At level 1, you gain access to a *fabric of reality* action. This action costs 1 essence and 1 AP, and has a unique effect determined by your guild.
 
 ### Sense the Weave
 
