@@ -65,3 +65,7 @@
 ## Extra Effort
 
 **Effects:** Whenever you use the Catalyze action, you may choose to spend an additional AP. If you do, you have advantage on any attacks made.
+
+## Blast Guard
+
+**Effects:** After you make an attack that targets yourself, but before the attack's effects resolve, gain the benefit of the Defend action twice.

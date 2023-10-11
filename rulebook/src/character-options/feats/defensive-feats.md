@@ -31,3 +31,19 @@
 ## Shifty
 
 **Effects:** Whenever you use the Dodge reaction, you may move into an empty tile within movement range 1.
+
+## Persistent
+
+**Effects:** Whenever you use the Defend action, also gain the benefit of the Recover action.
+
+## Prepared
+
+**Effects:** At the end of each of your turns, if you used the Defend action this turn, gain 1 AP.
+
+## Vigilant
+
+**Effects:** Once during your turn, if you've spent two AP on movement actions, gain the benefit of the Defend action.
+
+## Solid
+
+**Effects:** Whenever you use the Defend action, also gain the benefits of the Treat action targeting yourself.
