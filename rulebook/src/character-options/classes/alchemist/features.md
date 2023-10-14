@@ -29,7 +29,7 @@
 
 **Effects:** As an alchemist, you gain acccess to concoctions. These are potent 2 AP, 3 essence powers that have a 3 tile range, and affect a 1 tile radius around your target. When you use a concoction, you provoke an attack of opportunity. Even if you miss with your attack, they apply half their effect.
 
-When you gain this feature, choose a Pursuit. When selecting concoctions, you must know more concoctions from that subclass than from any other subclass.
+When you gain this feature, choose a Pursuit, which defines your subclass. When selecting concoctions, you must know more concoctions from that subclass than from any other subclass.
 
 ### Preparations
 
