@@ -47,11 +47,11 @@ This twist choice gives you options for hitting multiple creatures at once.
 
 **Effects:** You may create consumables that cast one of your concoctions when you use the Devise downtime activity. You must select any twists in advance.
 
-### Supply and Demand
+### Snake Oil
 
 **Level:** 2
 
-**Effects:** FIXME: Ignore up to 2 points of negative loyalty towards you.
+**Effects:** When negotiating with an NPC, if you offer one of the consumables you've made, you have advantage on any skill checks made.
 
 ### Attribute Improvement
 
@@ -75,11 +75,11 @@ This twist choice can fundamentally alter how your conctions are applied.
 
 Then, select an additional twist from either the Vessel or Process list.
 
-### Field Research
+## Elaborate Preparation
 
 **Level:** 5
 
-**Effects:** Whenever your party gains a Resolve, gain the benefit of the Prepare downtime activity. You must select Anima, Fontcraft or Tinkering.
+**Effects:** You may add a modifier to consumable concoctions that you create.
 
 ### Attribute Improvement
 
@@ -103,11 +103,11 @@ This twist choice is more complex, and requires careful thought about how and wh
 
 Then, select an additional twist from any list.
 
-### Epiphany
+### Mad Science
 
 **Level:** 8
 
-**Effects:** Whenever anyone in your party rolls a 20 while making a skill check outside of combat, gain a Resolve.
+**Effects:** You have advantage on skill checks made as part of the Invent downtime activity.
 
 ### Attribute Improvement
 
