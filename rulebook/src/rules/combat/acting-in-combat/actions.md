@@ -52,9 +52,14 @@ If you succeed, you may move into an adjacent tile, then immediately make a Grap
 ### Shove (1 AP)
 
 Make a melee special attack against Prowess against a creature within your zone of control.
-If you hit, you may choose to either knock them prone or push them into an empty adjacent tile of your choice.
+If you hit, choose one:
+
+- push them into an empty adjacent tile of your choice
+- knock them prone
+- force them to stand up
 
 Melee Shove attacks have advantage if you have the high ground, and disadvantage if they have the high ground.
+You automatically hit Shove attacks against creatures you are grappling.
 
 ### Strike (2 AP)
 
@@ -166,15 +171,6 @@ You might pull a lever, quickly slash a rope, kick down a door, throw a torch or
 
 Objects in their environment have their own rules for what using Interact on them does.
 This can be discovered by using Scan.
-
-### Jostle (1 AP)
-
-Choose a creature you are grappling, then either:
-
-- move them into an empty tile within range 2.
-- force them to stand up, then move them into an empty tile within range 1.
-
-If they leave your zone of control, you immediately stop grappling them.
 
 ### Let Go (0 AP)
 
