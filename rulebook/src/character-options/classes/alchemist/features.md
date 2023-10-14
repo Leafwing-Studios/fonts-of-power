@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                  Features                   | Powers Known |
-| :---: | :---------------: | :-----------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Alchemy, Preparations, Twist: Vessel |      4       |
-|   2   |        +2         |              Supply and Demand              |      5       |
-|   3   |        +2         |        Attribute Improvement, Feats         |      5       |
-|   4   |        +3         |          Twist: Secret Ingredient           |      5       |
-|   5   |        +3         |               Field Research                |      6       |
-|   6   |        +4         |        Attribute Improvement, Feats         |      6       |
-|   7   |        +4         |          Twist: Exotic Ingredient           |      6       |
-|   8   |        +5         |                  Epiphany                   |      7       |
-|   9   |        +5         |        Attribute Improvement, Feats         |      7       |
-|  10   |        +6         |            Pursuit: End Product             |      7       |
+| Level | Proficiency Bonus |                             Features                              | Powers Known |
+| :---: | :---------------: | :---------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Alchemy, Elaborat Concoctions, Twist: Vessel, Preparations |      4       |
+|   2   |        +2         |                             Snake Oil                             |      5       |
+|   3   |        +2         |                   Attribute Improvement, Feats                    |      5       |
+|   4   |        +3         |                          Twist: Process                           |      5       |
+|   5   |        +3         |                    A Little Something Special                     |      6       |
+|   6   |        +4         |                   Attribute Improvement, Feats                    |      6       |
+|   7   |        +4         |                     Twist: Secret Ingredient                      |      6       |
+|   8   |        +5         |                            Mad Science                            |      7       |
+|   9   |        +5         |                   Attribute Improvement, Feats                    |      7       |
+|  10   |        +6         |                         Perfected Recipe                          |      7       |
 
 ## Features
 
@@ -75,7 +75,7 @@ This twist choice can fundamentally alter how your conctions are applied.
 
 Then, select an additional twist from either the Vessel or Process list.
 
-## Elaborate Preparation
+### A Little Something Special
 
 **Level:** 5
 
