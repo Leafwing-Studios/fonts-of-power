@@ -63,3 +63,7 @@
 ## Throwing Arm
 
 **Effects:** The range of your ranged concotions is increased by 2.
+
+## Reagent Belt
+
+**Effects:** Pick 3 additional metamagic options from any list (regardless of your level).

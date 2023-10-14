@@ -37,9 +37,9 @@ While the alchemist's spells are exceptionally powerful, they are more complicat
 
 **Level:** 1
 
-**Effects:** Gain acccess to your first metamagic choice, selected from the list of options below. When you use a concoction you can choose to apply any number of your known metamagics to its effects.
+**Effects:** Gain acccess to your first metamagic choice, selected from the list of options below. When you use a concoction you can choose to apply any number of your known twists to its effects.
 
-These metamagic choices change how your concoctions are targeted.
+This twist choice gives you options for hitting multiple creatures at once.
 
 ### Preparations
 
@@ -65,15 +65,15 @@ These metamagic choices change how your concoctions are targeted.
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Twist: Secret Ingredient
+### Twist: Process
 
 **Level:** 4
 
-**Effects:** Gain acccess to your second metamagic choice, determined by your subclass. When you use a concoction you can choose to apply any number of your known metamagics to its effects.
+**Effects:** Gain acccess to your second metamagic choice, selected from the list below. When you use a concoction you can choose to apply any number of your known twists to its effects.
 
-This metamagic choice is strange and bursting with flavor.
+This twist choice can fundamentally alter how your conctions are applied.
 
-Additionally, you may select a second metamagic from either the Vessel of Secret Ingredient list.
+Then, select an additional twist from either the Vessel or Process list.
 
 ### Field Research
 
@@ -93,15 +93,15 @@ Additionally, you may select a second metamagic from either the Vessel of Secret
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Twist: Exotic Ingredients
+### Twist: Secret Ingredient
 
 **Level:** 7
 
-**Effects:** Gain acccess to your third metamagic choice, selected from the list below. When you use a concoction you can choose to apply any number of your known metamagics to its effects.
+**Effects:** Gain acccess to your third metamagic choice, selected from the list below. When you use a concoction you can choose to apply any number of your known twists to its effects.
 
-This metamagic choice is more complex, and requires careful thought about how and when to use it.
+This twist choice is more complex, and requires careful thought about how and when to use it.
 
-Additionally, you may select a second metamagic from any list.
+Then, select an additional twist from any list.
 
 ### Epiphany
 
@@ -161,11 +161,26 @@ Whenever you use a defensive or utiltiy concoction, it also affects the nearest 
 
 #### Blast
 
-This concoction affects a 2 tile radius.
+This concoction affects a 2 tile radius. Halve the efficacy of concoctions altered in this way.
 
 #### Spray
 
-Your concoction now affects a 2 tile radius cone in front of you instead.
+Your concoction now affects a 2 tile radius cone in front of you. Halve the efficacy of concoctions altered in this way.
+
+#### Hose
+
+Your concoction now affects a 6 tile line in front of you. Halve the efficacy of concoctions altered in this way.
+
+#### Arcing 
+
+Your concoction now jumps from creature to creature.
+At each jump, select the closest creature (within 2 tiles) of the previous one.
+This chain can contain up to three targets total.
+Creatures can only be part of each chain once; you cannot return to them.
+In the event of a tie, the caster may choose which creatures to affect.
+Halve the efficacy of spells altered in this way.
+
+### Process
 
 #### Coating
 
@@ -181,63 +196,50 @@ This effect is fleeting: it cannot be prepared outside of combat, and only persi
 
 Instead of casting this concoction, gain the benefit of the Treat action targeting a non-enemy creature. Apply this concoction's effect to the creature that you targeted, using the skill check result in place of an attack roll if necessary.
 
-### Exotic Ingredients
+#### Universal
 
-#### Noxious
+The altered copcoction targets every creature on the battlefield, other than yourself. This ignores line of sight, the hidden status and range, but not the banished ailment.
 
-Whenever you would deal damage with this concoction, instead apply stacks of brittle equal to the damage that you would have dealt.
+#### Reckless
 
-#### Homeopathic
+You have disadvantage on attacks made with the altered concoction, but its critical hit threshold is reduced by 3.
 
-Whenever you would apply stacks of an ailment or affliction with this concoction, instead remove that many stacks of that ailment or affliction.
+### Secret Ingredient
 
-#### Eclectic
+#### Colorful
 
-At the start of combat, roll to select a random ailment. Your concoction applies stacks of that ailment instead.
+When you select this Twist, select three elemental damage types. When using this twist on a concoction, choose one of the three types selected, and convert all damage dealt to that type.
 
-Once this metamagic has been used, reroll to select the next ailment.
+#### Fertile
+
+Create a tile of difficult terrain under each tile your concoction hit. 
+If the concoction hit a single creature, it makes difficult terrain on a single tile that that creature is standing on.
+
+#### Weirding
+
+After you hit a creature with a concoction that uses this alteration, swap positions with them via teleportation. If you hit multiple creatures with this concoction, choose one.
+
+#### Insidious
+
+When you select this Twist, select an aliment. When using this twist on a concoction, convert all damage dealt into stacks of the selected ailment.
+
+#### Excessive
+
+The damage dealt by the altered concoction is doubled. Lose life equal to the damage you deal with the altered concoction.
 
 ## Pursuits
-
-### Eternal Life
-
-#### Secret Ingredient: Fertile
-
-Create a tile of difficult terrain under each tile your concoction hit.
 
 #### End Product: Elixir of Life
 
 Whenever you use the Activate action, regain half your life.
 
-### Transmutation
-
-#### Secret Ingredient: Cyclic
-
-The elements are connected according to the diagram shown.
-
-You may convert any elemental damage done to one of the two connected types.
-
 #### End Product: Equivalent Exchange
 
 Whenever you use the Activate action, you may freely select any ailments, afflictions and type of damage applied.
 
-### Perpetual Motion
-
-### Secret Ingredient: Inverted
-
-The direction vector of any forced movement applied by this concoction is reversed.
-
-For example, if the concoction would ordinarily push one target 2 tiles south, and the other 3 tiles west, they are instead pushed 2 tiles north and 3 tiles east respectively.
-
 #### End Product: Self-Perpetuating
 
 Whenever you use the Activate action to use one of your concoctions, instead create a tile effect at that location. When triggered, apply the effect of your concoction.
-
-### Free Energy
-
-#### Secret Ingredient: Supercharged
-
-The critical hit threshold of this concoction is reduced by 5. However if you miss, it has no effect.
 
 #### End Product: Unlimited Power
 

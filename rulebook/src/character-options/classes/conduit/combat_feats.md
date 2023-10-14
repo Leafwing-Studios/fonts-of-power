@@ -93,3 +93,7 @@ For clarification, the source of the attacks for chained charges is the origin o
 **Prerequisites:** Buffer Overflow class feature
 
 **Effects:** Lose access to your Buffer Overflow class feature: your charges can no longer be chained. You may now use charges as attacks of opportunity, and may choose to use this action to channel a charge into your weapon before using the Strike action as part of an attack of opportunity.
+
+## Discharge
+
+**Effects:** Whenever you use a charge, you may **discharge**. If you do, remove all stacks of absorption from yourself. The charge deals additional electric damage equal to the stacks of absorption removed.
