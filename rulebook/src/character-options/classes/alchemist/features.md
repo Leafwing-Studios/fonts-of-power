@@ -35,7 +35,7 @@ When you gain this feature, choose a Pursuit, which defines your subclass. When 
 
 **Level:** 1
 
-**Effects:** You have advantage on all skill checks made as part of the Activate action. You may create consumables that cast one of your concoctions when you use the Devise downtime activity. You must select any twists in advance.
+**Effects:** You may create consumables that cast one of your concoctions when you use the Devise downtime activity. You must select any twists in advance.
 
 ### Twist: Vessel
 

@@ -69,3 +69,7 @@
 ## Blast Guard
 
 **Effects:** After you make a damaging attack that targets yourself, but before the attack's effects resolve, gain the benefit of the Defend action twice.
+
+## Self-supplier
+
+**Effects:** You have advantage on all skill checks made as part of the Activate action.
