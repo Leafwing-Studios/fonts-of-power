@@ -167,15 +167,6 @@ You might pull a lever, quickly slash a rope, kick down a door, throw a torch or
 Objects in their environment have their own rules for what using Interact on them does.
 This can be discovered by using Scan.
 
-### Jostle (1 AP)
-
-Choose a creature you are grappling, then either:
-
-- move them into an empty tile within range 2.
-- force them to stand up, then move them into an empty tile within range 1.
-
-If they leave your zone of control, you immediately stop grappling them.
-
 ### Let Go (0 AP)
 
 Stop grappling a target you have grappled.
