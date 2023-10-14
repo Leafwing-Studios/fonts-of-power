@@ -121,11 +121,11 @@ Then, select an additional twist from any list.
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Pursuit: End Product
+### Perfected Recipe
 
 **Level:** 10
 
-**Effects:** Whenever you use the Activate action, gain a powerful effect determined by your subclass.
+**Effects:** Whenever you use the Activate action to use one of your concoctions, instead create a tile effect at that location. This tile effect lasts until the end of combat (unless otherwise removed). When triggered, it applies the effect of your concoction.
 
 ## Drawbacks
 
@@ -226,21 +226,3 @@ When you select this Twist, select an aliment. When using this twist on a concoc
 #### Excessive
 
 The damage dealt by the altered concoction is doubled. Lose life equal to the damage you deal with the altered concoction.
-
-## Pursuits
-
-#### End Product: Elixir of Life
-
-Whenever you use the Activate action, regain half your life.
-
-#### End Product: Equivalent Exchange
-
-Whenever you use the Activate action, you may freely select any ailments, afflictions and type of damage applied.
-
-#### End Product: Self-Perpetuating
-
-Whenever you use the Activate action to use one of your concoctions, instead create a tile effect at that location. When triggered, apply the effect of your concoction.
-
-#### End Product: Unlimited Power
-
-Whenever you use the Activate action, regain half your essence.
