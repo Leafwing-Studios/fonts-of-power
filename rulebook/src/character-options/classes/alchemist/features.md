@@ -125,29 +125,29 @@ This metamagic choice is more complex, and requires careful thought about how an
 
 ### Vessel
 
-## Splash
+#### Splash
 
 Your concoction now affects a 2 tile radius cone in front of you instead.
 
-## Ampule
+#### Ampule
 
 Your concoction now affects a single tile within a 6 tile range.
 
-## Coating
+#### Coating
 
 Instead of casting this concoction, apply it to the arms of an adjacent ally, including yourself. The next time they make a single-target basic attack, cast as single target, using their attack roll (against the usual defense).
 
-## Trap
+#### Trap
 
 Instead of casting this concoction, choose a tile within range 2. Create a ground effect there that casts the spell when triggered. After it is triggered, the ground effect is removed.
 
 This effect is fleeting: it cannot be prepared outside of combat, and only persists for a minute or two.
 
-## Potion
+#### Potion
 
 Instead of casting this concoction, gain the benefit of the Treat action targeting a non-enemy creature. Apply this concoction's effect to the creature that you targeted, using the skill check result in place of an attack roll if necessary.
 
-## Blast
+#### Blast
 
 This concoction affects a 2 tile radius.
 
