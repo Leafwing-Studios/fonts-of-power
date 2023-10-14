@@ -4,13 +4,9 @@
 
 **Effects:** Whenever you complete a rest in an area with a danger level of 2 or higher, gain the benefits of the Harvest downtime activity.
 
-## Elaborate Preparation
-
-**Effects:** You may add a modifier to consumable concoctions that you create.
-
 ## Curative Preparation
 
-**Effects:** Your consumable concoctions may be spent during the Tend and Recover downtime activity. Each creature affected may consume one of them, and recover an additional stack of exhaustion. Only consumable concoctions made from defensive category spells may be spent in this way.
+**Effects:** Your consumable concoctions may be spent during the Tend and Recover downtime activities. Each creature affected may consume one of them, and recover an additional stack of exhaustion. Only consumable concoctions made from defensive category spells may be spent in this way.
 
 ## Caffeinated
 
@@ -48,6 +44,6 @@
 
 **Effects:** Whenever you use the Tend downtime activity on an NPC, also gain the benefit of the Connect downtime activity targeting them with the same skill check result.
 
-## Snake Oil
+## Pharmacist
 
-**Effects:** You have advantage on skill checks made as part of Trickery and Deals and Ideals scenes that involve offering others consumables that you have made.
+**Effects:** You have advantage on Medicine skill checks made to treat diseases or heal the injured. (This applies to the Tend downtime activity.)
