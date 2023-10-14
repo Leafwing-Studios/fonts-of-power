@@ -31,12 +31,6 @@
 
 When you gain this feature, choose a Pursuit, which defines your subclass. When selecting concoctions, you must know more concoctions from that subclass than from any other subclass.
 
-### Preparations
-
-**Level:** 1
-
-**Effects:** You may create consumables that cast one of your concoctions when you use the Devise downtime activity. You must select any twists in advance.
-
 ### Twist: Vessel
 
 **Level:** 1
@@ -44,6 +38,12 @@ When you gain this feature, choose a Pursuit, which defines your subclass. When 
 **Effects:** Gain acccess to your first metamagic choice, selected from the list of options below. When you use a concoction you can choose to apply any number of your known metamagics to its effects.
 
 These metamagic choices change how your concoctions are targeted.
+
+### Preparations
+
+**Level:** 1
+
+**Effects:** You may create consumables that cast one of your concoctions when you use the Devise downtime activity. You must select any twists in advance.
 
 ### Supply and Demand
 
