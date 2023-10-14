@@ -59,3 +59,7 @@
 ## Self-supplier
 
 **Effects:** You have advantage on all skill checks made as part of the Activate action.
+
+## Throwing Arm
+
+**Effects:** The range of your ranged concotions is increased by 2.

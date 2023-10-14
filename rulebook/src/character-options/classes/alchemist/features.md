@@ -27,9 +27,7 @@
 
 **Level:** 1
 
-**Effects:** As an alchemist, you gain acccess to concoctions. These are potent powers that cost 3 essence, have a 3 tile range, and affect a 1 tile radius around your target. You gain access to the Catalyze action, which costs 2 AP and uses a concoction of your choice.
-
-When you gain this feature, choose a Pursuit, which defines your subclass. When selecting concoctions, you must know more concoctions from that subclass than from any other subclass.
+**Effects:** As an alchemist, you gain acccess to concoctions. These are potent powers that cost 3 essence, have a 3 tile range, and affect single target. You gain access to the Catalyze action, which costs 2 AP and uses a concoction of your choice.
 
 ### Elaborate Concoctions
 
@@ -75,6 +73,8 @@ These metamagic choices change how your concoctions are targeted.
 
 This metamagic choice is strange and bursting with flavor.
 
+Additionally, you may select a second metamagic from either the Vessel of Secret Ingredient list.
+
 ### Field Research
 
 **Level:** 5
@@ -100,6 +100,8 @@ This metamagic choice is strange and bursting with flavor.
 **Effects:** Gain acccess to your third metamagic choice, selected from the list below. When you use a concoction you can choose to apply any number of your known metamagics to its effects.
 
 This metamagic choice is more complex, and requires careful thought about how and when to use it.
+
+Additionally, you may select a second metamagic from any list.
 
 ### Epiphany
 
@@ -157,13 +159,13 @@ Whenever you use a defensive or utiltiy concoction, it also affects the nearest 
 
 ### Vessel
 
-#### Splash
+#### Blast
+
+This concoction affects a 2 tile radius.
+
+#### Spray
 
 Your concoction now affects a 2 tile radius cone in front of you instead.
-
-#### Ampule
-
-Your concoction now affects a single tile within a 6 tile range.
 
 #### Coating
 
@@ -178,10 +180,6 @@ This effect is fleeting: it cannot be prepared outside of combat, and only persi
 #### Potion
 
 Instead of casting this concoction, gain the benefit of the Treat action targeting a non-enemy creature. Apply this concoction's effect to the creature that you targeted, using the skill check result in place of an attack roll if necessary.
-
-#### Blast
-
-This concoction affects a 2 tile radius.
 
 ### Exotic Ingredients
 
