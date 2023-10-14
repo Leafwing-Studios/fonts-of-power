@@ -165,20 +165,20 @@ This concoction affects a 2 tile radius. Halve the efficacy of concoctions alter
 
 #### Spray
 
-Your concoction now affects a 2 tile radius cone in front of you. Halve the efficacy of concoctions altered in this way.
+This concoction now affects a 2 tile radius cone in front of you. Halve the efficacy of concoctions altered in this way.
 
 #### Hose
 
-Your concoction now affects a 6 tile line in front of you. Halve the efficacy of concoctions altered in this way.
+This concoction now affects a 6 tile line in front of you. Halve the efficacy of concoctions altered in this way.
 
 #### Arcing 
 
-Your concoction now jumps from creature to creature.
+This concoction now jumps from creature to creature.
 At each jump, select the closest creature (within 2 tiles) of the previous one.
 This chain can contain up to three targets total.
 Creatures can only be part of each chain once; you cannot return to them.
 In the event of a tie, the caster may choose which creatures to affect.
-Halve the efficacy of spells altered in this way.
+Halve the efficacy of concoctions altered in this way.
 
 ### Process
 

@@ -96,4 +96,4 @@ For clarification, the source of the attacks for chained charges is the origin o
 
 ## Discharge
 
-**Effects:** Whenever you use a charge, you may **discharge**. If you do, remove all stacks of absorption from yourself. The charge deals additional electric damage equal to the stacks of absorption removed.
+**Effects:** Whenever you use a charge, you may remove all stacks of absorption from yourself. The charge deals additional electric damage equal to the stacks of absorption removed.
