@@ -37,7 +37,7 @@ While the alchemist's spells are exceptionally powerful, they are more complicat
 
 **Level:** 1
 
-**Effects:** Gain acccess to your first metamagic choice, selected from the list of options below. When you use a concoction you can choose to apply any number of your known twists to its effects.
+**Effects:** Gain acccess to your first metamagic choice, selected from the list of options below. When you use a concoction you can choose to apply any number of your known twists to its effects. If the effects are contradictory, you must choose one.
 
 This twist choice gives you options for hitting multiple creatures at once.
 
@@ -69,7 +69,7 @@ This twist choice gives you options for hitting multiple creatures at once.
 
 **Level:** 4
 
-**Effects:** Gain acccess to your second metamagic choice, selected from the list below. When you use a concoction you can choose to apply any number of your known twists to its effects.
+**Effects:** Gain acccess to your second metamagic choice, selected from the list below. When you use a concoction you can choose to apply any number of your known twists to its effects. If the effects are contradictory, you must choose one.
 
 This twist choice can fundamentally alter how your conctions are applied.
 
@@ -97,7 +97,7 @@ Then, select an additional twist from either the Vessel or Process list.
 
 **Level:** 7
 
-**Effects:** Gain acccess to your third metamagic choice, selected from the list below. When you use a concoction you can choose to apply any number of your known twists to its effects.
+**Effects:** Gain acccess to your third metamagic choice, selected from the list below. When you use a concoction you can choose to apply any number of your known twists to its effects. If the effects are contradictory, you must choose one.
 
 This twist choice is more complex, and requires careful thought about how and when to use it.
 
