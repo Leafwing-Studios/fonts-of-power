@@ -27,9 +27,13 @@
 
 **Level:** 1
 
-**Effects:** As an alchemist, you gain acccess to concoctions. These are potent 2 AP, 3 essence powers that have a 3 tile range, and affect a 1 tile radius around your target. When you use a concoction, you provoke an attack of opportunity. Even if you miss with your attack, they apply half their effect.
+**Effects:** As an alchemist, you gain acccess to concoctions. These are potent powers that cost 3 essence, have a 3 tile range, and affect a 1 tile radius around your target. You gain access to the Catalyze action, which costs 2 AP and uses a concoction of your choice.
 
 When you gain this feature, choose a Pursuit, which defines your subclass. When selecting concoctions, you must know more concoctions from that subclass than from any other subclass.
+
+### Elaborate Concoctions
+
+While the alchemist's spells are exceptionally powerful, they are more complicated to cast during combat than those of other classes. At level 1, choose one drawback for your spells from the list below. Like with all choices made as part of character creation (such as which spell you selected, the option chosen for one of your Twist class features or your attribute spread), you may change up to two of these choices each time you level up.
 
 ### Twist: Vessel
 
@@ -120,6 +124,34 @@ This metamagic choice is more complex, and requires careful thought about how an
 **Level:** 10
 
 **Effects:** Whenever you use the Activate action, gain a powerful effect determined by your subclass.
+
+## Drawbacks
+
+### Inefficient Catalyst
+
+Your concoctions cost 6 essence instead of 3.
+
+### Reckless Alchemy
+
+Your concoctions are powerful but leave you open to counterattack as you pour all of your attention into drawing the required rune. Whenever you use the Catalyze action, provoke an attack of opportunity.
+
+Like all attacks of opportunity, this attack of opportunity resolves before the triggering action (casting a spell in this case) is complete.
+
+### Careful Mixing
+
+Your concoctions are perfectly executed but require your careful concentration to complete. The effects of your concoctions do not trigger until the start of your next turn (although you must spend essence upfront). You must maintain concentration for this duration, or the power fails. Choose the target(s) of the spell at that time, along with any alterations.
+
+Catalyzing a concoction in this way counts as making an attack for the purpose of the crazed ailment. For all other purposes, the attack is only made at the time of the spell's completion.
+
+### Conduit Casting
+
+Whenever you use the Catalyze action, lose 1 life, then gain 2 stacks of brittle. You cannot become immune to damage dealt by the brittle affliction.
+
+### Leaky Cauldron
+
+Whenever you use an offensive concoction, it also affects yourself.
+
+Whenever you use a defensive or utiltiy concoction, it also affects the nearest unaffected enemy.
 
 ## Twists
 

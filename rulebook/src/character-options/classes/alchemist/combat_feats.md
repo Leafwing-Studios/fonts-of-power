@@ -38,21 +38,7 @@
 
 ## Fast Acting
 
-**Prerequisites:** Complex Process
-
-**Effects:** Replaces Complex Process. Your Catalyze action now costs 1 AP and 6 essence. You can only use the Catalyze action once per turn, although you may still gain its effect additional times with the Activate action.
-
-## Delayed Effect
-
-**Prerequisites:** Complex Process
-
-**Effects:** Replaces Complex Process. Instead, they take effect at the start of your next turn. When you select this feat, also select another combat feat.
-
-## Continuous Production
-
-**Prerequisites:** Complex Process
-
-**Effects:** Replaces Complex Process. You are always concentrating. Whenever you lose your concentration, you may not use your Catalyze action until after the end of your next turn. When you select this feat, also select another combat feat.
+**Effects:** Your Catalyze action now costs 1 AP. Choose an additional drawback from the drawbacks list.
 
 ## Careful Process
 
