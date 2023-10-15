@@ -11,3 +11,7 @@
 ## Effortless Coordination
 
 **Effects:** You have advantage on all skill checks made as part of the Many Hands Make Light Work class feature. If you succeed, an ally of your choice gains advantage on all downtime activity skill checks made this rest.
+
+## Power of Speech
+
+**Effects:** Your elementals can speak any languages that you speak.

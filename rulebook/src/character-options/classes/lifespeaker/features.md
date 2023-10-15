@@ -90,13 +90,12 @@ If you fail by 5 or more, gain a stack of exhaustion.
 
 ## The Hills Have Eyes
 
-**Level:** 2
+**Level:** 5
 
 When you reach level 2, you learn to take over the body of an elemental complete, entering into a deep trance. After a brief time in a calm environment, you enter into a trance, becoming unable to move or take any actions but retaining a vague sense of the state of your own surroundings.
 Instead, you control your entity directly, gaining access to any senses and abilities it may have as you are connected by a telepathic link.
 
-This bond has a limited range of one mile; if this range is exceeded the entity is immediately banished and the effect ends. You may choose to end this effect at any time.
-
+You may choose to end this effect at any time.
 Ending this effect is immediate, and you may choose to instead swap to possess a different elemental rather than returning to your own body.
 
 ### Attribute Improvement
