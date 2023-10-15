@@ -25,6 +25,8 @@
 
 ### Lifespeaking
 
+**Level:** 1
+
 With a word, you breathe life into the raw materials of the world around you: bringing trees to life, helping rocks take form and shaping mud into slow-witted assistants.
 
 In combat, you control up to three elementals in addition to your character.
@@ -39,29 +41,34 @@ Elementals have their own attributes, attack bonuses and defenses, but share you
 The details of each elemental's basic and special attacks vary based on the form that they take on.
 The number of forms that you have access to increases as you level up, as shown in your class table.
 
-At the start of combat, summon three elementals of your choice within a 2 tile range of your character.
+At the start of combat, place your active elementals in a position of your choice within a 2 tile range of your character.
 
 You gain access to the Summon Elemental action. At the cost of 2 AP, summon a new elemental with a form of your choice within a 2 tile range. You may summon any number of additional elementals, at the cost of 1 essence each.
 You cannot control more than 3 elementals at once: if you are already at your cap, destroy an elemental of your choice before summoning a new one.
 
 ## Shamble
 
+**Level:** 1
+
 At the start of each of your turns, each of your elementals may take the Move action for free.
 
+## Elemental Helpers
+
+**Level:** 1
+
+Your elementals persist outside of combat. At the start of each rest, select a number of active elementals equal to your cap.
+These elementals can be freely summoned and dismissed, but cannot be swapped for alternative elementals unless you are in combat or resting.
+
+Elementals can be very helpful in small ways while exploring the world: they are reasonably strong, autonomous, with basic senses and manipulation abilities, but are about as intelligent as a well-trained dog.
+Elementals are capable of understanding languages that you know, but cannot speak or otherwise communicate beyond vague gestures, even to you.
+
 ## Many Hands Make Light Work
+
+**Level:** 2
 
 Whenever you use a downtime activity, you may make a difficulty 15 Focus (Fontcraft) skill check.
 If you succeed, gain advantage on all skill checks made as part of that downtime activity.
 If you fail by 5 or more, gain a stack of exhaustion.
-
-## The Hills Have Eyes
-
-When you reach level 2, you learn to take over the body of an elemental complete, entering into a deep trance. After a brief time in a calm environment, you enter into a trance, becoming unable to move or take any actions but retaining a vague sense of the state of your own surroundings.
-Instead, you control your entity directly, gaining access to any senses and abilities it may have as you are connected by a telepathic link.
-
-This bond has a limited range of one mile; if this range is exceeded the entity is immediately banished and the effect ends. You may choose to end this effect at any time.
-
-Possessed elementals are capable of speaking and understanding languages that you know, but use their own voice. Ending this effect is immediate, and you may choose to instead swap to possess a different elemental rather than returning to your own body.
 
 ### Attribute Improvement
 
@@ -81,11 +88,16 @@ Possessed elementals are capable of speaking and understanding languages that yo
 
 **Effects:** After you or an elemental succesfully dodge an attack, you may swap that character's position with your character or an elemental of your choice via teleportation.
 
-### EXPLORATION
+## The Hills Have Eyes
 
-**Level:** 5
+**Level:** 2
 
-**Effects:**
+When you reach level 2, you learn to take over the body of an elemental complete, entering into a deep trance. After a brief time in a calm environment, you enter into a trance, becoming unable to move or take any actions but retaining a vague sense of the state of your own surroundings.
+Instead, you control your entity directly, gaining access to any senses and abilities it may have as you are connected by a telepathic link.
+
+This bond has a limited range of one mile; if this range is exceeded the entity is immediately banished and the effect ends. You may choose to end this effect at any time.
+
+Ending this effect is immediate, and you may choose to instead swap to possess a different elemental rather than returning to your own body.
 
 ### Attribute Improvement
 
