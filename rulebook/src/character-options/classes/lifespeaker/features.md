@@ -35,7 +35,7 @@ Elementals can take any core action expect for Activate, Recover or Essence Tap.
 Whenever they use the Defend or Ward actions, grant the benefits of that action to all of your elementals.
 
 Each elemental has 10 life.
-Elementals share your attributes, attack bonuses, defenses, magical affixes, feats, skill proficiencies and other effects.
+Elementals have their own attributes, attack bonuses and defenses, but share your magical affixes, feats, skill proficiencies and other effects.
 The details of each elemental's basic and special attacks vary based on the form that they take on.
 The number of forms that you have access to increases as you level up, as shown in your class table.
 

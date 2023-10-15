@@ -2,9 +2,9 @@
 
 ## Absolute Unit
 
-**Effects:** You can only summon one elemental at once. Its size is increased by one. Its life total is increased to 30.
+**Effects:** You can only summon one elemental at once. Its size is increased by one.
 
-When you use the Summon Elemental action, choose three forms. Your elemental has access to all of the special actions and features of all three forms.
+When you gain this feature, choose three forms. Its life total is the sum of those three forms, and its attributes are the average of the values of those forms, rounded up. Your elemental gains all of the special actions and passive features of all three forms.
 
 ## Swarm
 
