@@ -6,7 +6,11 @@
 
 ## Swarm
 
-**Effects:** You can summon up to five elementals at once, and start combat with five summoned.
+**Effects:** You can summon two additional elementals at once and start with two more elementals. You may take this feat multiple times.
+
+## Energy Flood
+
+**Effects:** The amount of essence you can spend each turn to grant your elementals AP is increased by two. You may take this feat multiple times.
 
 ## Life's Resilience
 
