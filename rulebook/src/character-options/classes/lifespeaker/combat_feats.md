@@ -26,7 +26,7 @@
 
 ## Self-Sacrifice
 
-**Effects:** Whenever one of your elementals would take damage, you may choose to take that damage instead.
+**Effects:** Whenever one of your elementals would take damage, you may choose to take half that much damage instead.
 
 ## Biodiversity
 
