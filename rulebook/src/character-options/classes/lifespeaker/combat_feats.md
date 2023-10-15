@@ -16,7 +16,7 @@ When you gain this feature, choose three forms. Its life total is the sum of tho
 
 ## Shifting Sands
 
-**Effects:** At the start of your turn, gain the benefits of the Summon creature action. This is not optional.
+**Effects:** At the start of your turn, gain the benefits of the Summon Creature action. This is not optional.
 
 ## Stony Defiance
 
@@ -32,7 +32,7 @@ When you gain this feature, choose three forms. Its life total is the sum of tho
 
 ## Biodiversity
 
-**Effects:** The total number of forms that you know is increased by two.
+**Effects:** The total number of forms that you know is increased by two. You can take this feat multiple times.
 
 ## Still as a Lake
 
@@ -52,6 +52,20 @@ When you gain this feature, choose three forms. Its life total is the sum of tho
 
 ## Personal Assistants
 
-**Effects:** You cannot take actions (including Move) other than Summon creature, Scan and Spot. Gain an additional AP each turn.
+**Effects:** You cannot take actions (including Move) other than Summon Creature, Scan and Spot. Gain an additional AP each turn.
 
 At the start of combat, choose one of your creatures. It is grappling you. Creatures that are grappling you automatically move you with them.
+
+## Turrets
+
+**Prerequisite:** Shamble class feature
+
+**Effects:** Replaces the Shamble class feature. Your creatures cannot take movement actions. At the start of each of your turns, you may take the Strike action with any one of your creatures. Reduce the cost of your Summon Creature action by one AP.
+
+## Distant Summoning
+
+**Effects:** The range of your Summon Creature action is increased by three tiles.
+
+## Ephemeral Creations
+
+**Effects:** Your creatures have one life. Whenever one of your creatures dies, gain 2 essence.

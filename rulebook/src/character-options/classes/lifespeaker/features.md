@@ -36,7 +36,7 @@ They do not gain AP normally, but during your turn you may spend up to 4 essence
 Creatures can take any core action expect for Activate, Recover or Essence Tap.
 Whenever they use the Defend or Ward actions, grant the benefits of that action to all of your creatures.
 
-Each creature has 10 life.
+Each creature typically has 10 life.
 Creatures have their own attributes, attack bonuses and defenses, but share your magical affixes, feats, skill proficiencies and other effects.
 The details of each creature's basic and special attacks vary based on the form that they take on.
 The number of forms that you have access to increases as you level up, as shown in your class table.
@@ -50,7 +50,7 @@ Note that these are durable choices that should be recorded on the stat card of 
 
 At the start of combat, place your active creatures in a position of your choice within a 2 tile range of your character.
 
-You gain access to the Summon creature action. At the cost of 2 AP, summon a new creature with a form of your choice within a 2 tile range. You may summon any number of additional creatures, at the cost of 1 essence each.
+You gain access to the Summon Creature action. At the cost of 2 AP, summon a new creature with a form of your choice within a 2 tile range. You may summon any number of additional creatures, at the cost of 1 essence each.
 You cannot control more than 3 creatures at once: if you are already at your cap, destroy an creature of your choice before summoning a new one.
 
 ## Shamble
@@ -121,7 +121,7 @@ Ending this effect is immediate, and you may choose to instead swap to possess a
 
 **Level:** 7
 
-**Effects:** The cost of your Summon creature action is reduced to 1 AP, and its range is increased to 3 tiles.
+**Effects:** The cost of your Summon Creature action is reduced to 1 AP, and its range is increased to 3 tiles.
 
 ### Life Everywhere
 

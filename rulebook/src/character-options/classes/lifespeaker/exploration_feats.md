@@ -23,3 +23,7 @@
 ## Breath of Life
 
 **Effects:** Treat any skill checks made as part of the Resurrect downtime activity as if the results were 5 higher.
+
+## Intelligent Design
+
+**Effects:** You gain access to the Intelligent Design downtime activity. When you use this activity, make an Expertise skill check with your choice of the Anima, Arcana, Fontcraft or Tinkering skills. For every 5 points of your skill check result, you may replace one form that you know with a new one.
