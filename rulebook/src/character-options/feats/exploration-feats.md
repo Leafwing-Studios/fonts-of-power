@@ -1,6 +1,6 @@
 # Exploration Feats
 
-### Inspired
+## Inspired
 
 **Effects:** Whenever anyone in your party rolls a 20 while making a skill check outside of combat, gain a Resolve.
 
