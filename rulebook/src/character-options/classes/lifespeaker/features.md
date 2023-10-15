@@ -67,6 +67,15 @@ You cannot control more than creatures than your creature cap (default 3) at onc
 
 Choose one of the summoning strategies, listed below:
 
+### Monster Master
+
+You may only have one creature of each kind summoned at once. During combat, their life total persists, even when not summoned.
+When you use the Summon Creature action, you may replace a creature with another creature, ignoring range.
+
+When you regain life, heal all of your summons by that amount as well.
+At the end of each combat, your creatures are all healed to full.
+You have advantage on all skill checks made as part of the Essence Tap action.
+
 ### Horde
 
 Your creature cap is increased to 5. At the start of each of your turns, each of your creatures may take the Move action for free.
