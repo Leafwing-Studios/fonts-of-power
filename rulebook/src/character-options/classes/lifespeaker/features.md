@@ -84,6 +84,7 @@ Your creature cap is increased to 5. At the start of each of your turns, each of
 Your creature cap is reduced to 1, and your creature is now 1 tile radius in size.
 When you gain this feature, choose three forms: you do not know any other forms, but may change this selection whenever you would gain a new form. Your creature's life total is the sum of those three forms, and its attributes are the average of the values of those forms, rounded up.
 Your creature gains all of the special actions and passive features of all three forms.
+Whenever it strikes, you may choose which of the three base strike options you want to use.
 
 ## Manifestations of Power
 
