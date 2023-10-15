@@ -69,3 +69,7 @@ At the start of combat, choose one of your creatures. It is grappling you. Creat
 ## Ephemeral Creations
 
 **Effects:** Your creatures have one life. Whenever one of your creatures dies, gain 2 essence.
+
+## Manifestations of Power
+
+**Effects:** Your creatures cannot be affected by other creatures. They still interact with the environment normally, but cannot take damage, gain ailments or afflictions or be involuntarily destroyed. They must stay within a 3 tile range of you at all times or they vanish. They cannot grapple or be grappled, and do not prevent movement of creatures through their space.
