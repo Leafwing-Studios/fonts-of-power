@@ -40,7 +40,7 @@ The number of forms that you have access to increases as you level up, as shown 
 
 At the start of combat, summon three elementals of your choice within a 2 tile range of your character.
 
-You gain access to the Summon Elemental action. At the cost of 2 AP, summon a new elemental with a form of your choice within a 2 tile range.
+You gain access to the Summon Elemental action. At the cost of 2 AP, summon a new elemental with a form of your choice within a 2 tile range. You may summon any number of additional elementals, at the cost of 1 essence each.
 You cannot control more than 3 elementals at once: if you are already at your cap, destroy an elemental of your choice before summoning a new one.
 
 ## Shamble
