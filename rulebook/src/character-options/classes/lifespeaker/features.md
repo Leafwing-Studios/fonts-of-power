@@ -116,11 +116,18 @@ Ending this effect is immediate, and you may choose to instead swap to possess a
 
 **Effects:** The cost of your Summon Elemental action is reduced to 1 AP, and its range is increased to 3 tiles.
 
-### EXPLORATION
+### Life Everywhere
 
 **Level:** 8
 
-**Effects:**
+**Effects:** You learn to breathe life into ordinary objects, giving them crude powers of thought, observation and motion.
+
+By spending a moment directly beside an object, you may **animate** it.
+You may only animate one object at once in this way, and the effect fades at the end of your next rest.
+
+While they are useless in combat, animated objects behave as if they were one of your summoned elementals outside of combat, and benefit from any exploration feature that improves your elementals.
+When animated, their appearance does not change, and while they are capable of basic tasks, they are not strong enough to break themselves apart.
+For example, an animated chest would be able to slowly hop around and throw itself off a cliff, but it could not bypass a magical seal, or fall apart on command.
 
 ### Attribute Improvement
 

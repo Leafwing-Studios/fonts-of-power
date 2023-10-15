@@ -15,3 +15,11 @@
 ## Power of Speech
 
 **Effects:** Your elementals can speak any languages that you speak.
+
+## Telepathic Bond
+
+**Effects:** You may communicate telepathically at any distance with your elementals.
+
+## Breath of Life
+
+**Effects:** Treat any skill checks made as part of the Resurrect downtime activity as if the results were 5 higher.
