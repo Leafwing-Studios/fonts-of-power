@@ -1,31 +1,5 @@
 # Powers
 
-Design ideas:
-
-- good at treating
-- explodes on death
-- high mobility
-- immobile but good at AoO
-- bullrush
-- wall-like
-
-## ?NAME?
-
-- **Life:** ??
-- **Basic Defense:** ??
-- **Basic Attack Bonus:** ??
-- **Passive:** ??
-- **Strike:** ??
-- **Special Action:** ??
-
-| **Attribute** | **Score** | **Special Defense** |
-| ------------- | --------- | ------------------- |
-| Prowess       |           |                     |
-| Agility       |           |                     |
-| Expertise     |           |                     |
-| Focus         |           |                     |
-| Presence      |           |                     |
-
 ## Grasping Vines
 
 - **Life:** 10
