@@ -59,3 +59,7 @@ At the start of combat, choose one of your creatures. It is grappling you. Creat
 ## Ephemeral Creations
 
 **Effects:** Your creatures have one life. Whenever one of your creatures dies, gain 2 essence.
+
+## Shared Strength
+
+**Effects:** When you use the Defend or Ward actions, grant the benefits of that action to all of your creatures.

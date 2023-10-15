@@ -35,7 +35,6 @@ They do not gain AP normally, but during your turn you may spend up to 4 essence
 
 Creatures can take any core action.
 When they use the Essence Tap, Recover or Activate actions, you gain the benefits and pay the costs in their place.
-When they use the Defend or Ward actions, grant the benefits of that action to all of your creatures.
 
 Each creature that you summon has a specific form. Each form has a set of statistics:
 
