@@ -33,14 +33,22 @@ In combat, you control up to three creatures in addition to your character.
 Your creatures may spend your AP as if they were their own.
 They do not gain AP normally, but during your turn you may spend up to 4 essence per turn to grant any creature one AP per essence spent.
 
-Creatures can take any core action expect for Activate, Recover or Essence Tap.
-Whenever they use the Defend or Ward actions, grant the benefits of that action to all of your creatures.
+Creatures can take any core action.
+When they use the Essence Tap, Recover or Activate actions, you gain the benefits and pay the costs in their place.
+When they use the Defend or Ward actions, grant the benefits of that action to all of your creatures.
 
-Each creature typically has 10 life.
-Creatures have their own attributes, attack bonuses and defenses, but share your magical affixes, feats, skill proficiencies and other effects.
-The details of each creature's basic and special attacks vary based on the form that they take on.
+Each creature that you summon has a specific form. Each form has a set of statistics:
+
+- Life total
+- Attributes
+- Basic attack bonus, special attack bonus, basic defense and special defenses
+- A unique passive
+- A basic attack
+- A special attack
+
+Creatures share your skill proficiencies, and gain the benefit of any feats, species or class features, item enchantments or temporary buffs that affect you.
 The number of forms that you have access to increases as you level up, as shown in your class table.
-To ease your playing experience, we strongly recommend that you create small stat cards for each type of creature you can summon,
+To ease your playing experience, we strongly recommend that you create stat cards for each form of creature you can summon,
 and then reference those as you play.
 
 The flavor of this class is deliberately flexible: your character may be a master of the elements commanding spirits of water, a necromancer bringing back spirits and skeletons, a mad biologist with chimeric creations, or a technomancer who builds strange turrets and clockwork machines on the fly.
