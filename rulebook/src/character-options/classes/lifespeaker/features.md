@@ -5,13 +5,13 @@
 | Level | Proficiency Bonus |                         Features                         | Forms Known |
 | :---: | :---------------: | :------------------------------------------------------: | :---------: |
 |   1   |        +1         | Feats, Lifespeaking, Shamble, Many Hands Make Light Work |      3      |
-|   2   |        +2         |                       Exploration                        |      4      |
+|   2   |        +2         |                    Helpful Creations                     |      4      |
 |   3   |        +2         |               Attribute Improvement, Feats               |      4      |
-|   4   |        +3         |                         Tactics                          |      4      |
-|   5   |        +3         |                       Exploration                        |      5      |
+|   4   |        +3         |                     Laughing Spirits                     |      4      |
+|   5   |        +3         |                        Possession                        |      5      |
 |   6   |        +4         |               Attribute Improvement, Feats               |      5      |
-|   7   |        +4         |                    Elemental Mastery                     |      5      |
-|   8   |        +5         |                       Exploration                        |      6      |
+|   7   |        +4         |                     Rapid Summoning                      |      5      |
+|   8   |        +5         |                     Life Everywhere                      |      6      |
 |   9   |        +5         |               Attribute Improvement, Feats               |      6      |
 |  10   |        +6         |                     Life of its Own                      |      6      |
 
@@ -29,38 +29,38 @@
 
 With a word, you breathe life into the raw materials of the world around you: bringing trees to life, helping rocks take form and shaping mud into slow-witted assistants.
 
-In combat, you control up to three elementals in addition to your character.
-Your elementals may spend your AP as if they were their own.
-They do not gain AP normally, but during your turn you may spend up to 4 essence per turn to grant any elemental one AP per essence spent.
+In combat, you control up to three creatures in addition to your character.
+Your creatures may spend your AP as if they were their own.
+They do not gain AP normally, but during your turn you may spend up to 4 essence per turn to grant any creature one AP per essence spent.
 
-Elementals can take any core action expect for Activate, Recover or Essence Tap.
-Whenever they use the Defend or Ward actions, grant the benefits of that action to all of your elementals.
+Creatures can take any core action expect for Activate, Recover or Essence Tap.
+Whenever they use the Defend or Ward actions, grant the benefits of that action to all of your creatures.
 
-Each elemental has 10 life.
-Elementals have their own attributes, attack bonuses and defenses, but share your magical affixes, feats, skill proficiencies and other effects.
-The details of each elemental's basic and special attacks vary based on the form that they take on.
+Each creature has 10 life.
+Creatures have their own attributes, attack bonuses and defenses, but share your magical affixes, feats, skill proficiencies and other effects.
+The details of each creature's basic and special attacks vary based on the form that they take on.
 The number of forms that you have access to increases as you level up, as shown in your class table.
 
-At the start of combat, place your active elementals in a position of your choice within a 2 tile range of your character.
+At the start of combat, place your active creatures in a position of your choice within a 2 tile range of your character.
 
-You gain access to the Summon Elemental action. At the cost of 2 AP, summon a new elemental with a form of your choice within a 2 tile range. You may summon any number of additional elementals, at the cost of 1 essence each.
-You cannot control more than 3 elementals at once: if you are already at your cap, destroy an elemental of your choice before summoning a new one.
+You gain access to the Summon creature action. At the cost of 2 AP, summon a new creature with a form of your choice within a 2 tile range. You may summon any number of additional creatures, at the cost of 1 essence each.
+You cannot control more than 3 creatures at once: if you are already at your cap, destroy an creature of your choice before summoning a new one.
 
 ## Shamble
 
 **Level:** 1
 
-At the start of each of your turns, each of your elementals may take the Move action for free.
+At the start of each of your turns, each of your creatures may take the Move action for free.
 
-## Elemental Helpers
+## Helpful Creations
 
 **Level:** 1
 
-Your elementals persist outside of combat. At the start of each rest, select a number of active elementals equal to your cap.
-These elementals can be freely summoned and dismissed, but cannot be swapped for alternative elementals unless you are in combat or resting.
+Your creatures persist outside of combat. At the start of each rest, select a number of active creatures equal to your cap.
+These creatures can be freely summoned and dismissed, but cannot be swapped for alternative creatures unless you are in combat or resting.
 
-Elementals can be very helpful in small ways while exploring the world: they are reasonably strong, autonomous, with basic senses and manipulation abilities, but are about as intelligent as a well-trained dog.
-Elementals are capable of understanding languages that you know, but cannot speak or otherwise communicate beyond vague gestures, even to you.
+creatures can be very helpful in small ways while exploring the world: they are reasonably strong, autonomous, with basic senses and manipulation abilities, but are about as intelligent as a well-trained dog.
+creatures are capable of understanding languages that you know, but cannot speak or otherwise communicate beyond vague gestures, even to you.
 
 ## Many Hands Make Light Work
 
@@ -86,17 +86,17 @@ If you fail by 5 or more, gain a stack of exhaustion.
 
 **Level:** 4
 
-**Effects:** After you or an elemental succesfully dodge an attack, you may swap that character's position with your character or an elemental of your choice via teleportation.
+**Effects:** After you or an creature succesfully dodge an attack, you may swap that character's position with your character or an creature of your choice via teleportation.
 
-## The Hills Have Eyes
+## Possession
 
 **Level:** 5
 
-When you reach level 2, you learn to take over the body of an elemental complete, entering into a deep trance. After a brief time in a calm environment, you enter into a trance, becoming unable to move or take any actions but retaining a vague sense of the state of your own surroundings.
+You learn to take over the body of an creature complete, entering into a deep trance. After a brief time in a calm environment, you enter into a trance, becoming unable to move or take any actions but retaining a vague sense of the state of your own surroundings.
 Instead, you control your entity directly, gaining access to any senses and abilities it may have as you are connected by a telepathic link.
 
 You may choose to end this effect at any time.
-Ending this effect is immediate, and you may choose to instead swap to possess a different elemental rather than returning to your own body.
+Ending this effect is immediate, and you may choose to instead swap to possess a different creature rather than returning to your own body.
 
 ### Attribute Improvement
 
@@ -110,11 +110,11 @@ Ending this effect is immediate, and you may choose to instead swap to possess a
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Elemental Mastery
+### creature Mastery
 
 **Level:** 7
 
-**Effects:** The cost of your Summon Elemental action is reduced to 1 AP, and its range is increased to 3 tiles.
+**Effects:** The cost of your Summon creature action is reduced to 1 AP, and its range is increased to 3 tiles.
 
 ### Life Everywhere
 
@@ -125,7 +125,7 @@ Ending this effect is immediate, and you may choose to instead swap to possess a
 By spending a moment directly beside an object, you may **animate** it.
 You may only animate one object at once in this way, and the effect fades at the end of your next rest.
 
-While they are useless in combat, animated objects behave as if they were one of your summoned elementals outside of combat, and benefit from any exploration feature that improves your elementals.
+While they are useless in combat, animated objects behave as if they were one of your summoned creatures outside of combat, and benefit from any exploration feature that improves your creatures.
 When animated, their appearance does not change, and while they are capable of basic tasks, they are not strong enough to break themselves apart.
 For example, an animated chest would be able to slowly hop around and throw itself off a cliff, but it could not bypass a magical seal, or fall apart on command.
 
@@ -145,4 +145,4 @@ For example, an animated chest would be able to slowly hop around and throw itse
 
 **Level:** 10
 
-**Effects:** At the end of each of your turns, grant 2 AP to your elementals, divided as you choose.
+**Effects:** At the end of each of your turns, grant 2 AP to your creatures, divided as you choose.

@@ -2,11 +2,11 @@
 
 ## Natural Spies
 
-**Effects:** Your elementals have advantage on all Stealth skill checks made while out of combat.
+**Effects:** Your creatures have advantage on all Stealth skill checks made while out of combat.
 
 ## Delegation
 
-**Effects:** When using your Many Hands Make Light Work class feature, rather than choosing to gain advantage on the skill check, you may instead choose to gain the benefits of an additional downtime activity. If you fail the skill check, you do not gain the benefit of your original downtime activity as your elementals failed to complete the task unsupervised.
+**Effects:** When using your Many Hands Make Light Work class feature, rather than choosing to gain advantage on the skill check, you may instead choose to gain the benefits of an additional downtime activity. If you fail the skill check, you do not gain the benefit of your original downtime activity as your creatures failed to complete the task unsupervised.
 
 ## Effortless Coordination
 
@@ -14,11 +14,11 @@
 
 ## Power of Speech
 
-**Effects:** Your elementals can speak any languages that you speak.
+**Effects:** Your creatures can speak any languages that you speak.
 
 ## Telepathic Bond
 
-**Effects:** You may communicate telepathically at any distance with your elementals.
+**Effects:** You may communicate telepathically at any distance with your creatures.
 
 ## Breath of Life
 
