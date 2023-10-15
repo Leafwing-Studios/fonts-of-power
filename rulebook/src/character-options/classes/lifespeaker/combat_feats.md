@@ -39,3 +39,15 @@
 ## Still as a Lake
 
 **Effects:** At the start of each of your turns, each elemental may choose to take the Hide rather than Move action.
+
+## Tag Team
+
+**Effects:** Whenever you or one of your elementals hits a creature with an attack, you or another elemental may make an attack of opportunity against it.
+
+## Pinned Down
+
+**Effects:** The critical hit threshold of atttacks made against creatures you or your elementals are grappling is reduced by 5.
+
+## Coordinated Effort
+
+**Effects:** Skill checks made in combat by you or your elementals have advantage if they are adjacent to at least two allies.
