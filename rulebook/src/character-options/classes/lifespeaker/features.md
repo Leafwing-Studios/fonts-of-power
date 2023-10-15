@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                         Features                         | Forms Known |
-| :---: | :---------------: | :------------------------------------------------------: | :---------: |
-|   1   |        +1         | Feats, Lifespeaking, Shamble, Many Hands Make Light Work |      3      |
-|   2   |        +2         |                    Helpful Creations                     |      4      |
-|   3   |        +2         |               Attribute Improvement, Feats               |      4      |
-|   4   |        +3         |                     Laughing Spirits                     |      4      |
-|   5   |        +3         |                        Possession                        |      5      |
-|   6   |        +4         |               Attribute Improvement, Feats               |      5      |
-|   7   |        +4         |                     Rapid Summoning                      |      5      |
-|   8   |        +5         |                     Life Everywhere                      |      6      |
-|   9   |        +5         |               Attribute Improvement, Feats               |      6      |
-|  10   |        +6         |                     Life of its Own                      |      6      |
+| Level | Proficiency Bonus |                              Features                               | Forms Known |
+| :---: | :---------------: | :-----------------------------------------------------------------: | :---------: |
+|   1   |        +1         | Feats, Lifespeaking, Summoning Strategy, Many Hands Make Light Work |      3      |
+|   2   |        +2         |                          Helpful Creations                          |      4      |
+|   3   |        +2         |                    Attribute Improvement, Feats                     |      4      |
+|   4   |        +3         |                          Laughing Spirits                           |      4      |
+|   5   |        +3         |                             Possession                              |      5      |
+|   6   |        +4         |                    Attribute Improvement, Feats                     |      5      |
+|   7   |        +4         |                           Rapid Summoning                           |      5      |
+|   8   |        +5         |                           Life Everywhere                           |      6      |
+|   9   |        +5         |                    Attribute Improvement, Feats                     |      6      |
+|  10   |        +6         |                           Life of its Own                           |      6      |
 
 ## Features
 
@@ -59,19 +59,39 @@ Note that these are durable choices that should be recorded on the stat card of 
 At the start of combat, place your active creatures in a position of your choice within a 2 tile range of your character.
 
 You gain access to the Summon Creature action. At the cost of 2 AP, summon a new creature with a form of your choice within a 2 tile range. You may summon any number of additional creatures, at the cost of 1 essence each.
-You cannot control more than 3 creatures at once: if you are already at your cap, destroy an creature of your choice before summoning a new one.
+You cannot control more than creatures than your creature cap (default 3) at once: if you are already at your cap, destroy an creature of your choice before summoning a new one.
 
-## Shamble
+## Summoning Strategy
 
 **Level:** 1
 
-At the start of each of your turns, each of your creatures may take the Move action for free.
+Choose one of the summoning strategies, listed below:
+
+### Horde
+
+Your creature cap is increased to 5. At the start of each of your turns, each of your creatures may take the Move action for free.
+
+### Absolute Unit
+
+Your creature cap is reduced to 1, and your creature is now 1 tile radius in size.
+When you gain this feature, choose three forms: you do not know any other forms, but may change this selection whenever you would gain a new form. Your creature's life total is the sum of those three forms, and its attributes are the average of the values of those forms, rounded up.
+Your creature gains all of the special actions and passive features of all three forms.
+
+## Manifestations of Power
+
+Your creatures cannot be affected by other creatures. They still interact with the environment normally, but cannot take damage, gain ailments or afflictions or be involuntarily destroyed. They must stay within a 3 tile range of you at all times or they vanish. They cannot grapple or be grappled, and do not prevent movement of creatures through their space.
+
+### Turrets
+
+Your creatures cannot take movement actions and cannot be knocked prone.
+At the start of each of your turns, you may take the Strike or Grapple action with any one of your creatures.
+Reduce the cost of your Summon Creature action by one AP.
 
 ## Helpful Creations
 
 **Level:** 1
 
-Your creatures persist outside of combat. At the start of each rest, select a number of active creatures equal to your cap.
+Your creatures persist outside of combat. At the start of each rest, select a number of active creatures equal to your creature cap.
 These creatures can be freely summoned and dismissed, but cannot be swapped for alternative creatures unless you are in combat or resting.
 
 creatures can be very helpful in small ways while exploring the world: they are reasonably strong, autonomous, with basic senses and manipulation abilities, but are about as intelligent as a well-trained dog.

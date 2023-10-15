@@ -1,14 +1,10 @@
 # Combat Feats
 
-## Absolute Unit
-
-**Effects:** You can only summon one creature at once. Its size is increased by one.
-
-When you gain this feature, choose three forms. Its life total is the sum of those three forms, and its attributes are the average of the values of those forms, rounded up. Your creature gains all of the special actions and passive features of all three forms.
-
 ## Swarm
 
-**Effects:** You can summon two additional creatures at once and start with two more creatures. You may take this feat multiple times.
+**Prerequisites:** This feat may not be combined with the Absolute Unit summoning strategy.
+
+**Effects:** Your creature cap is increased by two. You may take this feat multiple times.
 
 ## Life's Resilience
 
@@ -34,9 +30,9 @@ When you gain this feature, choose three forms. Its life total is the sum of tho
 
 **Effects:** The total number of forms that you know is increased by two. You can take this feat multiple times.
 
-## Still as a Lake
+## Still and Silent
 
-**Effects:** At the start of each of your turns, each creature may choose to take the Hide rather than Move action.
+**Effects:** At the end of each of your turns, each creature that did not act this turn gains the benefit of the Hide action.
 
 ## Tag Team
 
@@ -56,12 +52,6 @@ When you gain this feature, choose three forms. Its life total is the sum of tho
 
 At the start of combat, choose one of your creatures. It is grappling you. Creatures that are grappling you automatically move you with them.
 
-## Turrets
-
-**Prerequisite:** Shamble class feature
-
-**Effects:** Replaces the Shamble class feature. Your creatures cannot take movement actions. At the start of each of your turns, you may take the Strike action with any one of your creatures. Reduce the cost of your Summon Creature action by one AP.
-
 ## Distant Summoning
 
 **Effects:** The range of your Summon Creature action is increased by three tiles.
@@ -69,7 +59,3 @@ At the start of combat, choose one of your creatures. It is grappling you. Creat
 ## Ephemeral Creations
 
 **Effects:** Your creatures have one life. Whenever one of your creatures dies, gain 2 essence.
-
-## Manifestations of Power
-
-**Effects:** Your creatures cannot be affected by other creatures. They still interact with the environment normally, but cannot take damage, gain ailments or afflictions or be involuntarily destroyed. They must stay within a 3 tile range of you at all times or they vanish. They cannot grapple or be grappled, and do not prevent movement of creatures through their space.
