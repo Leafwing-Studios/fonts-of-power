@@ -27,7 +27,7 @@
 
 **Level:** 1
 
-With a word, you breathe life into the raw materials of the world around you: bringing trees to life, helping rocks take form and shaping mud into slow-witted assistants.
+With a word, you breathe life into the raw materials of the world around you: conjuring strange creatures, bringing water to life, and shaping mud into slow-witted assistants.
 
 In combat, you control up to three creatures in addition to your character.
 Your creatures may spend your AP as if they were their own.
@@ -40,6 +40,13 @@ Each creature has 10 life.
 Creatures have their own attributes, attack bonuses and defenses, but share your magical affixes, feats, skill proficiencies and other effects.
 The details of each creature's basic and special attacks vary based on the form that they take on.
 The number of forms that you have access to increases as you level up, as shown in your class table.
+To ease your playing experience, we strongly recommend that you create small stat cards for each type of creature you can summon,
+and then reference those as you play.
+
+The flavor of this class is deliberately flexible: your character may be a master of the elements commanding spirits of water, a necromancer bringing back spirits and skeletons, a mad biologist with chimeric creations, or a technomancer who builds strange turrets and clockwork machines on the fly.
+While the forms listed here are all elementals, when you select forms, feel free to reflavor them completely to match your desired aesthetics.
+When you do so, you may freely swap any damage type for any other, any affliction for any other, and any ailment for any other.
+Note that these are durable choices that should be recorded on the stat card of your creature: it cannot be changed once selected except by the ordinary mechanisms of altering character choices.
 
 At the start of combat, place your active creatures in a position of your choice within a 2 tile range of your character.
 
