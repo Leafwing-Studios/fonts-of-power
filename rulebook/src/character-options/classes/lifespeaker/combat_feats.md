@@ -52,6 +52,6 @@ When you gain this feature, choose three forms. Its life total is the sum of tho
 
 ## Personal Assistants
 
-**Effects:** You cannot take actions (including Move) other than Summon Elemental, Scan and Spot. Gain two additional AP each turn.
+**Effects:** You cannot take actions (including Move) other than Summon Elemental, Scan and Spot. Gain an additional AP each turn.
 
 At the start of combat, choose one of your elementals. It is grappling you. Creatures that are grappling you automatically move you with them.
