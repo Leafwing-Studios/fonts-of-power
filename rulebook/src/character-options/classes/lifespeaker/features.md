@@ -28,7 +28,7 @@
 With a word, you breathe life into the raw materials of the world around you: bringing trees to life, helping rocks take form and shaping mud into slow-witted assistants.
 
 In combat, you control up to three elementals in addition to your character.
-They do not gain AP normally, but during your turn you may spend up to 3 essence per turn to grant any elemental one AP per essence spent.
+They do not gain AP normally, but during your turn you may spend up to 4 essence per turn to grant any elemental one AP per essence spent.
 
 Elementals can take any core action expect for Activate, Recover or Essence Tap.
 Whenever they use the Defend or Ward actions, grant the benefits of that action to all of your elementals.
