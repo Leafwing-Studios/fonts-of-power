@@ -33,12 +33,12 @@ They do not gain AP normally, but during your turn you may spend up to 3 essence
 Elementals can take any core action expect for Activate, Recover or Essence Tap.
 Whenever they use the Defend or Ward actions, grant the benefits of that action to all of your elementals.
 
+Each elemental has 10 life.
 Elementals share your attributes, attack bonuses, defenses, affixes, feats, skill proficiencies and other effects.
 The details of each elemental's basic and special attacks vary based on the form that they take on.
 The number of forms that you have access to increases as you level up, as shown in your class table.
 
 At the start of combat, summon three elementals of your choice within a 2 tile range of your character.
-Each elemental has 10 life.
 
 You gain access to the Summon Elemental action. At the cost of 2 AP, summon a new elemental with a form of your choice within a 2 tile range.
 You cannot control more than 3 elementals at once: if you are already at your cap, destroy an elemental of your choice before summoning a new one.
