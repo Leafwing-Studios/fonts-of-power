@@ -1,17 +1,13 @@
 # Powers
 
-## Power Title
+## ?NAME?
 
-**AP:** AP cost (number).
-
-**Essence:** Essence cost (number).
-
-**Category:** Offensive/Defensive/Utility
-
-**Range:** Range (in tiles, number).
-
-**Type:** Expertise/Focus/None.
-
-**Target:** ???
-
-**Effects:** Description of skill effect.
+| **Name**               | **Passive**              | **Attribute** | **Score** | **Defense** |     |     |
+| ---------------------- | ------------------------ | ------------- | --------- | ----------- | --- | --- |
+|                        |                          | Prowess       |           |             |     |     |
+| **Life**               | **Basic Defense**        | Agility       |           |             |     |     |
+|                        |                          | Expertise     |           |             |     |     |
+| **Basic Attack Bonus** | **Special Attack Bonus** | Focus         |           |             |     |     |
+|                        |                          | Presence      |           |             |     |     |
+| **Strike**             | **Special Action**       |               |           |             |     |     |
+|                        |                          |               |           |             |     |     |
