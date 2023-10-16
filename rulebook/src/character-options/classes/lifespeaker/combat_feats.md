@@ -2,7 +2,7 @@
 
 ## Swarm
 
-**Prerequisites:** This feat may not be combined with the Absolute Unit summoning strategy.
+**Prerequisites:** This feat may not be combined with the Absolute Unit or Horde summoning strategy.
 
 **Effects:** Your creature cap is increased by two. You may take this feat multiple times.
 
@@ -32,15 +32,19 @@
 
 ## Still and Silent
 
-**Effects:** At the end of each of your turns, each creature that did not act this turn gains the benefit of the Hide action.
+**Effects:** At the end of each of your turns, each creature that did not act this turn gains the benefit of the Hide action. Use a single roll for all of your creatures.
 
 ## Tag Team
 
-**Effects:** Whenever you or one of your creatures hits a creature with an attack, you or another creature may make an attack of opportunity against it.
+**Effects:** Whenever you or one of your creatures hits a creature with an attack, you or another creature may make an attack of opportunity against it, even if it is outside of your zone of control.
 
 ## Pinned Down
 
-**Effects:** The critical hit threshold of atttacks made against creatures you or your creatures are grappling is reduced by 5.
+**Effects:** The critical hit threshold of atttacks made against creatures that you or your creatures are grappling is reduced by 5.
+
+## Volatile
+
+**Effects:** The critical hit threshold of attacks made by and against your creatures is reduced by 3.
 
 ## Coordinated Effort
 
@@ -48,23 +52,19 @@
 
 ## Personal Assistants
 
-**Effects:** You cannot take actions (including Move) other than Summon Creature, Scan and Spot. Gain an additional AP each turn.
+**Effects:** You cannot take any actions (including Move) other than Summon Creature, Scan and Spot. Gain one additional AP each turn.
 
-At the start of combat, choose one of your creatures. It is grappling you. Creatures that are grappling you automatically move you with them.
+At the start of combat, choose one of your creatures. It is grappling you, if possible. Creatures that are grappling you automatically move you with them.
 
 ## Distant Summoning
 
-**Effects:** The range of your Summon Creature action is increased by three tiles.
+**Effects:** The range of your Summon Creature action is increased by two tiles.
 
 ## Ephemeral Creations
 
 **Prerequisites:** This feat may not be combined with the Horde summoning strategy.
 
 **Effects:** Your creatures have one life. Whenever one of your creatures dies, gain 2 essence.
-
-## Shared Strength
-
-**Effects:** When you use the Defend or Ward actions, grant the benefits of that action to all of your creatures.
 
 ## Turrets
 

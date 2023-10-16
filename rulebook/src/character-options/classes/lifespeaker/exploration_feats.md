@@ -6,7 +6,7 @@
 
 ## Delegation
 
-**Effects:** When using your Many Hands Make Light Work class feature, rather than choosing to gain advantage on the skill check, you may instead choose to gain the benefits of an additional downtime activity. If you fail the skill check, you do not gain the benefit of your original downtime activity as your creatures failed to complete the task unsupervised.
+**Effects:** When using your Many Hands Make Light Work class feature, rather than choosing to gain advantage on the skill check, you may instead choose to gain the benefits of an additional downtime activity. If you fail the skill check, you do not gain the benefit of the chosen downtime activity, as your creatures failed to complete the task unsupervised. (You still gain the benefits of the downtime activity that you chose to perform yourself.)
 
 ## Effortless Coordination
 
@@ -14,11 +14,11 @@
 
 ## Telepathic Bond
 
-**Effects:** You may communicate telepathically at any distance with your creatures.
+**Effects:** You may communicate telepathically at any distance with your creatures. You do not gain access to their senses, and they do not become any more intelligent, but they can still communicate general feelings/perceptions and yes/no answers to you.
 
 ## Breath of Life
 
-**Effects:** Treat any skill checks made as part of the Resurrect downtime activity as if the results were 5 higher.
+**Effects:** When you use the Resurrect downtime activity, you may choose to reroll any skill checks made. You must use the new result.
 
 ## Intelligent Design
 

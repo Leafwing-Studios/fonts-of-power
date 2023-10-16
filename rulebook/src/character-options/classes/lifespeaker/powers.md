@@ -121,3 +121,20 @@ and then reference those as you play.
 | Expertise     |           |                     |
 | Focus         |           |                     |
 | Presence      |           |                     |
+
+## Stalwart Pebble
+
+- **Life:** 10
+- **Basic Defense:** ??
+- **Basic Attack Bonus:** ??
+- **Stalwart:** This creature cannot take damage or perform offensive actions.
+- **Strike:** None.
+- **Stand Firm:** 1 AP: This creature becomes immune to forced movement and cannot be knocked prone until the start of your next turn.
+
+| **Attribute** | **Score** | **Special Defense** |
+| ------------- | --------- | ------------------- |
+| Prowess       |           |                     |
+| Agility       |           |                     |
+| Expertise     |           |                     |
+| Focus         |           |                     |
+| Presence      |           |                     |
