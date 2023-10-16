@@ -43,3 +43,7 @@
 ## Darting
 
 **Effects:** You may move through enemy tiles. When you take the Move action, attacks of opportunity made against you have disadvantage until the end of the current turn.
+
+## Surefooted
+
+**Effects:** Ignore the effects of difficult terrain.
