@@ -103,8 +103,8 @@ Gain access to the Splice downtime activity, which lets you swap a form you know
 Your creatures persist outside of combat. At the start of each rest, select a number of active creatures equal to your creature cap.
 These creatures can be freely summoned and dismissed, but cannot be swapped for alternative creatures unless you are in combat or resting.
 
-creatures can be very helpful in small ways while exploring the world: they are reasonably strong, autonomous, with basic senses and manipulation abilities, but are about as intelligent as a well-trained dog.
-creatures are capable of understanding languages that you know, but cannot speak or otherwise communicate beyond vague gestures, even to you.
+Creatures can be very helpful in small ways while exploring the world: they are reasonably strong, autonomous, with basic senses and manipulation abilities, but are about as intelligent as a well-trained dog.
+Creatures are capable of understanding languages that you know, but cannot speak or otherwise communicate beyond vague gestures, even to you.
 
 ### Many Hands Make Light Work
 
@@ -136,11 +136,13 @@ If you fail by 5 or more, gain a stack of exhaustion.
 
 **Level:** 5
 
-You learn to take over the body of an creature complete, entering into a deep trance. After a brief time in a calm environment, you enter into a trance, becoming unable to move or take any actions but retaining a vague sense of the state of your own surroundings.
-Instead, you control your entity directly, gaining access to any senses and abilities it may have as you are connected by a telepathic link.
+You learn to take over the body of one of your creatures. 
+After a brief time in a calm environment (not in combat), you enter into a trance, becoming unable to move or take any actions but retaining a vague sense of the state of your own surroundings.
+Instead, you control that creature directly, gaining access to any senses and abilities it may have as you are connected by a telepathic link.
+Remember, although it gains your decision making ability and intelligence, it can't do anything that it couldn't physically do before (like speaking).
 
 You may choose to end this effect at any time.
-Ending this effect is immediate, and you may choose to instead swap to possess a different creature rather than returning to your own body.
+Ending this effect is immediate, and you may choose to instead possess a different creature rather than returning to your own body.
 
 ### Attribute Improvement
 
@@ -189,4 +191,4 @@ For example, an animated chest would be able to slowly hop around and throw itse
 
 **Level:** 10
 
-**Effects:** At the end of each of your turns, grant 2 AP to your creatures, divided as you choose.
+**Effects:** You gain 2 additional AP each turn, which can only be spent on actions performed by your creatures.
