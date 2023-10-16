@@ -1,5 +1,8 @@
 # Powers
 
+To ease your playing experience, we strongly recommend that you create stat cards for each form of creature you can summon,
+and then reference those as you play.
+
 ## Grasping Vines
 
 - **Life:** 10

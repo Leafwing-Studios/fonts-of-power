@@ -27,3 +27,13 @@
 ## Loyal Companions
 
 **Effects:** Your creatures can speak any language that you speak, are more intelligent and, are able to act with autonomy. Each creature has a personality and memory of its own.
+
+## Relentless Rats
+
+**Prerequisites:** Horde summoning strategy
+
+**Effects:** Outside of combat, your creature cap is increased to a finite but arbitrarily large number, although it still takes a few seconds to summon each one. They only persist until the end of your next rest, and you can still only begin combat with 9 of them.
+
+## Caloric
+
+**Effects:** Your summoned creatures can be consumed, providing healthy food and water to anyone who eats them.

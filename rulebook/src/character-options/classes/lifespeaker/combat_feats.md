@@ -58,8 +58,18 @@ At the start of combat, choose one of your creatures. It is grappling you. Creat
 
 ## Ephemeral Creations
 
+**Prerequisites:** This feat may not be combined with the Horde summoning strategy.
+
 **Effects:** Your creatures have one life. Whenever one of your creatures dies, gain 2 essence.
 
 ## Shared Strength
 
 **Effects:** When you use the Defend or Ward actions, grant the benefits of that action to all of your creatures.
+
+## Turrets
+
+**Effects:** Your creatures cannot take movement actions and cannot be knocked prone. At the start of each of your turns, you may take the Strike or Grapple action with any one of your creatures for free.
+
+## Combination Strike
+
+**Effects:** Any two of your creatures and your character may choose to each spend AP to perform the same action on the same target simultaneously. If you do, gain advantage on all attack rolls and skill checks made as part of that combined actions.
