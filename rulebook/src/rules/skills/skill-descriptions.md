@@ -7,6 +7,13 @@ Use Anima if you want to track a monster, determine what the mysterious scratche
 
 Anima is typically performed using Focus, when tracking creatures, or Expertise, when attempting to recall information on their habits or enchanting items.
 
+## Arcana
+
+Arcana is the study of the nature of magic and spells.
+Use it to learn about spells, strange effects or perform miscallaneous feats of magical prowess.
+
+Arcana is generally used with Expertise, but when sheer magical endurance or power is called for, Focus or Presence is a better fit.
+
 ## Athletics
 
 Athletics represents your ability to perform great feats of athletic skill, strength and dexterity.
