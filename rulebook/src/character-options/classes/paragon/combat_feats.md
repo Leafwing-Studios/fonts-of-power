@@ -4,10 +4,6 @@
 
 **Effects:** Double the effects of your auras if they're the only ally / enemy within range.
 
-## Stand With Me
-
-**Effects:** Whenever you use your Hold Your Ground subclass feature by sacrificing your movement for the turn, allies within 2 tiles may choose to give up their movement until the end of their next turn in order to also gain its benefit.
-
 ## Provoke
 
 **Effects:** 1 essence: Make a melee Presence attack against a target within range 3. Apply one stack of taunted if you hit.
@@ -79,3 +75,7 @@
 **Prerequisites:** Stand your Ground class feature
 
 **Effects:** While affected by the *stand your ground* effect, after using the Defend action, trigger it a second time.
+
+## Unssailable
+
+**Prerequesites:** Whenever you the Block action, you can choose to reroll the skill check after seeing the result. If you do, you must use new result.

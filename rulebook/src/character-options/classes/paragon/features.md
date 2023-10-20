@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                        Features                         | Powers Known |
-| :---: | :---------------: | :-----------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Auras, Ideal: Stand Your Ground, Shield of Faith |      3       |
-|   2   |        +2         |                       Conviction                        |      4       |
-|   3   |        +2         |              Attribute Improvement, Feats               |      4       |
-|   4   |        +3         |                      Unassailable                       |      4       |
-|   5   |        +3         |                    Ideal: Consecrate                    |      5       |
-|   6   |        +4         |              Attribute Improvement, Feats               |      5       |
-|   7   |        +4         |                      Rallying Blow                      |      5       |
-|   8   |        +5         |                       Redemption                        |      6       |
-|   9   |        +5         |                  Attribute Improvement                  |      6       |
-|  10   |        +6         |                    Ideal: Apotheosis                    |      6       |
+| Level | Proficiency Bonus |                      Features                       | Powers Known |
+| :---: | :---------------: | :-------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Auras, Ideal: Stand Your Ground, Conviction  |      3       |
+|   2   |        +2         |                     EXPLORATION                     |      4       |
+|   3   |        +2         |            Attribute Improvement, Feats             |      4       |
+|   4   |        +3         |                   Shield of Faith                   |      4       |
+|   5   |        +3         |                  Ideal: Consecrate                  |      5       |
+|   6   |        +4         |            Attribute Improvement, Feats             |      5       |
+|   7   |        +4         |                    Rallying Blow                    |      5       |
+|   8   |        +5         |                     Redemption                      |      6       |
+|   9   |        +5         |                Attribute Improvement                |      6       |
+|  10   |        +6         |                  Ideal: Apotheosis                  |      6       |
 
 ## Features
 
@@ -29,10 +29,10 @@
 
 **Effects:** As a paragon, you have access to powers called **auras.** These are potent passive effects, that affect creatures within a 2 tile radius (including yourself).
 
-Once during each of your turns if you have more than zero essence, you may use the Toggle Aura action for 0 AP, allowing you to enable or disable any number of auras, up to a limit of 3 active at once.
+At the start of each of your turns, you may activate one aura that you know. If you do, choose an aura, then choose how much essence to spend. The more essence spent, the stronger the effect:
 
-At the end of each of your turns, you lose essence based on the number of active auras you have present: 0/1/3/6 essenmce for 0/1/2/3 auras.
-If this reduces your essence to zero, disable all of your auras.
+- 1 essence: gain the base effect until the start of your next turn
+- 3 essence: gain the enhanced effect until the start of your next turn
 
 ### Ideal: Stand Your Ground
 
@@ -40,26 +40,26 @@ If this reduces your essence to zero, disable all of your auras.
 
 **Effects:** Each paragon devotes their life to upholding a powerful ideal. This grants them power, and changes how their abilities work.
 
-At level 1, this modifies the *stand your ground* effect, as described below.
+At level 1, this modifies the *stand your ground* effect, as described in your subclass.
 
 At the start of your turn, you may choose to gain the *stand your ground effect* until the start of your next turn. While this effect is active:
 
 * you cannot take movement actions
 * you are immune to forced movement
 * you cannot be knocked prone
-* you gain an additional benefit based on your ideal
-
-### Shield of Faith
-
-**Level:** 1
-
-**Effects:** Whenever you successfully block, grant 2 absorption to the ally (including yourself) with the lowest life within a 2 tile range.
+* you gain an additional benefit based on your subclass
 
 ### Conviction
 
 **Level:** 2
 
 **Effects:** When attempting to convince someone to act in a way that is directly in line with your ideal, you have advantage on all Guidance and Charm skill checks made.
+
+### EXPLORATION
+
+**Level:** 2
+
+**Effects:** Does stuff
 
 ### Attribute Improvement
 
@@ -73,11 +73,11 @@ At the start of your turn, you may choose to gain the *stand your ground effect*
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Unassailable
+### Shield of Faith
 
 **Level:** 4
 
-**Effects:** When you the Block action, you can choose to reroll the skill check after seeing the result. If you do, you must use new result.
+**Effects:** Whenever you successfully block, grant 2 absorption to the ally (including yourself) with the lowest life within a 2 tile range. This absorption is gained before damage is dealt.
 
 ### Ideal: Consecrate
 
@@ -99,11 +99,11 @@ The exact effect is determined by your subclass: check below for details.
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Rallying Blow
+### Stand with Me
 
 **Level:** 7
 
-**Effects:** Whenever you hit a creature with an attack that cost at least one AP, each ally within a 2 tile radius of you may make an attack of opportunity against that creature.
+**Effects:** Whenever you use your Hold Your Ground subclass feature by sacrificing your movement for the turn, allies within 2 tiles may choose to give up their movement until the end of their next turn in order to also gain its benefit.
 
 ### Redemption
 
@@ -128,9 +128,7 @@ If you fail this skill check by 10 or more their loyalty towards you decreases b
 
 **Level:** 10
 
-**Effects:** While you have 3 auras active, gain a powerful personal buff.
-
-The exact effect varies based on your subclass: check below for details.
+**Effects:** When you choose whether or not to activate an aura at the start of your turn, you may choose to spend 6 essence. If you do, gain the empowered effect of your aura, in addition to an incredibly powerful personal benefit based on your subclass.
 
 ## Ideals
 
@@ -138,17 +136,15 @@ The exact effect varies based on your subclass: check below for details.
 
 #### Stand Your Ground: Sacrifice
 
-At level 1, your belief in Equality allows you to withstand unbelievable pain as you sacrifice yourself to protect the least among us. When you use your Stand Your Ground class feature, until the start of your next turn, you can choose to take the effects of any attack targeted at another creature within a 2 tile radius.
-
-You must choose whether or not to use this ability before the attack is rolled.
+At level 1, your belief in Equality allows you to withstand unbelievable pain as you sacrifice yourself to protect the least among us. When you use your Stand Your Ground class feature, once before the start of your next turn, you can choose to take the effects of any attack targeted at another creature (that does not also target you) within a 2 tile radius. Gain resistance to any damage taken from the redirected attack.
 
 #### Consecrate: Fraternity
 
-Creatures resting here gain the benefit of the Bond downtime activity with all other creatures resting here.
+Creatures resting here have advantage on the Bond, Connet, Tend, and Support downtime activities.
 
 #### Apotheosis: Avatar of Justice
 
-Whenever an ally other than yourself within your auras is hit by an offensive action, you may make an attack of opportunity against the creature that struck them. Refund any AP spent.
+Whenever an ally other than yourself within your auras is hit by an offensive action, you may make an attack of opportunity against the creature that struck them. Refund any AP spent. This can only be used once per offensive action, even if mulitple allies were hit.
 
 ### Harmony
 
@@ -158,7 +154,7 @@ At level 1, your belief in Harmony lets you shrug off blows as if they had never
 
 #### Consecrate: Truce
 
-A 6 tile radius of your choice becomes the site of an enforced peace. All offensive actions made by or against creatures within this area fail completely. In addition, creatures within the area are immune to damage from other creatures, cannot gain afflictions or ailments, cannot be grappled, are immune to forced movement.
+A 6 tile radius of your choice becomes the site of an enforced peace. All offensive actions made by or against creatures within this area fail completely. In addition, creatures within the area are immune to damage from other creatures, cannot gain afflictions or ailments, cannot be grappled, and are immune to forced movement.
 
 #### Apotheosis: Avatar of Hope
 
@@ -170,21 +166,21 @@ You cannot take damage or lose life.
 
 At level 1, your belief in Liberty lets you throw off the shackles of oppression. When you use your Stand Your Ground class feature, you also remove one stack of each ailment from yourself.
 
-#### Consecrate: Haven
+#### Consecrate: Even Footing
 
-At the start of your next rest, all creatures that rested in the consecrated area may immediately teleport to the consecrated area.
+Until the start of your next rest, creatures in the consecrated area may ignore all font effects. Whenever a character spends essence in this area, they gain 1 stack of exhaustion.
 
 #### Apotheosis: Avatar of Dreams
 
-You can fly, and your movement doesn't provoke attacks of opportunity. While this effect is active, your Stand Your Ground class feature no longer restricts your ability to move.
+You can fly, and your movement doesn't provoke attacks of opportunity. While this effect is active, your Stand Your Ground class feature no longer restricts your ability to use movement actions.
 
 ### Progress
 
 #### Stand Your Ground: Mastery
 
-At level 1, your belief in Progress lets you focus in order to gain true mastery over the very nature of magic.
+At level 1, your belief in Progress lets you focus in order to gain true mastery over your abilities.
 
-When you use your Stand Your Ground class feature, until the start of your next turn, you also are able to freely replace any ailments or afflictions that you apply with the same number of stacks of an ailment or affliction of your choice. You must replace ailments with ailments, and afflictions with afflictions.
+When you use your Stand Your Ground class feature, until the start of your next turn, you are able to freely replace any ailments or afflictions that you apply with the same number of stacks of an ailment or affliction of your choice. You must replace ailments with ailments, and afflictions with afflictions.
 
 #### Consecrate: Innovation
 
@@ -193,21 +189,20 @@ Creatures resting here have advantage on all Devise, Disenchant, Invent, Craft a
 #### Apotheosis: Avatar of Change
 
 At the start of each of your turns, you may swap any creature within your auras (including yourself) with another creature in your auras via teleportation.
-You can be moved by this effect even if you are immune to forced movement.
+You (but not other creatures) can be moved by this effect even if you are immune to forced movement.
 You may repeat this effect indefinitely, recalculating your aura radius after each swap.
 
-As a reminder, tile effects trigger whenever a creature enter them (including when the tile effect is moved onto the creature), but tile effects can only be triggered once per creature per turn.
-As an additional reminder, your auras are tile effects.
+As a reminder, tile effects (like your auras) trigger whenever a creature enters them (including when the tile effect is moved onto the creature), but tile effects can only be triggered once per creature per turn.
 
 ### Sanctity
 
-#### Stand Your Ground: Valor
+#### Stand Your Ground: Smite
 
 At level 1, your belief in Sanctity lets you drive your foes before you, purging the impure with righteous anger. When you use your Stand Your Ground class feature, until the start of your next turn, your critical hit threshold is reduced by 4.
 
 #### Consecrate: Covenant
 
-Until the start of your next rest, creatures in the consecrated area have disadvantage on all skill checks made to deceive others.
+Until the start of your next rest, creatures in the consecrated area have disadvantage on all skill checks made to deceive others and advantage on all skill checks made to determine whether they are being decieved.
 
 #### Apotheosis: Avatar of Righteousness
 
