@@ -10,7 +10,7 @@ Anima is typically performed using Focus, when tracking creatures, or Expertise,
 ## Arcana
 
 Arcana is the study of the nature of magic and spells.
-Use it to learn about spells, strange effects or perform miscallaneous feats of magical prowess.
+Use it to learn about spells and strange effects, activate foreign magical devices, or perform miscallaneous feats of magical prowess.
 
 Arcana is generally used with Expertise, but when sheer magical endurance or power is called for, Focus or Presence is a better fit.
 
