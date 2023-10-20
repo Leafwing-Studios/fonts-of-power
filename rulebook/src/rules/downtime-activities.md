@@ -139,9 +139,9 @@ If you failed by more than 10, your downtime activity is wasted and you lose the
 
 Gather resources from the environment around you.
 
-For example, you might hunt for glowing mushrooms with Anima, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
+For example, you might hunt for glowing mushrooms with Anima, tap into the font’s power directly using Arcana or Fontcraft, or salvage scraps of machinery using Tinkering.
 
-1. Choose one of Anima, Fontcraft or Tinkering.
+1. Choose one of Anima, Arcana, Fontcraft or Tinkering.
 2. Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in.
 3. Then draw one random ingredient from the font or town's collection of affix ingredients for every 5 points of the skill check result.
 4. Finally, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
