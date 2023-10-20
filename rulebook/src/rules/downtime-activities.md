@@ -122,7 +122,7 @@ Choose a set of arms or armor, and then choose one of the following options to d
 
 Consume the ingredient, then determine your success or failure at this crafting:
 
-- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Fontcraft or Tinkering).
+- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Arcana, Fontcraft or Tinkering).
 - Add 5 times the current danger level of the area you are resting in to the result.
 - The difficulty of adding an affix is equal to 15 + (5 \* the gear points of that affix).
 
@@ -139,9 +139,9 @@ If you failed by more than 10, your downtime activity is wasted and you lose the
 
 Gather resources from the environment around you.
 
-For example, you might hunt for glowing mushrooms with Anima, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering.
+For example, you might hunt for glowing mushrooms with Anima, tap into the font’s power directly using Arcana or Fontcraft, or salvage scraps of machinery using Tinkering.
 
-1. Choose one of Anima, Fontcraft or Tinkering.
+1. Choose one of Anima, Arcana, Fontcraft or Tinkering.
 2. Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in.
 3. Then draw one random ingredient from the font or town's collection of affix ingredients for every 5 points of the skill check result.
 4. Finally, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
@@ -151,7 +151,7 @@ The ingredient gained is associated with the skill you used for this skill check
 
 Tinkering with magic, you attempt to create new and wonderful magical contraptions.
 
-Make an Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
+Make an Expertise skill check with the Anima, Arcana, Fontcraft or Tinkering skill.
 Choose one of the following recipe decks to draw from:
 
 - universal recipes
@@ -279,7 +279,7 @@ Like usual, gaining this exhaustion can kill you. Any skill checks made to resur
 ## Shape
 
 Attempt to shape the world around you, preparing an arena for combat.
-Make an Expertise skill check using Anima, Fontcraft or Tinkering.
+Make an Expertise skill check using Anima, Arcana, Fontcraft or Tinkering.
 
 For every 2 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
 
