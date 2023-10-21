@@ -64,7 +64,7 @@
 
 ## Menacing
 
-**Effects:** Creatures who are frightened of you must move away if they are within a 2 tile radius, rather than just 1.
+**Effects:** Creatures who are frightened of you must always move away from you, no matter how far they are.
 
 ## Just a Flesh Wound
 

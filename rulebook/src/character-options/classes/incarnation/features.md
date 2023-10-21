@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                      Features                       |
-| :---: | :---------------: | :-------------------------------------------------: |
+| Level | Proficiency Bonus |                          Features                           |
+| :---: | :---------------: | :---------------------------------------------------------: |
 |   1   |        +1         | Feats, Emotion, Temperament, Thrill of Battle, Overexertion |
-|   2   |        +2         |                    Rebound                     |
-|   3   |        +2         |            Attribute Improvement,  Feats            |
-|   4   |        +3         |                      Outburst                       |
-|   5   |        +3         |                       Pathos                        |
-|   6   |        +4         |            Attribute Improvement,  Feats            |
-|   7   |        +4         |                    Grit                     |
-|   8   |        +5         |                      Limits of Exertion                      |
-|   9   |        +5         |            Attribute Improvement,  Feats            |
-|  10   |        +6         |                    CAPSTONE                     |
+|   2   |        +2         |                           Rebound                           |
+|   3   |        +2         |                Attribute Improvement,  Feats                |
+|   4   |        +3         |                          Outburst                           |
+|   5   |        +3         |                           Pathos                            |
+|   6   |        +4         |                Attribute Improvement,  Feats                |
+|   7   |        +4         |                            Grit                             |
+|   8   |        +5         |                     Limits of Exertion                      |
+|   9   |        +5         |                Attribute Improvement,  Feats                |
+|  10   |        +6         |                       Power Incarnate                       |
 
 ## Features
 
@@ -118,11 +118,11 @@ Your transformation ends when you reach 0 emotion or essence.
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### CAPSTONE
+### Power Incarnate
 
 **Level:** 10
 
-**Effects:** ???
+**Effects:** While transformed, gain an additional 2 AP each turn.
 
 ## Temperaments
 
@@ -142,7 +142,7 @@ Whenever you would be hit by an attack, gain the benefits of the Block reaction,
 
 #### Transformation: Unshakeable Courage
 
-Whenever  you deal damage, deal an additional 1d4 + 1/2 Presence damage of the same type.
+Whenever you deal damage, deal an additional 1d4 + 1/2 Presence damage of the same type.
 
 You are immune to the effects of the frightened ailment.
 
@@ -158,11 +158,13 @@ You cannot move away from your nemesis.
 
 #### Transformation: Overwhelming Grief
 
-While transformed, at the start of each of your turns apply 6 + Presence stacks of anguish to all creatures within a 2 tile radius. Whenever you hit a creature with a basic attack, or at the end of your turn if they are grappled by you, trigger their afflictions. Whenever a creature within 2 tiles of you, including yourself, loses life due to an affliction, gain that much absorption.
+While transformed, at the start of each of your turns apply 6 + Presence stacks of anguish to all creatures (including yourself) within a 2 tile radius. Whenever you hit a creature with a basic attack, or at the end of your turn if they are grappled by you, trigger their afflictions.
+
+Whenever a creature within 2 tiles of you, including yourself, loses life due to an affliction, gain that much absorption.
 
 #### Outburst: Terrible Wail
 
-1 AP: Spend at least one emotion. Make a Presence attack against all other creatures within a 2 tile radius. If you hit, apply one stack of frightened for each emotion spent to each creature within a two tile radius.
+1 AP: Spend at least one emotion. Make a Presence attack against all other creatures within a 2 tile radius. If you hit, apply one stack of frightened for each emotion spent.
 
 ### Hope
 
@@ -176,7 +178,6 @@ When you hit a creature with an attack or use the Treat action, grant either you
 This effect can only occur once per round, resetting at the start of your turn.
 
 You can fly. If you could already fly, you are immune to the rooted ailment and cannot be grappled while flying.
-
 When you transform, you may gain the benefits of the Take Flight action. 
 
 #### Outburst: Uplift
@@ -187,10 +188,13 @@ When you transform, you may gain the benefits of the Take Flight action.
 
 #### Transformation: Burning Rage
 
-While transformed, your basic attacks deal additional damage equal to the stacks of rage you have. You are immune to the pacified condition and damage from the temperance ailment. At the start of each of your turns, gain 4 rage for each stack of emotion you have.
+Your attacks are automatically criticals if they hit.
+You have resistance to physical damage.
+
+You are immune to the pacified condition.
+When you transform, convert all of your stacks of temperance to stacks of rage.
+Whenever you would gain stacks of the temperance affliction, convert it to stacks of rage instead.
 
 #### Outburst: Spreading Bloodlust
 
-1 AP: Spend at least one emotion. Make a Presence attacka against all reatures within a 2 tile radius. For each emotion spent, apply 3 + 1/2 presence stacks of rage to all creatures within a 2 tile radius, including yourself.
-
-Like always, you may choose to be hit by any attacks.
+P1 AP: Spend at least one emotion. Make a Presence attacka against all reatures within a 2 tile radius. For each emotion spent, apply 3 + 1/2 Presence stacks of rage to all creatures within a 2 tile radius, including yourself.
