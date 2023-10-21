@@ -68,3 +68,11 @@ Partial cover no longer causes your attacks to be made with disadvantage.
 ## Brash
 
 **Effects:** If you have spent at least 4 tiles of movement this turn, your melee Strike and Grapple actions only cost 1 AP.
+
+## Terrorizing
+
+**Effects:** Whenever you land a critical hit or down an enemy, apply one stack of frightened to all enemies within a 2 tile range of the creature hit.
+
+## Menacing
+
+**Effects:** Creatures who are frightened of you must always move away from you, no matter how far they are.

@@ -1,10 +1,14 @@
 # Combat Feats
 
+## Fervor
+
+**Effects:** While you are transformed, you gain access to the *Fervor* action. Spend 1 emotion: Gain 1 AP.
+
 ## Heroic
 
-**Effects:** If you succeed on a Grit skill check, try again.
+**Prerequisites:** Grit class feature
 
-**Effects:** The first time each turn that you succeed on a Grit skill check, try again.
+**Effects:** Whenever you succeed on a Grit skill check, gain its effects a second time.
 
 ## Undying
 
@@ -16,73 +20,47 @@
 
 ## Dig Deep
 
-**Effects:** At the start of each of your turns, if you have 0 essence, gain the benefits of the Recover action.
-
 **Effects:** At the start of each of your turns, if you have less than 3 essence, gain the benefits of the Recover action.
 
-## Reckless
+## Reckless Swing
 
 **Effects:** 3 AP: make a melee attack that costs 2 AP or less with advantage. It's automatically a critical if you hit. Provoke an attack of opportunity.
 
 ## Brooding
 
-**Effects:** At the end of each of your turns before you regain AP, gain 1 emotion for every unspent AP.
-
-## Measured Exertion
-
-**Effects:** Can choose to end transformation at start of each of your turns. Regain 2 essence per stack of emotion when you end your transformation.
+**Effects:** At the end of each of your turns before you regain AP, gain 2 emotion for every unspent AP.
 
 ## Battle Cry
 
-**Effects:** 1 AP: make a melee Presence attack against all other creatures within a 2 tile range. Apply one stack of frightened if you hit.
-
-## Who's Next
-
-**Effects:** Whenever you land a critical hit or down an enemy, apply one stack of frightened to all enemies within a 2 tile range of the creature hit.
+**Effects:** When you gain this feat, choose an ailment. 1 AP or 1 emotion: make a melee Presence attack against all other creatures within a 2 tile range. Apply one stack of the chosen ailment if you hit.
 
 ## Terrorize
 
 **Effects:** You have advantage on attacks made against creatures with the frightened ailment.
 
-## Soothing
-
-**Effects:** Whenever you would apply frightened, you may choose to apply pacified instead. Effects which trigger off the frightened ailment can use pacified as well.
-
-## Maddening
-
-**Effects:** Whenever you would apply frightened, you may choose to apply crazed instead. Effects which trigger off the frightened ailment can use crazed as well.
-
 ## Ignore Pain
 
-**Effects:** Also remove 2 stacks of an affliction when you sucessfully use your Grit feature.
+**Prerequisites:** Grit class feature
 
-**Effects:** Also remove 2 stacks of an affliction when you successfully use your Grit feature.
+**Effects:** Also remove 2 stacks of an affliction when you sucessfully use your Grit feature.
 
 ## Chase Down
 
 **Effects:** The first time each turn that you move towards a creature with the frightened ailment, you may gain the benefits of the Move action.
 
-## Menacing
-
-**Effects:** Creatures who are frightened of you must always move away from you, no matter how far they are.
-
 ## Just a Flesh Wound
 
-**Effects:** The first time each combat that you would die, instead don't. You stay alive at 0 life.
+**Effects:** The first time each combat that you would fail a death's door skill check, treat it as a success instead.
 
 ## Inexhaustible
 
 **Effects:** Ignore all exhaustion penalties to attack rolls.
 
-## Fervor
-
-**Effects:** While you are transformed, you gain access to the *Fervor* action. Spend 1 emotion: Gain 1 AP.
-
 ## Masochism
 
-**Effects:** When you select this feat, choose an affliction. Whenever you gain emotion, gain 2 stacks of the chosen affliction
+**Effects:** When you select this feat, choose an affliction. Whenever you gain emotion, you may gain 2 stacks of the chosen affliction.
 
-## Simering Emotion
+## Simmering Emotion
 
 **Effects:** The first time each turn that you use the Defend action, gain 1 emotion.
 
@@ -90,6 +68,18 @@
 
 **Effects:** You start combat transformed, with 3 emotion.
 
-## TANK THRILL
+## Thrill of Pain
 
-## STRIKER THRILL
+**Prerequisites:** Thrill of Battle class feature
+
+**Effects:** Replaces your Thrill of Battle class feature. Whenever you lose life or absorption, or an attack against you misses, gain 1 stack of emotion. You can only gain one stack of emotion in this way per action.
+
+## Thrill of Blood
+
+**Prerequisites:** Thrill of Battle class feature
+
+**Effects:** Replaces your Thrill of Battle class feature. Whenever you cause an enemy to lose life or land a critical hit, gain one stack of emotion. You may gain up to two stack of emotion in this way per action.
+
+## Regeneration
+
+**Effects:** Gain access to the *Regenerate* defensive action. 0 AP: Spend at least one stack of emotion, then gain twice that much life.
