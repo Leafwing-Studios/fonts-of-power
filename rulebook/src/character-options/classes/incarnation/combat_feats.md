@@ -62,17 +62,13 @@
 
 **Effects:** The first time each turn that you move towards a creature with the frightened ailment, you may gain the benefits of the Move action.
 
-## Gritty
-
-**Effects:** You have advantage on Grit skill checks.
-
 ## Menacing
 
 **Effects:** Creatures who are frightened of you must move away if they are within a 2 tile radius, rather than just 1.
 
 ## Just a Flesh Wound
 
-**Effects:** The first time each combat that you would die, instead don't.
+**Effects:** The first time each combat that you would die, instead don't. You stay alive at 0 life.
 
 ## Inexhaustible
 
@@ -80,7 +76,7 @@
 
 ## Fervor
 
-**Effects:** While you are transformed, you gain access to the *Fervor* action. 1 emotion: Gain 1 AP.
+**Effects:** While you are transformed, you gain access to the *Fervor* action. Spend 1 emotion: Gain 1 AP.
 
 ## Masochism
 
@@ -89,3 +85,11 @@
 ## Simering Emotion
 
 **Effects:** The first time each turn that you use the Defend action, gain 1 emotion.
+
+## Made This Way
+
+**Effects:** You start combat transformed, with 3 emotion.
+
+## TANK THRILL
+
+## STRIKER THRILL

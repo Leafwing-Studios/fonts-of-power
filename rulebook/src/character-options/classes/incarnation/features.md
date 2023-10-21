@@ -4,16 +4,16 @@
 
 | Level | Proficiency Bonus |                      Features                       |
 | :---: | :---------------: | :-------------------------------------------------: |
-|   1   |        +1         | Feats, Emotion, Temperament, Thrill of Battle, Grit |
-|   2   |        +2         |                    Overexertion                     |
+|   1   |        +1         | Feats, Emotion, Temperament, Thrill of Battle, Overexertion |
+|   2   |        +2         |                    Rebound                     |
 |   3   |        +2         |            Attribute Improvement,  Feats            |
 |   4   |        +3         |                      Outburst                       |
 |   5   |        +3         |                       Pathos                        |
 |   6   |        +4         |            Attribute Improvement,  Feats            |
-|   7   |        +4         |                    Push Through                     |
-|   8   |        +5         |                       Rebound                       |
+|   7   |        +4         |                    Grit                     |
+|   8   |        +5         |                      Limits of Exertion                      |
 |   9   |        +5         |            Attribute Improvement,  Feats            |
-|  10   |        +6         |                     Unrelenting                     |
+|  10   |        +6         |                    CAPSTONE                     |
 
 ## Features
 
@@ -30,11 +30,9 @@
 **Effects:** You can **transform**, gaining superhuman powers.
 
 At the start of each of your turns, if you are not transformed gain 1 emotion.
-Then, you may choose to spend 3 essence per emotion to transform.
-Your emotion after transformation is capped at one third of the essence spent: any excess is immediately lost.
 
-While transformed you are incredibly powerful, but you lose 1 emotion at the end of each of your turns.
-Your transformation ends when you reach 0 emotion.
+While transformed you are incredibly powerful, but you lose 1 emotion and 3 essence at the end of each of your turns.
+Your transformation ends when you reach 0 emotion or essence.
 
 ### Temperament
 
@@ -46,19 +44,19 @@ Your transformation ends when you reach 0 emotion.
 
 **Level:** 1
 
-**Effects:** Whenever you lose life or land a critical hit, gain 1 stack of emotion.
-
-### Grit
-
-**Level:** 1
-
-**Effects:** At the start of each of your turns, make a difficulty 10 Presence (Endurance) skill check. If you succeed, remove one stack of an ailment of your choice from yourself.
+**Effects:** Whenever you lose life or cause an enemy to lose life, gain 1 stack of emotion. You can only gain one stack of emotion in this way per action.
 
 ### Overexertion
 
-**Level:** 2
+**Level:** 1
 
 **Effects:** After you make a skill check using a skill you are proficient in and see the initial results, you may choose to treat the result as if you had rolled a 15 instead. If you do, gain 1 stack of exhaustion. You cannot use this ability to affect skill checks made as part of death's door.
+
+### Rebound
+
+**Level:** 2
+
+**Effects:** Whenever you complete a rest, remove an additional stack of exhaustion.
 
 ### Attribute Improvement
 
@@ -76,7 +74,7 @@ Your transformation ends when you reach 0 emotion.
 
 **Level:** 4
 
-**Effects:** You gain access to a new 1 AP action that spends any amount of emotion. The effect varies based on your temperament.
+**Effects:** You gain access to a new 1 AP action that spends one or more emotion. The effect varies based on your temperament.
 
 ### Pathos
 
@@ -96,17 +94,17 @@ Your transformation ends when you reach 0 emotion.
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Push Through
+### Grit
 
 **Level:** 7
 
-**Effects:** Ignore all exhaustion penalties applied to Endurance skill checks.
+**Effects:** At the start of each of your turns, make a difficulty 10 Presence (Endurance) skill check. If you succeed, remove one stack of an ailment of your choice from yourself.
 
-### Rebound
+### Limits of Exertion
 
 **Level:** 8
 
-**Effects:** Whenever you complete a rest, remove an additional stack of exhaustion.
+**Effects:** Whenever you use your Overexertion class feature, treat the result as if you had rolled a 20, rather than a 15.
 
 ### Attribute Improvement
 
@@ -120,11 +118,11 @@ Your transformation ends when you reach 0 emotion.
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Unrelenting
+### CAPSTONE
 
 **Level:** 10
 
-**Effects:** Rather than gaining emotion whenever you lose life or land a critical hit, gain one emotion whenever you take damage or hit with an attack.
+**Effects:** ???
 
 ## Temperaments
 
@@ -132,24 +130,29 @@ Your transformation ends when you reach 0 emotion.
 
 #### Transformation: Driving Ambition
 
-While transformed, damage that you deal cannot be prevented by any means. You have advantage on all attacks. Attacks of opportunity made against you have disadvantage, rather than advantage.
+While transformed, damage that you deal cannot be prevented by any means. You have advantage on all attacks.
 
-#### Outburst: Frenzied Fervor
+Whenever you would be hit by an attack, gain the benefits of the Block reaction, using Presence (Endurance) as the skill check.
 
-1 AP: Spend any amount of emotion. Gain 1 AP. For each every two emotion spent, gain 1 additional AP. You may only use this ability once each turn.
+#### Outburst: Bullseye
+
+1 AP: Spend at least one emotion. Your next attack cannot miss, and its critical hit threshold is reduced by 3 for each emotion spent.
 
 ### Courage
 
 #### Transformation: Unshakeable Courage
 
-While transformed, your critical hit threshold is reduced by 1 for each point of life you are missing. You are immune to the effects of the frightened ailment.
+Whenever  you deal damage, deal an additional 1d4 + 1/2 Presence damage of the same type.
+
+You are immune to the effects of the frightened ailment.
 
 At the start of each of your turns, gain the benefit of the Defend action and choose a **nemesis**.
-Apply one stack of taunted to your nemesis. You cannot move away from your nemesis.
+Apply one stack of taunted to your nemesis.
+You cannot move away from your nemesis.
 
 #### Outburst: Rallying Cry
 
-1 AP: Spend any amount of emotion. For each emotion spent, each ally within a 2 tile radius may remove one stack of an ailment or two stacks of an affliction from themselves.
+1 AP: Spend at least one emotion. For each emotion spent, choose an ailment or affliction. Remove all stacks of the chosen ailments or afflictions from all allies within a 2 tile radius.
 
 ### Grief
 
@@ -159,17 +162,26 @@ While transformed, at the start of each of your turns apply 6 + Presence stacks 
 
 #### Outburst: Terrible Wail
 
-1 AP: Spend any amount of emotion. Make a Presence attack against all other creatures within a 2 tile radius. If you hit, apply one stack of frightened for each emotion spent to each creature within a two tile radius.
+1 AP: Spend at least one emotion. Make a Presence attack against all other creatures within a 2 tile radius. If you hit, apply one stack of frightened for each emotion spent to each creature within a two tile radius.
 
 ### Hope
 
 #### Transformation: Shining Hope
 
-While transformed, whenever you deal damage, grant the ally with the lowest life within a 3 tile range that much absorption. Your Grit class feature removes all stacks of the chosen ailment, rather than just one.
+When you hit a creature with an attack or use the Treat action, grant either yourself or the nearest ally a powerful boon. That creature chooses one of the following effects, which lasts until the end of your next turn:
+- advantage on all attacks
+- resistance to damage
+- immunity to the effects of all ailments and afflictions
 
-#### Outburst: Rallying Cry
+This effect can only occur once per round, resetting at the start of your turn.
 
-1 AP: Spend any amount of emotion. For each emotion spent, grant 3 + 1/2 Presence absorption to each ally within a 2 tile radius.
+You can fly. If you could already fly, you are immune to the rooted ailment and cannot be grappled while flying.
+
+When you transform, you may gain the benefits of the Take Flight action. 
+
+#### Outburst: Uplift
+
+1 AP: Spend at least one emotion. For each emotion spent, grant 3 + 1/2 Presence absorption to each ally within a 4 tile radius.
 
 ### Rage
 
@@ -179,6 +191,6 @@ While transformed, your basic attacks deal additional damage equal to the stacks
 
 #### Outburst: Spreading Bloodlust
 
-1 AP: Spend any amount of emotion. Make a Presence attacka against all reatures within a 2 tile radius. For each emotion spent, apply 3 + 1/2 presence stacks of rage to all creatures within a 2 tile radius, including yourself.
+1 AP: Spend at least one emotion. Make a Presence attacka against all reatures within a 2 tile radius. For each emotion spent, apply 3 + 1/2 presence stacks of rage to all creatures within a 2 tile radius, including yourself.
 
 Like always, you may choose to be hit by any attacks.
