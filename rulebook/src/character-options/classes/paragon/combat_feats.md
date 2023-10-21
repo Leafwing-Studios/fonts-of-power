@@ -78,4 +78,8 @@
 
 ## Unssailable
 
-**Prerequesites:** Whenever you the Block action, you can choose to reroll the skill check after seeing the result. If you do, you must use new result.
+**Effects:** Whenever you the Block action, you can choose to reroll the skill check after seeing the result. If you do, you must use new result.
+
+## Shield of Faith
+
+**Effects:** Whenever you successfully block, grant 2 absorption to the ally (including yourself) with the lowest life within a 2 tile range. This absorption is gained before damage is dealt.

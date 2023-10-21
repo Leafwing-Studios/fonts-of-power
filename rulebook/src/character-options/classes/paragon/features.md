@@ -73,11 +73,11 @@ At the start of your turn, you may choose to gain the *stand your ground effect*
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Shield of Faith
+### Ideal: Fervent Blows
 
 **Level:** 4
 
-**Effects:** Whenever you successfully block, grant 2 absorption to the ally (including yourself) with the lowest life within a 2 tile range. This absorption is gained before damage is dealt.
+**Effects:** Whenever you use use the Strike or Grapple action, if you hit, you may choose to spend 1 essence to inflict a secondary effect unique to your Cause.
 
 ### Ideal: Consecrate
 
@@ -138,6 +138,10 @@ If you fail this skill check by 10 or more their loyalty towards you decreases b
 
 At level 1, your belief in Equality allows you to withstand unbelievable pain as you sacrifice yourself to protect the least among us. When you use your Stand Your Ground class feature, once before the start of your next turn, you can choose to take the effects of any attack targeted at another creature (that does not also target you) within a 2 tile radius. Gain resistance to any damage taken from the redirected attack.
 
+#### Fervent Blows: Bulwark
+
+Gain absorption equal to the damage dealt.
+
 #### Consecrate: Fraternity
 
 Creatures resting here have advantage on the Bond, Connet, Tend, and Support downtime activities.
@@ -152,6 +156,10 @@ Whenever an ally other than yourself within your auras is hit by an offensive ac
 
 At level 1, your belief in Harmony lets you shrug off blows as if they had never even landed. When you use your Stand Your Ground class feature, you also gain the benefit of the Defend action.
 
+#### Fervent Blows: Chastise
+
+Apply 6 + Presense stacks of temperance on hit.
+
 #### Consecrate: Truce
 
 A 6 tile radius of your choice becomes the site of an enforced peace. All offensive actions made by or against creatures within this area fail completely. In addition, creatures within the area are immune to damage from other creatures, cannot gain afflictions or ailments, cannot be grappled, and are immune to forced movement.
@@ -165,6 +173,10 @@ You cannot take damage or lose life.
 #### Stand Your Ground: Struggle
 
 At level 1, your belief in Liberty lets you throw off the shackles of oppression. When you use your Stand Your Ground class feature, you also remove one stack of each ailment from yourself.
+
+#### Fervent Blows: Overturn
+
+If you hit, push the creature hit up to 2 tiles in a direction of your choice.
 
 #### Consecrate: Even Footing
 
@@ -182,6 +194,10 @@ At level 1, your belief in Progress lets you focus in order to gain true mastery
 
 When you use your Stand Your Ground class feature, until the start of your next turn, you are able to freely replace any ailments or afflictions that you apply with the same number of stacks of an ailment or affliction of your choice. You must replace ailments with ailments, and afflictions with afflictions.
 
+#### Fervent Blows: Surge
+
+Apply 2 stack of cursed on hit.
+
 #### Consecrate: Innovation
 
 Creatures resting here have advantage on all Devise, Disenchant, Invent, Craft and Shape downtime activities.
@@ -196,9 +212,13 @@ As a reminder, tile effects (like your auras) trigger whenever a creature enters
 
 ### Sanctity
 
-#### Stand Your Ground: Smite
+#### Stand Your Ground: Righteous Anger
 
 At level 1, your belief in Sanctity lets you drive your foes before you, purging the impure with righteous anger. When you use your Stand Your Ground class feature, until the start of your next turn, your critical hit threshold is reduced by 4.
+
+#### Fervent Blows: Smite
+
+Deal an additional 1d4 + 1/2 Presence radiant damage on hit.
 
 #### Consecrate: Covenant
 
