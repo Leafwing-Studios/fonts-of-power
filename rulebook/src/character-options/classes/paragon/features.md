@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                      Features                       | Powers Known |
-| :---: | :---------------: | :-------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Auras, Ideal: Stand Your Ground, Conviction  |      3       |
-|   2   |        +2         |                     EXPLORATION                     |      4       |
-|   3   |        +2         |            Attribute Improvement, Feats             |      4       |
-|   4   |        +3         |                   Shield of Faith                   |      4       |
-|   5   |        +3         |                  Ideal: Consecrate                  |      5       |
-|   6   |        +4         |            Attribute Improvement, Feats             |      5       |
-|   7   |        +4         |                    Rallying Blow                    |      5       |
-|   8   |        +5         |                     Redemption                      |      6       |
-|   9   |        +5         |                Attribute Improvement                |      6       |
-|  10   |        +6         |                  Ideal: Apotheosis                  |      6       |
+| Level | Proficiency Bonus |                      Features                      | Powers Known |
+| :---: | :---------------: | :------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Auras, Ideal: Stand Your Ground, Conviction |      3       |
+|   2   |        +2         |                   Natural Leader                   |      4       |
+|   3   |        +2         |            Attribute Improvement, Feats            |      4       |
+|   4   |        +3         |                  Shield of Faith                   |      4       |
+|   5   |        +3         |                 Ideal: Consecrate                  |      5       |
+|   6   |        +4         |            Attribute Improvement, Feats            |      5       |
+|   7   |        +4         |                   Rallying Blow                    |      5       |
+|   8   |        +5         |               My Life for the Cause                |      6       |
+|   9   |        +5         |               Attribute Improvement                |      6       |
+|  10   |        +6         |                 Ideal: Apotheosis                  |      6       |
 
 ## Features
 
@@ -51,15 +51,29 @@ At the start of your turn, you may choose to gain the *stand your ground effect*
 
 ### Conviction
 
-**Level:** 2
+**Level:** 1
 
 **Effects:** When attempting to convince someone to act in a way that is directly in line with your ideal, you have advantage on all Guidance and Charm skill checks made.
 
-### EXPLORATION
+### Natural Leader
 
 **Level:** 2
 
-**Effects:** Does stuff
+**Effects:** You gain unique talent for understanding the needs of a group of people. Gain access to the Sympathize downtime activity:
+
+Spend time with an NPC faction or group. Make a Focus (Guidance) skill check. Then, for every 5 points of the skill check result, ask one question of the worldspeaker, who must do their best to answer truthfully from the perspective of the NPCs:
+
+- What's the best way to earn their respect?
+- What are they most upset about?
+- What brought them together?
+- Who are they working for?
+- What do they most want to change about their group?
+- What are their long-term ambitions?
+- What are their near-term plans?
+- Who are the most important members of the group?
+- What is their greatest strength and weakness?
+- What is their greatest internal division, if any?
+- What do they do for fun?
 
 ### Attribute Improvement
 
@@ -105,12 +119,11 @@ The exact effect is determined by your subclass: check below for details.
 
 **Effects:** Whenever you use your Hold Your Ground subclass feature by sacrificing your movement for the turn, allies within 2 tiles may choose to give up their movement until the end of their next turn in order to also gain its benefit.
 
-### Redemption
+### My Life for the Cause
 
 **Level:** 8
 
-**Effects:** (FIXME) You gain access to the Redeem downtime activity. When you use this downtime activity: Make a difficulty 25 Presence (Guidance) skill check targeting an NPC, adding their loyalty towards you to the skill check result. If you succeed, their value in your chosen Ideal permanently changes by 1. This skill check benefits from your Conviction feature.
-If you fail this skill check by 10 or more their loyalty towards you decreases by 1.
+**Effects:** Whenever you would die (other than as a result of this feature), you are instead knocked fully unconscious until the end of combat or the current scene. At the end of your next rest, die.
 
 ### Attribute Improvement
 
@@ -140,7 +153,7 @@ At level 1, your belief in Equality allows you to withstand unbelievable pain as
 
 #### Fervent Blows: Bulwark
 
-Gain absorption equal to the damage dealt.
+Gain absorption equal to the damage dealt. 
 
 #### Consecrate: Fraternity
 
@@ -218,7 +231,7 @@ At level 1, your belief in Sanctity lets you drive your foes before you, purging
 
 #### Fervent Blows: Smite
 
-Deal an additional 1d4 + 1/2 Presence radiant damage on hit.
+Deal an additional 1d8 + Presence radiant damage on hit.
 
 #### Consecrate: Covenant
 

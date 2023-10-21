@@ -12,6 +12,12 @@
 
 **Effects:** You may choose to create 1-tile vantages of sanctuary when using the Shape downtime activity. Creatures in this area cannot use offensive actions, and attacks against them have disadvantage. When triggered, grant the benefits of the Defend action.
 
+## Armistice
+
+**Prerequisites:** Sanctify, Harmony subclass
+
+**Effects:** You are able to immediately put an end to combat, and force the combatants to negotiate. Once per rest you may spend 2 ap to gain the benefit of the Sanctify downtime activity.
+
 ## Companionship
 
 **Effects:** When you complete a rest, you may spend a resolve to gain the benefits of the Bond downtime activity between all of your party members.

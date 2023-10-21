@@ -82,4 +82,4 @@
 
 ## Shield of Faith
 
-**Effects:** Whenever you successfully block, grant 2 absorption to the ally (including yourself) with the lowest life within a 2 tile range. This absorption is gained before damage is dealt.
+**Effects:** Whenever you successfully block, grant 4 absorption to the ally (including yourself) with the lowest life within a 2 tile range. This absorption is gained before damage is dealt.
