@@ -32,7 +32,7 @@
 At the start of each of your turns, you may activate one aura that you know. If you do, choose an aura, then choose how much essence to spend. The more essence spent, the stronger the effect:
 
 - 1 essence: gain the base effect until the start of your next turn
-- 3 essence: gain the enhanced effect until the start of your next turn
+- 3 essence: gain both the basic and the empowered effect until the start of your next turn
 
 ### Ideal: Stand Your Ground
 
