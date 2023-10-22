@@ -32,7 +32,7 @@
 At the start of each of your turns, you may activate one aura that you know. If you do, choose an aura, then choose how much essence to spend. The more essence spent, the stronger the effect:
 
 - 1 essence: gain the base effect until the start of your next turn
-- 3 essence: gain the enhanced effect until the start of your next turn
+- 3 essence: gain both the basic and the empowered effect until the start of your next turn
 
 ### Ideal: Stand Your Ground
 
@@ -44,10 +44,10 @@ At level 1, this modifies the *stand your ground* effect, as described in your s
 
 At the start of your turn, you may choose to gain the *stand your ground effect* until the start of your next turn. While this effect is active:
 
-* you cannot take movement actions
-* you are immune to forced movement
-* you cannot be knocked prone
-* you gain an additional benefit based on your subclass
+- you cannot take movement actions
+- you are immune to forced movement
+- you cannot be knocked prone
+- you gain an additional benefit based on your subclass
 
 ### Conviction
 
@@ -149,11 +149,12 @@ The exact effect is determined by your subclass: check below for details.
 
 #### Stand Your Ground: Sacrifice
 
-At level 1, your belief in Equality allows you to withstand unbelievable pain as you sacrifice yourself to protect the least among us. When you use your Stand Your Ground class feature, once before the start of your next turn, you can choose to take the effects of any attack targeted at another creature (that does not also target you) within a 2 tile radius. Gain resistance to any damage taken from the redirected attack.
+At level 1, your belief in Equality allows you to withstand unbelievable pain as you sacrifice yourself to protect the least among us.
+When you use your Stand Your Ground class feature, once before the start of your next turn, you can choose to take the effects of any attack targeted at another creature (that does not also target you) within a 2 tile radius. Gain resistance to any damage taken from the redirected attack.
 
 #### Fervent Blows: Bulwark
 
-Gain absorption equal to the damage dealt. 
+Gain absorption equal to the damage dealt.
 
 #### Consecrate: Fraternity
 
