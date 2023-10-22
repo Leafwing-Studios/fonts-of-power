@@ -4,7 +4,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -22,7 +22,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -46,7 +46,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Utility
 
@@ -64,7 +64,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Defensive
 
@@ -76,31 +76,13 @@
 
 **Effects:** Basic attacks made against allies affected by this tile effect have disadvantage.
 
-**Empowered:** Whenever an ally affected by this tile effect would be hit by an attack, you gain the benefits of the Block reaction, attempting to mitigate the harm done by that attack.
-
-## Aura of Determination
-
-**AP:** 0
-
-**Essence:** 0
-
-**Category:** Defensive
-
-**Range:** 2
-
-**Type:** None
-
-**Target:** Multitarget
-
-**Effects:** Allies affected by this tile effect are immune to forced movement and cannot be knocked prone.
-
-**Empowered:** Allies affected by this tile effect ignore ailments.
+**Empowered:** Whenever an ally affected by this tile effect would be hit by an attack, you may use the Block reaction on their behalf without spending any AP. This triggers any effects attached to your Block reaction, although the ally gains any benefits, and they are used as the source for any position-dependent effects.
 
 ## Aura of Fire
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -118,7 +100,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -136,7 +118,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Utility
 
@@ -148,13 +130,13 @@
 
 **Effects:** The area covered by this tile effect is difficult terrain.
 
-**Empowered:** Allies within this tile effect may choose to ignore any other tile effect.
+**Empowered:** Allies within this tile effect ignore the effects of difficult terrain. The first time each turn that an ally in this tile effect uses a Movement action, they refund any AP spent.
 
 ## Aura of Might
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Utility
 
@@ -172,7 +154,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -190,7 +172,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Defensive
 
@@ -208,7 +190,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Defensive
 
@@ -226,7 +208,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -244,7 +226,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -262,7 +244,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Defensive
 
@@ -280,7 +262,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -298,7 +280,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -310,13 +292,13 @@
 
 **Effects:** Whenever an enemy triggers this tile effect, make a Focus attack against them. If you hit, deal 1d4 + 1/2 Presence arcane damage to them. This damage ignores absorption.
 
-**Empowered:** This attack is made with advantage. If you hit, also apply one stack of drained.
+**Empowered:** If you hit, also apply one stack of drained. Additionally, trigger this tile effect whenever an enemy spends essence inside its radius.
 
 ## Aura of Temperance
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Offensive
 
@@ -334,7 +316,7 @@
 
 **AP:** 0
 
-**Essence:** 0
+**Essence:** 1 or 3
 
 **Category:** Defensive
 
@@ -347,21 +329,3 @@
 **Effects:** Special attacks made against allies affected by this tile effect have disadvantage.
 
 **Empowered:** Whenever an attack is made against an ally affected by this tile effect, they regain 1 essence.
-
-## Aura of Vitality
-
-**AP:** 0
-
-**Essence:** 0
-
-**Category:** Defensive
-
-**Range:** 2
-
-**Type:** None
-
-**Target:** Multitarget
-
-**Effects:** Whenever an ally triggers this tile effect, remove 1 stack of an ailment or 2 stacks of an affliction of their choice from them.
-
-**Empowered:** When this tile effect is triggered, instead gain the benefit of the Treat action targeting that ally. While allies in this tile effect have no ailments or afflictions, they have advantage on all skill checks made in combat.
