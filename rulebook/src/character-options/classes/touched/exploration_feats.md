@@ -31,3 +31,11 @@
 ## Identity Management
 
 **Effects:** You have advantage on skill checks made to conceal or deceive others about your identity.
+
+## Morphing
+
+**Effects:** When you gain this feat, choose a second appearance. You physical form changes between these two appearances based on whether you or your companion are in control. Unless someone knows better, there is no obvious indication that these two forms are actually the same entity. These changes are cosmetic: your attributes and statistics do not change.
+
+## Ghastly Visage
+
+**Effects:** You companion is visible at all times, and your appearance is notably different from other members of your species. You have advantage on all skill checks made to intimidate other creatures.
