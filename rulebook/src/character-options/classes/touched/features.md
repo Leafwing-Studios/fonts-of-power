@@ -81,9 +81,10 @@ When you gain this feature, create two sets of arms for your companion. These ca
 **Effects:** You gain access to the Introspect downtime activity.
 
 When you use this downtime activity, make a Focus(Insight) skill check.
-For every 5 points of your skill check result, you may ask the worldspeaker one of the following questions (they must do their best to answer truthfully):
+For every 5 points of your skill check result, you may ask the worldspeaker one of the following questions (they must do their best to answer truthfully, based on information that the player could have noticed):
 
 - Is my current course of action likely to succeed?
+- Is there another way to accomplish my goals?
 - Are there any dangers I haven't noticed?
 - Are there any opportunities I've overlooked?
 - Am I acting in line with my ideals?
