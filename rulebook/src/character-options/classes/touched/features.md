@@ -156,9 +156,9 @@ Your companion has advantage on all Block and Dodge skill checks.
 
 Whenever you lose absorption due to an attack, you may make an attack of opportunity against your attacker.
 
-#### Unity: Shared Discipline
+#### Unity: Backstop
 
-After you see the results of an attack roll or skill check, you may that roll as if you had rolled a 10.
+During combat, after you see the results of an attack roll or skill check, you may that roll as if you had rolled a 10.
 You may only do this once during your turn for a roll made by your companion, and once during your turn for a roll made by the host.
 
 ### Tension
