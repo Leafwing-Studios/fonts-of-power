@@ -31,7 +31,8 @@
 
 ### Elaborate Concoctions
 
-While the alchemist's spells are exceptionally powerful, they are more complicated to cast during combat than those of other classes. At level 1, choose one drawback for your spells from the list below. Like with all choices made as part of character creation (such as which spell you selected, the option chosen for one of your Twist class features or your attribute spread), you may change up to two of these choices each time you level up.
+While the alchemist's spells are exceptionally powerful, they are more complicated to cast during combat than those of other classes. At level 1, choose one drawback for your spells from the list below.
+Like with all choices made as part of character creation (such as which spell you selected, the option chosen for one of your Twist class features or your attribute spread), you may change up to two of these choices each time you level up.
 
 ### Twist: Vessel
 
@@ -171,7 +172,7 @@ This concoction now affects a 2 tile radius cone in front of you. Halve the effi
 
 This concoction now affects a 6 tile line in front of you. Halve the efficacy of concoctions altered in this way.
 
-#### Arcing 
+#### Arcing
 
 This concoction now jumps from creature to creature.
 At each jump, select the closest creature (within 2 tiles) of the previous one.
@@ -212,7 +213,7 @@ When you select this Twist, select three elemental damage types. When using this
 
 #### Fertile
 
-Create a tile of difficult terrain under each tile your concoction hit. 
+Create a tile of difficult terrain under each tile your concoction hit.
 If the concoction hit a single creature, it makes difficult terrain on a single tile that that creature is standing on.
 
 #### Weirding
