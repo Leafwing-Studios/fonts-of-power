@@ -4,7 +4,7 @@
 
 **Prerequisites:** Coexistence: Tension
 
-**Effects:** When you use Recover, you may spend 1 life. If you do, you have advantage on the skill check.
+**Effects:** When you use Recover, you may spend 1 life. If you do regain 1 essence and gain advantage on the skill check.
 
 ## Soul Tap
 
@@ -18,7 +18,7 @@
 
 ## Enveloping Form
 
-**Effects:** Your companion can make Shove and Grapple attacks and has advantage on Shove attacks.
+**Effects:** Your companion can make Shove and Grapple attacks. Your companion may grapple a creature even if you're already grappling a creature.
 
 ## Caring Form
 
@@ -31,10 +31,6 @@
 ## Retaliation
 
 **Effects:** Choose an ailment when you gain this feature. Whenever your companion successfully uses the Block reaction, apply one stack of the chosen ailment to the creature whose attack it blocked.
-
-## Vengeful
-
-**Effects:** Whenever you are hit by an attack, you may make an attack of opportunity against the creature that hit you.
 
 ## Arsenal
 
@@ -51,12 +47,6 @@ When you take this feat, sacrifice an exploration feat.
 ## Well-Adapted
 
 **Effects:** You have resistance to the damage types your companion's weapons deal.
-
-## Unleash
-
-**Prerequisites:** Coexistence: Tension
-
-**Effects:** 3 AP from each: companion and host each make a basic attack against all creatures within your weapons ranges. This attack is automatically a critical if it hits.
 
 ## Hibernation
 
@@ -78,13 +68,7 @@ When you take this feat, sacrifice an exploration feat.
 
 **Effects:** After you hit an enemy creature with an attack, your counterpart's critical hit threshold is reduced by 3 until the end of the turn.
 
-## Poised
-
-**Effects:** Grant your companion 3 AP at the start of combat.
-
 ## Dance Partner
-
-**Prerequisites:** Coexistence: Camarederie
 
 **Prerequisites:** Coexistence: Camaraderie
 
@@ -92,19 +76,7 @@ When you take this feat, sacrifice an exploration feat.
 
 ## Hit and Run
 
-**Prerequisites:** Shifting Forms
-
-**Prerequisites:** Shifting Forms class feature
-
-**Effects:** Replaces Shifting Forms. If your last movement action this turn moved you closer to your target, your melee attacks have advantage against them. If your last movement action this turn moved you away from your target, your ranged attacks have advantage against them.
-
-## Analytical
-
-**Prerequisites:** Shifting Forms
-
-**Prerequisites:** Shifting Forms class feature
-
-**Effects:** Replaces Shifting Forms. The first time each turn that you use the Scan action, refund any AP spent.
+**Effects:** If your last movement action this turn moved you closer to your target, your melee attacks have advantage against them. If your last movement action this turn moved you away from your target, your ranged attacks have advantage against them.
 
 ## Cunning
 
@@ -113,3 +85,25 @@ When you take this feat, sacrifice an exploration feat.
 ## Stolen Time
 
 **Effects:** Your companion does not lose AP at the start of each turn.
+
+## Forced March
+
+**Effects:** At the start of each of your turns, if you are below one third life or one third essence, gain the benefit of the Eseence Tap action (this is not optional). Your companion does not suffer any penalties due to exhaustion.
+
+## Shifting Forms
+
+**Effects:** At the start of each of your turns, you or your companion may gain the benefits of the Swap action.
+
+## Deadly Dance
+
+**Effects:** You and your companion are no longer treated as the same character for the purposes of attacks of opportunity: you can now make attacks of oppportunity after the other causes enemies within your zone of control to lose life.
+
+## Anger Management
+
+**Prerequisites:** Unleash class feature
+
+**Effects:** When you use the Unleash action, you may choose to either halve or double the radius affected.
+
+## Eyes in the Back of Your Head
+
+**Effects:** You no longer provoke an attack of opportunity when you lose life.
