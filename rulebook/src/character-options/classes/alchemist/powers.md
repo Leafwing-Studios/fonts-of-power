@@ -2,8 +2,6 @@
 
 ## Diamond's Toughness
 
-**Subclass:** Eternal Life
-
 **Category:** Defensive
 
 **Type:** None
@@ -11,8 +9,6 @@
 **Effects:** Immune to damage until the end of your next turn.
 
 ## Lily's Balm
-
-**Subclass:** Eternal Life
 
 **Category:** Defensive
 
@@ -22,8 +18,6 @@
 
 ## Ox's Might
 
-**Subclass:** Eternal Life
-
 **Category:** Utility
 
 **Type:** None
@@ -31,8 +25,6 @@
 **Effects:** Until the end of your next turn, attacks made by each of your targets that they make before the end of your next turn is automatically a critical if it hits.
 
 ## Eagle's Vision
-
-**Subclass:** Eternal Life
 
 **Category:** Utility
 
@@ -42,8 +34,6 @@
 
 ## Poplar's Vigor
 
-**Subclass:** Eternal Life
-
 **Category:** Utility
 
 **Type:** None
@@ -51,8 +41,6 @@
 **Effects:** Increase height tier by 2.
 
 ## Wasp's Venom
-
-**Subclass:** Transmutation
 
 **Category:** Offensive
 
@@ -62,8 +50,6 @@
 
 ## Serpent's Cunning
 
-**Subclass:** Transmutation
-
 **Category:** Utility
 
 **Type:** Expertise
@@ -71,8 +57,6 @@
 **Effects:** Convert up to 6 + Presence of ailments into the same number of stacks of ailments of your choice. Half on miss.
 
 ## Eel's Fountain
-
-**Subclass:** Transmutation
 
 **Category:** Utility
 
@@ -82,8 +66,6 @@
 
 ## Chameleon's Camouflage
 
-**Subclass:** Transmutation
-
 **Category:** Defensive
 
 **Type:** None
@@ -91,8 +73,6 @@
 **Effects:** Until the end of your next turn, targets are invisible. Targets immediately gain the benefit of the Hide action.
 
 ## Lark's Wings
-
-**Subclass:** Transmutation
 
 **Category:** Utility
 
@@ -102,8 +82,6 @@
 
 ## Orca's Smash
 
-**Subclass:** Perpetual Motion
-
 **Category:** Utility
 
 **Type:** Prowess
@@ -111,8 +89,6 @@
 **Effects:** Push 4 tiles away from origin. Half on miss. Push aside other creatures. Deal 1d6 + Presence physical damage for each tile they could not move.
 
 ## Hermit's Shell
-
-**Subclass:** Perpetual Motion
 
 **Category:** Offensive
 
@@ -122,8 +98,6 @@
 
 ## Dolphin's Play
 
-**Subclass:** Perpetual Motion
-
 **Category:** Utility
 
 **Type:** Agility
@@ -131,8 +105,6 @@
 **Effects:** Push 2 tiles in the direction of your choice. Half on miss.
 
 ## Fire's Fury
-
-**Subclass:** Free Energy
 
 **Category:** Offensive
 
@@ -142,8 +114,6 @@
 
 ## Bottled Lightning
 
-**Subclass:** Free Energy
-
 **Category:** Offensive
 
 **Type:** Agility
@@ -152,8 +122,6 @@
 
 ## Tea's Refreshment
 
-**Subclass:** Free Energy
-
 **Category:** Defensive
 
 **Type:** None
@@ -161,8 +129,6 @@
 **Effects:** Until the end of your next turn, your targets ignore the effect of exhaustion.
 
 ## Energize
-
-**Subclass:** Free Energy
 
 **Category:** Utility
 
