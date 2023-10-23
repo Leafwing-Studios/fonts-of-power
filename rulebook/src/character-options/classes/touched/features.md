@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                   Features                    |
-| :---: | :---------------: | :-------------------------------------------: |
+| Level | Proficiency Bonus |                     Features                     |
+| :---: | :---------------: | :----------------------------------------------: |
 |   1   |        +1         | Feats, Companion, Coexistence: Dynamic, Deviance |
-|   2   |        +2         |                  EXPLORATION                    |
-|   3   |        +2         |         Attribute Improvement, Feats          |
-|   4   |        +3         |                Shifting Focus                 |
+|   2   |        +2         |                   EXPLORATION                    |
+|   3   |        +2         |           Attribute Improvement, Feats           |
+|   4   |        +3         |                  Shifting Focus                  |
 |   5   |        +3         |                   EXPLORATION                    |
-|   6   |        +4         |         Attribute Improvement, Feats          |
-|   7   |        +4         |                Coexistence: Symbiosis                |
+|   6   |        +4         |           Attribute Improvement, Feats           |
+|   7   |        +4         |              Coexistence: Symbiosis              |
 |   8   |        +5         |                   EXPLORATION                    |
-|   9   |        +5         |         Attribute Improvement, Feats          |
-|  10   |        +6         |             Coexistence: Unity              |
+|   9   |        +5         |           Attribute Improvement, Feats           |
+|  10   |        +6         |                Coexistence: Unity                |
 
 ## Features
 
@@ -96,7 +96,7 @@ When you gain this feature, create two sets of arms for your companion. These ca
 
 **Level:** 7
 
-**Effects:** You learn to work in tandem with your companion to unleash your joint fury, leaving yourself completely open in order to obliterate those nearby. 
+**Effects:** You learn to work in tandem with your companion to unleash your joint fury, leaving yourself completely open in order to obliterate those nearby.
 Gain access to the *Unleash* action:
 3 AP from both the companion and host: the companion and host each make a basic attack against all creatures (other than yourself, but including allies) within your weapons' ranges.
 This attack is automatically a critical if it hits.
@@ -180,11 +180,14 @@ You have mastered the interplay yourself and your companion, allowing you to cha
 At the start of each of your turns, you may switch which of you is in complete control (host or companion), or enter a blended state.
 
 While in your host form:
+
 - You are resistant to physical damage
 - 
 
 While in your companion form:
+
 - 
 
 While in a blended form:
+
 - 
