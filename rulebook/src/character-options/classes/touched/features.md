@@ -134,13 +134,16 @@ Until the start of your next turn, neither you nor your companion may spend AP.
 
 If you and your companion attack the same target in a turn, the second attack has advantage if it is from opposite range category (melee vs ranged).
 
-Once during your turn, your companion may spend 1 AP to cause you to move into an adjacent tile of your choice without provoking attacks of opportunity.
+Once during your turn, your companion may spend 1 AP to cause you to shift once.
 
 #### Synergy: Spirited
 
 The first time during your turn that you or your companion hits with an attack, the other gains 1 AP.
 
-### Unity: ???
+### Unity: Dancing Dialogue
+
+After you hit with an attack, shift once.
+This effect can only trigger once per action taken: it cannot be triggered multiple times due to a single area of effect attack, and cannot be triggered multiple times due to tile effects that you create.
 
 #### Dynamic: Unison
 
@@ -153,9 +156,10 @@ Your companion has advantage on all Block and Dodge skill checks.
 
 Whenever you lose absorption due to an attack, you may make an attack of opportunity against your attacker.
 
-#### Unity: Integration
+#### Unity: Shared Discipline
 
-???
+After you see the results of an attack roll or skill check, you may that roll as if you had rolled a 10.
+You may only do this once during your turn for a roll made by your companion, and once during your turn for a roll made by the host.
 
 ### Tension
 
@@ -179,15 +183,8 @@ You have mastered the interplay yourself and your companion, allowing you to cha
 
 At the start of each of your turns, you may switch which of you is in complete control (host or companion), or enter a blended state.
 
-While in your host form:
+While in your host form, you have advantage on all skill checks made in combat.
 
-- You are resistant to physical damage
-- 
+While in your companion form, damage that you deal cannot be prevented.
 
-While in your companion form:
-
-- 
-
-While in a blended form:
-
-- 
+While in a blended form, double any essence gained due to the Recover action.
