@@ -173,7 +173,7 @@ Whenever you or your companion fails a skill check in combat, the other gains ad
 
 You and your companion are learning to bolster each other as you fight.
 
-Whenever you would lose life, you may choose to lose that much essence instead. When you would spend essence, you may choose to lose that much life instead.
+Whenever you would lose life, you may choose to lose half that much essence instead. When you would spend essence, you may choose to lose twice that much life instead.
 
 This feature can not be used if you do not have enough life or essence to pay the cost.
 
