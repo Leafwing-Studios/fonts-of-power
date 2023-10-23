@@ -193,3 +193,17 @@ When you gain this ability, choose an Ailment. You have disadvantage on all atta
 #### Bloodied: Revenge
 
 The first time each turn that you lose life due to an attack from another creature, you may make an attack of opportunity against the creature that caused you to lose life. You have disadvantage on that attack.
+
+### Martial Artist
+
+#### Unbreakable Bond: Bare-Handed
+
+Your body is your weapon: you need no other and refuse to use them.
+
+#### Stance: Wrestling
+
+You have disadvantage on all attacks. After you hit a creature with an attack, hit them with either a Shove or Grapple attack.
+
+#### Bloodied: Counterpunch
+
+Whenever you lose life due to an attack from another creature, you may make an attack of opportunity against them.
