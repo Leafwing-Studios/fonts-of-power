@@ -103,3 +103,7 @@ When you take this feat, sacrifice an exploration feat.
 **Prerequisites:** Unleash class feature
 
 **Effects:** When you use the Unleash action, you may choose to either halve or double the radius affected.
+
+## Eyes in the Back of Your Head
+
+**Effects:** You no longer provoke an attack of opportunity when you lose life.
