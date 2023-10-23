@@ -140,10 +140,17 @@ Once during your turn, your companion may spend 1 AP to cause you to shift once.
 
 The first time during your turn that you or your companion hits with an attack, the other gains 1 AP.
 
-### Unity: Dancing Dialogue
+### Unity: Interplay
 
-After you hit with an attack, shift once.
-This effect can only trigger once per action taken: it cannot be triggered multiple times due to a single area of effect attack, and cannot be triggered multiple times due to tile effects that you create.
+When you gain this feature, choose a damage type.
+
+Whenever the host hits with an attack, regain 1 essence.
+
+Whenever the companion hits with an attack, you may spend 1 essence to deal 1d12 + Presence damage of the chosen damage type.
+This bonus damage is halved for multi-target attacks.
+
+These effects can only trigger once per action taken: they cannot be triggered multiple times due to a single area of effect attack, and cannot be triggered multiple times due to tile effects that you create.
+However, both of these effects can be triggered due to a single joint action, such as your Outburst class feature.
 
 #### Dynamic: Unison
 
