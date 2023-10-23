@@ -18,7 +18,7 @@
 
 ## Skilled
 
-**Effects:** Gain proficiency in the specified skill.
+**Effects:** Gain proficiency in two skills of your choice.
 
 ## Resourceful
 

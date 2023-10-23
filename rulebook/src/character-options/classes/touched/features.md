@@ -5,13 +5,13 @@
 | Level | Proficiency Bonus |                     Features                     |
 | :---: | :---------------: | :----------------------------------------------: |
 |   1   |        +1         | Feats, Companion, Coexistence: Dynamic, Deviance |
-|   2   |        +2         |                   EXPLORATION                    |
+|   2   |        +2         |             Intrapersonal Diversity              |
 |   3   |        +2         |           Attribute Improvement, Feats           |
 |   4   |        +3         |                  Shifting Focus                  |
 |   5   |        +3         |                   EXPLORATION                    |
 |   6   |        +4         |           Attribute Improvement, Feats           |
 |   7   |        +4         |              Coexistence: Symbiosis              |
-|   8   |        +5         |                   EXPLORATION                    |
+|   8   |        +5         |                 Personal Growth                  |
 |   9   |        +5         |           Attribute Improvement, Feats           |
 |  10   |        +6         |                Coexistence: Unity                |
 
@@ -50,11 +50,11 @@ When you gain this feature, create two sets of arms for your companion. These ca
 
 **Effects:** Choose an exploration feat. You may now select from the monstrous feat lists for both combat and exploration feats.
 
-### EXPLORATION
+### Intrapersonal Diversity
 
 **Level:** 2
 
-**Effects:** ???
+**Effects:** Your experiences living with another alien perspective have deepened your empathy and broadened your horizons. You have advantage on all Guidance, Humanities and Insight skill checks that involve empathizing with others.
 
 ### Attribute Improvement
 
@@ -74,11 +74,21 @@ When you gain this feature, create two sets of arms for your companion. These ca
 
 **Effects:** Gain a passive bonus based on your coexistance strategy.
 
-### Deviance
+### Introspection
 
 **Level:** 5
 
-**Effects:** Choose an exploration feat.
+**Effects:** You gain access to the Introspect downtime activity.
+
+When you use this downtime activity, make a Focus(Insight) skill check.
+For every 5 points of your skill check result, you may ask the worldspeaker one of the following questions (they must do their best to answer truthfully):
+
+- Is my current course of action likely to succeed?
+- Are there any dangers I haven't noticed?
+- Are there any opportunities I've overlooked?
+- Am I acting in line with my ideals?
+- Choose an NPC that you've interacted with recently. Can I really trust them?
+- Is there anyone who needs my help?
 
 ### Attribute Improvement
 
@@ -102,11 +112,11 @@ Gain access to the *Unleash* action:
 This attack is automatically a critical if it hits.
 Until the start of your next turn, neither you nor your companion may spend AP.
 
-### Deviance
+### Personal Growth
 
 **Level:** 8
 
-**Effects:** Choose an exploration feat.
+**Effects:** Gain proficiency in two skills of your choice.
 
 ### Attribute Improvement
 
@@ -140,7 +150,7 @@ Once during your turn, your companion may spend 1 AP to cause you to shift once.
 
 The first time during your turn that you or your companion hits with an attack, the other gains 1 AP.
 
-### Unity: Interplay
+#### Unity: Interplay
 
 When you gain this feature, choose a damage type.
 
@@ -152,7 +162,9 @@ This bonus damage is halved for multi-target attacks.
 These effects can only trigger once per action taken: they cannot be triggered multiple times due to a single area of effect attack, and cannot be triggered multiple times due to tile effects that you create.
 However, both of these effects can be triggered due to a single joint action, such as your Outburst class feature.
 
-#### Dynamic: Unison
+### Symbiosis
+
+#### Dynamic: Stronger Together
 
 Whenever you or your companion spend AP to use an offensive action, the other may spend the same amount of AP. If you do, double the efficacy of that action.
 
