@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                         Features                          | Spells Known |
-| :---: | :---------------: | :-------------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Elemental Opposition, Detonation, Element Twisting |      3       |
-|   2   |        +2         |                    Elemental Intuition                    |      4       |
-|   3   |        +2         |               Attribute Improvement, Feats                |      4       |
-|   4   |        +3         |                     Elemental Warding                     |      4       |
-|   5   |        +3         |                    Elemental Crafting                     |      5       |
-|   6   |        +4         |               Attribute Improvement, Feats                |      5       |
-|   7   |        +4         |                        Tranquility                        |      5       |
-|   8   |        +5         |                        Major Twist                        |      6       |
-|   9   |        +5         |               Attribute Improvement, Feats                |      6       |
-|  10   |        +6         |                     Currents of Power                     |      6       |
+| Level | Proficiency Bonus |                                Features                                 | Spells Known |
+| :---: | :---------------: | :---------------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Elemental Opposition, Thoughtful Orchestration, Element Twisting |      3       |
+|   2   |        +2         |                           Elemental Intuition                           |      4       |
+|   3   |        +2         |                      Attribute Improvement, Feats                       |      4       |
+|   4   |        +3         |                            Elemental Warding                            |      4       |
+|   5   |        +3         |                           Elemental Crafting                            |      5       |
+|   6   |        +4         |                      Attribute Improvement, Feats                       |      5       |
+|   7   |        +4         |                               Tranquility                               |      5       |
+|   8   |        +5         |                               Major Twist                               |      6       |
+|   9   |        +5         |                      Attribute Improvement, Feats                       |      6       |
+|  10   |        +6         |                            Currents of Power                            |      6       |
 
 ## Features
 
@@ -44,17 +44,15 @@ In addition, whenever you select a new pairing, you learn a meld spell that comb
 
 As you cast spells, you build up exposure to the element you are working with. You can limit this exposure by casting spells of the opposing element. As you get stronger, you learn more strategies for controlling your exposure.
 
-Your exposure ranges from 7 in one element, to 7 in the opposed element, balancing at 0 exposure to either element in the middle. It changes in the following ways: Whenever you cast a spell, your exposure shifts towards that element by 1. If it is a critical hit, the exposure changes by 2 instead. Effects which can hit multiple creatures only change your exposure once for each time they are cast.
+Your exposure ranges from 5 in one element, to 5 in the opposed element, balancing at 0 exposure to either element in the middle. It changes in the following ways: Whenever you cast a spell, your exposure shifts towards that element by 1. If it is a critical hit, the exposure changes by 2 instead. Effects which can hit multiple creatures only change your exposure once for each time they are cast.
 
-Whenever your exposure to an element is 4 or more, your spells of that element (other than twisting spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 4. Meld spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset at the end of each combat.
+Whenever your exposure to an element is 3 or more, your spells of that element (other than twisting spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 4. Meld spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset at the end of each combat.
 
-When you reach 7 stacks, you explode and your stacks are reset to 0, as described in the Detonate class feature below.
+When you reach 5 stacks, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 5 stacks of exposure, you **detonate**. All creatures within a 2 tile range suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to 0 and gain a stack of exhaustion.
 
-## Detonation
+## Thoughtful Orchestration
 
-**Level:** 1
-
-**Effect:** Your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 7 stacks of exposure, you **detonate**. All creatures within a 2 tile range suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to zero.
+**Effects:** At the start of each of your turns, you may change your exposure by 1 in any direction.
 
 ## Element Twisting
 
@@ -156,15 +154,15 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 
 A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid air-earth damage, and knock the creature struck back 2 tiles.
 
-If you have at least 4 stacks of air exposure, knock yourself 2 tiles away from your target as well.
+If you have at least 3 stacks of air exposure, knock yourself 2 tiles away from your target as well.
 
-If you have at least 4 stacks of earth exposure, apply two stacks of rooted to yourself. Knock your target prone if you hit.
+If you have at least 3 stacks of earth exposure, apply two stacks of rooted to yourself. Knock your target prone if you hit.
 
 #### Sandstorm Detonation
 
-When you reach 7 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, knock them back 6 tiles. If you miss, knock them back 3 tiles instead.
+When you reach 5 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, knock them back 6 tiles. If you miss, knock them back 3 tiles instead.
 
-When you reach 7 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 2d6 + 2 * Presence earth damage and knock them prone.
+When you reach 5 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 2d6 + 2 * Presence earth damage and knock them prone.
 
 #### Wind Twisting
 
@@ -208,15 +206,15 @@ If you are level 8 or higher, you can also slowly create stone, up to three 1 ti
 
 A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature or object of your choice within range. If you hit, deal 2d8 + 2 * Presence hybrid fire-water damage.
 
-If you have at least 4 stacks of fire exposure, add 6 + Presence stacks of aflame to yourself, and 6 + Presence stacks of aflame to your target if you hit.
+If you have at least 3 stacks of fire exposure, add 6 + Presence stacks of aflame to yourself, and 6 + Presence stacks of aflame to your target if you hit.
 
-If you have at least 4 stacks of cold exposure, add 2 stacks of chilled to yourself, and 2 stacks of chilled to your target if you hit.
+If you have at least 3 stacks of cold exposure, add 2 stacks of chilled to yourself, and 2 stacks of chilled to your target if you hit.
 
 #### Frostfire Detonation
 
-When you reach 7 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 3d6 + 3 * Presence fire damage.
+When you reach 5 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 3d6 + 3 * Presence fire damage.
 
-When you reach 7 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presnce stacks of chilled. If you miss, apply 1 stack of chilled instead. Hit or miss, then deal 1d4 + 1/2 Presence water damage to them multiplied by the number of stacks of chilled they have.
+When you reach 5 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presnce stacks of chilled. If you miss, apply 1 stack of chilled instead. Hit or miss, then deal 1d4 + 1/2 Presence water damage to them multiplied by the number of stacks of chilled they have.
 
 #### Fire Twisting
 
@@ -269,15 +267,15 @@ You can only sculpt up to a 5 foot cube of ice per casting of this spell.
 
 Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make a Focus attack against a creature or object of your choice within range. If you hit, deal 1d4 + 1/2 Presence hybrid radiant-umbral damage. Apply stacks of temperance and anguish to them equal to the damage dealt.
 
-If you have at least 4 stacks of radiant exposure, add 6 + Presence stacks of temperance to yourself, and 6 + Presence stacks of temperance to your target if you hit.
+If you have at least 3 stacks of radiant exposure, add 6 + Presence stacks of temperance to yourself, and 6 + Presence stacks of temperance to your target if you hit.
 
-If you have at least 4 stacks of umbral exposure, add 6 + Presence stacks of anguish to yourself, and 6 + Presence stacks of anguish to your target if you hit.
+If you have at least 3 stacks of umbral exposure, add 6 + Presence stacks of anguish to yourself, and 6 + Presence stacks of anguish to your target if you hit.
 
 #### Darklight Detonation
 
-When you reach 7 stacks of radiant exposure, you explode in a burst of blinding light. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of blinded. If you miss, apply 1 stack of blinded instead. Hit or miss, then deal 1d4 + 1/2 Presence radiant damage to them, multiplied by the number of stacks of blinded that they have.
+When you reach 5 stacks of radiant exposure, you explode in a burst of blinding light. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of blinded. If you miss, apply 1 stack of blinded instead. Hit or miss, then deal 1d4 + 1/2 Presence radiant damage to them, multiplied by the number of stacks of blinded that they have.
 
-When you reach 7 stacks of umbral exposure, you disappear into the shadows. Become invisible until the end of your next turn. This effect does not break after you make an attack.
+When you reach 5 stacks of umbral exposure, you disappear into the shadows. Become invisible until the end of your next turn. This effect does not break after you make an attack.
 
 #### Brilliant Twisting
 
@@ -321,17 +319,17 @@ If you are level 8 or higher, the light source you extinguish cannot be relit un
 
 You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid primal-decay damage. Heal equal to the damage dealt.
 
-If you have at least 4 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
+If you have at least 3 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
 
-If you have at least 4 stacks of decay exposure, you and your target lose 6 + Presence absorption before the damage takes effect.
+If you have at least 3 stacks of decay exposure, you and your target lose 6 + Presence absorption before the damage takes effect.
 
 ### Lifeforce Detonation
 
-When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within a 2 tile range. If you hit, remove all ailments and afflictions from them.
+When you reach 5 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within a 2 tile range. If you hit, remove all ailments and afflictions from them.
 For each stack of afflictions removed in this way, gain 1 absorption and deal 1 primal damage to the creature you removed it from.
 For each stack of a ailments removed in this way, gaim 2 asorption and deal 2 primal damage to the creature you removed it.
 
-When you reach 7 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of withered to them and transfer all absorption that they have to yourself.
+When you reach 5 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of withered to them and transfer all absorption that they have to yourself.
 
 #### Life Twisting
 
@@ -375,15 +373,15 @@ If you are level 8 or higher, you have advantage on the Resurrect downtime activ
 
 A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid electric-corrosive damage and trigger their afflictions.
 
-If you have at least 4 stacks of electric exposure, deal an 1d6 + Presence electric damage to you, your target, and all creatures in a line between you.
+If you have at least 3 stacks of electric exposure, deal an 1d6 + Presence electric damage to you, your target, and all creatures in a line between you.
 
-If you have at least 4 stacks of corrosive exposure, add 2 stacks of defenseless to yourself, and 2 stacks of defenseless to your target if you hit.
+If you have at least 3 stacks of corrosive exposure, add 2 stacks of defenseless to yourself, and 2 stacks of defenseless to your target if you hit.
 
 #### Surgebreaker Detonation
 
-When you reach 7 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within a 2 tile range. If you hit, apply 6 + Presecne stacks of jolted to them and knock them prone. If you miss, apply 3 + 1/2 Presence stacks of jolted to them instead.
+When you reach 5 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within a 2 tile range. If you hit, apply 6 + Presecne stacks of jolted to them and knock them prone. If you miss, apply 3 + 1/2 Presence stacks of jolted to them instead.
 
-When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 2d6 + 2 * Presence corrosive damage. Deal half as much damage if you miss.
+When you reach 5 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 2d6 + 2 * Presence corrosive damage. Deal half as much damage if you miss.
 
 #### Lightning Twisting
 
