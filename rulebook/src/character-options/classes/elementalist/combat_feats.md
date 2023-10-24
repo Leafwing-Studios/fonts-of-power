@@ -31,17 +31,13 @@ When you gain this combat feat, sacrifice an exploration feat.
 
 **Effects:** While you are at 0 stacks of exposure, gain the enhanced version of all spells. Their critical hit threshold is reduced by 4.
 
-### Paradoxical Effect
-
-**Effects:** Whenever you gain exposure, you may choose the direction (but not amount) of the exposure gained.
-
 ### Knife's Edge
 
 **Effects:** At the end of each of your turns, if you are at 3 or more stacks of exposure, gain an additional AP.
 
 ### Alternating Detonation
 
-**Effects:** Whenever you detonate, if it is not the same element as your last detonation, any attack made is automatically a critical if it hits.
+**Effects:** You no longer gain exhaustion when detontating unless it was the same detonation that you last triggered this combat.
 
 ### Spellblade
 

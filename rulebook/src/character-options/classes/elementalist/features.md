@@ -48,7 +48,7 @@ Your exposure ranges from 5 in one element, to 5 in the opposed element, balanci
 
 Whenever your exposure to an element is 3 or more, your spells of that element (other than twisting spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 4. Meld spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset at the end of each combat.
 
-When you reach 5 stacks, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 5 stacks of exposure, you **detonate**. All creatures within a 2 tile range suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to 0.
+When you reach 5 stacks, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 5 stacks of exposure, you **detonate**. All creatures within a 2 tile range suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to 0 and gain a stack of exhaustion.
 
 ## Thoughtful Orchestration
 
