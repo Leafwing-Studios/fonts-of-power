@@ -1,6 +1,6 @@
 # Concotions
 
-## Diamond's Toughness
+## Mirabelle's Momentary Reprieve
 
 **AP:** 2
 
@@ -18,23 +18,7 @@
 
 **Effects:** Immune to damage until the end of your next turn.
 
-## Lily's Balm
-
-**AP:** 2
-
-**Essence:** 3
-
-**Category:** Defensive
-
-**Range:** 3
-
-**Type:** None
-
-**Target:** Single target
-
-**Effects:** Remove all ailments and afflictions.
-
-## Ox's Might
+## Fenric's Fangs
 
 **AP:** 2
 
@@ -50,7 +34,7 @@
 
 **Effects:** Until the end of your next turn, attacks made by each of your targets that they make before the end of your next turn is automatically a critical if it hits.
 
-## Eagle's Vision
+## Isolde's Potion of Perfection
 
 **AP:** 2
 
@@ -66,7 +50,7 @@
 
 **Effects:** Until the end of your next turn, attacks made by your targets cannot miss.
 
-## Poplar's Vigor
+## Stonebloom's Blooming Stones
 
 **AP:** 2
 
@@ -82,7 +66,7 @@
 
 **Effects:** Increase height tier by 2.
 
-## Wasp's Venom
+## Malghazar's Reagent
 
 **AP:** 2
 
@@ -98,7 +82,7 @@
 
 **Effects:** Add 6 + Presence stacks of withered. Half on miss.
 
-## Serpent's Cunning
+## Moonshadow's Catalytic Conversion
 
 **AP:** 2
 
@@ -114,7 +98,7 @@
 
 **Effects:** Convert up to 6 + Presence of ailments into the same number of stacks of ailments of your choice. Half on miss.
 
-## Eel's Fountain
+## Vex's Abyssal Portal
 
 **AP:** 2
 
@@ -130,7 +114,7 @@
 
 **Effects:** Convert tile into deep water. Deal 2d6 + 2 * Presence water damage.
 
-## Chameleon's Camouflage
+## Felicity's Ultimate Concealer
 
 **Category:** Defensive
 
@@ -148,7 +132,7 @@
 
 **Effects:** Until the end of your next turn, targets are invisible. Targets immediately gain the benefit of the Hide action.
 
-## Lark's Wings
+## Nebula's Borrowed Wings
 
 **AP:** 2
 
@@ -164,7 +148,7 @@
 
 **Effects:** Until the end of your next turn, your targets can fly. Grant your targets 1 AP.
 
-## Orca's Smash
+## Crystalith's Smashing Success
 
 **AP:** 2
 
@@ -180,7 +164,7 @@
 
 **Effects:** Push 4 tiles away from origin. Half on miss. Push aside other creatures. Deal 1d6 + Presence physical damage for each tile they could not move.
 
-## Hermit's Shell
+## Vorkesh's Draining Mixture
 
 **AP:** 2
 
@@ -196,7 +180,7 @@
 
 **Effects:** Transfer all absorption from targets that you hit to yourself. If you miss, transfer half instead.
 
-## Dolphin's Play
+## Tanglewhisp's Favorite Prank
 
 **AP:** 2
 
@@ -212,7 +196,7 @@
 
 **Effects:** Push 2 tiles in the direction of your choice. Half on miss.
 
-## Fire's Fury
+## Valthorin's Captive Flame
 
 **AP:** 2
 
@@ -228,7 +212,7 @@
 
 **Effects:** Deal 2d6 + 2 * Presence fire damage. Add one stack of aflame for each point of damage dealt. Half damage if you miss.
 
-## Bottled Lightning
+## Balthazar's Bottled Lightning
 
 **AP:** 2
 
@@ -244,7 +228,7 @@
 
 **Effects:** Deal 2d6 + 2 * Presence electric damage. Add one stack of jolted for each point of damage dealt. Half damage if you miss.
 
-## Tea's Refreshment
+## Minjae's Special Tea
 
 **AP:** 2
 
@@ -260,7 +244,7 @@
 
 **Effects:** Until the end of your next turn, your targets ignore the effect of exhaustion.
 
-## Energize
+## Meliora's Nostrum
 
 **AP:** 2
 
@@ -275,3 +259,19 @@
 **Target:** Single target
 
 **Effects:** Until the end of your next turn, treat all skill checks made by your targets as if they had rolled a 15.
+
+## Professor Percival's Patent Pending Panacea
+
+**AP:** 2
+
+**Essence:** 3
+
+**Category:** Utility
+
+**Range:** 3
+
+**Type:** None
+
+**Target:** Single target
+
+**Effects:** Remove all ailments and afflictions from affected creatures.
