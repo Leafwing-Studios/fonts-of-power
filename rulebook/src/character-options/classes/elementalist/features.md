@@ -140,3 +140,362 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 - 0: Gain the benefits of the Defend and Ward actions.
 - 1-3: Set your exposure to any value of your choice.
 - 4-6: Detonate without resetting your Exposure.
+
+## Elemental Pairings
+
+### Sandstorm
+
+#### Sandstorm Meld
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 60 feet
+
+**Duration:** Instant
+
+A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid air and earth damage, and knock the creature struck back 10 feet.
+
+If you have at least 4 stacks of air exposure, knock yourself 10 feet away from the creature as well.
+
+If you have at least 4 stacks of earth exposure, knock the creature prone as well but apply two stacks of rooted to yourself.
+
+#### Sandstorm Detonation
+
+When you reach 7 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within 10 feet of you. If you hit, knock them back 50 feet. If you miss, knock them back 25 feet instead.
+
+When you reach 7 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 * Presence earth damage and knock them prone.
+
+#### Wind Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Special
+
+As you twist the wind beneath the feet of your ally, they gain the ability to fly. Until the end of your next turn, a creature of your choice within range can fly.
+
+If you are level 10 or higher, the duration of this spell is increased to 10 minutes.
+
+If you are level 18 or higher, the duration of this spell is increased to one day.
+
+#### Stone Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your  choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
+
+You may also use this spell to slowly carve away at stone, at the cost of 3 uses of this spell per five foot cube altered. This can be used to create stairs, slowly dig a tunnel or a hole through a wall. You have advantage on any Craftsmanship skill check when you use this spell to help you shape stone.
+
+If you are level 10 or higher, you can also slowly create stone, up to a five-foot cube per 3 uses of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
+
+If you are level 18 or higher, you can twist stone much more quickly, literally moving mountains with enough time. You may affect up to 9 tiles at once with a single use of this spell. You may now add or remove stone from up to 5 five foot cubes per use of this spell, letting you create elaborate structures as a downtime activity.
+
+### Frostfire
+
+#### Frostfire Meld
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 60 feet
+
+**Duration:** Instant
+
+A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid fire and water and apply a stack of chilled.
+
+If you have at least 4 stacks of fire exposure, set both you and the creature you hit aflame as well.
+
+If you have at least 4 stacks of cold exposure, apply two stacks of chilled to both yourself and your target instead of only applying a single stack to your target.
+
+#### Frostfire Detonation
+
+When you reach 7 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 * Presence fire damage. Hit or miss, they are set aflame.
+
+When you reach 7 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of chilled. If you miss, apply 1 stack of chilled instead.
+
+#### Fire Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+With a flick of the wrist, you are able to spread or control fires at will. If there is an open source of flame within range, you can spread it to another object or creature within range. If you select a creature, you must make an Agility attack against them, setting them aflame if you hit.
+
+You may also extinguish a small fire of your choice within range that affects up to a 5 foot cube with this spell. If you use this spell on a creature, they are no longer aflame.
+
+If you are level 10 or higher, you can cause a fire that you target or spread in this way to burn indefinitely, no longer requiring fuel although it can still be deliberately extinguished.
+
+If you are level 18 or higher, you can cause a fire that you target or spread in this way to become extremely hard to put out. Extinguishing the fire (including to end the aflame status on a creature) now requires success on a contested Presence (Arcana) skill check against you.
+
+#### Frost Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 4 contiguous tiles that have shallow water on them to turn into an ice slick.
+
+Whenever a creature attempts to spend movement to enter a tile within this ice for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this ice, the effects of all forced movement other than teleportation is doubled.
+For example, if you were hit by a blast of wind while on this ice that would normally push you back 10 feet, you travel 20 feet instead.
+This ability has no effect on flying creatures.
+
+The ice remains frozen until after you complete your next rest.
+
+If you are level 10 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like).
+You can only sculpt up to a 5 foot cube of ice per casting of this spell.
+
+If you are level 18 or higher, you can cause the water in the air to condense, and no longer need a source of water to create this effect.
+Detonation: Frostfire Detonation
+
+### Thoughtscour
+
+#### Thoughtscour Meld
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 60 feet
+
+**Duration:** Instant
+
+Blending together pure energy with psionic force, you wipe the mind of your target. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid arcane and eldritch damage, and apply one stack of pacified to them.
+
+If you have at least 4 stacks of arcane exposure, apply two stacks of banished to both you and your target instead of pacifying them.
+
+If you have at least 4 stacks of eldritch exposure, apply two stacks of crazed to both you and your target instead of pacifying them.
+
+#### Thoughtscour Detonation
+
+When you reach 7 stacks of arcane exposure, excess magic energy radiates intensely from you. Make an Focus attack against all other creatures within 10 feet of you. If you hit, apply 8 stacks of unstable. If you miss, apply 3 stacks of unstable instead.
+
+When you reach 7 stacks of eldritch exposure, a bizarre and intense psionic wave emanates from you, driving those nearby temporarily insane. Make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of crazed. If you miss, apply 1 stack of crazed instead.
+
+#### Essence Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+Unravelling the Weave, you pull apart the magic imbued in a creature or object. Select a creature or unattuned magical item within range. When you use this spell on a creature, remove all stacks of unstable that they have.
+
+When you use this spell on a magical item that no one is attuned to, you can instantly disenchant it. You have advantage on the skill check made to determine how many essence crystals you recover.
+
+If you are level 10 or higher, you have advantage on skill checks made to create consumable magical items when you use this spell to help in the process.
+
+If you are level 18 or higher, you have advantage on skill checks made to create permanent magical items when you use this spell to help in the process..
+
+#### Mind Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+Taking advantage of your acquired psionic abilities, you imperceptibly touch the mind of a creature of your choice within range. When you use this spell, gain advantage on the next Insight skill check you make about that creature before your next rest.
+
+If you are level 10 or higher, you can apply this advantage to a Charisma skill check made towards that creature instead.
+
+If you are level 18 or higher, you can apply this advantage to a Guidance skill check made towards that creature instead.
+Detonation: Thoughtscour Detonation
+
+### Darklight
+
+#### Darklight Meld
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 60 feet
+
+**Duration:** Instant
+
+Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make a Focus attack against a creature or object of your choice within range. If you hit, deal 1d4 + Presence hybrid radiant and umbral damage, and apply 3 stacks of temperance and 3 stacks of anguish to them.
+
+If you have at least 4 stacks of radiant exposure, apply 3 additional stacks of temperance to both you and your target.
+
+If you have at least 4 stacks of umbral exposure apply 3 additional stacks of anguish to both you and your target.
+
+#### Darklight Detonation
+
+When you reach 7 stacks of radiant exposure, you explode in a burst of soothing light. Make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of pacified. If you miss, apply 1 stack of pacified instead.
+
+When you reach 7 stacks of umbral exposure, you disappear into the shadows. Become invisible until the end of your next turn. This effect does not break after you make an attack.
+
+#### Brilliant Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+Twisting and shaping a source of light, you cause it to glow brilliantly. Select a light source of your choice within range. Until you complete a rest, the radius of the bright and dim light cast by this light source is doubled. You can affect the same light source up to three times with this spell, doubling the light radius each time. You can end this effect at any time as a minor action.
+
+If you are level 10 or higher, magical items and effects in the amplified light sparkle and glimmer in an obvious fashion as the light catches on threads of the Weave.
+
+If you are level 18 or higher, everything seems somehow clearer while in this light. Perception and Insight skill checks made using vision have advantage when attempting to look at something under this light.
+
+#### Shadow Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+With a flick of the wrist, you cause shadows to grow and extinguish light sources. When you cast this spell, extinguish a light source of your choice within range.
+
+If you are level 10 or higher, the light source you extinguish cannot be relit until you complete a rest except by you unless the creature attempting to relight the light source succeeds on a contested Presence (Arcana) skill check against you.
+
+If you are level 18 or higher, you can cause shadow to grow and spread. Whenever you cast this spell, you can spread an existing area of darkness within range up to four adjacent tiles. This darkness cannot be lit by any means, and the area is heavily shrouded. It persists until you next complete a rest.
+
+### Lifeforce
+
+#### Lifeforce Meld
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 60 feet
+
+**Duration:** Instant
+
+You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid primal and decay damage, and heal 2 life. Critical hits double the amount of life gained.
+
+If you have at least 4 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
+
+If you have at least 4 stacks of decay exposure, you and your target lose 6 + Presence absorption before the damage takes effect.
+
+### Lifeforce Detonation
+
+When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within 10 feet of you. If you hit, remove all conditions and afflictions from them.
+For each stack of affliction removed in this way, deal 1 primal damage to the creature you removed it from and gain 1 absorption.
+For each stack of a condition removed in this way, deal 2 primal damage to the creature you removed it from and gain 2 absorption.
+
+When you reach 7 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of withered and transfer all absorption that they have to yourself..
+
+#### Life Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+Knitting together wounds and lifting ailments, you. When you cast this spell, gain the benefits of the Treat minor action affecting a creature of your choice within range. You have advantage on the Focus (Medicine) skill check made to determine its potency. When you use this spell during the Tend downtime activity, you have advantage on the Focus (Medicine) skill check made.
+
+If you are level 10 or higher, you remove an additional stack of exhaustion (or allow the affected creature to restore an additional half of their maximum life) when you use this spell during the Tend downtime activity.
+
+If you are level 18 or higher, you may use this spell to apply the effects of a consumable that grants a boon. When you do so, you have advantage on the Focus (Medicine) skill check made to determine how much life is restored.
+
+#### Death Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+Gently touching the soul of another creature, you are able to manipulate its connection with the afterlife. When you cast this spell, you may gain the benefits of the Scan minor action to check the life of another creature of your choice within range. You have advantage on the Focus (Medicine) skill check made to determine their current life total.
+
+If you are level 10 or higher, when you use this spell during the Resurrect downtime activity, you have advantage on any Expertise (Medicine) skill checks made.
+
+If you are level 18 or higher, you may use this spell to prevent a soul from permanently slipping away. You may now use the Soul Anchor downtime activity. If you succeed on a difficulty 20 Focus (Medicine) skill check, remove a stack of transcendence from a soul of your choice within the same font of power that you are currently at.
+Detonation: Lifeforce Detonation
+
+### Surgebreaker
+
+#### Surgebreaker Meld
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 60 feet
+
+**Duration:** Instant
+
+A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid electric and corrosive damage, and apply one stack of defenseless.
+
+If you have at least 4 stacks of electric exposure, deal an additional 1d4 + Presence electric damage to you, your target, and all creatures in a line between you.
+
+If you have at least 4 stacks of corrosive exposure, apply two stacks of defenseless to both yourself and your target instead of only applying one stack to your target.
+
+#### Surgebreaker Detonation
+
+When you reach 7 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within 10 feet of you. If you hit, apply 2 stacks of lethargic and knock them prone. If you miss, apply 1 stack of lethargic instead.
+
+When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 3d6 + 3 * Presence corrosive damage. Deal half as much damage if you miss.
+
+#### Lightning Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+Lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment. You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object. You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength.
+You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 30 feet, although it falls harmlessly to the ground shortly afterwards.
+
+You may not make attacks or wield weapons in this way.
+
+If you are level 10 or higher, you may activate consumable items or trinkets that you are attuned to when you cast this spell on them.
+
+If you are level 18 or higher, you are able to carefully manipulate essence and fine tools with this magic. You may make Arcana, Artifice, Tinkering or Trickery skill checks at a distance when you use this spell.
+
+#### Acid Twisting
+
+**Cost:** 1
+
+**Casting time:** Major action
+
+**Range:** 30 feet
+
+**Duration:** Instant
+
+Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, make an Expose attack against them with advantage. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
+
+If you are level 10 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. It takes five casts of this spell to obliterate a single 5-foot cube of solid material.
+
+If you are level 18 or higher, it takes only a single copy of this spell to obliterate a 5-foot cube of material.
