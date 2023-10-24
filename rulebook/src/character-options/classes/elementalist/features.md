@@ -117,7 +117,7 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 
 ***Level:** 8
 
-**Effects:** Gain access to a pair of downtime activities which enhance the twists known by your elemental pairing.
+**Effects:** Your twists become more powerful or longer lasting, as described in their description.
 
 ### Attribute Improvement
 
@@ -179,9 +179,7 @@ When you reach 7 stacks of earth exposure, rocks explode from your body. Make an
 
 As you twist the wind beneath the feet of your ally, they gain the ability to fly. Until the end of your next turn, a creature of your choice within range can fly.
 
-If you are level 10 or higher, the duration of this spell is increased to 10 minutes.
-
-If you are level 18 or higher, the duration of this spell is increased to one day.
+If you are level 8 or higher, until the start of your next rest they can fly outside of combat.
 
 #### Stone Twisting
 
@@ -195,11 +193,7 @@ If you are level 18 or higher, the duration of this spell is increased to one da
 
 Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your  choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
 
-You may also use this spell to slowly carve away at stone, at the cost of 3 uses of this spell per five foot cube altered. This can be used to create stairs, slowly dig a tunnel or a hole through a wall. You have advantage on any Craftsmanship skill check when you use this spell to help you shape stone.
-
-If you are level 10 or higher, you can also slowly create stone, up to a five-foot cube per 3 uses of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
-
-If you are level 18 or higher, you can twist stone much more quickly, literally moving mountains with enough time. You may affect up to 9 tiles at once with a single use of this spell. You may now add or remove stone from up to 5 five foot cubes per use of this spell, letting you create elaborate structures as a downtime activity.
+If you are level 8 or higher, you can also slowly create stone, up to three 1 tile by 1 height tier cubes per use of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
 
 ### Frostfire
 
@@ -231,17 +225,15 @@ When you reach 7 stacks of water exposure, a terrible burst of cold emanates fro
 
 **Essence:** 1
 
-**Category:** Utility
+**Category:** Offensive
 
 **Range:** 4 tiles
 
-With a flick of the wrist, you are able to spread or control fires at will. If there is an open source of flame within range, you can spread it to another object or creature within range. If you select a creature, you must make an Agility attack against them, setting them aflame if you hit.
+With a flick of the wrist, you are able to spread or control fires at will. If there is an open source of flame within range, you can spread it to another object or creature within range. If you select a creature, you must make an Agility attack against them, applying 6 + Presnece stacks of aflame on hit.
 
 You may also extinguish a small fire of your choice within range that affects up to a 5 foot cube with this spell. If you use this spell on a creature, they are no longer aflame.
 
-If you are level 10 or higher, you can cause a fire that you target or spread in this way to burn indefinitely, no longer requiring fuel although it can still be deliberately extinguished.
-
-If you are level 18 or higher, you can cause a fire that you target or spread in this way to become extremely hard to put out. Extinguishing the fire (including to end the aflame status on a creature) now requires success on a contested Presence (Arcana) skill check against you.
+If you are level 8 or higher, you can cause a fire that you target or spread in this way to burn indefinitely, no longer requiring fuel although it can still be deliberately extinguished.
 
 #### Frost Twisting
 
@@ -253,7 +245,7 @@ If you are level 18 or higher, you can cause a fire that you target or spread in
 
 **Range:** 4 tiles
 
-With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 4 contiguous tiles that have shallow water on them to turn into an ice slick.
+With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 4 contiguous tiles that have shallow or deep water on them to turn into an ice slick.
 
 Whenever a creature attempts to spend movement to enter a tile within this ice for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this ice, the effects of all forced movement other than teleportation is doubled.
 For example, if you were hit by a blast of wind while on this ice that would normally push you back 10 feet, you travel 20 feet instead.
@@ -261,11 +253,8 @@ This ability has no effect on flying creatures.
 
 The ice remains frozen until after you complete your next rest.
 
-If you are level 10 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like).
+If you are level 8 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like).
 You can only sculpt up to a 5 foot cube of ice per casting of this spell.
-
-If you are level 18 or higher, you can cause the water in the air to condense, and no longer need a source of water to create this effect.
-Detonation: Frostfire Detonation
 
 ### Thoughtscour
 
@@ -303,11 +292,9 @@ When you reach 7 stacks of eldritch exposure, a bizarre and intense psionic wave
 
 Unravelling the Weave, you pull apart the magic imbued in a creature or object. Select a creature or unattuned magical item within range. When you use this spell on a creature, remove all stacks of unstable that they have.
 
-When you use this spell on a magical item that no one is attuned to, you can instantly disenchant it. You have advantage on the skill check made to determine how many essence crystals you recover.
+When you use this spell on a magical item that no one is attuned to, you can instantly disenchant it.
 
-If you are level 10 or higher, you have advantage on skill checks made to create consumable magical items when you use this spell to help in the process.
-
-If you are level 18 or higher, you have advantage on skill checks made to create permanent magical items when you use this spell to help in the process..
+If you are level 8 or higher, double any essence crystals gained by disenchanting magical items in this way.
 
 #### Mind Twisting
 
@@ -321,10 +308,8 @@ If you are level 18 or higher, you have advantage on skill checks made to create
 
 Taking advantage of your acquired psionic abilities, you imperceptibly touch the mind of a creature of your choice within range. When you use this spell, gain advantage on the next Insight skill check you make about that creature before your next rest.
 
-If you are level 10 or higher, you can apply this advantage to a Charisma skill check made towards that creature instead.
+If you are level 8 or higher, you can apply this advantage to a Charisma skill check made towards that creature instead.
 
-If you are level 18 or higher, you can apply this advantage to a Guidance skill check made towards that creature instead.
-Detonation: Thoughtscour Detonation
 
 ### Darklight
 
@@ -360,11 +345,9 @@ When you reach 7 stacks of umbral exposure, you disappear into the shadows. Beco
 
 **Range:** 4 tiles
 
-Twisting and shaping a source of light, you cause it to glow brilliantly. Select a light source of your choice within range. Until you complete a rest, the radius of the bright and dim light cast by this light source is doubled. You can affect the same light source up to three times with this spell, doubling the light radius each time. You can end this effect at any time as a minor action.
+Twisting and shaping a source of light, you cause it to glow brilliantly. Select a light source of your choice within range. Until you complete a rest, the radius of the bright and dim light cast by this light source is doubled. You can affect the same light source up to three times with this spell, doubling the light radius each time. You can end this effect at any time by casting this spell again.
 
-If you are level 10 or higher, magical items and effects in the amplified light sparkle and glimmer in an obvious fashion as the light catches on threads of the Weave.
-
-If you are level 18 or higher, everything seems somehow clearer while in this light. Perception and Insight skill checks made using vision have advantage when attempting to look at something under this light.
+If you are level 8 or higher, magical items and effects in the amplified light sparkle and glimmer in an obvious fashion as the light catches on threads of the Weave.
 
 #### Shadow Twisting
 
@@ -378,9 +361,7 @@ If you are level 18 or higher, everything seems somehow clearer while in this li
 
 With a flick of the wrist, you cause shadows to grow and extinguish light sources. When you cast this spell, extinguish a light source of your choice within range.
 
-If you are level 10 or higher, the light source you extinguish cannot be relit until you complete a rest except by you unless the creature attempting to relight the light source succeeds on a contested Presence (Arcana) skill check against you.
-
-If you are level 18 or higher, you can cause shadow to grow and spread. Whenever you cast this spell, you can spread an existing area of darkness within range up to four adjacent tiles. This darkness cannot be lit by any means, and the area is heavily shrouded. It persists until you next complete a rest.
+If you are level 8 or higher, the light source you extinguish cannot be relit until you complete a rest unless the creature attempting to relight the light source succeeds on a contested Presence (Arcana) skill check against you. You may choose to fail this skill check.
 
 ### Lifeforce
 
@@ -418,11 +399,9 @@ When you reach 7 stacks of decay exposure, you drain the energy from those aroun
 
 **Range:** 4 tiles
 
-Knitting together wounds and lifting ailments, you. When you cast this spell, gain the benefits of the Treat minor action affecting a creature of your choice within range. You have advantage on the Focus (Medicine) skill check made to determine its potency. When you use this spell during the Tend downtime activity, you have advantage on the Focus (Medicine) skill check made.
+Knitting together wounds and lifting ailments, you. When you cast this spell, gain the benefits of the Treat action with advantage affecting a creature of your choice within range. When you use this spell during the Tend downtime activity, gain advantage on the Focus (Medicine) skill check made.
 
-If you are level 10 or higher, you remove an additional stack of exhaustion (or allow the affected creature to restore an additional half of their maximum life) when you use this spell during the Tend downtime activity.
-
-If you are level 18 or higher, you may use this spell to apply the effects of a consumable that grants a boon. When you do so, you have advantage on the Focus (Medicine) skill check made to determine how much life is restored.
+If you are level 8 or higher, you remove an additional stack of exhaustion when you use this spell during the Tend downtime activity.
 
 #### Death Twisting
 
@@ -434,12 +413,9 @@ If you are level 18 or higher, you may use this spell to apply the effects of a 
 
 **Range:** 4 tiles
 
-Gently touching the soul of another creature, you are able to manipulate its connection with the afterlife. When you cast this spell, you may gain the benefits of the Scan minor action to check the life of another creature of your choice within range. You have advantage on the Focus (Medicine) skill check made to determine their current life total.
+Gently touching the soul of another creature, you are able to manipulate its connection with the afterlife. When you cast this spell, you may gain the benefits of the Scan minor action with advantage. You automatically determine their current life total and learn any .
 
-If you are level 10 or higher, when you use this spell during the Resurrect downtime activity, you have advantage on any Expertise (Medicine) skill checks made.
-
-If you are level 18 or higher, you may use this spell to prevent a soul from permanently slipping away. You may now use the Soul Anchor downtime activity. If you succeed on a difficulty 20 Focus (Medicine) skill check, remove a stack of transcendence from a soul of your choice within the same font of power that you are currently at.
-Detonation: Lifeforce Detonation
+If you are level 8 or higher, you have advantage on the Resurrect downtime activity when you use this spell.
 
 ### Surgebreaker
 
@@ -480,9 +456,7 @@ You may not perform any particularly challenging tasks in this fashion: anything
 
 You may not make attacks or wield weapons in this way.
 
-If you are level 10 or higher, you may activate consumable items or trinkets that you are attuned to when you cast this spell on them.
-
-If you are level 18 or higher, you are able to carefully manipulate essence and fine tools with this magic. You may make Arcana, Artifice, Tinkering or Trickery skill checks at a distance when you use this spell.
+If you are level 8 or higher, you may activate consumable items or perform acts that require dexterity while using this spell.
 
 #### Acid Twisting
 
@@ -494,8 +468,6 @@ If you are level 18 or higher, you are able to carefully manipulate essence and 
 
 **Range:** 4 tiles
 
-Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, make an Expose attack against them with advantage. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
+Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, make an Exertise attack against them. If you hit, they lose 1 life. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
 
-If you are level 10 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. It takes five casts of this spell to obliterate a single 5-foot cube of solid material.
-
-If you are level 18 or higher, it takes only a single copy of this spell to obliterate a 5-foot cube of material.
+If you are level 8 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. You can only destroy a single 5-foot cube of solid material per cast.
