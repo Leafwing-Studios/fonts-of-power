@@ -154,11 +154,11 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 
 **Range:** 4 tiles
 
-A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid air and earth damage, and knock the creature struck back 2 tiles.
+A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid air-earth damage, and knock the creature struck back 2 tiles.
 
-If you have at least 4 stacks of air exposure, knock yourself 2 tiles away from the creature as well.
+If you have at least 4 stacks of air exposure, knock yourself 2 tiles away from your target as well.
 
-If you have at least 4 stacks of earth exposure, knock the creature prone as well but apply two stacks of rooted to yourself.
+If you have at least 4 stacks of earth exposure, apply two stacks of rooted to yourself. Knock your target prone if you hit.
 
 #### Sandstorm Detonation
 
@@ -206,11 +206,11 @@ If you are level 8 or higher, you can also slowly create stone, up to three 1 ti
 
 **Range:** 4 tiles
 
-A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid fire and water and apply a stack of chilled.
+A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature or object of your choice within range. If you hit, deal 2d8 + 2 * Presence hybrid fire-water damage.
 
-If you have at least 4 stacks of fire exposure, set both you and the creature you hit aflame as well.
+If you have at least 4 stacks of fire exposure, add 6 + Presence stacks of aflame to yourself, and 6 + Presence stacks of aflame to your target if you hit.
 
-If you have at least 4 stacks of cold exposure, apply two stacks of chilled to both yourself and your target instead of only applying a single stack to your target.
+If you have at least 4 stacks of cold exposure, add 2 stacks of chilled to yourself, and 2 stacks of chilled to your target if you hit.
 
 #### Frostfire Detonation
 
@@ -267,11 +267,11 @@ You can only sculpt up to a 5 foot cube of ice per casting of this spell.
 
 **Range:** 4 tiles
 
-Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make a Focus attack against a creature or object of your choice within range. If you hit, deal 1d4 + Presence hybrid radiant and umbral damage, and apply 3 stacks of temperance and 3 stacks of anguish to them.
+Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make a Focus attack against a creature or object of your choice within range. If you hit, deal 1d4 + 1/2 Presence hybrid radiant-umbral damage. Apply stacks of temperance and anguish to them equal to the damage dealt.
 
-If you have at least 4 stacks of radiant exposure, apply 3 additional stacks of temperance to both you and your target.
+If you have at least 4 stacks of radiant exposure, add 6 + Presence stacks of temperance to yourself, and 6 + Presence stacks of temperance to your target if you hit.
 
-If you have at least 4 stacks of umbral exposure apply 3 additional stacks of anguish to both you and your target.
+If you have at least 4 stacks of umbral exposure, add 6 + Presence stacks of anguish to yourself, and 6 + Presence stacks of anguish to your target if you hit.
 
 #### Darklight Detonation
 
@@ -319,7 +319,7 @@ If you are level 8 or higher, the light source you extinguish cannot be relit un
 
 **Range:** 4 tiles
 
-You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid primal and decay damage, and heal 2 life. Critical hits double the amount of life gained.
+You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid primal-decay damage. Heal equal to the damage dealt.
 
 If you have at least 4 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
 
@@ -373,11 +373,11 @@ If you are level 8 or higher, you have advantage on the Resurrect downtime activ
 
 **Range:** 4 tiles
 
-A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid electric and corrosive damage, and apply one stack of defenseless.
+A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid electric-corrosive damage and trigger their afflictions.
 
-If you have at least 4 stacks of electric exposure, deal an additional 1d4 + Presence electric damage to you, your target, and all creatures in a line between you.
+If you have at least 4 stacks of electric exposure, deal an 1d6 + Presence electric damage to you, your target, and all creatures in a line between you.
 
-If you have at least 4 stacks of corrosive exposure, apply two stacks of defenseless to both yourself and your target instead of only applying one stack to your target.
+If you have at least 4 stacks of corrosive exposure, add 2 stacks of defenseless to yourself, and 2 stacks of defenseless to your target if you hit.
 
 #### Surgebreaker Detonation
 
