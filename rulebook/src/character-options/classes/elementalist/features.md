@@ -133,7 +133,9 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 
 ### Currents of Power
 
-At the end of each of your turns, gain an effect based on your current exposure:
+**Level:** 10
+
+**Effects:** At the end of each of your turns, gain an effect based on your current exposure:
 
 - 0: Gain the benefits of the Defend and Ward actions.
 - 1-3: Set your exposure to any value of your choice.
