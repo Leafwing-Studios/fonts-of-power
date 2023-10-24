@@ -54,7 +54,7 @@ When you reach 7 stacks, you explode and your stacks are reset to 0, as describe
 
 **Level:** 1
 
-**Effect:** Your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 7 stacks of exposure, you **detonate**. All creatures within 10 feet of you suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to zero.
+**Effect:** Your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 7 stacks of exposure, you **detonate**. All creatures within a 2 tile range suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to zero.
 
 ## Element Twisting
 
@@ -154,17 +154,17 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 
 **Range:** 4 tiles
 
-A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid air and earth damage, and knock the creature struck back 10 feet.
+A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid air and earth damage, and knock the creature struck back 2 tiles.
 
-If you have at least 4 stacks of air exposure, knock yourself 10 feet away from the creature as well.
+If you have at least 4 stacks of air exposure, knock yourself 2 tiles away from the creature as well.
 
 If you have at least 4 stacks of earth exposure, knock the creature prone as well but apply two stacks of rooted to yourself.
 
 #### Sandstorm Detonation
 
-When you reach 7 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within 10 feet of you. If you hit, knock them back 50 feet. If you miss, knock them back 25 feet instead.
+When you reach 7 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, knock them back 6 tiles. If you miss, knock them back 3 tiles instead.
 
-When you reach 7 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 * Presence earth damage and knock them prone.
+When you reach 7 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 2d6 + 2 * Presence earth damage and knock them prone.
 
 #### Wind Twisting
 
@@ -214,9 +214,9 @@ If you have at least 4 stacks of cold exposure, apply two stacks of chilled to b
 
 #### Frostfire Detonation
 
-When you reach 7 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 2d6 + 2 * Presence fire damage. Hit or miss, they are set aflame.
+When you reach 7 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 3d6 + 3 * Presence fire damage.
 
-When you reach 7 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of chilled. If you miss, apply 1 stack of chilled instead.
+When you reach 7 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presnce stacks of chilled. If you miss, apply 1 stack of chilled instead. Hit or miss, then deal 1d4 + 1/2 Presence water damage to them multiplied by the number of stacks of chilled they have.
 
 #### Fire Twisting
 
@@ -247,7 +247,7 @@ If you are level 8 or higher, you can cause a fire that you target or spread in 
 With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 4 contiguous tiles that have shallow or deep water on them to turn into an ice slick.
 
 Whenever a creature attempts to spend movement to enter a tile within this ice for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this ice, the effects of all forced movement other than teleportation is doubled.
-For example, if you were hit by a blast of wind while on this ice that would normally push you back 10 feet, you travel 20 feet instead.
+For example, if you were hit by a blast of wind while on this ice that would normally push you back 2 tiles, you travel 4 tiles instead.
 This ability has no effect on flying creatures.
 
 The ice remains frozen until after you complete your next rest.
@@ -275,7 +275,7 @@ If you have at least 4 stacks of umbral exposure apply 3 additional stacks of an
 
 #### Darklight Detonation
 
-When you reach 7 stacks of radiant exposure, you explode in a burst of soothing light. Make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of pacified. If you miss, apply 1 stack of pacified instead.
+When you reach 7 stacks of radiant exposure, you explode in a burst of blinding light. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of blinded. If you miss, apply 1 stack of blinded instead. Hit or miss, then deal 1d4 + 1/2 Presence radiant damage to them, multiplied by the number of stacks of blinded that they have.
 
 When you reach 7 stacks of umbral exposure, you disappear into the shadows. Become invisible until the end of your next turn. This effect does not break after you make an attack.
 
@@ -327,11 +327,11 @@ If you have at least 4 stacks of decay exposure, you and your target lose 6 + Pr
 
 ### Lifeforce Detonation
 
-When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within 10 feet of you. If you hit, remove all ailments and afflictions from them.
-For each stack of affliction removed in this way, deal 1 primal damage to the creature you removed it from and gain 1 absorption.
-For each stack of a ailment removed in this way, deal 2 primal damage to the creature you removed it from and gain 2 absorption.
+When you reach 7 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within a 2 tile range. If you hit, remove all ailments and afflictions from them.
+For each stack of afflictions removed in this way, gain 1 absorption and deal 1 primal damage to the creature you removed it from.
+For each stack of a ailments removed in this way, gaim 2 asorption and deal 2 primal damage to the creature you removed it.
 
-When you reach 7 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of withered and transfer all absorption that they have to yourself..
+When you reach 7 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of withered to them and transfer all absorption that they have to yourself.
 
 #### Life Twisting
 
@@ -381,9 +381,9 @@ If you have at least 4 stacks of corrosive exposure, apply two stacks of defense
 
 #### Surgebreaker Detonation
 
-When you reach 7 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within 10 feet of you. If you hit, apply 2 stacks of lethargic and knock them prone. If you miss, apply 1 stack of lethargic instead.
+When you reach 7 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within a 2 tile range. If you hit, apply 6 + Presecne stacks of jolted to them and knock them prone. If you miss, apply 3 + 1/2 Presence stacks of jolted to them instead.
 
-When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within 10 feet of you. If you hit, deal 3d6 + 3 * Presence corrosive damage. Deal half as much damage if you miss.
+When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 2d6 + 2 * Presence corrosive damage. Deal half as much damage if you miss.
 
 #### Lightning Twisting
 
@@ -396,7 +396,7 @@ When you reach 7 stacks of corrosive exposure, you explode in a shower of acid. 
 **Range:** 4 tiles
 
 Lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment. You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object. You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength.
-You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 30 feet, although it falls harmlessly to the ground shortly afterwards.
+You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 6 tiles (about 30 feet), although it falls harmlessly to the ground shortly afterwards.
 
 You may not make attacks or wield weapons in this way.
 
