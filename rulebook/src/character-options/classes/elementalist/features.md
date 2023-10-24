@@ -29,14 +29,13 @@
 
 **Effects:** The elementalist is a master of magic, shaping the raw elements into tangible form to blast their foes to smithereens. Elementalist spells always cost 2 AP and 3 essence.
 
-Each of the 12 elements has a natural opposite, creating the following six pairings:
+10 of the elements have a natural opposite, creating the following five pairings:
 
-Sandstorm (air and earth)
-Frostfire (fire and water)
-Realitywarp (arcane and fate)
-Darklight (radiant and umbral)
-Lifeforce (primal and decay)
-Surgebreaker (electric and corrosive)
+- Sandstorm (air and earth)
+- Frostfire (fire and water)
+- Darklight (radiant and umbral)
+- Lifeforce (primal and decay)
+- Surgebreaker (electric and corrosive)
 
 Select a pairing and your initial spells at level 1. The number of spells you know at each level is listed in your class table.
 You can only select spells from one of your pariings, and you must always know at least one spell from each of the elements in your pairings.
@@ -255,61 +254,6 @@ The ice remains frozen until after you complete your next rest.
 
 If you are level 8 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like).
 You can only sculpt up to a 5 foot cube of ice per casting of this spell.
-
-### Thoughtscour
-
-#### Thoughtscour Meld
-
-**AP:** 2
-
-**Essence:** 3
-
-**Category:** Offensive
-
-**Range:** 4 tiles
-
-Blending together pure energy with psionic force, you wipe the mind of your target. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid arcane and eldritch damage, and apply one stack of pacified to them.
-
-If you have at least 4 stacks of arcane exposure, apply two stacks of banished to both you and your target instead of pacifying them.
-
-If you have at least 4 stacks of eldritch exposure, apply two stacks of crazed to both you and your target instead of pacifying them.
-
-#### Thoughtscour Detonation
-
-When you reach 7 stacks of arcane exposure, excess magic energy radiates intensely from you. Make an Focus attack against all other creatures within 10 feet of you. If you hit, apply 8 stacks of unstable. If you miss, apply 3 stacks of unstable instead.
-
-When you reach 7 stacks of eldritch exposure, a bizarre and intense psionic wave emanates from you, driving those nearby temporarily insane. Make a Presence attack against all other creatures within 10 feet of you. If you hit, apply 3 stacks of crazed. If you miss, apply 1 stack of crazed instead.
-
-#### Essence Twisting
-
-**AP:** 1
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** 4 tiles
-
-Unravelling the Weave, you pull apart the magic imbued in a creature or object. Select a creature or unattuned magical item within range. When you use this spell on a creature, remove all stacks of unstable that they have.
-
-When you use this spell on a magical item that no one is attuned to, you can instantly disenchant it.
-
-If you are level 8 or higher, double any essence crystals gained by disenchanting magical items in this way.
-
-#### Mind Twisting
-
-**AP:** 1
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** 4 tiles
-
-Taking advantage of your acquired psionic abilities, you imperceptibly touch the mind of a creature of your choice within range. When you use this spell, gain advantage on the next Insight skill check you make about that creature before your next rest.
-
-If you are level 8 or higher, you can apply this advantage to a Charisma skill check made towards that creature instead.
-
 
 ### Darklight
 
