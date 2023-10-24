@@ -41,4 +41,4 @@ When you gain this combat feat, sacrifice an exploration feat.
 
 ### Spellblade
 
-**Effects:** After you hit a creature with a basic attack, reduce the AP cost of your next spell by 1. This effect can stack.
+**Effects:** After you hit a creature with a basic attack, reduce the AP cost of your next spell by 1. This effect can stack, but may only trigger once per action.
