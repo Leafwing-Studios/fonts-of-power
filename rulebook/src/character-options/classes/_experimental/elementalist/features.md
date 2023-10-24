@@ -33,7 +33,7 @@ Each of the 12 elements has a natural opposite, creating the following six pairi
 
 Sandstorm (air and earth)
 Frostfire (fire and water)
-Thoughtscour (arcane and eldritch)
+Realitywarp (arcane and fate)
 Darklight (radiant and umbral)
 Lifeforce (primal and decay)
 Surgebreaker (electric and corrosive)
