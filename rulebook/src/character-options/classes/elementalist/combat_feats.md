@@ -19,10 +19,6 @@ When you gain this combat feat, sacrifice an exploration feat.
 
 **Effects:** Whenever you would detonate, you may choose to gain 3 essence rather than the effect listed in your elemental pairing.
 
-## Gentle Touch
-
-**Effects:** At the start of each of your turns, you may change your exposure by 1 in any direction.
-
 ### Power Siphon
 
 **Effects:** The first time each turn that you hit a creature with a Shove, Strike or Grapple attack, gain the benefits of the Recover action.
@@ -30,10 +26,6 @@ When you gain this combat feat, sacrifice an exploration feat.
 ### Extremism
 
 **Effects:** Whenever you cast a spell, change your exposure by 2 rather than 1. Whenever you land a critical hit, change it by 3 rather than 2.
-
-### Hair-Trigger Detonation
-
-**Effects:** The maximum number of stacks of exposure that you can have is reduced to 5. Any effects (such as your Detonation class feature) that trigger at 7 stacks of exposure now trigger at 5 instead.
 
 ### Perfect Balance
 
@@ -45,7 +37,7 @@ When you gain this combat feat, sacrifice an exploration feat.
 
 ### Knife's Edge
 
-**Effects:** At the end of each of your turns, if you are at 4 or more stacks of exposure, gain an additional AP.
+**Effects:** At the end of each of your turns, if you are at 3 or more stacks of exposure, gain an additional AP.
 
 ### Alternating Detonation
 
