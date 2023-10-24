@@ -13,7 +13,7 @@
 |   7   |        +4         |                        Tranquility                        |      5       |
 |   8   |        +5         |                        Major Twist                        |      6       |
 |   9   |        +5         |               Attribute Improvement, Feats                |      6       |
-|  10   |        +6         |                         Capstone                          |      6       |
+|  10   |        +6         |                     Currents of Power                     |      6       |
 
 ## Features
 
@@ -131,7 +131,7 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Capstone
+### Currents of Power
 
 At the end of each of your turns, gain an effect based on your current exposure:
 
