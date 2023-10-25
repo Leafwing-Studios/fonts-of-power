@@ -207,6 +207,14 @@ At the end of combat, the party loses one resolve for each resolve gained this w
 
 Twice during your turn, you or one of your creatures may ignore the AP cost of an action while making an attack of opportunity.
 
-#### Absolute Unit: Raw Power
+#### Absolute Unit: Power Fantasy
 
-After your creature hits with an attack, you may spend 1 essence to make it a critical hit.
+When you gain this feature or use the Splice downtime activity, choose a bonus to permanently grant to your summoned creature:
+
+- Your creature's critical hit threshold is reduced to 1.
+- Damage dealt by your creature may not be prevented in any way, it is immune to forced movement and it cannot be knocked prone.
+- Your creature is immune to the effects of ailments and is immune to damage from afflictions.
+- Your creature has resistance to all damage. It may Block single-target offensive actions that target any creature in its zone of control. When it does, it suffers all effects of that action rather than them.
+- Your creature may grapple any number of creatures at once. Its Grapple action only costs 1 AP.
+
+Only one of these bonuses may be active at once.
