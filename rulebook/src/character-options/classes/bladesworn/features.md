@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                            Features                            | Powers Known |
-| :---: | :---------------: | :------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Weapon Bond, Forethought, Counterattacks, Watch My Back |      3       |
-|   2   |        +2         |                          Skill Memory                          |      4       |
-|   3   |        +2         |                  Attribute Improvement, Feats                  |      4       |
-|   4   |        +3         |                     Weapon Bond: Bloodied                      |      4       |
-|   5   |        +3         |                          Lead the Way                          |      5       |
-|   6   |        +4         |                  Attribute Improvement, Feats                  |      5       |
-|   7   |        +4         |                         One Step Ahead                         |      5       |
-|   8   |        +5         |                         Second Thought                         |      6       |
-|   9   |        +5         |                  Attribute Improvement, Feats                  |      6       |
-|  10   |        +6         |                         Thousand Cuts                          |      6       |
+| Level | Proficiency Bonus |                                   Features                                    | Powers Known |
+| :---: | :---------------: | :---------------------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Weapon Bond, Forethought, Counterattacks, Battle Mastery, Skill Memory |      3       |
+|   2   |        +2         |                                Honed Intuition                                |      4       |
+|   3   |        +2         |                         Attribute Improvement, Feats                          |      4       |
+|   4   |        +3         |                             Weapon Bond: Bloodied                             |      4       |
+|   5   |        +3         |                                 Lead the Way                                  |      5       |
+|   6   |        +4         |                         Attribute Improvement, Feats                          |      5       |
+|   7   |        +4         |                                One Step Ahead                                 |      5       |
+|   8   |        +5         |                                Second Thought                                 |      6       |
+|   9   |        +5         |                         Attribute Improvement, Feats                          |      6       |
+|  10   |        +6         |                                 Thousand Cuts                                 |      6       |
 
 ## Features
 
@@ -39,7 +39,7 @@ Each subclass grants access to a unique stance at level 1.
 
 **Level:** 1
 
-**Effects:** The first time each turn that you spend AP, you may spend essence up to the amount of AP spent. If you do, regain 1 AP per essence spent.
+**Effects:** The first time each turn that you spend AP, you may spend essence equal to the AP spent. If you do, refund the AP spent.
 
 Note that this can trigger multiple times per round, and works particularly well with attacks of opportunity and other reactions.
 
@@ -49,19 +49,26 @@ Note that this can trigger multiple times per round, and works particularly well
 
 **Effects:** As a bladesworn, you gain access to powers known as **counterattacks**. These may only be used as attacks of opportunity, and never cost essence.
 
-While counterattacks use your weapon, they are special attacks: their effects scale off of Presence, not Prowess, and their attack roll is based on your Expertise, not Agility.
+While counterattacks use your weapon, they are special attacks.
+Their damage is affected by your Presence, not Prowess, and their attack roll is based on your Expertise, not Agility.
 
-### Watch My Back
+### Battle Mastery
 
 **Level:** 1
 
-**Effects:** Attacks of opportunity against you have disadvantage.
+**Effects:** Gain a combat feat of your choice that grants you the ability to make attacks of opportunity in more situations.
 
 ### Skill Memory
 
-**Level:** 2
+**Level:** 1
 
 **Effects:** After you make a skill check, you may make a difficulty 10 Presence (Charm) skill check to convince your weapon to guide you. On a success, you may treat your result as if you were proficient in that skill. If you fail the Presence (Charm) skill check to use this ability, you cannot use it again until you complete a rest.
+
+### Honed Intuition
+
+**Level:** 2
+
+**Effects:** After your party spends a resolve, make a difficulty 20 Focus(Insight) skill check. If you succeed, gain a resolve.
 
 ### Attribute Improvement
 
