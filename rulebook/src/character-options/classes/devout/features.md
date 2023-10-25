@@ -4,8 +4,8 @@
 
 | Level | Proficiency Bonus |                        Features                        | Powers Known |
 | :---: | :---------------: | :----------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Prayer, Miracle, Devotion, Deliberation, Rebuke |      4       |
-|   2   |        +2         |                         Augury                         |      5       |
+|   1   |        +1         | Feats, Prayer, Miracle, Devotion, Deliberation, Augury |      4       |
+|   2   |        +2         |                         Ritual                         |      5       |
 |   3   |        +2         |              Attribute Improvement, Feats              |      5       |
 |   4   |        +3         |                        Reprieve                        |      5       |
 |   5   |        +3         |                    Sage Reputation                     |      6       |
@@ -69,21 +69,23 @@ Additionally, select the nature of the power. At level 1, this determines the co
 
 **Effects:** You have advantage on skill checks made to maintain your concentration.
 
-### Rebuke
-
-**Level:** 1
-
-**Effects:** After a creature uses an offensive action against you, you may spend 1 AP to make a ranged attack against Presence targeting them. If you hit, apply two stacks of pacified.
-
 ### Augury
 
-**Level:** 2
+**Level:** 1
 
 **Effects:** Gain access to the Augury downtime activity.
 
 During this downtime activity, you may ask the worldspeaker one yes or no question.
 Whether or not they answer truthfully depends on both random chance and the nature of your devotion.
 Check your subclass for the exact mechanics.
+
+### Ritual
+
+**Level:** 2
+
+**Effects:** You learn to perform intricate rituals to win your deity’s blessing. You gain access to the Ritual downtime activity. When you complete this downtime activity, gain the benefit of the Miracle version of a prayer that you know as if you'd used the Invoke major action and passed your Favor check.
+
+This effect does not persist into combat.
 
 ### Attribute Improvement
 
@@ -101,13 +103,13 @@ Check your subclass for the exact mechanics.
 
 **Level:** 4
 
-**Effects:** After you successfully cast a miracle, gain the benefits of the Defend action.
+**Effects:** After you successfully cast a miracle, gain the benefits of the Defend and Ward actions.
 
 ### Sage Reputation
 
 **Level:** 5
 
-**Effects:** You have advantage on all Guidance skill checks made outside of downtime.
+**Effects:** You have advantage on all Guidance skill checks made outside of downtime and combat.
 
 ### Attribute Improvement
 

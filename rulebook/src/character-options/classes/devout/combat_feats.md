@@ -59,3 +59,11 @@
 ## Turn the Other Cheek
 
 **Effect:** At the end of each of your turns, if you did not use any movement or offensive actions, gain the benefits of the Defend action.
+
+### Rebuke
+
+**Effects:** After a creature uses an offensive action against you, you may spend 1 AP to make a ranged attack against Presence targeting them. If you hit, apply two stacks of pacified.
+
+### Battle Ritual
+
+**Effects:** Miracles cast using your Ritual class feature now persist into combat.
