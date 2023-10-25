@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                          Features                          | Powers Known |
-| :---: | :---------------: | :--------------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Just Lucky, Winning Streak, Trickery, Flair: Payout |      3       |
-|   2   |        +1         |                       Roll the Dice                        |      4       |
-|   3   |        +2         |                Attribute Improvement, Feats                |      4       |
-|   4   |        +2         |                        Dirty Tricks                        |      4       |
-|   5   |        +3         |                        Fast Talker                         |      5       |
-|   6   |        +3         |                Attribute Improvement, Feats                |      5       |
-|   7   |        +4         |                     Flair: Trump Card                      |      5       |
-|   8   |        +4         |                       Push Your Luck                       |      6       |
-|   9   |        +5         |                Attribute Improvement, Feats                |      6       |
-|  10   |        +5         |                          CAPSTONE                          |      6       |
+| Level | Proficiency Bonus |                                Features                                | Powers Known |
+| :---: | :---------------: | :--------------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Just Lucky, Trickery, Flair: Payout, Master of Your Own Destiny |      3       |
+|   2   |        +1         |                             Roll the Dice                              |      4       |
+|   3   |        +2         |                      Attribute Improvement, Feats                      |      4       |
+|   4   |        +2         |                              Dirty Tricks                              |      4       |
+|   5   |        +3         |                              Fast Talker                               |      5       |
+|   6   |        +3         |                      Attribute Improvement, Feats                      |      5       |
+|   7   |        +4         |                           Flair: Trump Card                            |      5       |
+|   8   |        +4         |                             Push Your Luck                             |      6       |
+|   9   |        +5         |                      Attribute Improvement, Feats                      |      6       |
+|  10   |        +5         |                              Endless Luck                              |      6       |
 
 ## Features
 
@@ -31,27 +31,25 @@
 
 Using this feature a single time rerolls only your attack roll, or only your damage roll: the other roll remains unchanged.
 
-### Winning Streak
-
-**Level:** 1
-
-**Effects:** At level 1, damage that you deal **explodes**. Whenever you roll the maximum possible value on a damage die, reroll that die and add it to the total damage dealt.
-
-This effect can recur indefinitely. If you are rolling multiple dice, you do not need to roll maximum damage on all dice simultaneously. For example, if you hit with a pair of brass knuckles which deal 2d4 damage, and you roll a 2 and a 4, reroll the 4 and add the result to the original 6 damage that would be dealt.
-
 ### Trickery
 
 **Level:** 1
 
-**Effects:** 0 essence 1 AP: Place a trick in a tile of your choice at range two. Placed tricks explode at the start of each of your turns, affecting a 1 tile radius around them. Allies always know which trick was placed, but enemies do not.
+**Effects:** 1 AP: Place a trick in a tile of your choice within a two tile range. Placed tricks explode at the start of each of your turns, affecting a 1 tile radius around them. Allies always know which trick was placed, but enemies do not.
 
-Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skill check with advantage. If you fail, your bag of tricks is empty and you cannot use this feature again for the rest of the fight.
+Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skill check. If you fail, your bag of tricks is empty and you cannot use this feature again for the rest of the fight.
 
 ### Flair: Payout
 
 **Level:** 1
 
-**Effects:** Choose a subclass; which determines the flair with which you use your luck-manipulating abilities. Whenever you land a critical hit with a basic attack, gain a bonus effect.
+**Effects:** Choose a subclass; which determines the flair with which you use your luck-manipulating abilities. Whenever you land a critical hit, gain a bonus effect.
+
+### Master of Your Own Destiny
+
+**Level:** 1
+
+**Effects:** Whenever the party would gain a Resolve, gain two Resolve instead.
 
 ### Roll the Dice
 
@@ -130,11 +128,11 @@ If you roll a 1, describe the unlikely fashion in which you attempted to perform
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Luck Unending
+### Endless Luck
 
 **Level:** 10
 
-**Effects:** At the start of your turn, restore 3 + Focus / 2 essence.
+**Effects:** At the start of each of your turns, restore 3 + Focus / 2 essence.
 
 ## Flairs
 
@@ -142,62 +140,30 @@ If you roll a 1, describe the unlikely fashion in which you attempted to perform
 
 #### Payout: Spontaneous Malfunction
 
-When you land a critical hit with a basic attack, apply one stack of defenseless before calculating the damage dealt by your attack.
+**Effects:** When you land a critical hit, apply one stack of defenseless before calculating the damage dealt by your attack.
 
 #### Trump Card: Plot Armor
 
-The first time each combat that an attack would bring you to death's door, the attack is treated as if it missed instead.
+**Effects:** The first time each combat that an attack would bring you to death's door (or hit you while you are on death's door), the attack is treated as if it missed instead.
 
 ### Magician
 
 #### Payout: Magic Trick
 
-When you land a critical hit with a basic attack, use a trick for free.
+**Effects:** When you land a critical hit, use a trick for free.
 You must use this feature, and can do so even if your bag of tricks is empty.
 Do not roll to see if your bag of tricks is empty.
 
 #### Trump Card: Finale
 
-Once per combat, when a trick that you have placed is about to detonate, you may gain the effects of any two different tricks that you know instead. You choose the order in which these resolve.
+**Effects:** Once per combat, when a trick that you have placed is about to detonate, you may gain the effects of any two different tricks that you know instead. You choose the order in which these resolve.
 
 ### Ruffian
 
 #### Payout: Rough-and-Tumble
 
-When you land a critical hit with a basic attack, you may push the creature hit into an adjacent tile of your choice.
-
-#### Trump Card: Quick on the Draw
-
-**Effects:** At the start of each combat, take an extra turn. You only have 2 AP during this turn.
-
-## Flairs
-
-### Favored One
-
-#### Payout: Happy-go-lucky
-
-**Effects:** Apply one stack of defenseless
-
-### Trump Card: Plot Armor
-
-**Effects:** The first time each rest that you would die, instead don't.
-
-### Magician
-
-#### Payout: Magic Trick
-
-**Effects:** Use a trick for free. Ignores depletion.
-
-#### Trump Card: Vanishing Act
-
-**Effects:** Once per rest, you may instantly teleport back to the last place you completed a rest. If you are in combat, this costs 1 AP.
-
-### Ruffian
-
-#### Payout: Swagger
-
-**Effects:** Regain 1 AP.
+**Effects:** When you land a critical hit, you may push the creature hit into an adjacent tile of your choice.
 
 #### Trump Card: Gumption
 
-**Effects:** Whenever you complete a rest, gain one Resolve.
+**Effects:** Once per combat you may set any roll to a 5 or 15, as if you had spent a Resolve.
