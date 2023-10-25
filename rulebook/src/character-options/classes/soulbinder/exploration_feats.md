@@ -6,12 +6,6 @@
 
 **Effects:** You have advantage on skill checks made to lie to and deceive your dual instead.
 
-## Subtle Signals
-
-**Prerequisites:** Empathy
-
-**Effects:** You have advantage on all Insight and Humanities skill checks made against your dual.
-
 ## Shared Experiences
 
 **Effects:** Using the Connect or Contest downtime activities with another creature causes them to become your dual.
@@ -24,7 +18,7 @@
 
 ## Soul Swap
 
-**Effects:** When you resurrect, you may attempt to resurrect into the body of your most recent dual. If they are still alive, make an opposed Presence (Guidance) skill check. If you pass, they immediately die, and you take over their body. If you fail, you stay day and the resurrection is wasted.
+**Effects:** Whenever you would be resurrected, you instead attempt to resurrect into the body of your most recent dual. If they are still alive, make an opposed Presence (Guidance) skill check. Either of you may choose to fail this skill check. If you pass, they immediately die, and you take over their body. If you fail, you stay dead and the resurrection attempt is wasted.
 
 ## Soul Sight
 
@@ -33,3 +27,9 @@
 ## Worldly Bonds
 
 **Effects:** If you have bound to a creature before, you have advantage on all skill checks made to resurrect them, and they have advantage on all skill checks made to resurrect you.
+
+## Telepathic Bond
+
+**Prerequisites:** Emotional Contagion class feature
+
+**Effects:** You and your duals can now additionally communicate over your bond as if you were speaking to each other.

@@ -1,5 +1,11 @@
 # Combat Feats
 
+## Moment of Weakness
+
+**Effects:** Whenever an enemy dual loses life, you may make an attack of opportunity against them using a pulse of your choice.
+
+Whenever an allied dual loses life, you may use a pulse of your choice as a reaction.
+
 ## Telemedicine
 
 **Effects:** Treat actions on your dual have advantage and can be made at any range.

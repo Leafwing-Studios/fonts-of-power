@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                              Features                              | Powers Known |
-| :---: | :---------------: | :----------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Soulbinding, Pulse, Qualia: Backchannel, Moment of Weakness |      4       |
-|   2   |        +1         |                              Empathy                               |      5       |
-|   3   |        +2         |                   Attribute Improvement,  Feats                    |      5       |
-|   4   |        +2         |                       Heightened Connection                        |      5       |
-|   5   |        +3         |                            Soul Search                             |      6       |
-|   6   |        +3         |                   Attribute Improvement,  Feats                    |      6       |
-|   7   |        +4         |                           Close Contact                            |      6       |
-|   8   |        +4         |                      Qualia: Heightened Bond                       |      7       |
-|   9   |        +5         |                   Attribute Improvement,  Feats                    |      7       |
-|  10   |        +5         |                          Qualia: Soulbond                          |      7       |
+| Level | Proficiency Bonus |                        Features                         | Powers Known |
+| :---: | :---------------: | :-----------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Soulbinding, Pulse, Qualia: Backchannel, Empathy |      4       |
+|   2   |        +1         |                           ???                           |      5       |
+|   3   |        +2         |              Attribute Improvement,  Feats              |      5       |
+|   4   |        +2         |                  Heightened Connection                  |      5       |
+|   5   |        +3         |                       Soul Search                       |      6       |
+|   6   |        +3         |              Attribute Improvement,  Feats              |      6       |
+|   7   |        +4         |                      Close Contact                      |      6       |
+|   8   |        +4         |                 Qualia: Heightened Bond                 |      7       |
+|   9   |        +5         |              Attribute Improvement,  Feats              |      7       |
+|  10   |        +5         |                    Qualia: Soulbond                     |      7       |
 
 ## Features
 
@@ -57,21 +57,21 @@ The "Pulses Known" column in your class summary table includes these 3 pulses.
 
 **Effects:** Your qualia grants you a new way to form connections by spending 1 essence.
 
-### Moment of Weakness
+### Empathy
 
 **Level:** 1
 
-**Effects:** Whenever an enemy dual loses life, you may make an attack of opportunity against them using a pulse of your choice.
+**Effects:** You have advantage on all Charm, Guidance, and Insight skill checks made that target your dual.
 
-Whenever an allied dual loses life, you may use a pulse of your choice as a reaction.
+This does not apply to attempts to lie to your dual, which are made with disadvantage.
 
-### Empathy
+### Emotional Contagion
 
 **Level:** 2
 
-**Effects:** You have advantage on all Charm, Guidance, and Insight skill checks with dual.
+**Effects:** You may attempt to communicate emotions over your bond to your dual. They perceive it as a vague intrusive thought, lacking any clear words or content.
 
-This does not apply to attempts to lie to your dual, which are made with disadvantage.
+If your dual is aware of the bond, they may do likewise and attempt to send emotions to you.
 
 ### Attribute Improvement
 
@@ -119,7 +119,7 @@ This does not apply to attempts to lie to your dual, which are made with disadva
 
 **Level:** 8
 
-**Effects:** Gain an exploration feature that exploits your connection to your current dual.
+**Effects:** Gain an exploration feature based on your qualia that exploits your connection to your current dual.
 
 ### Attribute Improvement
 
