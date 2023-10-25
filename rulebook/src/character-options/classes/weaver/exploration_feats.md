@@ -2,7 +2,7 @@
 
 ## Concealed Patterns
 
-**Effects:** You may use Agility (Trickery) to attempt to conceal the fact that you are using patterns.
+**Effects:** You have advantage on any skill checks made to conceal the fact that you are using patterns.
 
 ## Rapid Prototyping
 
@@ -12,11 +12,11 @@
 
 ## Tangled Webs
 
-**Effects:** You have advantage on all Charm skill checks made to lie.
+**Effects:** You have advantage on all skill checks made to decieve others.
 
 ## Untangler
 
-**Effects:** You have advantage on all Insight and Perception skill checks made to spot a lie or deception.
+**Effects:** You have advantage on all skill checks made to spot a lie or deception.
 
 ## Annihilation
 
@@ -56,4 +56,4 @@
 
 **Prerequisites:** Maker subclass
 
-**Effects:** When using the Craft downtime activity, all items are plausible. You do not need ot roll on the supplies die.
+**Effects:** When using the Craft downtime activity, all items are plausible. You do not need to roll on the supplies die.

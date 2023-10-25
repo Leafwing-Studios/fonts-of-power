@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                        Features                         | Powers Known |
-| :---: | :---------------: | :-----------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Weave Magic, Patchwork, Guild: Fabric of Reality |      4       |
-|   2   |        +1         |                     Sense the Weave                     |      5       |
-|   3   |        +2         |              Attribute Improvement,  Feats              |      5       |
-|   4   |        +2         |                       Power Lines                       |      5       |
-|   5   |        +3         |                     Reality Weaving                     |      6       |
-|   6   |        +3         |              Attribute Improvement,  Feats              |      6       |
-|   7   |        +4         |                        Quiltwork                        |      6       |
-|   8   |        +4         |                     Read the Weave                      |      7       |
-|   9   |        +5         |              Attribute Improvement,  Feats              |      7       |
-|  10   |        +5         |                        Handiwork                        |      7       |
+| Level | Proficiency Bonus |                           Features                            | Powers Known |
+| :---: | :---------------: | :-----------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Weave Magic, Guild: Fabric of Reality, Sense the Weave |      4       |
+|   2   |        +1         |                    Guild: Reality Weaving                     |      5       |
+|   3   |        +2         |                 Attribute Improvement,  Feats                 |      5       |
+|   4   |        +2         |                          Power Lines                          |      5       |
+|   5   |        +3         |                        Discerning Eye                         |      6       |
+|   6   |        +3         |                 Attribute Improvement,  Feats                 |      6       |
+|   7   |        +4         |                        Thread Twisting                        |      6       |
+|   8   |        +4         |                        Read the Weave                         |      7       |
+|   9   |        +5         |                 Attribute Improvement,  Feats                 |      7       |
+|  10   |        +5         |                       Mirrored Patterns                       |      7       |
 
 ## Features
 
@@ -39,14 +39,6 @@ Patterns end when any of:
 
 The number of patterns that you know at any level is shown in your class table.
 
-### Patchwork
-
-**Level:** 1
-
-**Effects:** When you successfully Treat a creature, you may make an Agility (Fontcraft) skill check with advantage. The result of that roll is **stored** on that creature. At any time, you may spend this stored roll to replace the roll and skill check result of any other skill check or attack roll (after seeing the roll) that that creature makes.
-
-Creatures may only have one result stored at a time. Using this feature again on a creature with a stored result replaces the original result.
-
 ### Guild: Fabric of Reality
 
 **Level:** 1
@@ -57,11 +49,17 @@ At level 1, you gain access to a *fabric of reality* action. This action costs 1
 
 ### Sense the Weave
 
-**Level:** 2
+**Level:** 1
 
 **Effects:** You can sense the presence or absence of magic on any item, creature or object that you can clearly see. Learning the nature of this magic requires a successful Expertise (Fontcraft) skill check.
 
 TODO 2022-10-23: Add guidelines for information gained from this skill check. Maybe we can make this a core part of the Fontcraft skill? Maybe instead we do a "number of questions" style design like with Scan.
+
+### Guild: Reality Weaving
+
+**Level:** 2
+
+**Effects:** Gain access to a downtime activity defined by your guild.
 
 ### Attribute Improvement
 
@@ -79,18 +77,18 @@ TODO 2022-10-23: Add guidelines for information gained from this skill check. Ma
 
 **Level:** 4
 
-**Effects:** At the end of each of your turns, roll 1d4 + Presence. For each of your active patterns:
+**Effects:** At the end of each of your turns, roll 1d4 + 1/2 Presence. For each of your active patterns:
 
 - add that much absorption to any allies in a line between you and the target of that pattern
 - deal that much arcane damage to any enemies in a line between you and the target of that pattern
 
 Creatures can only be affected by this ability once, regardless of how many power lines they are standing on.
 
-### Guild: Reality Weaving
+### Discerning Eye
 
 **Level:** 5
 
-**Effects:** Gain access to a downtime activity defined by your guild.
+**Effects:** You immediately know what affixes magical gear and consumables possess just by looking at them.
 
 ### Attribute Improvement
 
@@ -104,11 +102,11 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Quiltwork
+## Thread Twisting
 
 **Level:** 7
 
-**Effects:** At the start of each of your turns, you may choose a creature within 4 tiles. If you do, they gain the benefits of your Patchwork feature.
+**Effects:** At the start of each of your turns, you may swap the target of one of your patterns to another target within range 2 of the previous target.
 
 ### Read the Weave
 
@@ -128,11 +126,11 @@ Creatures can only be affected by this ability once, regardless of how many powe
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Handiwork
+### Mirrored Patterns
 
 **Level:** 10
 
-**Effects:** The first pattern you cast each turn costs one less action point.
+**Effects:** You learn to mirror the motions you are making with the other hand, producing two copies of the same effect. When you cast a pattern, you may choose to copy it for free. You must use the same pattern, but it does not need to target the same creature.
 
 ## Guilds
 

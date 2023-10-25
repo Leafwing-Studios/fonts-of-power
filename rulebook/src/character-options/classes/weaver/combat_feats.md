@@ -74,10 +74,6 @@ If you are sustaining at least one pattern, cast a copy of the same pattern on a
 
 You cannot sustain more than one type of pattern at once.
 
-## Thread Twisting
-
-**Effects:** At the start of each of your turns, you may swap the target of one of your patterns to another target within range 2 of the previous target.
-
 ## Threadbound
 
 **Effects:** Whenever you use the Treat action, you may spend 1 essence. If you do, the target of that action may, as a reaction, use your Fabric of Reality feature by spending 1 AP.
@@ -85,3 +81,9 @@ You cannot sustain more than one type of pattern at once.
 ## Hanging by a Thread
 
 **Effects:** Whenever you lose your concentration, you may choose to retain a single pattern of your choice.
+
+## Patchwork
+
+**Effects:** When you successfully Treat a creature, you may make an Agility (Fontcraft) skill check with advantage. The result of that roll is **stored** on that creature. At any time, you may spend this stored roll to replace the roll and skill check result of any other skill check or attack roll (after seeing the roll) that that creature makes.
+
+Each creature may only have one result stored at a time. Using this feature again on a creature with a stored result replaces the original result.
