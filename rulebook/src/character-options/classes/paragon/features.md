@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                      Features                      | Powers Known |
 | :---: | :---------------: | :------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Auras, Ideal: Stand Your Ground, Conviction |      3       |
-|   2   |        +2         |                   Natural Leader                   |      4       |
+|   2   |        +1         |                   Natural Leader                   |      4       |
 |   3   |        +2         |            Attribute Improvement, Feats            |      4       |
-|   4   |        +3         |                  Shield of Faith                   |      4       |
+|   4   |        +2         |                  Shield of Faith                   |      4       |
 |   5   |        +3         |                 Ideal: Consecrate                  |      5       |
-|   6   |        +4         |            Attribute Improvement, Feats            |      5       |
+|   6   |        +3         |            Attribute Improvement, Feats            |      5       |
 |   7   |        +4         |                   Rallying Blow                    |      5       |
-|   8   |        +5         |               My Life for the Cause                |      6       |
+|   8   |        +4         |               My Life for the Cause                |      6       |
 |   9   |        +5         |               Attribute Improvement                |      6       |
-|  10   |        +6         |                 Ideal: Apotheosis                  |      6       |
+|  10   |        +5         |                 Ideal: Apotheosis                  |      6       |
 
 ## Features
 

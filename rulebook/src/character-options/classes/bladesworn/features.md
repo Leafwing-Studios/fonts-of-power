@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                                   Features                                    | Powers Known |
 | :---: | :---------------: | :---------------------------------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Weapon Bond, Forethought, Counterattacks, Battle Mastery, Skill Memory |      3       |
-|   2   |        +2         |                                Honed Intuition                                |      4       |
+|   2   |        +1         |                                Honed Intuition                                |      4       |
 |   3   |        +2         |                         Attribute Improvement, Feats                          |      4       |
-|   4   |        +3         |                             Weapon Bond: Bloodied                             |      4       |
+|   4   |        +2         |                             Weapon Bond: Bloodied                             |      4       |
 |   5   |        +3         |                                 Lead the Way                                  |      5       |
-|   6   |        +4         |                         Attribute Improvement, Feats                          |      5       |
+|   6   |        +3         |                         Attribute Improvement, Feats                          |      5       |
 |   7   |        +4         |                                One Step Ahead                                 |      5       |
-|   8   |        +5         |                                Second Thought                                 |      6       |
+|   8   |        +4         |                                Second Thought                                 |      6       |
 |   9   |        +5         |                         Attribute Improvement, Feats                          |      6       |
-|  10   |        +6         |                                 Thousand Cuts                                 |      6       |
+|  10   |        +5         |                                 Thousand Cuts                                 |      6       |
 
 ## Features
 

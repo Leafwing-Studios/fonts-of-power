@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                              Features                              | Powers Known |
 | :---: | :---------------: | :----------------------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Soulbinding, Pulse, Qualia: Backchannel, Moment of Weakness |      4       |
-|   2   |        +2         |                              Empathy                               |      5       |
+|   2   |        +1         |                              Empathy                               |      5       |
 |   3   |        +2         |                   Attribute Improvement,  Feats                    |      5       |
-|   4   |        +3         |                       Heightened Connection                        |      5       |
+|   4   |        +2         |                       Heightened Connection                        |      5       |
 |   5   |        +3         |                            Soul Search                             |      6       |
-|   6   |        +4         |                   Attribute Improvement,  Feats                    |      6       |
+|   6   |        +3         |                   Attribute Improvement,  Feats                    |      6       |
 |   7   |        +4         |                           Close Contact                            |      6       |
-|   8   |        +5         |                      Qualia: Heightened Bond                       |      7       |
+|   8   |        +4         |                      Qualia: Heightened Bond                       |      7       |
 |   9   |        +5         |                   Attribute Improvement,  Feats                    |      7       |
-|  10   |        +6         |                          Qualia: Soulbond                          |      7       |
+|  10   |        +5         |                          Qualia: Soulbond                          |      7       |
 
 ## Features
 

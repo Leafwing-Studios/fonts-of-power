@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                     Features                      | Powers Known |
 | :---: | :---------------: | :-----------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Wildshaping, Overgrowth, Land's Connection |      3       |
-|   2   |        +2         |                  Wilderness Lore                  |      4       |
+|   2   |        +1         |                  Wilderness Lore                  |      4       |
 |   3   |        +2         |           Attribute Improvement, Feats            |      4       |
-|   4   |        +3         |                  Locus of Power                   |      4       |
+|   4   |        +2         |                  Locus of Power                   |      4       |
 |   5   |        +3         |                    Cultivation                    |      5       |
-|   6   |        +4         |           Attribute Improvement, Feats            |      5       |
+|   6   |        +3         |           Attribute Improvement, Feats            |      5       |
 |   7   |        +4         |                  Spreading Wilds                  |      5       |
-|   8   |        +5         |                     Wild Home                     |      6       |
+|   8   |        +4         |                     Wild Home                     |      6       |
 |   9   |        +5         |           Attribute Improvement, Feats            |      6       |
-|  10   |        +6         |                   Paths Unseen                    |      6       |
+|  10   |        +5         |                   Paths Unseen                    |      6       |
 
 ## Features
 

@@ -3,15 +3,15 @@
 | Level | Proficiency Bonus |                              Features                               | Powers Known |
 | :---: | :---------------: | :-----------------------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Inscription, Esteemed Tradition, Erasure, Elevated Privilege |      3       |
-|   2   |        +2         |                          Careful Planning                           |      4       |
+|   2   |        +1         |                          Careful Planning                           |      4       |
 |   3   |        +2         |                    Attribute Improvement, Feats                     |      4       |
-|   4   |        +3         |                               Overlay                               |      4       |
+|   4   |        +2         |                               Overlay                               |      4       |
 |   5   |        +3         |                              Engraving                              |      5       |
-|   6   |        +4         |                    Attribute Improvement, Feats                     |      5       |
+|   6   |        +3         |                    Attribute Improvement, Feats                     |      5       |
 |   7   |        +4         |                        Orthographic Scaling                         |      5       |
-|   8   |        +5         |                            Rune Network                             |      6       |
+|   8   |        +4         |                            Rune Network                             |      6       |
 |   9   |        +5         |                    Attribute Improvement, Feats                     |      6       |
-|  10   |        +6         |                           Shifting Script                           |      6       |
+|  10   |        +5         |                           Shifting Script                           |      6       |
 
 ## Feats
 

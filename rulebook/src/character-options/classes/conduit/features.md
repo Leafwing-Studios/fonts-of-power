@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                            Features                            | Powers Known |
 | :---: | :---------------: | :------------------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Conduit Casting, Injection Attack, Power Supply: Siphon |      3       |
-|   2   |        +2         |                         Random Access                          |      4       |
+|   2   |        +1         |                         Random Access                          |      4       |
 |   3   |        +2         |                  Attribute Improvement, Feats                  |      4       |
-|   4   |        +3         |                          Cyclic Graph                          |      4       |
+|   4   |        +2         |                          Cyclic Graph                          |      4       |
 |   5   |        +3         |                        Buffer Underflow                        |      5       |
-|   6   |        +4         |                  Attribute Improvement, Feats                  |      5       |
+|   6   |        +3         |                  Attribute Improvement, Feats                  |      5       |
 |   7   |        +4         |                     Power Supply: Recharge                     |      5       |
-|   8   |        +5         |                        Fault Tolerance                         |      6       |
+|   8   |        +4         |                        Fault Tolerance                         |      6       |
 |   9   |        +5         |                  Attribute Improvement, Feats                  |      6       |
-|  10   |        +6         |                           Overclock                            |      6       |
+|  10   |        +5         |                           Overclock                            |      6       |
 
 ## Features
 

@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                        Features                        | Powers Known |
 | :---: | :---------------: | :----------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Prayer, Miracle, Devotion, Deliberation, Augury |      4       |
-|   2   |        +2         |                         Ritual                         |      5       |
+|   2   |        +1         |                         Ritual                         |      5       |
 |   3   |        +2         |              Attribute Improvement, Feats              |      5       |
-|   4   |        +3         |                        Reprieve                        |      5       |
+|   4   |        +2         |                        Reprieve                        |      5       |
 |   5   |        +3         |                    Sage Reputation                     |      6       |
-|   6   |        +4         |              Attribute Improvement, Feats              |      6       |
+|   6   |        +3         |              Attribute Improvement, Feats              |      6       |
 |   7   |        +4         |                     Desperate Plea                     |      6       |
-|   8   |        +5         |                 Privileged Information                 |      7       |
+|   8   |        +4         |                 Privileged Information                 |      7       |
 |   9   |        +5         |              Attribute Improvement, Feats              |      7       |
-|  10   |        +6         |                     Miracle Worker                     |      7       |
+|  10   |        +5         |                     Miracle Worker                     |      7       |
 
 ## Features
 

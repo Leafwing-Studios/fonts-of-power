@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                              Features                               | Forms Known |
 | :---: | :---------------: | :-----------------------------------------------------------------: | :---------: |
 |   1   |        +1         | Feats, Lifespeaking, Summoning Strategy, Many Hands Make Light Work |      3      |
-|   2   |        +2         |                          Helpful Creations                          |      4      |
+|   2   |        +1         |                          Helpful Creations                          |      4      |
 |   3   |        +2         |                    Attribute Improvement, Feats                     |      4      |
-|   4   |        +3         |                          Laughing Spirits                           |      4      |
+|   4   |        +2         |                          Laughing Spirits                           |      4      |
 |   5   |        +3         |                             Possession                              |      5      |
-|   6   |        +4         |                    Attribute Improvement, Feats                     |      5      |
+|   6   |        +3         |                    Attribute Improvement, Feats                     |      5      |
 |   7   |        +4         |                           Rapid Summoning                           |      5      |
-|   8   |        +5         |                           Life Everywhere                           |      6      |
+|   8   |        +4         |                           Life Everywhere                           |      6      |
 |   9   |        +5         |                    Attribute Improvement, Feats                     |      6      |
-|  10   |        +6         |                             Masterpiece                             |      6      |
+|  10   |        +5         |                             Masterpiece                             |      6      |
 
 ## Features
 

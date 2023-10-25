@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                     Features                      | Powers Known |
 | :---: | :---------------: | :-----------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Core mechanic/Powers, Tactics, Exploration |      3       |
-|   2   |        +2         |                    Exploration                    |      4       |
+|   2   |        +1         |                    Exploration                    |      4       |
 |   3   |        +2         |           Attribute Improvement, Feats            |      4       |
-|   4   |        +3         |                      Tactics                      |      4       |
+|   4   |        +2         |                      Tactics                      |      4       |
 |   5   |        +3         |                    Exploration                    |      5       |
-|   6   |        +4         |           Attribute Improvement, Feats            |      5       |
+|   6   |        +3         |           Attribute Improvement, Feats            |      5       |
 |   7   |        +4         |                      Tactics                      |      5       |
-|   8   |        +5         |                    Exploration                    |      6       |
+|   8   |        +4         |                    Exploration                    |      6       |
 |   9   |        +5         |           Attribute Improvement, Feats            |      6       |
-|  10   |        +6         |                     Capstone                      |      6       |
+|  10   |        +5         |                     Capstone                      |      6       |
 
 ## Features
 

@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                                Features                                 | Spells Known |
 | :---: | :---------------: | :---------------------------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Elemental Opposition, Thoughtful Orchestration, Element Twisting |      3       |
-|   2   |        +2         |                           Elemental Intuition                           |      4       |
+|   2   |        +1         |                           Elemental Intuition                           |      4       |
 |   3   |        +2         |                      Attribute Improvement, Feats                       |      4       |
-|   4   |        +3         |                            Elemental Warding                            |      4       |
+|   4   |        +2         |                            Elemental Warding                            |      4       |
 |   5   |        +3         |                           Elemental Crafting                            |      5       |
-|   6   |        +4         |                      Attribute Improvement, Feats                       |      5       |
+|   6   |        +3         |                      Attribute Improvement, Feats                       |      5       |
 |   7   |        +4         |                               Tranquility                               |      5       |
-|   8   |        +5         |                               Major Twist                               |      6       |
+|   8   |        +4         |                               Major Twist                               |      6       |
 |   9   |        +5         |                      Attribute Improvement, Feats                       |      6       |
-|  10   |        +6         |                            Currents of Power                            |      6       |
+|  10   |        +5         |                            Currents of Power                            |      6       |
 
 ## Features
 

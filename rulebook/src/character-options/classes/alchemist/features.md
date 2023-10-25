@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                             Features                              | Powers Known |
 | :---: | :---------------: | :---------------------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Alchemy, Elaborat Concoctions, Twist: Vessel, Preparations |      4       |
-|   2   |        +2         |                             Snake Oil                             |      5       |
+|   2   |        +1         |                             Snake Oil                             |      5       |
 |   3   |        +2         |                   Attribute Improvement, Feats                    |      5       |
-|   4   |        +3         |                          Twist: Process                           |      5       |
+|   4   |        +2         |                          Twist: Process                           |      5       |
 |   5   |        +3         |                    A Little Something Special                     |      6       |
-|   6   |        +4         |                   Attribute Improvement, Feats                    |      6       |
+|   6   |        +3         |                   Attribute Improvement, Feats                    |      6       |
 |   7   |        +4         |                     Twist: Secret Ingredient                      |      6       |
-|   8   |        +5         |                            Mad Science                            |      7       |
+|   8   |        +4         |                            Mad Science                            |      7       |
 |   9   |        +5         |                   Attribute Improvement, Feats                    |      7       |
-|  10   |        +6         |                         Perfected Recipe                          |      7       |
+|  10   |        +5         |                         Perfected Recipe                          |      7       |
 
 ## Features
 

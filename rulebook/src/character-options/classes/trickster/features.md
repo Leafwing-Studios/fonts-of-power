@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                          Features                          | Powers Known |
 | :---: | :---------------: | :--------------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Just Lucky, Winning Streak, Trickery, Flair: Payout |      3       |
-|   2   |        +2         |                       Roll the Dice                        |      4       |
+|   2   |        +1         |                       Roll the Dice                        |      4       |
 |   3   |        +2         |                Attribute Improvement, Feats                |      4       |
-|   4   |        +3         |                        Dirty Tricks                        |      4       |
+|   4   |        +2         |                        Dirty Tricks                        |      4       |
 |   5   |        +3         |                        Fast Talker                         |      5       |
-|   6   |        +4         |                Attribute Improvement, Feats                |      5       |
+|   6   |        +3         |                Attribute Improvement, Feats                |      5       |
 |   7   |        +4         |                     Flair: Trump Card                      |      5       |
-|   8   |        +5         |                       Push Your Luck                       |      6       |
+|   8   |        +4         |                       Push Your Luck                       |      6       |
 |   9   |        +5         |                Attribute Improvement, Feats                |      6       |
-|  10   |        +6         |                          CAPSTONE                          |      6       |
+|  10   |        +5         |                          CAPSTONE                          |      6       |
 
 ## Features
 

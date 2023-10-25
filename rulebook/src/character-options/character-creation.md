@@ -68,12 +68,13 @@ All classes provide some variation of the following benefits at level 1:
 
 - you learn how to use your powers: magical actions that you can take, allowing to spend essence for some extra power
   - for most classes, you will need to select some number of powers from the power lists associated with your class
-- gain one or more passive features, that improve the flexibility or ergonomics of playing your character in combat
 - select some form of subclass, helping define the flavor and role that your character will play
 - select one exploration and one combat feat that make your character unique
   - feats can be chosen from the universal list, your species list, or your class list
   - exploration feats and combat feats are not interchangeable; you must always pick one of each
-- increase your proficiency bonus by 1
+- gain at least two additional features features
+  - one of these is a "tactics" feature that improves the flexibility or ergonomics of playing your character in combat
+  - one of these is an "exploration" feature that makes your character more useful and distinctive outside of combat
 
 Each time you level up, gain all of the class features granted by the next level of your class as shown in the class table.
 

@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                        Features                         | Powers Known |
 | :---: | :---------------: | :-----------------------------------------------------: | :----------: |
 |   1   |        +1         | Feats, Weave Magic, Patchwork, Guild: Fabric of Reality |      4       |
-|   2   |        +2         |                     Sense the Weave                     |      5       |
+|   2   |        +1         |                     Sense the Weave                     |      5       |
 |   3   |        +2         |              Attribute Improvement,  Feats              |      5       |
-|   4   |        +3         |                       Power Lines                       |      5       |
+|   4   |        +2         |                       Power Lines                       |      5       |
 |   5   |        +3         |                     Reality Weaving                     |      6       |
-|   6   |        +4         |              Attribute Improvement,  Feats              |      6       |
+|   6   |        +3         |              Attribute Improvement,  Feats              |      6       |
 |   7   |        +4         |                        Quiltwork                        |      6       |
-|   8   |        +5         |                     Read the Weave                      |      7       |
+|   8   |        +4         |                     Read the Weave                      |      7       |
 |   9   |        +5         |              Attribute Improvement,  Feats              |      7       |
-|  10   |        +6         |                        Handiwork                        |      7       |
+|  10   |        +5         |                        Handiwork                        |      7       |
 
 ## Features
 

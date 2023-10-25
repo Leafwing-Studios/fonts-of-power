@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                          Features                           |
 | :---: | :---------------: | :---------------------------------------------------------: |
 |   1   |        +1         | Feats, Emotion, Temperament, Thrill of Battle, Overexertion |
-|   2   |        +2         |                           Rebound                           |
+|   2   |        +1         |                           Rebound                           |
 |   3   |        +2         |                Attribute Improvement,  Feats                |
-|   4   |        +3         |                          Outburst                           |
+|   4   |        +2         |                          Outburst                           |
 |   5   |        +3         |                           Pathos                            |
-|   6   |        +4         |                Attribute Improvement,  Feats                |
+|   6   |        +3         |                Attribute Improvement,  Feats                |
 |   7   |        +4         |                            Grit                             |
-|   8   |        +5         |                     Limits of Exertion                      |
+|   8   |        +4         |                     Limits of Exertion                      |
 |   9   |        +5         |                Attribute Improvement,  Feats                |
-|  10   |        +6         |                       Power Incarnate                       |
+|  10   |        +5         |                       Power Incarnate                       |
 
 ## Features
 

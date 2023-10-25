@@ -5,15 +5,15 @@
 | Level | Proficiency Bonus |                     Features                     |
 | :---: | :---------------: | :----------------------------------------------: |
 |   1   |        +1         | Feats, Companion, Coexistence: Dynamic, Deviance |
-|   2   |        +2         |             Intrapersonal Diversity              |
+|   2   |        +1         |             Intrapersonal Diversity              |
 |   3   |        +2         |           Attribute Improvement, Feats           |
-|   4   |        +3         |                  Shifting Focus                  |
+|   4   |        +2         |                  Shifting Focus                  |
 |   5   |        +3         |                   EXPLORATION                    |
-|   6   |        +4         |           Attribute Improvement, Feats           |
+|   6   |        +3         |           Attribute Improvement, Feats           |
 |   7   |        +4         |              Coexistence: Symbiosis              |
-|   8   |        +5         |                 Personal Growth                  |
+|   8   |        +4         |                 Personal Growth                  |
 |   9   |        +5         |           Attribute Improvement, Feats           |
-|  10   |        +6         |                Coexistence: Unity                |
+|  10   |        +5         |                Coexistence: Unity                |
 
 ## Features
 
