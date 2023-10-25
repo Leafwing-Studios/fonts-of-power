@@ -5,6 +5,7 @@ Each side of the negotiation is referred to as a **party**.
 This could be a single individual, a group, or a negotiator acting on behalf of a group.
 
 There are two phases in the process of making deals:
+
 1. **The pitch:** one party proposes a deal, and the other party evaluates the deal
 2. **Haggling:** the reactive party responds to the deal. Counteroffers and persuasion occurs until either the deal is made or someone walks away.
 
@@ -21,6 +22,7 @@ At this point, the worldspeaker determines the **willingness** of any non-player
 
 The NPC party's willingness cannot start at level 5, only levels 1-4.
 When determining the willingness of the NPC party, make sure to consider:
+
 - The potential gain/loss for the party
 - The likelyhood that the players will be able to hold up their end of the deal
 - The moral implications of the deed being done, and the ideals of the NPC
@@ -41,7 +43,7 @@ Some examples include:
 - Restricting making deals with specific other parties for a period of time
 
 In addition to regular haggling, the players may attempt to **persuade** any NPC parties.
-In this case, make an appropriate difficulty 20 skill check. 
+In this case, make an appropriate difficulty 20 skill check.
 Some examples include:
 
 - Using Presence (Guidance) to appeal to the moral benefits of completing the deal
@@ -51,6 +53,7 @@ Some examples include:
 - Using Prowess (Athletics) to intimidate the other party into agreeing
 
 Then, based on the result of this check:
+
 - **Failure:** Increase the difficulty of future checks to make this deal by 5, cumulatively. (Soft failures can still succeed at a cost or gain an opportunity)
 - **Simple success:** Increase the willingness of the other party by 1 level
 - **Smashing success:** Increase the willingness of the other party by 2 levels
