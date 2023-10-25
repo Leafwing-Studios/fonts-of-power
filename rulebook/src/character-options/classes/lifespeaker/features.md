@@ -13,7 +13,7 @@
 |   7   |        +4         |                           Rapid Summoning                           |      5      |
 |   8   |        +5         |                           Life Everywhere                           |      6      |
 |   9   |        +5         |                    Attribute Improvement, Feats                     |      6      |
-|  10   |        +6         |                           Life of its Own                           |      6      |
+|  10   |        +6         |                             Masterpiece                             |      6      |
 
 ## Features
 
@@ -57,7 +57,7 @@ You cannot control more than creatures than your creature cap (default 3) at onc
 
 Choose one of the summoning strategies, listed below:
 
-#### Semi-autonomous
+#### Semi-Autonomous
 
 At the start of each of your turns, each of your creatures may take the Move action for free.
 
@@ -187,8 +187,26 @@ For example, an animated chest would be able to slowly hop around and throw itse
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Life of its Own
+### Masterpiece
 
 **Level:** 10
 
-**Effects:** You gain 2 additional AP each turn, which can only be spent on actions performed by your creatures.
+**Effects:** Gain a powerful bonus to your summoned creatures, based on the summoning strategy you selected.
+
+#### Semi-Autonomous: Life of their Own
+
+At the start of each of your turns, each of your creatures may take an additional 1 AP action of their choice.
+
+#### Monster Master: Heartfelt Bond
+
+Whenever one of your creatures is defeated or lands a critical hit, the party gains a resolve.
+
+At the end of combat, the party loses one resolve for each resolve gained this way.
+
+#### Horde: Overwhelming Numbers
+
+Once during your turn, you or one of your creatures may ignore the AP cost of an action while making an attack of opportunity.
+
+#### Absolute Unit: Raw Power
+
+After your creature hits with an attack, you may spend 1 essence to make it a critical hit.
