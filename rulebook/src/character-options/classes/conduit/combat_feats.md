@@ -68,12 +68,6 @@
 
 **Effects:** Immediately after you enter death's door, immediately teleport to a tile of your choice within range 4.
 
-## Alternator
-
-**Prerequisites:** Alternating Current class feature
-
-**Effects:** When you use the Swap action, you may swap your polarity.
-
 ## Heavily Polarized
 
 **Prerequisites:** Alternating Current class feature
@@ -97,3 +91,9 @@ For clarification, the source of the attacks for chained charges is the origin o
 ## Discharge
 
 **Effects:** Whenever you use a charge, you may remove all stacks of absorption from yourself. The charge deals additional electric damage equal to the stacks of absorption removed.
+
+### Alternating Current
+
+**Effects:** At the start of combat, choose a **polarity**. While your polarity is positive, you have advantage on basic attacks. While it is negative, you have advantage on special attacks.
+
+At the start of each of your turns, swap polarity. When you use the Swap action, you may swap your polarity.

@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                     Features                                      | Powers Known |
-| :---: | :---------------: | :-------------------------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Conduit Casting, Buffer Overflow, Injection Attack, Power Supply: Recharge |      3       |
-|   2   |        +2         |                               Power Supply: Siphon                                |      4       |
-|   3   |        +2         |                           Attribute Improvement, Feats                            |      4       |
-|   4   |        +3         |                                Alternating Current                                |      4       |
-|   5   |        +3         |                                   Random Access                                   |      5       |
-|   6   |        +4         |                           Attribute Improvement, Feats                            |      5       |
-|   7   |        +4         |                                Exception Handling                                 |      5       |
-|   8   |        +5         |                                   Cyclic Graph                                    |      6       |
-|   9   |        +5         |                           Attribute Improvement, Feats                            |      6       |
-|  10   |        +6         |                                     Overclock                                     |      6       |
+| Level | Proficiency Bonus |                            Features                            | Powers Known |
+| :---: | :---------------: | :------------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Conduit Casting, Injection Attack, Power Supply: Siphon |      3       |
+|   2   |        +2         |                         Random Access                          |      4       |
+|   3   |        +2         |                  Attribute Improvement, Feats                  |      4       |
+|   4   |        +3         |                          Cyclic Graph                          |      4       |
+|   5   |        +3         |                        Buffer Underflow                        |      5       |
+|   6   |        +4         |                  Attribute Improvement, Feats                  |      5       |
+|   7   |        +4         |                     Power Supply: Recharge                     |      5       |
+|   8   |        +5         |                        Fault Tolerance                         |      6       |
+|   9   |        +5         |                  Attribute Improvement, Feats                  |      6       |
+|  10   |        +6         |                           Overclock                            |      6       |
 
 ## Features
 
@@ -34,11 +34,7 @@
 
 Charges stored in your weapon are not lost when you miss. If your basic attack hits more than one creature, choose one to affect with your charge.
 
-### Buffer Overflow
-
-**Level:** 1
-
-**Effects:** After you hit with a charge, you may pay 2 essence to chain to a new target within 2 tiles. This can chain indefinitely, but each creature can only be hit by the same charge once. Make a new attack for each target.
+After you hit with a charge, you may pay 2 essence to chain to a new target within 2 tiles. This can chain indefinitely, but each creature can only be hit by the same charge once. Make a new attack for each target.
 
 ### Injection Attack
 
@@ -46,46 +42,46 @@ Charges stored in your weapon are not lost when you miss. If your basic attack h
 
 **Effects:** After you hit a creature with an attack, you may pay 1 essence to teleport into an empty tile adjacent to any creature you hit.
 
-### Power Supply: Recharge
+### Power Supply: Siphon
 
 **Level:** 1
 
-**Effects:** Gain an essence recovery feature based on your subclass.
-
-### Power Supply: Siphon
-
-**Level:** 2
-
-**Effects:** Downtime activity to draw on source of power based on your subclass.
-
-### Attribute Improvement
-
-**Level:** 3
-
-**Effects:** Increase one Attribute of your choice by 1.
-
-### Feats
-
-**Level:** 3
-
-**Effects:** Gain a new combat feat and a new exploration feat.
-
-### Alternating Current
-
-**Level:** 4
-
-**Effects:** At the start of combat, choose a **polarity**. While your polarity is positive, you have advantage on basic attacks. While it is negative, you have advantage on special attacks.
-
-At the start of each of your turns, swap polarity.
+**Effects:** Gain access to a downtime activity to draw on source of power based on your subclass.
 
 ### Random Access
 
-**Level:** 5
+**Level:** 2
 
 **Effects:** Draw twice as many random ingredients and recipes to to select from when using Enchant, Devise or Harvest.
 
 ### Attribute Improvement
 
+**Level:** 3
+
+**Effects:** Increase one Attribute of your choice by 1.
+
+### Feats
+
+**Level:** 3
+
+**Effects:** Gain a new combat feat and a new exploration feat.
+
+### Cyclic Graph
+
+**Level:** 4
+
+**Effects:** Once during your turn, you can revisit the same creature while chaining attacks with your charge. This allows you to chain from a creature to itself a single time.
+
+### Buffer Underflow
+
+**Level:** 5
+
+**Effects:** Whenever you roll a 1 on a skill check, treat it as a 20 instead.
+
+This effect modifies your natural roll: it applies before advantage or disadvantage.
+
+### Attribute Improvement
+
 **Level:** 6
 
 **Effects:** Increase one Attribute of your choice by 1.
@@ -96,11 +92,11 @@ At the start of each of your turns, swap polarity.
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Cyclic Graph
+### Power Supply: Recharge
 
 **Level:** 7
 
-**Effects:** Once during each chain, you can revisit the same creature. This allows you to chain from a creature to itself a single time.
+**Effects:** Gain an essence recovery feature based on your subclass.
 
 ### Fault Tolerance
 
@@ -132,40 +128,40 @@ When you change your gear loadout or complete a rest, gain 1 stack of exhaustion
 
 ### Capacitator Crystals
 
-#### Recharge: Batteries Not Included
-
-Double any essence gained from consumables.
-
 #### Siphon: Solid State
 
 Instead of rolling your skill check when you use the Harvest downtime activity, you may choose to treat your skill check result as if you had rolled a 15. If you do, you may only choose to gain essence crystals.
 
+#### Recharge: Batteries Not Included
+
+Double any essence gained from consumables.
+
 ### Soulwell
-
-#### Recharge: Reservoir
-
-You have advantage on skill checks made as part of the Essence Tap action. Essence Tap restores all of your essence, rather than half.
 
 #### Siphon: Preprocessing
 
 Whenever you use the Prepare downtime activity, gain its benefits a second time.
 
+#### Recharge: Reservoir
+
+You have advantage on skill checks made as part of the Essence Tap action. Essence Tap restores all of your essence, rather than half.
+
 ### Geomancy
-
-### Recharge: Regenerative Resistors
-
-Whenever you lose life due to elemental damage, restore 1 essence. If it was due to one of your charges, restore 2 essence instead.
 
 #### Siphon: Control Flow
 
 Advantage on all skill checks made to use the Enchant downtime activity.
 
+### Recharge: Regenerative Resistors
+
+Whenever you lose life due to elemental damage, restore 1 essence. If it was due to one of your charges, restore 2 essence instead.
+
 ### Higher Authority
+
+#### Siphon: Error Correction
+
+Gain access to Error Correction downtime activity. When you use this downtime activity, make a difficulty 15 Focus (Insight) skill check. If you succeed, gain a resolve.
 
 #### Recharge: Reflection
 
 You have advantage on all skill checks made to use the Recover action.
-
-#### Siphon: Error Correction
-
-Downtime activity: make a difficulty 15 Focus (Insight) skill check. If you succeed, gain a resolve.
