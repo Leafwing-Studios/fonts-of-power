@@ -171,6 +171,7 @@ Whenever a creature within 2 tiles of you, including yourself, loses life due to
 #### Transformation: Shining Hope
 
 When you hit a creature with an attack or use the Treat action, grant either yourself or the nearest ally a powerful boon. That creature chooses one of the following effects, which lasts until the end of your next turn:
+
 - advantage on all attacks
 - resistance to damage
 - immunity to the effects of all ailments and afflictions
@@ -178,7 +179,7 @@ When you hit a creature with an attack or use the Treat action, grant either you
 This effect can only occur once per round, resetting at the start of your turn.
 
 You can fly. If you could already fly, you are immune to the rooted ailment and cannot be grappled while flying.
-When you transform, you may gain the benefits of the Take Flight action. 
+When you transform, you may gain the benefits of the Take Flight action.
 
 #### Outburst: Uplift
 

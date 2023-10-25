@@ -2,7 +2,8 @@
 
 Essence is the spark of life, and, whether by accident or design, it can flow through the corpses of the fallen to bring them back, suspending their life force in a state between life and death. Unlike other creatures, they lack the ability to generate essence of their own, and must instead gather it from living sentient creatures around them.
 
-This creates an uneasy tension between the living and undead: once beloved parts of their communities and lives, the undead must now subsist on the energy of the living. While this process leaves no lasting negative effects, it is a decidedly eerie sensation. At the same time, the undead are fully sentient creatures: capable of suffering and morality just the same as any other species, leaving their role in society a controversial moral topic.
+This creates an uneasy tension between the living and undead: once beloved parts of their communities and lives, the undead must now subsist on the energy of the living. While this process leaves no lasting negative effects, it is a decidedly eerie sensation.
+At the same time, the undead are fully sentient creatures: capable of suffering and morality just the same as any other species, leaving their role in society a controversial moral topic.
 
 <div class="side-panel">
 
@@ -41,7 +42,8 @@ This creates an uneasy tension between the living and undead: once beloved parts
 
 **Play Dead:** When you use the Lie Down action, you are indistinguishable from a dead creature so long as you do not spend movement or take any actions. You may use the Lie Down action as a reaction whenever you take damage.
 
-**Empty Shell:** You do not need to eat, drink, or breathe. In fact, you couldn't even if you tried. Instead, you must consume essence directly to survive, nibbling on the constantly regenerating life force of nearby living creatures or feasting on the escaping souls of the recently dead. Each day that you fail to harvest the soul of a sentient creature, or each month that you fail to consume the soul of a dead creature, you suffer exhaustion as if you had failed to eat.
+**Empty Shell:** You do not need to eat, drink, or breathe. In fact, you couldn't even if you tried. Instead, you must consume essence directly to survive, nibbling on the constantly regenerating life force of nearby living creatures or feasting on the escaping souls of the recently dead.
+Each day that you fail to harvest the soul of a sentient creature, or each month that you fail to consume the soul of a dead creature, you suffer exhaustion as if you had failed to eat.
 
 ## Risen
 

@@ -136,7 +136,7 @@ If you fail by 5 or more, gain a stack of exhaustion.
 
 **Level:** 5
 
-You learn to take over the body of one of your creatures. 
+You learn to take over the body of one of your creatures.
 After a brief time in a calm environment (not in combat), you enter into a trance, becoming unable to move or take any actions but retaining a vague sense of the state of your own surroundings.
 Instead, you control that creature directly, gaining access to any senses and abilities it may have as you are connected by a telepathic link.
 Remember, although it gains your decision making ability and intelligence, it can't do anything that it couldn't physically do before (like speaking).

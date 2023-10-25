@@ -6,7 +6,8 @@
 
 ## Delegation
 
-**Effects:** When using your Many Hands Make Light Work class feature, rather than choosing to gain advantage on the skill check, you may instead choose to gain the benefits of an additional downtime activity. If you fail the skill check, you do not gain the benefit of the chosen downtime activity, as your creatures failed to complete the task unsupervised. (You still gain the benefits of the downtime activity that you chose to perform yourself.)
+**Effects:** When using your Many Hands Make Light Work class feature, rather than choosing to gain advantage on the skill check, you may instead choose to gain the benefits of an additional downtime activity. If you fail the skill check, you do not gain the benefit of the chosen downtime activity, as your creatures failed to complete the task unsupervised.
+(You still gain the benefits of the downtime activity that you chose to perform yourself.)
 
 ## Effortless Coordination
 
