@@ -134,11 +134,7 @@ Their damage is affected by your Presence, not Prowess, and their attack roll is
 
 **Level:** 10
 
-**Effects:** Gain access to the Thousand Cuts action.
-
-**Thousand Cuts:** 3AP, 5 momentum. Gain the benefits of the Strike, Grapple, or one of your known counterattack actions without paying its cost. Repeat this for a total of 5 attacks. You may choose different targets for each attack, but the selected action must be the same.
-
-After you use an action that cost AP or essence, if you hit at least one target with an attack as part of that action, gain one stack of **momentum**.
+**Effects:** Once per turn after you hit a creature with an attack, you may make an attack of opportunity against them. Then, you may spend essence equal to the AP spent on this attack of opportunity. If you do, refund the AP spent.
 
 ## Weapon Bonds
 
