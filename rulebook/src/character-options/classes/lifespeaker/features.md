@@ -213,7 +213,6 @@ When you gain this feature or use the Splice downtime activity, choose a bonus t
 
 - Your creature's critical hit threshold is reduced to 1.
 - Damage dealt by your creature may not be prevented in any way, it is immune to forced movement and it cannot be knocked prone.
-- Your creature is immune to the effects of ailments and is immune to damage from afflictions.
 - Your creature has resistance to all damage. It may Block single-target offensive actions that target any creature in its zone of control. When it does, it suffers all effects of that action rather than them.
 - Your creature may grapple any number of creatures at once. Its Grapple action only costs 1 AP.
 
