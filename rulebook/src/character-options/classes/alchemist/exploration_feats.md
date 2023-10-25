@@ -47,3 +47,7 @@
 ## Pharmacist
 
 **Effects:** You have advantage on Medicine skill checks made to treat diseases or heal the injured. (This applies to the Tend downtime activity.)
+
+## Equivalent Exchange
+
+**Effects:** When you use the Resurrect downtime activity, you may choose to automatically succeed. If you do, die.
