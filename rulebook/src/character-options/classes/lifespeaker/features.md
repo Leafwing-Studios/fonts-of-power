@@ -205,7 +205,7 @@ At the end of combat, the party loses one resolve for each resolve gained this w
 
 #### Horde: Overwhelming Numbers
 
-Once during your turn, you or one of your creatures may ignore the AP cost of an action while making an attack of opportunity.
+Twice during your turn, you or one of your creatures may ignore the AP cost of an action while making an attack of opportunity.
 
 #### Absolute Unit: Raw Power
 
