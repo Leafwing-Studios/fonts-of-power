@@ -38,9 +38,9 @@ At the same time, the undead are fully sentient creatures: capable of suffering 
 
 ## Features
 
-**Undying:** You have advantage on all skill checks made to maintain your concentration while at death’s door.
+**Undying:** You have advantage on all skill checks made to maintain your concentration while on death’s door.
 
-**Play Dead:** When you use the Lie Down action, you are indistinguishable from a dead creature so long as you do not spend movement or take any actions. You may use the Lie Down action as a reaction whenever you take damage.
+**Play Dead:** When you use the Lie Down action, you are indistinguishable from a dead creature so long as you do not take any actions. You may use the Lie Down action as a reaction whenever you take damage.
 
 **Empty Shell:** You do not need to eat, drink, or breathe. In fact, you couldn't even if you tried. Instead, you must consume essence directly to survive, nibbling on the constantly regenerating life force of nearby living creatures or feasting on the escaping souls of the recently dead.
 Each day that you fail to harvest the soul of a sentient creature, or each month that you fail to consume the soul of a dead creature, you suffer exhaustion as if you had failed to eat.
@@ -58,7 +58,7 @@ Sometimes other souls inhabit the bodies of those now dead. They come back with 
 |   5   | This was my original body.                       |
 |   6   | This new form is what I’d always wished to be.   |
 
-Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Manual Dexterity features.
+Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Resilient features.
 
 You may also select feats from their species feats lists.
 
@@ -73,9 +73,9 @@ You may also select feats from their species feats lists.
 |   5   | I embrace it as part of a rebellious aesthetic.            |
 |   6   | I love to play spooky pranks on small children.            |
 
-**Blindsight:** Lacking eyeballs, you can no longer see in the usual fashion. Instead, you gain an innate awareness of the 6 tiles around your skull as if you could see in bright light. Within this radius, you are immune to the blinded ailment and shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded ailment.
+**Blindsight:** Lacking eyeballs, you can no longer see in the usual fashion. Instead, you gain an innate awareness of the 4 tiles around your skull as if you could see in bright light. Within this radius, you are immune to the blinded ailment and shroud effects. Outside of this radius, you are treated as if you were suffering from the blinded ailment.
 
-**Detachable:** You may detach and reattach parts of your body at will, controlling them freely so long as they are within 6 tiles of your skull. Detached body parts have advantage on stealth skill checks.
+**Detachable:** You may detach and reattach parts of your body at will, controlling them freely so long as they are within 4 tiles of your skull. Detached body parts have advantage on Stealth skill checks.
 This ability has no effect in combat.
 
 ## Spectre
@@ -93,4 +93,4 @@ This ability has no effect in combat.
 
 **Fade:** You can no longer use your Play Dead species feature. Instead, gain access to the Fade action.
 
-1 AP: You may pass through solid objects (but not weapons or effects) and become invisible until the end of your next turn. Gain 1 stack of exhaustion.
+1 AP: You may pass through solid objects (but not weapons or effects) and become invisible until the end of your next turn. Make a difficulty 15 Focus(Arcana) skill. If you fail, gain 1 stack of exhaustion.

@@ -51,7 +51,7 @@ Playful as the birds that sing in the forests, the kindred of the Spring toy wit
 
 **Relentless Mockery:** You gain access to the Relentless Mockery power.
 
-1 AP: Make a special attack against Presence with advantage against a creature within 6 tiles, applying one stack of crazed if you hit.
+1 AP: Make a special attack against Presence against a creature within 6 tiles, applying one stack of crazed if you hit.
 
 **Ceremony of the Blooming Flowers:** As a downtime activity, you may perform the Ceremony of the Blooming Flowers. All party members (including yourself) have advantage on skill checks made to perform the Enchant downtime activity during this rest. Gain the benefit of the Enchant downtime activity.
 
@@ -70,7 +70,7 @@ Industrious as bees building up their hive, the kindred of the Summer welcome gu
 
 **Honeyed Words:** You gain access to the Honeyed Words power.
 
-1 AP: Make a special attack against Presence with advantage against a creature within 6 tiles, applying one stack of pacified if you hit.
+1 AP: Make a special attack against Presence against a creature within 6 tiles, applying one stack of pacified if you hit.
 
 **Ceremony of the Beating Sun:** As a downtime activity, you may perform the Ceremony of the Beating Sun. All party members (including yourself) have advantage on skill checks made as part of Attrition Scenes until the end of your next rest.
 
@@ -89,7 +89,7 @@ Calm as the trees that surround them, the kindred of the Autumn treat visitors t
 
 **Bleak Rebuke:** You gain access to the Bleak Rebuke power.
 
-1 AP: Make a special attack against Presence with advantage against a creature within 6 tiles, applying one stack of withered if you hit.
+1 AP: Make a special attack against Presence against a creature within 6 tiles, applying one stack of withered if you hit.
 
 **Ceremony of the Bountiful Harvest:** As a downtime activity, you may perform the Ceremony of the Bountiful Harvest. All party members (including yourself) have advantage on skill checks made to perform the Harvest downtime activity during this rest. Gain the benefit of the Harvest downtime activity.
 
@@ -108,6 +108,6 @@ Haughty as a chilly breeze, the kindred of the Winter are completely unintereste
 
 **Chilly Reproach:** You gain access to the Chilly Reproach power.
 
-1 AP: Make a special attack against Presence with advantage against a creature within 6 tiles, applying one stack of chilled if you hit.
+1 AP: Make a special attack against Presence against a creature within 6 tiles, applying one stack of chilled if you hit.
 
 **Ceremony of the Tranquil Snow:** As a downtime activity, you may perform the Ceremony of the Tranquil Snow. All party members (including yourself) have advantage on Insight skill checks made before the end of your next rest.

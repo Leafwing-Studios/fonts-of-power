@@ -125,7 +125,7 @@ Choose one:
 Essence crystals can always be used as consumables, restoring 5 essence on use.
 
 Concentrated magic is dangerous stuff!
-Each time after the first that you use this action you risk **essence overload**.
+Each time after the first during a single combat that you use this action you risk **essence overload**.
 Make a Focus (Endurance) skill check.
 Gain 3 stacks of exhaustion, reduced by 1 for every 10 points of your skill check result.
 

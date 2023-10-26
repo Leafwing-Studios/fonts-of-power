@@ -33,11 +33,11 @@ They come in all shapes and sizes: some bestial, and others more humanoid. No ma
 **Untamed:** Your body is an effective weapon all on its own: whether you have sharp teeth, piercing talons or incredible strength.
 Create a set of arms using the standard rules which have a gear point total of 2.
 You always have them equipped, and they do not count as one of the two sets of arms you can equip.
-These arms have the _desperate_ affix, which does not count against their gear point total.
+These arms have the _desperate_ affix, which does not count against their gear point total and cannot be removed.
 
 <div class="inline-box">
 
-**Desperate:** While at death's door, your attacks are automatically criticals if they hit.
+**Desperate:** While on death's door, your attacks are automatically criticals if they hit.
 
 </div>
 
@@ -105,7 +105,7 @@ These arms have the _desperate_ affix, which does not count against their gear p
 
 **Carry Off:** You have advantage on skill checks made to maintain a grapple. When you move, you may apply the same amount of forced movement (in the same direction) to the creature you are grappling.
 
-**What Big Teeth You Have:** You have advantage on any Charm skill checks made to intimidate or scare others.
+**What Big Teeth You Have:** You have advantage on any skill check made to intimidate or scare others.
 
 ### Prey
 

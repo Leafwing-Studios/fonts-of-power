@@ -31,9 +31,9 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 
 ## Features
 
-**Insatiable Curiosity:** You may use the Activate action one more time each combat before suffering essence overload.
+**Insatiable Curiosity:** Whenever you suffer essence overload due to using the Activate action, the party gains a Resolve.
 
-**Scavenger:** You have advantage on all skill checks made during the Devise downtime activity.
+**Scavenger:** You have advantage on all skill checks made during the Devise and Disenchant downtime activities.
 
 ### Life-Collector
 
@@ -61,7 +61,7 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 | 5    | I think they’re all secretly one entity.                               |
 | 6    | They are all sacred and worthy of sincere worship.                     |
 
-**Syncretic Vestments:** Your Dodge reaction uses Focus (Fontcraft) rather than Agility (Athletics) for the skill check made. You may now use the Dodge reaction to avoid the effects of Focus attacks.
+**Syncretic Vestments:** Your Dodge reaction uses Focus (Fontcraft) skill checks rather than Agility (Athletics). You may now use the Dodge reaction to avoid the effects of any attack.
 
 **Devotee of the Lost Gods:** You are proficient in Fontcraft.
 
@@ -76,6 +76,21 @@ The color of these eyes portrays their favorite sort of magical item, drawn to t
 | 5    | I’m too busy improving on my designs to actually use them for much. |
 | 6    | They make my life easier in mundane ways.                           |
 
-**Indestructible Contraption:** At the start of each of your turns, gain 2 absorption for each unique ailment that you have.
+**Whirring Carapace:** Whenever you spend essence, gain 1 absorption for each point of essence spent.
 
 **Mad Science:** You are proficient in Tinkering.
+
+### Academy-Rat
+
+| Roll | What do you focus your academic research on? |
+| ---- | -------------------------------------------- |
+| 1    | The fundamental nature of magic.             |
+| 2    | The myseries of the fonts of power.          |
+| 3    | The study of life and resurrection.          |
+| 4    | The invention of new enchantments.           |
+| 5    | The relationship between the elements.       |
+| 6    | The means by which souls produce essence.    |
+
+**Dignified Regalia:** At the start of each of your turns, make a difficulty 10 Focus (Arcana) skill check. If you succeed, remove one stack of an ailment of your choice from yourself.
+
+**Lore Seeker:** You are proficient in Arcana.

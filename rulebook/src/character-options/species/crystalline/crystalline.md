@@ -38,7 +38,7 @@ The Geodes stand apart from these two factions, largely shunned for their freaki
 
 ## Features
 
-**Prismatic Lens:** Whenever you would make an attack that deals elemental damage and do not already have disadvantage on that attack, you may take disadvantage on that attack in order to select a new type of elemental damage for that attack.
+**Perfect Conduit:** You may use the Activate action once more per combat before risking essence overload.
 
 **Crystalline Harvest:** Whenever you or a party member uses the Harvest downtime activity, you may choose to gain twice as many essence crystals as usual by gathering the essence crystals from your own body.
 If you do, gain one stack of exhaustion.
@@ -77,7 +77,7 @@ If you do, gain one stack of exhaustion.
 
 **Resonance:** After you take elemental damage, gain resistance to that elemental damage type. Lose any resistance previously gained by this effect.
 
-**Perfectionist:** You are proficient in Tinkering.
+**Perfectionist:** You have proficiency in Craftsmanship.
 
 ### Geode
 
@@ -90,8 +90,6 @@ If you do, gain one stack of exhaustion.
 |   5   | I long for acceptance, and hate that I must be different.          |
 |   6   | I want to change Crystalline society to fix it.                    |
 
-**Stony Patience:** Whenever you end your turn without having taken an offensive action, gain advantage on all attacks made next turn.
-
-**Hidden Splendor:** You ignore any damage resistance when dealing elemental damage. This feature replaces your Prismatic Lens feature granted by the Crystalline species.
+**Stony Patience:** Whenever you end your turn without having taken an offensive action, gain advantage on all attacks made until the end of your next turn.
 
 **Self Reflection:** You are proficient in Insight.

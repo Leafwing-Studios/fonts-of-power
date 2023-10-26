@@ -39,7 +39,7 @@ Some scrappy cities dominated by automata have begun to form, priding themselves
 
 ## Features
 
-**Inexhaustible:** Exhaustion no longer applies a penalty to your attack rolls.
+**Inexhaustible:** Exhaustion no longer applies a penalty to your attack rolls or skill checks in combat. This does not apply to skill checks made to avoid dying.
 
 **Clockwork Biology:** You are proficient in the Tinkering skill. Skill checks targeting you which use Anima or Medicine use Tinkering instead. This includes the relevant skill checks made as part of the Treat and Scan actions in combat.
 
@@ -75,7 +75,7 @@ Some scrappy cities dominated by automata have begun to form, priding themselves
 
 **Repurposed:** Your body is an effective weapon all on its own: industrial equipment is incredibly dangerous, if somewhat challenging to use in combat.
 
-Create a set of arms using the standard rules which have a gear point total of 2. You always have them equipped, and they do not count as one of the two sets of arms you can equip. These arms have the _wanton_ affix, which does not count against their gear point total. You can modify their affixes using the Craft or Enchant downtime activities.
+Create a set of arms using the standard rules which have a gear point total of 2. You always have them equipped, and they do not count as one of the two sets of arms you can equip. These arms have the _wanton_ affix, which does not count against their gear point total and cannot be removed. You can modify their affixes using the Craft or Enchant downtime activities.
 
 <div class="inline-box">
 

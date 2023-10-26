@@ -75,6 +75,6 @@ Whether they were tragic victims of a magical accident or saved from the brink o
 
 While they may share the basic features of the species they once were, every mutant must live with the powers they have gained for the rest of their life.
 
-Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Manual Dexterity features.
+Gain the features of another base species of your choice instead of any subspecies features. If you select human, gain their Adaptable and Resilient features.
 
 You may also select feats from their species feats lists.

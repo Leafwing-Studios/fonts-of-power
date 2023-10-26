@@ -35,8 +35,8 @@ The diversity of the human species is its greatest strength: no two are quite th
 
 **Adaptable:** At the start of each of your turns, you may immediately take Swap action without paying its AP cost.
 
-**Natural Talent:** Choose a feat from the Universal Combat feat list or your class combat feat list.
+**Resilient:** Once per rest, after you make a skill check, you may choose to reroll it. You must use the new results.
 
-**Hard-Won Skill:** Choose a feat from the Universal Exploration feat list or your class exploration feat list.
+**Natural Talent:** Gain a combat feat of your choice.
 
-**Strongly-held Beliefs:** Whenever you gain a resolve, remove one stack of exhaustion.
+**Hard-Won Skill:** Gain an exploration feat of your choice.
