@@ -14,8 +14,6 @@
 
 **Target:** Single target
 
-**Type:** None
-
 **Effects:** Until the end of your next turn, creatures targeted by this concoction are immune to damage.
 If this concoction is multi-target, they gain resistance to all damage instead.
 
@@ -67,11 +65,9 @@ If this concoction is multi-target, they gain advantage on all attacks instead.
 
 **Target:** Single target
 
-**Effects:** Make a Prowess attack against a creature of your choice within range. If you hit, add 6 + Presence stacks of blinded, cursed, drained, or withered in a combination of your choice. If this attack is multi-target, you must choose the same combination to apply to all creatures hit when you first use this spell.
+**Effects:** Make a Prowess attack against a creature within range. If you hit, add 6 + Presence stacks of blinded, cursed, drained, or withered in any combination of your choice.
 
-## Ultimate Concealer
-
-**Category:** Defensive
+## Warping Extract
 
 **AP:** 2
 
@@ -81,12 +77,11 @@ If this concoction is multi-target, they gain advantage on all attacks instead.
 
 **Range:** 3
 
-**Type:** None
+**Type:** Expertise
 
 **Target:** Single target
 
-**Effects:** Choose a creature within range. Until the end of your next turn, they are invisible. They immediately gain the benefit of the Hide and Move action.
-If this concoction is multi-target, they do not gain the benefit of the Move action.
+**Effects:** Make an Expertise attack againts a creature within range. If you hit, teleport them to an empty tile of your choice within 4 tiles. If they are an ally, grant them 6 + Presence absorption. If they are an enemy, apply 6 + Presence stacks of unstable.
 
 ## Borrowed Wings
 
@@ -105,7 +100,7 @@ If this concoction is multi-target, they do not gain the benefit of the Move act
 **Effects:** Choose a creature within range. Until the end of your next turn, they can fly. They immediately gain the benefits of the Take Flight and Move action.
 If this concoction is multi-target, they do not gain the benefit of the Move action.
 
-## High Explosives
+## Explosive Push
 
 **AP:** 2
 
@@ -171,26 +166,6 @@ If the creature targeted collides with an immovable object (or a creature that i
 **Target:** Single target
 
 **Effects:** Make an Agility attack against a creature of your choice within range. Deal 2d6 + 2 * Presence electric damage to them. Apply one stack of jolted to thme for each point of damage dealt. If you miss, deal half as much damage instead.
-
-## Concentrated Luck
-
-**AP:** 2
-
-**Essence:** 3
-
-**Category:** Utility
-
-**Range:** 3
-
-**Type:** None
-
-**Target:** Single target
-
-**Effects:** Choose a creature within range. Until the end of your next turn, treat all skill checks made by your target as if they had rolled a 20.
-If this effect is multi-target, affected creatures may instead choose to reroll any skill check they make during this duration.
-They must use the new results.
-
-This concoction has no effect outside of combat.
 
 ## Professor Percival's Patent Pending Panacea
 
@@ -260,7 +235,7 @@ When you no longer have any stacks of crazed, remove the mad with power conditio
 
 **Target:** Single target
 
-**Effects:** Make a Focus attack against a creature of your choice within range. If you hit, trigger all of their afflictions twice. If you miss, trigger all of their afflictions once.
+**Effects:** Make a Focus attack against a creature of your choice within range. If you hit, trigger all of their afflictions twice. If you miss, trigger all of their afflictions once instead.
 If this concoction is multitarget, instead select a single affliction to trigger. This choice must be the same for all targets.
 
 ## Time Tonic
@@ -281,8 +256,8 @@ If this concoction is multitarget, instead select a single affliction to trigger
 Generally this means:
 
 1. Remove all temporary boons from that creature. Boons with a duration of concentration are unaffected.
-2. Trigger any start of turn effects for that creature. This commonly includes tile effects, reducing their absorption and gaining absorption from affixes like absorptive, or choosing any effects like paragon's aura that occur at the start of the turn.
-3. Trigger any end of turn effects for that creature. This commonly includes gaining action points, reducing the stacks of ailments and afflictions that they have or resolving any end of turn effects like a weaver's patterns.
+2. Trigger any start of turn effects for that creature. This commonly includes tile effects, reducing their absorption, gaining absorption from affixes like absorptive, and choosing any effects like paragon's aura.
+3. Trigger any end of turn effects for that creature. This commonly includes gaining action points, reducing the stacks of ailments and afflictions that they have, and resolving any end of turn effects like a weaver's patterns.
 
 ## Folded Space
 
@@ -314,7 +289,7 @@ Generally this means:
 
 **Target:** Single target
 
-**Effects:** Make a Prowess attack against a creature of your choice within range. If you hit, deal 2d8 + 2*Presence damage and apply 2 stacks of chilled. If you miss, deal half that much damage and only apply 1 stack of chilled instead.
+**Effects:** Make a Prowess attack against a creature of your choice within range. If you hit, deal 2d8 + 2 * Presence damage and apply 2 stacks of chilled. If you miss, deal half that much damage and only apply 1 stack of chilled instead.
 
 ## Earth Fissure
 
@@ -330,4 +305,20 @@ Generally this means:
 
 **Target:** Single target
 
-**Effects:** Make an Agility attack against a creature of your choice within range. If you hit, deal 3d6 + 3*Presence earth damage and knock them prone. If you miss, they must move into an adjacent empty tile of their choice. If they cannot, this attack automatically hits.
+**Effects:** Make an Agility attack against a creature of your choice within range. If you hit, deal 3d6 + 3 * Presence earth damage and knock them prone. If you miss, they must move into an adjacent empty tile of their choice. If they cannot, this attack automatically hits.
+
+## Tormenting Spirits
+
+**AP:** 2
+
+**Essence:** 3
+
+**Category:** Offensive
+
+**Range:** 3
+
+**Type:** Expertise
+
+**Target:** Single target
+
+**Effects:** When you gain this power, choose an affliction. Make an Expertise attack against a creature of your choice within range. If you hit, apply 12 + 2 * Presence stacks of the chosen affliction. If you miss, apply half that many stacks instead.

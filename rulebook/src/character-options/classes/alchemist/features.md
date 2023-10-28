@@ -191,7 +191,7 @@ Instead of casting this concoction, apply it to the arms of an adjacent ally, in
 
 Instead of casting this concoction, choose a tile within range 2. Create a ground effect there that casts the spell when triggered. After it is triggered, the ground effect is removed.
 
-This effect is fleeting: it cannot be prepared outside of combat, and only persists for a minute or two.
+This effect is fleeting: it only persists for a minute or two. Outside of combat, you may only prepare one trap in this way.
 
 #### Potion
 
@@ -199,11 +199,7 @@ Instead of casting this concoction, gain the benefit of the Treat action targeti
 
 #### Universal
 
-The altered copcoction targets every creature on the battlefield, other than yourself. This ignores line of sight, the hidden status and range, but not the banished ailment.
-
-#### Reckless
-
-You have disadvantage on attacks made with the altered concoction, but its critical hit threshold is reduced by 3.
+The altered copcoction targets every creature on the battlefield, other than yourself. This ignores line of sight, the hidden status, and range.
 
 ### Secret Ingredient
 
@@ -222,7 +218,7 @@ After you hit a creature with a concoction that uses this alteration, swap posit
 
 #### Insidious
 
-When you select this Twist, select an aliment. When using this twist on a concoction, convert all damage dealt into stacks of the selected ailment.
+When you select this Twist, select an affliction. When using this twist on a concoction, convert all damage dealt into stacks of the selected affliction.
 
 #### Excessive
 
