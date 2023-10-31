@@ -14,7 +14,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and apply 4 stacks of bleeding.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Expertise defense. This attack has half efficacy, but if you hit also apply 3 + 1/2 Presence stacks of bleeding.
 
 ## Distract
 
@@ -30,7 +30,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and apply one stack of taunted.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Focus defense. This attack has half efficacy, but if you hit also apply 1 stack of taunted.
 
 ## Dull
 
@@ -46,7 +46,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and apply one stack of blunted.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Focus defense. This attack has half efficacy, but if you hit also apply 1 stack of blunted.
 
 ## Evade
 
@@ -62,7 +62,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and you may move to an empty adjacent tile.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Agility defense. This attack has half efficacy, but if you hit shift once.
 
 ## Guard
 
@@ -78,7 +78,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and gain the benefits of the Defend action.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Prowess defense. This attack has half efficacy, but if you hit gain 6 + Presence absorption.
 
 ## Halt
 
@@ -94,7 +94,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and apply one stack of rooted.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Prowess defense. This attack has half efficacy, but if you hit also apply 1 stack of rooted.
 
 ## Overpower
 
@@ -110,7 +110,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and apply one stack of defenseless.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Prowess defense. This attack has half efficacy, but if you hit also apply 1 stack of defenseless.
 
 ## Pierce
 
@@ -126,7 +126,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy, ignoring absorption.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Expertise defense. This attack has half efficacy, but damage dealt by this attack cannot be prevented.
 
 ## Rout
 
@@ -142,7 +142,7 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and push one tile.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Prowess defense. This attack has half efficacy, but if you hit push the creature hit into an adjacent empty tile of your choice.
 
 ## Trip
 
@@ -158,4 +158,68 @@
 
 **Target:** Single target
 
-**Effects:** Weapon's effect at half efficacy and knocking prone.
+**Effects:** Make a weapon attack using your special attack bonus against your target's Agility defense. This attack has half efficacy, but if you hit knock them prone.
+
+## Disorient
+
+**AP:** 2
+
+**Essence:** 0
+
+**Category:** Offensive
+
+**Range:** Weapon
+
+**Type:** Focus
+
+**Target:** Single target
+
+**Effects:** Make a weapon attack using your special attack bonus against your target's Focus defense. This attack has half efficacy, but if you hit also apply one stack of blinded.
+
+## Uppercut
+
+**AP:** 2
+
+**Essence:** 0
+
+**Category:** Offensive
+
+**Range:** Weapon
+
+**Type:** Prowess
+
+**Target:** Single target
+
+**Effects:** Make a weapon attack using your special attack bonus against your target's Prowess defense. This attack has half efficacy, but if you hit also apply one stack of aloft.
+
+## Infuriate
+
+**AP:** 2
+
+**Essence:** 0
+
+**Category:** Offensive
+
+**Range:** Weapon
+
+**Type:** Presence
+
+**Target:** Single target
+
+**Effects:** Make a weapon attack using your special attack bonus against your target's Presence defense. This attack has half efficacy, but if you hit also apply 3 + 1/2 Presence stacks of rage.
+
+## Embrittle
+
+**AP:** 2
+
+**Essence:** 0
+
+**Category:** Offensive
+
+**Range:** Weapon
+
+**Type:** Expertise
+
+**Target:** Single target
+
+**Effects:** Make a weapon attack using your special attack bonus against your target's Expertise defense. This attack has half efficacy, but if you hit also apply 3 + 1/2 Presence stacks of brittle.
