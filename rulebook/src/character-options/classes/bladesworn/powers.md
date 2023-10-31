@@ -223,3 +223,21 @@
 **Target:** Single target
 
 **Effects:** Make a weapon attack using your special attack bonus against your target's Expertise defense. This attack has half efficacy, but if you hit also apply 3 + 1/2 Presence stacks of brittle.
+
+## Imbue
+
+**AP:** 2
+
+**Essence:** 0
+
+**Category:** Offensive
+
+**Range:** Weapon
+
+**Type:** Expertise
+
+**Target:** Single target
+
+**Effects:** Make a weapon attack using your special attack bonus against your target's Expertise defense. When you gain this power, choose a damage type. This attack deals damage of that type instead.
+
+You may select this power more than once.

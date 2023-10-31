@@ -2,43 +2,43 @@
 
 ## Opportunistic
 
-**Effects:** Enemies provoke an attack of opportunity whenever they move from a tile that is within your zone of control into another tile that is within your zone of control.
+**Effects:** You may make an attack of opportunity whenever an enemy moves from a tile that is within your zone of control into another tile that is within your zone of control.
 
 ## Relentless
 
-**Effects:** Enemies provoke an attack of opportunity whenever they use a defensive action.
+**Effects:** You may make an attack of opportunity whenever an enemy uses a defensive action.
 
 ## Collaborative
 
-**Effects:** Enemies provoke an attack of opportunity whenever they take damage from another source, rather than when they lose life.
+**Effects:** You may make an attack of opportunity whenever an enemy takes damage from another source, rather than when they lose life.
 
 ## Savage
 
-**Effects:** Enemies provoke an attack of opportunity whenever they gain the prone status.
+**Effects:** You may make an attack of opportunity whenever an enemy becomes prone.
 
 ## Watchful
 
-**Effects:** At the start of your turn, choose up to 3 adjacent tiles. Enemies provoke an attack of opportunity when they enter those tiles.
+**Effects:** At the start of your turn, choose up to 3 adjacent tiles. You may make an attack of opportunity whenever an enemy enters those tiles.
 
 ## Mark
 
 **Effects:** 1 AP: choose a creature within range 6. The next time they spend AP before the start of your next turn, you may make an attack of opportunity against them.
 
-## Powerful Stance
+## Boulder Stance
 
-**Effects:** Stance: You have disadvantage on all attacks. Forced movement you apply is doubled.
+**Effects:** Stance: You cannot use movement actions. Forced movement you apply is doubled.
 
 ## Deliberate Stance
 
-**Effects:** Stance: You have disadvantage on all attacks. Immediately gain the benefit of the Recover action when you hit with an attack.
+**Effects:** Stance: Double all essence spent. Gain the benefit of the Recover action when you hit with an attack.
 
-## Versatile
+## Perpetual Student
 
-**Effects:** When you pick this feat, gain the stance of a Bond other than your own.
+**Effects:** When you pick this feat, gain the stance of a Bond other than your own. You may select this feat more than once.
 
 ## Transforming Armaments
 
-**Effects:** Select a total of 3 forms for your weapon, selecting a mundane base for each. When you use the Swap action, you may change which form you have equipped.
+**Effects:** Select a total of 3 forms for your weapon, selecting a mundane base for each. When you use the Swap action, you may change which form you have equipped. You may alter these forms using the standard crafting rules.
 
 ## Imposing
 
