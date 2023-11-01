@@ -18,7 +18,7 @@
 
 **Target:** Single-target
 
-**Effects:** Deal 1d8 + Presence, pull 2 tiles towards previous member of chain.
+**Effects:** Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d8 + Presence electric damage, then pull the target 2 tiles towards previous member of chain.
 
 ## Water Jet
 
@@ -38,7 +38,7 @@
 
 **Target:** Single-target
 
-**Effects:** Deal 1d8 + Presence, push 2 tiles away from previous member of chain.
+**Effects:** Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d8 + Presence water damage, then push the target 2 tiles away from previous member of chain.
 
 ## Mocking Flames
 
@@ -58,7 +58,7 @@
 
 **Target:** Single-target
 
-**Effects:** Deal 1d8 + Presence fire damage, apply two stacks of taunted. Previous member of chain is object of taunted.
+**Effects:** Make a Presence attack against a creature of your choice within range. If you hit, deal 1d8 + Presence fire damage and apply two stacks of taunted. The previous member of the chain is the object of the taunted ailment.
 
 ## Rainbow Accumulation
 
@@ -78,7 +78,7 @@
 
 **Target:** Single-target
 
-**Effects:** Transfer all absorption, ailments and affliction to next target in chain.
+**Effects:** Make an Expertise attack against a creature of your choice within range. If you hit, transfer all absorption, ailments and affliction to next target in chain.
 
 ## Spectral Glow
 
@@ -98,9 +98,29 @@
 
 **Target:** Single-target
 
-**Effects:** Apply two stacks of frightened, two stacks of pacified. Previous member of chain is object of frightened.
+**Effects:** Make an Focus attack against a creature of your choice within range. If you hit, apply two stacks of frightened and two stacks of pacified. The previous member of chain is the object of the frightened ailment.
 
 ## Utter Chaos
+
+**Cycle:** Chaining
+
+**Element:** Umbral
+
+**AP:** 0
+
+**Essence:** 2
+
+**Category:** Offensive
+
+**Range:** 3
+
+**Type:** Focus
+
+**Target:** Single-target
+
+**Effects:** Make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of defenseless and crazed to them.
+
+## Hot Swap
 
 **Cycle:** Chaining
 
@@ -118,7 +138,7 @@
 
 **Target:** Single-target
 
-**Effects:** Swap with previous in chain. Apply two stacks of crazed.
+**Effects:** Make an Expertise attack against a creature of your choice within range. If you hit, swap their position with the previous creature in the chain via teleportation.
 
 ## Blue Flame Blast
 
@@ -138,7 +158,7 @@
 
 **Target:** Single-target
 
-**Effects:** Deal 1d8 + Presence fire damage and apply 2 stacks of chilled.
+**Effects:** Make an Agility attack against a creature of your choice within range. If you hit, deal 1d8 + Presence fire damage and apply 2 stacks of chilled.
 
 ## Corrupted Ice
 
@@ -158,7 +178,7 @@
 
 **Target:** Single-target
 
-**Effects:** Deal 1d8 + Presence water damage and apply 2 stacks of withered.
+**Effects:** Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d8 + Presence water damage and apply 2 stacks of withered.
 
 ## Piercing Ray
 
@@ -178,7 +198,7 @@
 
 **Target:** Single-target
 
-**Effects:** Deal 1d8 + Presence radiant damage and apply 2 stacks of defenseless.
+**Effects:** Make a Focus attack against a creature of your choice within range. If you hit, deal deal 1d8 + Presence radiant damage and apply 2 stacks of defenseless.
 
 ## Raging Storm
 
@@ -198,7 +218,7 @@
 
 **Target:** Single-target
 
-**Effects:** Deal 1d8 + Presence electric damage and apply 4 stacks of rage.
+**Effects:** Make an Presence attack against a creature of your choice within range. If you hit, deal Deal 1d8 + Presence electric damage and apply 4 stacks of rage.
 
 ## Dark Energy
 
@@ -218,7 +238,7 @@
 
 **Target:** Single-target
 
-**Effects:** Deal 1d8 + Presence umbral damage and apply 2 stacks of cursed.
+**Effects:** Make an Expertise attack against a creature of your choice within range. If you hit, deal Deal 1d8 + Presence umbral damage and apply 2 stacks of cursed.
 
 ## Wild Lightning
 
@@ -238,7 +258,7 @@
 
 **Target:** Single-target
 
-**Effects:** 1d12 + Presence electric damage. Hit or miss, apply 4 stacks of shock to you and your target.
+**Effects:** Make an Expertise attack against a creature of your choice within range. If you hit, deal 1d12 + Presence electric damage. Hit or miss, apply 4 stacks of shock to you and your target.
 
 ## Pure Pain
 
@@ -258,7 +278,7 @@
 
 **Target:** Single-target
 
-**Effects:** 1d12 + Presence umbral damage. Hit or miss, apply 4 stacks of anguish to you and your target.
+**Effects:** Make a Focus attack against a creature of your choice within range. If you hit, deal 1d12 + Presence umbral damage. Hit or miss, apply 4 stacks of anguish to you and your target.
 
 ## Roar of Fire
 
@@ -278,7 +298,7 @@
 
 **Target:** Single-target
 
-**Effects:** 1d12 + Presence fire damage. Hit or miss, apply 4 stacks of rage to you and your target.
+**Effects:** Make an Agility attack against a creature of your choice within range. If you hit, deal 1d12 + Presence fire damage. Hit or miss, apply 4 stacks of rage to you and your target.
 
 ## Bitter Cold
 
@@ -298,7 +318,7 @@
 
 **Target:** Single-target
 
-**Effects:** 1d12 + Presence water damage. Hit or miss, apply 2 stack of chilled to you and your target.
+**Effects:** Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d12 + Presence water damage. Hit or miss, apply 2 stack of chilled to you and your target.
 
 ## Searing Judgement
 
@@ -318,4 +338,4 @@
 
 **Target:** Single-target
 
-**Effects:** 1d12 + Presence radiant damage. Hit or miss, apply 4 stacks of temperance to you and your target.
+**Effects:** Make a Presence attack against a creature of your choice within range. If you hit, deal 1d12 + Presence radiant damage. Hit or miss, apply 4 stacks of temperance to you and your target.
