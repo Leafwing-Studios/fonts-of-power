@@ -96,4 +96,10 @@ For clarification, the source of the attacks for chained charges is the origin o
 
 **Effects:** At the start of combat, choose a **polarity**. While your polarity is positive, you have advantage on basic attacks. While it is negative, you have advantage on special attacks.
 
-At the start of each of your turns, swap polarity. When you use the Swap action, you may swap your polarity.
+At the start of each of your turns, swap polarity. When you use the Swap action, swap your polarity.
+
+### Short Circuit
+
+**Effects:** Increase the range of your charges, and the range at which they jump to a nearby target by 1 tile.
+Reduce the essence cost of jumping to a new target by 1.
+You must jump to a new target if able.
