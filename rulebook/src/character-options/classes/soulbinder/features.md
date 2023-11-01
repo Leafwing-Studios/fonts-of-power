@@ -42,6 +42,7 @@ Like always, if you hit multiple creatures with a single attack, you may choose 
 **Level:** 1
 
 **Effects:** 1 essence, 1 AP: affect yourself and dual with the chosen **pulse**.
+Each pulse has two effects, and you always choose one of them.
 
 You always know the following pulses:
 
@@ -50,6 +51,7 @@ You always know the following pulses:
 - the Distinctive Pulse that corresponds to your Qualia
 
 The "Pulses Known" column in your class summary table includes these 3 pulses.
+For example, at level one you would choose one pulse in addition to these three.
 
 ### Qualia: Backchannel
 
@@ -109,11 +111,11 @@ If your dual is aware of the bond, they may do likewise and attempt to send emot
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Close Contact
+### Bidirectional Bond
 
 **Level:** 7
 
-**Effects:** At the start of each of your turns, gain 4 absorption if you are adjacent to your dual.
+**Effects:** Whenever you use a pulse, you may spend 1 additional essence. If you do, gain both effects instead of choosing one.
 
 ### Qualia: Heightened Bond
 
@@ -145,27 +147,64 @@ If your dual is aware of the bond, they may do likewise and attempt to send emot
 
 #### Distinctive Pulse: Sweet Dreams
 
-Apply 6 + Presence absorption and 2 stacks of pacified to self. If you hit your dual with a focus attack, do the same to to them.
+**AP:** 1
+
+**Essence:** 1
+
+**Category:** Utility
+
+**Range:** 6
+
+**Type:** Focus
+
+**Target:** Dual
+
+**Effects:** A wave of calm, restful energy flows through your bond, as you lull them into restful dreams while sheltering them from harm. Choose one:
+- Apply 12 + 2 * Presence absorption and 2 stacks of pacified to yourself
+- Make a Focus attack against your dual. If you hit, apply 12 + 2 * Presence absorption and 2 stacks of pacified to them
 
 #### Backchannel: Soothing Touch
 
-Whenever you are hit by a basic or Shove attack, or the target of a successful Treat action, you may pay one essence to form a bond with the creature responsible.
+Whenever you are hit by a basic or Shove attack, or the target of a successful Treat action, you may spend one essence to form a bond with the creature responsible.
 
 #### Heightened Bond: Trance
 
 While outside of combat, you may choose to give up your own senses to share those of your dual. You gain no special ability to communicate with them.
 
-When relevant (such as when determining if someone is lying, or to notice a detail about the envrionment), you and your dual roll seperately for skill checks as if you were both physically present.
+When relevant (such as when determining if someone is lying, or to notice a detail about the environment), you and your dual roll seperately for skill checks as if you were both physically present.
 
 #### Soulbound: Figment of the Imagination
 
-1 essence: Disappear into your dual. Take the effects of all attacks they take. Cannot use actions other than Pulse. 1 essence to appear in empty adjacent tile.
+You learn to become one with the creature you are bound to, disappearing into their soul until you choose to break free once again. 
+
+Gain access to the Soulmeld action, which costs 0 AP and 1 essence. Become melded with your dual. While melded:
+
+- You are removed from the battlefield, and cannot be targeted by actions or attacks, or be affected by tile affects.
+- Ignore the effects of any ailments or afflictions on yourself.
+- Your bond with your dual cannot break.
+- You cannot use any actions other than Pulse, Soulmeld, Spot and Scan.
+- If you use the Soulmeld action again, you reappear in an empty adjacent tile of your choice.
+- At the start of each of your dual's turns, they may make an opposed Focus (Arcana) skill check against you. If they win, you are forced to unmeld immediately (but do not lose any essence). After being forced out in this way, you cannot meld with them again until you complete a rest.
 
 ### Hunger
 
 #### Distinctive Pulse: Blood Trail
 
-Gain benefit of Spot action targeting dual and move one tile closer to them. Make a Prowess attack against your dual. If you hit, apply 6 + Presence stacks of bleeding.
+**AP:** 1
+
+**Essence:** 1
+
+**Category:** Utility
+
+**Range:** 6
+
+**Type:** Presence
+
+**Target:** Dual
+
+**Effects:** A wound appears out of nowhere on the creature you are bound to and they are filled with a terrifying sense that they are being chased, causing them to leave a trail of blood behind them as they flee. Choose one:
+- Gain the benefit of the Move action twice. Until the start of your next turn, you cannot willingly move away from your dual if you know where they are.
+- Make a Presence attack against your dual. If you hit, apply 1 stack of frightened and 3 + 1/2 Presence stacks of bleeding.
 
 #### Backchannel: Scent of Blood
 
@@ -173,21 +212,35 @@ Whenever a creature within a 6 tile range loses life, you may pay 1 essence to f
 
 #### Heightened Bond: You Can Run
 
-Creatures automatically fail skill checks made to hide from you during chase scenes if you have been bound to them before.
+Creatures automatically fail skill checks made to hide from you if you have been bound to them before.
 
 #### Soulbound: Feast
 
-If your dual dies, you may choose to gain the benefits of Essence Tap without exhaustion. If you do, they cannot be resurrected.
+If your dual dies, you may choose to gain the benefits of Essence Tap without gaining any exhaustion. If you do, they cannot be resurrected.
 
 ### Plague
 
 #### Distinctive Pulse: Sickening Intensification
 
-Make a Prowess attack against your dual. If you hit, double all ailments and afflictions on both yourself and your dual.
+**AP:** 1
+
+**Essence:** 1
+
+**Category:** Utility
+
+**Range:** 6
+
+**Type:** Focus
+
+**Target:** Dual
+
+**Effects:** As your bond cures afflictions, so too does it apply new ones in turn. Choose one:
+- Make a Focus attack against your dual. If you hit, transfer all of your afflictions to them, then apply 6 + Presence stacks of anguish to yourself.
+- Make a Focus attack against your dual. If you hit, transfer all their afflictions to you, then apply 6 + Presence stacks of anguish to them.
 
 #### Backchannel: Contagion
 
-As an action, you may pay 1 essence to form a bond with a creature that is adjacent to your current dual.
+As an action, you may pay 1 essence to form a bond with any creature within a 1 tile range of your current dual.
 
 #### Heightened Bond: Apothecary
 
@@ -203,22 +256,29 @@ Whenever you use a pulse, you may transfer one stack of an ailment or up to two 
 
 #### Distinctive Pulse: Enforced Empathy
 
-Until the start of your next, whenever you or your dual:
+**AP:** 1
 
-- take damage
-- gain absorption
-- gain stacks of an affliction
-- gain stacks of an ailmnent
+**Essence:** 1
 
-Apply the same effect to your counterpart. If your dual is allied, allocate these effects freely between you instead.
+**Category:** Utility
+
+**Range:** 6
+
+**Type:** None
+
+**Target:** Dual
+
+**Effects:** The energy flowing through your bond offers tremendous power, but forces you and your dual to consider the consequences of your actions. Choose one:
+- Attacks you make before the end of your next turn are automatically criticals if you hit, but you also suffer any of the attacks’ effects.
+- The next attack your dual makes before the end of your next turn are automatically criticals if they hit, but they also suffer any of the attacks’ effects.
 
 #### Backchannel: Extension of Self
 
-Whenever your dual hits another creature with a basic or Shove attack, or successfully uses the Treat action on another creature, you may pay one essence to form a bond with the creature responsible.
+Whenever your dual hits another creature with a basic or Shove attack, or successfully uses the Treat action on another creature, you may pay one essence to form a bond with the targeted creature.
 
-#### Heightened Bond: Unity
+#### Heightened Bond: Communion
 
-You may communicate with your dual telepathically at all times. Your dual can respond, but does not automatically know that this is possible.
+Gain access to the Communion downtime activity. When you use this downtime activity, choose any creature, living or dead, that you have been bonded to before. During a moderate period of focused meditation, you (and only you) may communicate freely with them as if the two of you standing face-to-face.
 
 #### Soulbound: Balance in All Things
 

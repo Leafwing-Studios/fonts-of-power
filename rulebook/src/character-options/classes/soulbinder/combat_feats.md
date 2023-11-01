@@ -14,13 +14,9 @@ Whenever an allied dual loses life, you may use a pulse of your choice as a reac
 
 **Effects:** Shove actions on your dual have advantage and can be made at any range.
 
-## Personal Connection
-
-**Effects:** When you use the Bond downtime activity, you are bonded with that creature, in addition to the usual connection. Choose one whenever you use a pulse.
-
 ## Blind the Mind's Eye
 
-**Effects:** Dual treats any Spot action taken against you as if they had rolled a 1.
+**Effects:** Whenever your dual uses the Spot action targeting you, treat the result as if they had rolled a 1.
 
 ## Precognition
 
@@ -28,15 +24,11 @@ Whenever an allied dual loses life, you may use a pulse of your choice as a reac
 
 ## Soul Charging
 
-**Effects:** Whenever either party takes the Recover action, other party gains its effects.
-
-## Strange Bond
-
-**Effects:** At the end of each of your turns, choose one: make a Focus attack to apply one stack of the specified ailment to dual or remove one stack of the specified ailment from dual.
+**Effects:** Whenever either you or your dual takes the Recover action, the other also gains its effects.
 
 ## Parting Gift
 
-**Effects:** Whenever your connection breaks, you may use a pulse on previous partner as an AoO.
+**Effects:** Just before your connection to your dual would break, you may use one pulse on them as a reaction. Gain advantage on any attack rolls made.
 
 ## Immune System
 
@@ -48,18 +40,22 @@ Whenever an allied dual loses life, you may use a pulse of your choice as a reac
 
 **Prerequisites:** Plague subclass
 
-**Effects:** Your ailments and afflictions are not reduced at the end of each turn. Each turn, choose one ailment to ignore.
+**Effects:** Your ailments are not reduced at the end of each turn. At the start of each of your turns, choose one ailment to ignore.
 
 ## Lifeline
 
-**Effects:** You and allied dual can choose who takes damage, but share concentration. Whenever you lose life, your enemy dual loses 1 life.
+**Effects:** Whenever you or your allied dual would take damage, you may choose who takes damage. Whenever either of you lose life, both your concentrations are tested. Whenever you lose life, your enemy dual loses 1d4 life.
 
 ## Contagion
 
 **Prerequisites:** Plague subclass
 
-**Effects:** Whenever you or your dual loses stacks of an ailment or affliction, your dual gains that many stacks of the ailment / affliction instead.
+**Effects:** Whenever you or your dual loses stacks of an ailment or affliction for any reason, the other gains that many stacks of the ailment / affliction instead.
 
 ## Perfect Information
 
 **Effects:** Treat any skill checks made as part of the Spot or Scan actions made against your dual as if you had rolled a 20. You do not have disadvantage on attacks against your dual due to being unable to see them.
+
+## Close Contact
+
+**Effects:** At the start of each of your turns, gain 4 absorption if you are adjacent to your dual.
