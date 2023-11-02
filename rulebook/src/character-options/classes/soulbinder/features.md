@@ -160,6 +160,7 @@ If your dual is aware of the bond, they may do likewise and attempt to send emot
 **Target:** Dual
 
 **Effects:** A wave of calm, restful energy flows through your bond, as you lull them into restful dreams while sheltering them from harm. Choose one:
+
 - Apply 12 + 2 * Presence absorption and 2 stacks of pacified to yourself
 - Make a Focus attack against your dual. If you hit, apply 12 + 2 * Presence absorption and 2 stacks of pacified to them
 
@@ -175,7 +176,7 @@ When relevant (such as when determining if someone is lying, or to notice a deta
 
 #### Soulbound: Figment of the Imagination
 
-You learn to become one with the creature you are bound to, disappearing into their soul until you choose to break free once again. 
+You learn to become one with the creature you are bound to, disappearing into their soul until you choose to break free once again.
 
 Gain access to the Soulmeld action, which costs 0 AP and 1 essence. Become melded with your dual. While melded:
 
@@ -203,6 +204,7 @@ Gain access to the Soulmeld action, which costs 0 AP and 1 essence. Become melde
 **Target:** Dual
 
 **Effects:** A wound appears out of nowhere on the creature you are bound to and they are filled with a terrifying sense that they are being chased, causing them to leave a trail of blood behind them as they flee. Choose one:
+
 - Gain the benefit of the Move action twice. Until the start of your next turn, you cannot willingly move away from your dual if you know where they are.
 - Make a Presence attack against your dual. If you hit, apply 1 stack of frightened and 3 + 1/2 Presence stacks of bleeding.
 
@@ -235,6 +237,7 @@ If your dual dies, you may choose to gain the benefits of Essence Tap without ga
 **Target:** Dual
 
 **Effects:** As your bond cures afflictions, so too does it apply new ones in turn. Choose one:
+
 - Make a Focus attack against your dual. If you hit, transfer all of your afflictions to them, then apply 6 + Presence stacks of anguish to yourself.
 - Make a Focus attack against your dual. If you hit, transfer all their afflictions to you, then apply 6 + Presence stacks of anguish to them.
 
@@ -269,6 +272,7 @@ Whenever you use a pulse, you may transfer one stack of an ailment or up to two 
 **Target:** Dual
 
 **Effects:** The energy flowing through your bond offers tremendous power, but forces you and your dual to consider the consequences of your actions. Choose one:
+
 - Attacks you make before the end of your next turn are automatically criticals if you hit, but you also suffer any of the attacks’ effects.
 - The next attack your dual makes before the end of your next turn are automatically criticals if they hit, but they also suffer any of the attacks’ effects.
 
