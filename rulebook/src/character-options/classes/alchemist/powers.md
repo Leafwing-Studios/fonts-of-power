@@ -337,7 +337,7 @@ Generally this means:
 
 **Target:** Single target
 
-**Effects:** Grant your target 3 AP. They can only spend these AP on movement actions. Like usual, they reset at the end of your next turn.
+**Effects:** Grant your target 3 AP. They can only spend these AP on movement actions. Like usual, they reset at the end of their next turn.
 Until the end of their next turn, their movement does not provoke attacks of opportunity, they ignore ground effects and they are immune to falling damage.
 
-If this concoction is multitarget, grant the effected targets 3 AP that they can only spend on movement instead.
+If this concoction is multitarget, grant the effected targets 1 AP that they can only spend on movement instead.
