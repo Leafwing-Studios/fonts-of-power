@@ -8,7 +8,7 @@
 
 **Category:** Offensive
 
-**Range:** 3
+**Range:** 2
 
 **Type:** Prowess
 
@@ -24,7 +24,7 @@
 
 **Category:** Offensive
 
-**Range:** 3
+**Range:** 2
 
 **Type:** Agility
 
@@ -40,7 +40,7 @@
 
 **Category:** Offensive
 
-**Range:** 3
+**Range:** 2
 
 **Type:** Presence
 
@@ -56,7 +56,7 @@
 
 **Category:** Offensive
 
-**Range:** 3
+**Range:** 2
 
 **Type:** Focus
 
@@ -72,7 +72,7 @@
 
 **Category:** Offensive
 
-**Range:** 3
+**Range:** 2
 
 **Type:** Expertise
 
@@ -88,7 +88,7 @@
 
 **Category:** Utility
 
-**Range:** 3
+**Range:** 2
 
 **Type:** Agility
 
@@ -104,7 +104,7 @@
 
 **Category:** Defensive
 
-**Range:** 3
+**Range:** 2
 
 **Type:** None
 
@@ -120,7 +120,7 @@
 
 **Category:** Utility
 
-**Range:** 3
+**Range:** 2
 
 **Type:** Expertise
 
@@ -136,7 +136,7 @@
 
 **Category:** Utility
 
-**Range:** 3
+**Range:** 2
 
 **Type:** None
 
@@ -152,7 +152,7 @@
 
 **Category:** Defensive
 
-**Range:** 3
+**Range:** 2
 
 **Type:** None
 
@@ -168,7 +168,7 @@
 
 **Category:** Utility
 
-**Range:** 3
+**Range:** 2
 
 **Type:** None
 
@@ -184,7 +184,7 @@
 
 **Category:** Utility
 
-**Range:** 3
+**Range:** 2
 
 **Type:** None
 
@@ -200,7 +200,7 @@
 
 **Category:** Utility
 
-**Range:** 3
+**Range:** 2
 
 **Type:** Prowess
 
@@ -216,7 +216,7 @@
 
 **Category:** Utility
 
-**Range:** 3
+**Range:** 2
 
 **Type:** None
 
