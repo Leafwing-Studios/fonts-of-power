@@ -14,7 +14,9 @@
 
 **Target:** Dual
 
-**Effects:** Gain advantage on the next basic attack you make before the end of your next turn. Make a Focus attack against dual, dealing 1d6 + Presence umbral damage if you hit.
+**Effects:** Choose one: 
+- Gain advantage on the next attack you make before the end of your next turn. Remove one stack of an ailment or two stacks of an affliction of your choice from yourself.
+- Make a Focus attack against dual, dealing 1d10 + Presence umbral damage if you hit.
 
 ## Strange Symbiosis
 
@@ -26,11 +28,13 @@
 
 **Range:** 6
 
-**Type:** Expertise
+**Type:** None
 
 **Target:** Dual
 
-**Effects:** Swap absorption between self and dual if you hit.
+**Effects:** Souls twining together, you and your dual grow in strength. Choose one:
+- Transfer all of your absorption to your dual, then gain 6 + Presence absorption.
+- Transfer all your dual’s absorption to you, then grant them 6 + Presence absorption.
 
 ## Cleansing Agony
 
