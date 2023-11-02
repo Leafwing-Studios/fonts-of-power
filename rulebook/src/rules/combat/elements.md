@@ -9,7 +9,7 @@ In additional to **physical damage,** there are 10 **elemental damage types,** a
 - **primal** and **decay**
 - **electric** and **corrosive**
 
-There is one final pair of elements (**reality** and **fate**), which do not have associated damage types, preferring subtler effects.
+There is one final pair of elements **arcane** and **fate**. While arcane elemental damage exists, fate damage does not: preferring subtler effects.
 
 Creatures can be **vulnerable, resistant,** or **immune** to types of damage.
 Creatures that are vulnerable to an element take twice as much damage from that element, if they are resistant they take half as much from that element, and if they are immune they ignore all damage of that element.
