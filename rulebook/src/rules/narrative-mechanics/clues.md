@@ -1,8 +1,8 @@
-# Insights
+# Clues
 
 From time to time, the players may find themselves floundering as they struggle to put together the pieces of the worldspeaker’s puzzle.
 
-However, the characters themselves might have an intuition about what to do next. When this happens, the player characters, using the rules for group skill checks, can make a Focus (Insight) skill check to try to make a logical deduction or lucky hunch, coming upon an **insight** of their own, supplied by the worldspeaker.
+However, the characters themselves might have an intuition about what to do next. When this happens, the player characters, using the rules for group skill checks, can make a Focus (Insight) skill check to try to make a logical deduction or lucky hunch, coming upon a **clue** of their own, supplied by the worldspeaker.
 
 The worldspeaker should use the table below as a guide for the quality of information you might gain based on your results.
 

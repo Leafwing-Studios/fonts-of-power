@@ -10,7 +10,7 @@
   - [Resolve](rules/narrative-mechanics/resolve.md)
   - [Experience](rules/narrative-mechanics/experience.md)
   - [Ideals](rules/narrative-mechanics/ideals.md)
-  - [Insights](rules/narrative-mechanics/insights.md)
+  - [Clues](rules/narrative-mechanics/clues.md)
   - [Prepared for Anything](rules/narrative-mechanics/prepared-for-anything.md)
 - [Attributes](rules/attributes.md)
 - [Skills](rules/skills/README.md)
