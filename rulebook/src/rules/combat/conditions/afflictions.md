@@ -31,3 +31,8 @@ This effect cannot trigger again until the start of your next turn.
 
 After you make an offensive action, take radiant damage equal to the number of stacks of this affliction.
 This effect cannot trigger again until the start of your next turn.
+
+## Unstable
+
+After you spend essemce, take arcane damage equal to the number of stacks of this affliction.
+This effect cannot trigger again until the start of your next turn.
