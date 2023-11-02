@@ -2,11 +2,11 @@
 
 ## Reel In
 
-**Effects:** At the start of your turn, you may choose a creature that you are sustaining a pattern on and either pull yourself one tile closer to them, or make a Prowess attack against them, pulling them one tile closer to you if you hit.
+**Effects:** At the start of each of your turns, you may choose a creature that you are sustaining a pattern on and either pull yourself one tile closer to them, or make a Prowess attack against them, pulling them one tile closer to you if you hit.
 
 ## Web Weaving
 
-**Effects:** Gain the Suspend action. 1AP: Choose two creatures or objects (including walls) that are separated by no more than 3 tiles, and choose a pattern to Suspend between them. The first time a creature other than yourself passes between the two objects, immediately apply the chosen pattern to them, and begin sustaining it.
+**Effects:** Gain the Suspend action. 1 AP: Choose two creatures or objects (including walls) that are separated by no more than 3 tiles, and choose a pattern to Suspend between them. The first time a creature other than yourself passes between the two objects, immediately apply the chosen pattern to them, and begin sustaining it.
 
 ## Dance through the Weave
 
@@ -30,7 +30,7 @@
 
 ## Responsive Designs
 
-**Effects:** Whenever a creature you have a pattern on loses life, you may use a pattern on them as a reaction. Immediately trigger the pattern.
+**Effects:** Whenever a creature you have a pattern on loses life, you may use a pattern of your choice on them as a reaction. Pay its AP cost as normal, but ignore any range restrictions.
 
 ## Technicolor Threads
 
@@ -52,10 +52,6 @@
 
 **Effects:** Gain 2 absorption when you cast or sustain a pattern.
 
-## Twinned Patterns
-
-**Effects:** You gain access to the Twinned Patterns action. 3 AP: Cast two copies of the same pattern on different targets.
-
 ## Snapped Threads
 
 **Effects:** Whenever another creature causes your concentration to break, apply two stacks of an ailment of your choice to them.
@@ -76,7 +72,7 @@ You cannot sustain more than one type of pattern at once.
 
 ## Threadbound
 
-**Effects:** Whenever you use the Treat action, you may spend 1 essence. If you do, the target of that action may, as a reaction, use your Fabric of Reality feature by spending 1 AP.
+**Effects:** Whenever you use the Treat action, you may spend 1 essence. If you do, the target of that action may choose to use your Fabric of Reality feature without paying its cost.
 
 ## Hanging by a Thread
 
@@ -87,3 +83,13 @@ You cannot sustain more than one type of pattern at once.
 **Effects:** When you successfully Treat a creature, you may make an Agility (Fontcraft) skill check with advantage. The result of that roll is **stored** on that creature. At any time, you may spend this stored roll to replace the roll and skill check result of any other skill check or attack roll (after seeing the roll) that that creature makes.
 
 Each creature may only have one result stored at a time. Using this feature again on a creature with a stored result replaces the original result.
+
+## A Stitch In Time
+
+**Effects:** At the start of each combat, choose a pattern that you know. Cast it on a creature of your choice within range.
+This feat can be taken multiple times.
+
+## Pocket Weaver
+
+**Effects:** You may only target a single creature at once with your patterns: casting a pattern on a new creature immediately causes all other patterns to lapse.
+Reduce the essence cost of sustaining patterns by 1.
