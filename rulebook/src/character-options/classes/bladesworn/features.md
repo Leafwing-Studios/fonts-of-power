@@ -50,7 +50,7 @@ Note that this can trigger on each creatures' turn, not just your turns. This me
 **Effects:** As a bladesworn, you gain access to powers known as **counterattacks**. These may only be used as attacks of opportunity, and never cost essence.
 
 Counterattacks are treated as strikes using your bonded weapon in addition to their other effects.
-However, they are special attacks, 
+However, they are special attacks,
 so their damage is affected by your Presence, not Prowess, and their attack roll is based on your Expertise, not Agility.
 
 ### Battle Mastery

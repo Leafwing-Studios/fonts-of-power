@@ -38,9 +38,7 @@
 
 ## Embodiment
 
-**Prerequisites:** Nudge class feature
-
-**Effects:** Replaces Nudge. 1 AP from companion: seperate, gaining its own token in adjacent tile. While seperated, can take any core action. Life, essence, and exhaustion shared, everything else seperate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life. You may communicate telepathically with your companion.
+**Effects:** 1 AP from companion: seperate, gaining its own token in adjacent tile. While seperated, can take any core action. Life, essence, and exhaustion shared, everything else seperate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life. You may communicate telepathically with your companion.
 
 When you take this feat, sacrifice an exploration feat.
 
@@ -54,11 +52,9 @@ When you take this feat, sacrifice an exploration feat.
 
 **Effects:** 3 AP from each: remove all ailments and afflictions from self. You are immune to all damage and all attacks against you miss (unless you choose to be hit) until the end of your next turn.
 
-## Shared Control
+## Nudge
 
-**Prerequisites:** Nudge
-
-**Effects:** Whenever you use the Nudge feature, the companion may choose to use any other movement action instead. Companion can use Dodge action.
+**Effects:** At the start of each of your turns, you may move into an empty adjacent tile of your choice. Your companion can use the Dodge action.
 
 ## Friendly Competition
 

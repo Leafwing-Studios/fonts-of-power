@@ -54,9 +54,7 @@
 
 ## Double Tap
 
-**Prerequisites:** Ruffian
-
-**Effects:** After you crit a target, you can make an attack of opportunity against that creature.
+**Effects:** After you land a critical hit on a target, you may make an attack of opportunity against that creature.
 
 ## House Edge
 
@@ -64,7 +62,7 @@
 
 ## Hit Me
 
-**Effects:** At the start of each of your turns, choose a creature within range 6. Apply one stack of taunted to them. Whenever you successfully dodge an attack, apply one stack of taunted to the creature whose attack you dodged.
+**Effects:** At the start of each of your turns, choose a creature. Apply one stack of taunted to them. Whenever you successfully dodge an attack, apply one stack of taunted to the creature whose attack you dodged.
 
 ## Mulligan
 

@@ -322,3 +322,22 @@ Generally this means:
 **Target:** Single target
 
 **Effects:** When you gain this power, choose an affliction. Make an Expertise attack against a creature of your choice within range. If you hit, apply 12 + 2 * Presence stacks of the chosen affliction. If you miss, apply half that many stacks instead.
+
+## Hyperkinetic Stimulant
+
+**AP:** 2
+
+**Essence:** 3
+
+**Category:** Utility
+
+**Range:** 3
+
+**Type:** None
+
+**Target:** Single target
+
+**Effects:** Grant your target 3 AP. They can only spend these AP on movement actions. Like usual, they reset at the end of your next turn.
+Until the end of their next turn, their movement does not provoke attacks of opportunity, they ignore ground effects and they are immune to falling damage.
+
+If this concoction is multitarget, grant the effected targets 3 AP that they can only spend on movement instead.

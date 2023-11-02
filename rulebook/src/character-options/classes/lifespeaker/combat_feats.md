@@ -73,3 +73,7 @@ At the start of combat, choose one of your creatures. It is grappling you, if po
 ## Combination Strike
 
 **Effects:** Any two of your creatures and your character may choose to each spend AP to perform the same action on the same target simultaneously. If you do, gain advantage on all attack rolls and skill checks made as part of that combined actions.
+
+## Forceful Creations
+
+**Effects:** Double any forced movement applied by your creatures.

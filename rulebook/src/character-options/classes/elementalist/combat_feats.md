@@ -42,3 +42,16 @@ When you gain this combat feat, sacrifice an exploration feat.
 ### Spellblade
 
 **Effects:** After you hit a creature with a basic attack, reduce the AP cost of your next spell by 1. This effect can stack, but may only trigger once per action.
+
+### Tug-of-War
+
+**Effects:** When you gain this power, choose one element in each pairing.
+Whenever you hit a creature or apply a boon to a creature with a spell of that element, push them one tile away from you.
+Whenever you hit a creature or apply a boon with a spell of the opposed element, pull them one tile closer to you.
+
+When you hit or apply a boon to yourself, push yourself one tile in a direction of your choice. Your Meld spells do not push or pull their targets.
+
+### Explosive Propulsion
+
+**Effects:** After you cast a spell, if you have three or more stacks of the element that corresponds to that spell, push yourself one tile away from your target.
+After you detonate, push yourself 4 tiles in a direction of your choice.

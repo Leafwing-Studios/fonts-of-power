@@ -83,3 +83,7 @@
 ## Shield of Faith
 
 **Effects:** Whenever you successfully block, grant 4 absorption to the ally (including yourself) with the lowest life within a 2 tile range. This absorption is gained before damage is dealt.
+
+## One Step at a Time
+
+**Effects:** At the start of your turn, if you chose to use your Stand Your Ground class feature last turn, and choose not to use it this turn, gain the benefit of the Move action. At the start of combat, you are treated as if you used your Stand Your Ground class feature on the previous turn.

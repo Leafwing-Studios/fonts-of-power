@@ -83,3 +83,7 @@
 ## Regeneration
 
 **Effects:** Gain access to the *Regenerate* defensive action. 0 AP: Spend at least one stack of emotion, then gain twice that much life.
+
+## Pounding Pulse
+
+**Effects:** The first time during your turn that you gain emotion (other than from the emotion gained at the start of your turn), gain the benefit of the Move action.

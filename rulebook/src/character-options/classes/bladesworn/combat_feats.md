@@ -28,6 +28,10 @@
 
 **Effects:** Stance: You cannot use movement actions. Forced movement you apply is doubled.
 
+## Skirmishing Stance
+
+**Effects:** Stance: the second time during your turn that you use the Move action, reduce its AP cost to zero. You cannot make attacks of opportunity.
+
 ## Deliberate Stance
 
 **Effects:** Stance: Double all essence spent. Gain the benefit of the Recover action when you hit with an attack.
