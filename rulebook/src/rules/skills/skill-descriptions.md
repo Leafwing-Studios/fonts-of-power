@@ -35,6 +35,25 @@ However, if you are attempting to influence people in a way that relies on your 
 * Prowess for scaring them away by pounding on the table
 * Expertise for weaving a convincing illusion
 
+## Craftsmanship
+
+Craftsmanship is used to understand and craft mundane items of all sorts, ranging from swords to plate armor to masonry to woven cloth. When you encounter an item, you may inspect it, attempting to learn more about its innate properties.
+Complex mechanical devices would typically call for a Tinkering check instead, while learning about the details of an item’s enchantments would use the skill with which it was constructed. Your worldspeaker can use the table below as a guide to tell you what you learn about the item.
+
+| Expertise (Craftsmanship) check result |            Information Gained             |
+| :------------------------------------: | :---------------------------------------: |
+|                   5                    | What, approximately, is the item made of? |
+|                   10                   |        What is the item used for?         |
+|                   15                   |           How is the item made?           |
+|                   20                   | What clues are there to this item’s past? |
+|                   25                   | What hidden secrets does this item hold?  |
+
+Mundane items and gear can both be made using the Craft downtime activity, or quickly during normal play using standard skill checks, depending on the complexity of the task at hand.
+
+Craftsmanship checks typically involve Expertise, but may also call for Agility or Prowess at times during the crafting process.
+Expertise (Craftsmanship) checks are used when your knowledge of a talent is tested, such as when designing an item or examining its construction.
+If a step involved in the process is particularly onerous or delicate, a Prowess (Craftsmanship) or Agility (Craftsmanship) check may be appropriate to reflect the challenges involved.
+
 ## Endurance
 
 Endurance is the talent for pushing through when things get difficult, attempting to endure pain or fatigue or distraction in order to accomplish your goal.
