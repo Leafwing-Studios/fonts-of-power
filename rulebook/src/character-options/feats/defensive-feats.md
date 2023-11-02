@@ -30,7 +30,7 @@
 
 ## Shifty
 
-**Effects:** Whenever you use the Dodge reaction, you may move into an empty tile within movement range 1.
+**Effects:** After you use the Dodge reaction, you may shift once.
 
 ## Persistent
 

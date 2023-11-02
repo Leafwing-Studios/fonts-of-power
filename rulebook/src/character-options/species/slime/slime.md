@@ -76,6 +76,6 @@ You do not need to make Endurance skill checks in order to destroy edible object
 
 **Combat Glue:** You have advantage on skill checks made to maintain your grapple.
 
-**Stuck to the Ground:** If you did not use the Move or Shift action during your last turn, the effects of forced movement against you is reduced by one tile.
+**Stuck to the Ground:** If you did not use the Move action during your last turn, the effects of forced movement against you is reduced by one tile.
 
 **Tactical Adhesive:** You do not need to make Athletics skill checks to climb or stay attached to any surface.
