@@ -87,3 +87,9 @@ When you take this feat, sacrifice an exploration feat.
 ## Rolling
 
 **Effects:** While prone, the effects of forced movement against you is doubled. Gradual slopes have a triggered tile effect for you, pushing you one tile downhill. When you use the Stand Up action, gain 2 tiles of movement rather than 1.
+
+## Floating
+
+**Effects:** You are always affected by the effects of the aloft ailment. You are immune to the rooted ailment and Grapple attacks made against you have disadvantage.
+
+When you choose this feat, also give up your exploration feat for this level.
