@@ -146,14 +146,7 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 
 #### Sandstorm Meld
 
-**AP:** 2
-
-**Essence:** 3
-
 **Category:** Offensive
-
-**Range:** 4 tiles
-
 A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid air-earth damage, and knock the creature struck back 2 tiles.
 
 If you have at least 3 stacks of air exposure, knock yourself 2 tiles away from your target as well.
@@ -168,28 +161,14 @@ When you reach 5 stacks of earth exposure, rocks explode from your body. Make an
 
 #### Wind Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 As you twist the wind beneath the feet of your ally, they gain the ability to fly. Until the end of your next turn, a creature of your choice within range can fly.
 
 If you are level 8 or higher, until the start of your next rest they can fly outside of combat.
 
 #### Stone Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your  choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
 
 If you are level 8 or higher, you can also slowly create stone, up to three 1 tile by 1 height tier cubes per use of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
@@ -198,14 +177,7 @@ If you are level 8 or higher, you can also slowly create stone, up to three 1 ti
 
 #### Frostfire Meld
 
-**AP:** 2
-
-**Essence:** 3
-
 **Category:** Offensive
-
-**Range:** 4 tiles
-
 A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature or object of your choice within range. If you hit, deal 2d8 + 2 * Presence hybrid fire-water damage.
 
 If you have at least 3 stacks of fire exposure, add 6 + Presence stacks of aflame to yourself, and 6 + Presence stacks of aflame to your target if you hit.
@@ -220,14 +192,7 @@ When you reach 5 stacks of water exposure, a terrible burst of cold emanates fro
 
 #### Fire Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Offensive
-
-**Range:** 4 tiles
-
 With a flick of the wrist, you are able to spread or control fires at will. If there is an open source of flame within range, you can spread it to another object or creature within range. If you select a creature, you must make an Agility attack against them, applying 6 + Presnece stacks of aflame on hit.
 
 You may also extinguish a small fire of your choice within range that affects up to a 5 foot cube with this spell. If you use this spell on a creature, they are no longer aflame.
@@ -236,14 +201,7 @@ If you are level 8 or higher, you can cause a fire that you target or spread in 
 
 #### Frost Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 4 contiguous tiles that have shallow or deep water on them to turn into an ice slick.
 
 Whenever a creature attempts to spend movement to enter a tile within this ice for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this ice, the effects of all forced movement other than teleportation is doubled.
@@ -259,14 +217,7 @@ You can only sculpt up to a 5 foot cube of ice per casting of this spell.
 
 #### Darklight Meld
 
-**AP:** 2
-
-**Essence:** 3
-
 **Category:** Offensive
-
-**Range:** 4 tiles
-
 Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make a Focus attack against a creature or object of your choice within range. If you hit, deal 1d4 + 1/2 Presence hybrid radiant-umbral damage. Apply stacks of temperance and anguish to them equal to the damage dealt.
 
 If you have at least 3 stacks of radiant exposure, add 6 + Presence stacks of temperance to yourself, and 6 + Presence stacks of temperance to your target if you hit.
@@ -281,28 +232,14 @@ When you reach 5 stacks of umbral exposure, you disappear into the shadows. Beco
 
 #### Brilliant Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 Twisting and shaping a source of light, you cause it to glow brilliantly. Select a light source of your choice within range. Until you complete a rest, the radius of the bright and dim light cast by this light source is doubled. You can affect the same light source up to three times with this spell, doubling the light radius each time. You can end this effect at any time by casting this spell again.
 
 If you are level 8 or higher, magical items and effects in the amplified light sparkle and glimmer in an obvious fashion as the light catches on threads of the Weave.
 
 #### Shadow Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 With a flick of the wrist, you cause shadows to grow and extinguish light sources. When you cast this spell, extinguish a light source of your choice within range.
 
 If you are level 8 or higher, the light source you extinguish cannot be relit until you complete a rest unless the creature attempting to relight the light source succeeds on a contested Presence (Arcana) skill check against you. You may choose to fail this skill check.
@@ -311,14 +248,7 @@ If you are level 8 or higher, the light source you extinguish cannot be relit un
 
 #### Lifeforce Meld
 
-**AP:** 2
-
-**Essence:** 3
-
 **Category:** Offensive
-
-**Range:** 4 tiles
-
 You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid primal-decay damage. Heal equal to the damage dealt.
 
 If you have at least 3 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
@@ -335,28 +265,14 @@ When you reach 5 stacks of decay exposure, you drain the energy from those aroun
 
 #### Life Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 Knitting together wounds and lifting ailments, you. When you cast this spell, gain the benefits of the Treat action with advantage affecting a creature of your choice within range. When you use this spell during the Tend downtime activity, gain advantage on the Focus (Medicine) skill check made.
 
 If you are level 8 or higher, you remove an additional stack of exhaustion when you use this spell during the Tend downtime activity.
 
 #### Death Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 Gently touching the soul of another creature, you are able to manipulate its connection with the afterlife. When you cast this spell, you may gain the benefits of the Scan minor action with advantage. You automatically determine their current life total and learn any .
 
 If you are level 8 or higher, you have advantage on the Resurrect downtime activity when you use this spell.
@@ -365,14 +281,7 @@ If you are level 8 or higher, you have advantage on the Resurrect downtime activ
 
 #### Surgebreaker Meld
 
-**AP:** 2
-
-**Essence:** 3
-
 **Category:** Offensive
-
-**Range:** 4 tiles
-
 A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid electric-corrosive damage and trigger their afflictions.
 
 If you have at least 3 stacks of electric exposure, deal an 1d6 + Presence electric damage to you, your target, and all creatures in a line between you.
@@ -387,14 +296,7 @@ When you reach 5 stacks of corrosive exposure, you explode in a shower of acid. 
 
 #### Lightning Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 Lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment. You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object. You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength.
 You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 6 tiles (about 30 feet), although it falls harmlessly to the ground shortly afterwards.
 
@@ -404,14 +306,7 @@ If you are level 8 or higher, you may activate consumable items or perform acts 
 
 #### Acid Twisting
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 4 tiles
-
 Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, make an Exertise attack against them. If you hit, they lose 1 life. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
 
 If you are level 8 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. You can only destroy a single 5-foot cube of solid material per cast.
