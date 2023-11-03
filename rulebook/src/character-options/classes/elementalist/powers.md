@@ -93,24 +93,6 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Wind Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
 ### Wind Touch
 
 **AP:** 2
@@ -222,24 +204,6 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
 ### Stone Touch
 
 **AP:** 2
@@ -260,7 +224,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 ## Fire
 
-### Stone Barrier
+### Flame Barrier
 
 **AP:** 2
 
@@ -278,7 +242,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
 
-### Stone Bolt
+### Flame Bolt
 
 **AP:** 2
 
@@ -296,7 +260,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
-### Stone Shell
+### Flame Shell
 
 **AP:** 2
 
@@ -315,7 +279,7 @@ Those that you miss are still knocked back 2 tiles.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
-### Stone Spray
+### Flame Spray
 
 **AP:** 2
 
@@ -333,7 +297,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 If you have at least 4 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
-### Stone Step
+### Flame Step
 
 **AP:** 2
 
@@ -351,25 +315,7 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
-### Stone Touch
+### Flame Touch
 
 **AP:** 2
 
@@ -389,7 +335,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 ## Water
 
-### Stone Barrier
+### Frost Barrier
 
 **AP:** 2
 
@@ -407,7 +353,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
 
-### Stone Bolt
+### Frost Bolt
 
 **AP:** 2
 
@@ -425,7 +371,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
-### Stone Shell
+### Frost Shell
 
 **AP:** 2
 
@@ -444,7 +390,7 @@ Those that you miss are still knocked back 2 tiles.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
-### Stone Spray
+### Frost Spray
 
 **AP:** 2
 
@@ -462,7 +408,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 If you have at least 4 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
-### Stone Step
+### Frost Step
 
 **AP:** 2
 
@@ -480,25 +426,7 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
-### Stone Touch
+### Frost Touch
 
 **AP:** 2
 
@@ -518,7 +446,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 ## Radiant
 
-### Stone Barrier
+### Brilliant Barrier
 
 **AP:** 2
 
@@ -536,7 +464,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
 
-### Stone Bolt
+### Brilliant Bolt
 
 **AP:** 2
 
@@ -554,7 +482,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
-### Stone Shell
+### Brilliant Shell
 
 **AP:** 2
 
@@ -573,7 +501,7 @@ Those that you miss are still knocked back 2 tiles.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
-### Stone Spray
+### Brilliant Spray
 
 **AP:** 2
 
@@ -591,7 +519,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 If you have at least 4 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
-### Stone Step
+### Brilliant Step
 
 **AP:** 2
 
@@ -609,25 +537,7 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
-### Stone Touch
+### Brilliant Touch
 
 **AP:** 2
 
@@ -647,7 +557,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 ## Umbral
 
-### Stone Barrier
+### Shadow Barrier
 
 **AP:** 2
 
@@ -665,7 +575,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
 
-### Stone Bolt
+### Shadow Bolt
 
 **AP:** 2
 
@@ -683,7 +593,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
-### Stone Shell
+### Shadow Shell
 
 **AP:** 2
 
@@ -702,7 +612,7 @@ Those that you miss are still knocked back 2 tiles.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
-### Stone Spray
+### Shadow Spray
 
 **AP:** 2
 
@@ -720,7 +630,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 If you have at least 4 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
-### Stone Step
+### Shadow Step
 
 **AP:** 2
 
@@ -738,25 +648,7 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
-### Stone Touch
+### Shadow Touch
 
 **AP:** 2
 
@@ -776,7 +668,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 ## Primal
 
-### Stone Barrier
+### Life Barrier
 
 **AP:** 2
 
@@ -794,7 +686,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
 
-### Stone Bolt
+### Life Bolt
 
 **AP:** 2
 
@@ -812,7 +704,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
-### Stone Shell
+### Life Shell
 
 **AP:** 2
 
@@ -831,7 +723,7 @@ Those that you miss are still knocked back 2 tiles.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
-### Stone Spray
+### Life Spray
 
 **AP:** 2
 
@@ -849,7 +741,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 If you have at least 4 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
-### Stone Step
+### Life Step
 
 **AP:** 2
 
@@ -867,25 +759,7 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
-### Stone Touch
+### Life Touch
 
 **AP:** 2
 
@@ -905,7 +779,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 ## Decay
 
-### Stone Barrier
+### Death Barrier
 
 **AP:** 2
 
@@ -923,7 +797,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
 
-### Stone Bolt
+### Death Bolt
 
 **AP:** 2
 
@@ -941,7 +815,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
-### Stone Shell
+### Death Shell
 
 **AP:** 2
 
@@ -960,7 +834,7 @@ Those that you miss are still knocked back 2 tiles.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
-### Stone Spray
+### Death Spray
 
 **AP:** 2
 
@@ -978,7 +852,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 If you have at least 4 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
-### Stone Step
+### Death Step
 
 **AP:** 2
 
@@ -996,25 +870,7 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
-### Stone Touch
+### Death Touch
 
 **AP:** 2
 
@@ -1034,7 +890,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 ## Electric
 
-### Stone Barrier
+### Lightning Barrier
 
 **AP:** 2
 
@@ -1052,7 +908,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
 
-### Stone Bolt
+### Lightning Bolt
 
 **AP:** 2
 
@@ -1070,7 +926,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
-### Stone Shell
+### Lightning Shell
 
 **AP:** 2
 
@@ -1089,7 +945,7 @@ Those that you miss are still knocked back 2 tiles.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
-### Stone Spray
+### Lightning Spray
 
 **AP:** 2
 
@@ -1107,7 +963,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 If you have at least 4 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
-### Stone Step
+### Lightning Step
 
 **AP:** 2
 
@@ -1125,25 +981,7 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
-### Stone Touch
+### Lightning Touch
 
 **AP:** 2
 
@@ -1163,7 +1001,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 ## Corrosive
 
-### Stone Barrier
+### Acid Barrier
 
 **AP:** 2
 
@@ -1181,7 +1019,7 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
 
-### Stone Bolt
+### Acid Bolt
 
 **AP:** 2
 
@@ -1199,7 +1037,7 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
-### Stone Shell
+### Acid Shell
 
 **AP:** 2
 
@@ -1218,7 +1056,7 @@ Those that you miss are still knocked back 2 tiles.
 
 If you have at least 4 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
-### Stone Spray
+### Acid Spray
 
 **AP:** 2
 
@@ -1236,7 +1074,7 @@ If you have at least 4 stacks of air exposure, the absorption gained increases t
 
 If you have at least 4 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
-### Stone Step
+### Acid Step
 
 **AP:** 2
 
@@ -1254,25 +1092,7 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
-### Stone Step
-
-**AP:** 2
-
-**Essence:** 1
-
-**Category:** Utility
-
-**Range:** Melee
-
-**Type:** Prowess
-
-**Target:** Multi-target
-
-Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, shove them into an adjacent tile of your choice up to 10 feet away from their previous tile and knock them prone.
-
-If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
-
-### Stone Touch
+### Acid Touch
 
 **AP:** 2
 
