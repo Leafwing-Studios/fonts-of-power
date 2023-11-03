@@ -111,6 +111,24 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
+### Wind Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+
 ### Wind Touch
 
 **AP:** 2
@@ -239,6 +257,24 @@ If you have at least 4 stacks of air exposure, make an attack against each creat
 Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+
+### Stone Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Stone Touch
 
@@ -369,6 +405,24 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
+### Flame Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+
 ### Flame Touch
 
 **AP:** 2
@@ -497,6 +551,24 @@ If you have at least 4 stacks of air exposure, make an attack against each creat
 Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+
+### Frost Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Frost Touch
 
@@ -627,6 +699,24 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
+### Brilliant Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+
 ### Brilliant Touch
 
 **AP:** 2
@@ -755,6 +845,24 @@ If you have at least 4 stacks of air exposure, make an attack against each creat
 Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+
+### Shadow Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Shadow Touch
 
@@ -885,6 +993,24 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
+### Life Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+
 ### Life Touch
 
 **AP:** 2
@@ -1013,6 +1139,24 @@ If you have at least 4 stacks of air exposure, make an attack against each creat
 Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+
+### Death Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Death Touch
 
@@ -1143,6 +1287,24 @@ Vanishing into thin air, you appear a short distance away with a burst of air. T
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
+### Lightning Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+
 ### Lightning Touch
 
 **AP:** 2
@@ -1271,6 +1433,24 @@ If you have at least 4 stacks of air exposure, make an attack against each creat
 Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
 
 If you have at least 4 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+
+### Acid Tendrils
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4 tiles
+
+**Type:** Prowess
+
+**Target:** Single-target
+
+Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+
+If you have at least 4 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Acid Touch
 
