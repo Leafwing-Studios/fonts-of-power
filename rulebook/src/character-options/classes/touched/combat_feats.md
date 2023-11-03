@@ -58,8 +58,6 @@ When you take this feat, sacrifice an exploration feat.
 
 ## Friendly Competition
 
-**Prerequisites:** Coexistence: Camarederie
-
 **Prerequisites:** Coexistence: Camaraderie
 
 **Effects:** After you hit an enemy creature with an attack, your counterpart's critical hit threshold is reduced by 3 until the end of the turn.
