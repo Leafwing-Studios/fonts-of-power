@@ -38,6 +38,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
+### Wind Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
+
 ### Wind Shell
 
 **AP:** 2
@@ -148,6 +166,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 **Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
+
+### Stone Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Stone Shell
 
@@ -260,6 +296,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
+### Flame Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
+
 ### Flame Shell
 
 **AP:** 2
@@ -370,6 +424,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 **Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
+
+### Frost Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Frost Shell
 
@@ -482,6 +554,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
+### Brilliant Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
+
 ### Brilliant Shell
 
 **AP:** 2
@@ -592,6 +682,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 **Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
+
+### Shadow Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Shadow Shell
 
@@ -704,6 +812,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
+### Life Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
+
 ### Life Shell
 
 **AP:** 2
@@ -814,6 +940,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 **Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
+
+### Death Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Death Shell
 
@@ -926,6 +1070,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
+### Lightning Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
+
 ### Lightning Shell
 
 **AP:** 2
@@ -1036,6 +1198,24 @@ If you have at least 4 stacks of air exposure, the absorption granted increases 
 **Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
 
 If you have at least 4 stacks of air exposure, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
+
+### Acid Burst
+
+**AP:** 2
+
+**Essence:** 1
+
+**Category:** Offensive
+
+**Range:** 4
+
+**Type:** Agility
+
+**Target:** Multi-target
+
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+
+If you have at least 4 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
 ### Acid Shell
 
