@@ -163,9 +163,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of stone wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to earth damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to air damage until the end of your next turn as well.
 
 ### Stone Bolt
 
@@ -310,9 +310,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of flame wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to fire damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to water damage until the end of your next turn as well.
 
 ### Flame Bolt
 
@@ -457,9 +457,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of hoarfrost wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to water damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of water exposure, the absorption granted increases to 10 + Presence but they become vulnerable to fire damage until the end of your next turn as well.
 
 ### Frost Bolt
 
@@ -604,9 +604,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of light wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to radiant damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to umbral damage until the end of your next turn as well.
 
 ### Brilliant Bolt
 
@@ -751,9 +751,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of translucent shadow wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to umbral damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to radiant damage until the end of your next turn as well.
 
 ### Shadow Bolt
 
@@ -898,9 +898,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of pulsating energy wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to primal damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to decay damage until the end of your next turn as well.
 
 ### Life Bolt
 
@@ -1045,9 +1045,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of grim energy wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to decay damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to primal damage until the end of your next turn as well.
 
 ### Death Bolt
 
@@ -1192,9 +1192,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of crackling electricity wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to electric damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to corrosive damage until the end of your next turn as well.
 
 ### Lightning Bolt
 
@@ -1339,9 +1339,9 @@ If you have at least 4 stacks of air exposure, you have disadvantage on the atta
 
 **Target:** Single-target
 
-**Effects:** A swirling barrier of wind wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to air damage until the end of your next turn.
+**Effects:** A swirling barrier of dripping acid wards your ally. Select a creature within range (this can be yourself). They gain 6 + Presence absorption and are immune to corrosive damage until the end of your next turn.
 
-If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to earth damage until the end of your next turn as well.
+If you have at least 4 stacks of air exposure, the absorption granted increases to 10 + Presence but they become vulnerable to electric damage until the end of your next turn as well.
 
 ### Acid Bolt
 
