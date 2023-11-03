@@ -2,18 +2,18 @@
 
 ## Class Summary
 
-| Level | Proficiency Bonus |                                Features                                 | Spells Known |
-| :---: | :---------------: | :---------------------------------------------------------------------: | :----------: |
-|   1   |        +1         | Feats, Elemental Opposition, Thoughtful Orchestration, Element Twisting |      3       |
-|   2   |        +1         |                           Elemental Intuition                           |      4       |
-|   3   |        +2         |                      Attribute Improvement, Feats                       |      4       |
-|   4   |        +2         |                            Elemental Warding                            |      4       |
-|   5   |        +3         |                           Elemental Crafting                            |      5       |
-|   6   |        +3         |                      Attribute Improvement, Feats                       |      5       |
-|   7   |        +4         |                               Tranquility                               |      5       |
-|   8   |        +4         |                               Major Twist                               |      6       |
-|   9   |        +5         |                      Attribute Improvement, Feats                       |      6       |
-|  10   |        +5         |                            Currents of Power                            |      6       |
+| Level | Proficiency Bonus |                         Features                          | Spells Known |
+| :---: | :---------------: | :-------------------------------------------------------: | :----------: |
+|   1   |        +1         | Feats, Elemental Opposition, Pure Power, Element Twisting |      3       |
+|   2   |        +1         |                    Elemental Intuition                    |      4       |
+|   3   |        +2         |               Attribute Improvement, Feats                |      4       |
+|   4   |        +2         |                     Elemental Warding                     |      4       |
+|   5   |        +3         |                    Elemental Crafting                     |      5       |
+|   6   |        +3         |               Attribute Improvement, Feats                |      5       |
+|   7   |        +4         |                        Tranquility                        |      5       |
+|   8   |        +4         |                        Major Twist                        |      6       |
+|   9   |        +5         |               Attribute Improvement, Feats                |      6       |
+|  10   |        +5         |                     Currents of Power                     |      6       |
 
 ## Features
 
@@ -27,7 +27,7 @@
 
 **Level:** 1
 
-**Effects:** The elementalist is a master of magic, shaping the raw elements into tangible form to blast their foes to smithereens. Elementalist spells always cost 2 AP and 3 essence.
+**Effects:** The elementalist is a master of magic, shaping the raw elements into tangible form to blast their foes to smithereens. Elementalist spells always cost 2 AP and 1 essence.
 
 10 of the elements have a natural opposite, creating the following five pairings:
 
@@ -50,9 +50,11 @@ Whenever your exposure to an element is 3 or more, your spells of that element (
 
 When you reach 5 stacks, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 5 stacks of exposure, you **detonate**. All creatures within a 2 tile range suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to 0 and gain a stack of exhaustion.
 
-## Thoughtful Orchestration
+## Pure Power
 
-**Effects:** At the start of each of your turns, you may change your exposure by 1 in any direction.
+**Level:** 1
+
+**Effects:** Once during each of your turns, you may spend essence in the place of AP when using an action.
 
 ## Element Twisting
 

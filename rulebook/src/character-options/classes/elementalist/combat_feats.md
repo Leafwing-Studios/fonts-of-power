@@ -1,5 +1,13 @@
 # Combat Feats
 
+## Gentle Touch
+
+**Effects:** At the start of each of your turns, you may change your exposure by 1 in any direction.
+
+## Fast Burning
+
+**Effects:** You can use your Pure Power class feature twice during each of your turns, rather than once.
+
 ## Master of the Elements
 
 **Effects:** Gain access to a second elemental pairing. You gain access to the twists and hybrid Meld spell associated with that pairing, and any features that depend on this . Learn two additional powers.
