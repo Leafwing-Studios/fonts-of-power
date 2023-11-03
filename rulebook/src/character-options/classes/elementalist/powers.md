@@ -173,7 +173,7 @@ If you have at least 3 stacks of earth exposure,, the absorption granted increas
 
 **Essence:** 1
 
-**Category:** Defensive
+**Category:** Offensive
 
 **Range:** 6
 
@@ -181,7 +181,7 @@ If you have at least 3 stacks of earth exposure,, the absorption granted increas
 
 **Target:** Single-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** A crushing bolt of stone shoots forth from your weapon, flattening everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence earth damage and knock the creature hit prone.
 
 If you have at least 3 stacks of earth exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
@@ -320,15 +320,15 @@ If you have at least 3 stacks of fire exposure,, the absorption granted increase
 
 **Essence:** 1
 
-**Category:** Defensive
+**Category:** Offensive
 
 **Range:** 6
 
-**Type:** Prowess
+**Type:** Agility
 
 **Target:** Single-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** A searing bolt of flame shoots forth from your weapon, igniting everything in its path. Make an Agility attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence fire damage and set the creature hit aflame.
 
 If you have at least 3 stacks of fire exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
@@ -467,15 +467,15 @@ If you have at least 3 stacks of water exposure, the absorption granted increase
 
 **Essence:** 1
 
-**Category:** Defensive
+**Category:** Offensive
 
 **Range:** 6
 
-**Type:** Prowess
+**Type:** Agility
 
 **Target:** Single-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** A freezing bolt of ice shoots forth from your weapon, chilling everything in its path. Make an Agility attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence water damage and apply one stack of chilled.
 
 If you have at least 3 stacks of water exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
@@ -614,15 +614,15 @@ If you have at least 3 stacks of radiant exposure,, the absorption granted incre
 
 **Essence:** 1
 
-**Category:** Defensive
+**Category:** Offensive
 
 **Range:** 6
 
-**Type:** Prowess
+**Type:** Focus
 
 **Target:** Single-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** A searing bolt of flame shoots forth from your weapon, igniting everything in its path. Make a Focus attack against each creature in a 1 tile by 12 tile line. If you hit, apply two stacks of pacified.
 
 If you have at least 3 stacks of radiant exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
@@ -761,15 +761,15 @@ If you have at least 3 stacks of umbral exposure,, the absorption granted increa
 
 **Essence:** 1
 
-**Category:** Defensive
+**Category:** Offensive
 
 **Range:** 6
 
-**Type:** Prowess
+**Type:** Focus
 
 **Target:** Single-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** An agonizing bolt of pure shadow shoots forth from your weapon, wracking everything in its path with pain. Make a Focus attack against each creature in a 1 tile by 12 tile line. If you hit, apply 6 + Presence stacks of anguish.
 
 If you have at least 3 stacks of umbral exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
@@ -912,11 +912,11 @@ If you have at least 3 stacks of primal exposure,, the absorption granted increa
 
 **Range:** 6
 
-**Type:** Prowess
+**Type:** None
 
-**Target:** Single-target
+**Target:** Multi-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** A glowing bolt of invigorating energy shoots forth from your weapon, momentarily protecting everything in its path. This spell targets each creature in a 1 tile by 12 tile line. Grant 6 + Presence absorption to every creature that this bolt passes through.
 
 If you have at least 3 stacks of primal exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
@@ -1055,15 +1055,15 @@ If you have at least 3 stacks of decay exposure,, the absorption granted increas
 
 **Essence:** 1
 
-**Category:** Defensive
+**Category:** Offensive
 
 **Range:** 6
 
-**Type:** Prowess
+**Type:** Agility
 
-**Target:** Single-target
+**Target:** Multi-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** A draining bolt of negative energy shoots forth from your weapon, sapping the life force from everything in its path. Make an Agility attack against each creature in a 1 tile by 12 tile line. f you hit, deal 1d6 + Presence decay damage. This attack deals double damage to absorption.
 
 If you have at least 3 stacks of decay exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
@@ -1202,15 +1202,15 @@ If you have at least 3 stacks of electric exposure,, the absorption granted incr
 
 **Essence:** 1
 
-**Category:** Defensive
+**Category:** Offensive
 
 **Range:** 6
 
-**Type:** Prowess
+**Type:** Agility
 
-**Target:** Single-target
+**Target:** Multi-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** An electrifying bolt of lightning shoots forth from your weapon, shocking everything in its path. Make an Agility attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d8 + Presence electric damage. Your critical hit threshold is reduced by 2 for this attack.
 
 If you have at least 3 stacks of electric exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
@@ -1349,15 +1349,15 @@ If you have at least 3 stacks of corrosive exposure,, the absorption granted inc
 
 **Essence:** 1
 
-**Category:** Defensive
+**Category:** Offensive
 
 **Range:** 6
 
-**Type:** Prowess
+**Type:** Agility
 
-**Target:** Single-target
+**Target:** Multi-target
 
-**Effects:** A piercing bolt of wind shoots forth from your weapon, blowing away everything in its path. Make a Prowess attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d4 + Presence air damage and knock them back 3 tiles.
+**Effects:** A blistering bolt of acid shoots forth from your weapon, eating through everything in its path. Make an Agility attack against each creature in a 1 tile by 12 tile line. If you hit, deal 1d8 + Presence corrosive damage. Deal three times as much damage as usual if you land a critical hit with this attack.
 
 If you have at least 3 stacks of corrosive exposure,, the elemental energy bounces off of walls and other solid barriers rather than being absorbed by it. Whenever the line hits a barrier, it bounces off at the same angle it came in at, until it has traveled a total of 12 tiles. You may hit the same creature multiple times with this effect.
 
