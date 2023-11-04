@@ -23,7 +23,7 @@ If you are level 8 or higher, grant this effect to up to 6 additional allies.
 
 ## Twisted Cleansing
 
-**Prerequisites:** ?? elemental pairing
+**Prerequisites:** Frostfire elemental pairing
 
 **Effects:** Your fire cleanses as it burns away impurities. Fire modified as part of your Flame Twisting spell burns selectively, ignoring any substance or creature(s) of your choice.
 
@@ -98,3 +98,29 @@ When you cast this spell, gain advantage on any Tinkering skill check made to cr
 This applies to the Devise downtime activity (but no other downtime activities).
 
 If you are level 8 or higher, gain advantage on any attempt to use chemicals as well.
+
+## Power Dump
+
+**Effects:** Whenever you use the Devise downtime activity, remove a stack of exhaustion from yourself for every 10 points of your skill check result.
+
+## Universal Intuition
+
+**Prerequisites:** Elemental Intuition class feature
+
+**Effects:** You may now detect elements of any sort with your Elemental Intuition class feature, regardless of whether they match your pairing(s).
+
+## Overloaded Crafting
+
+**Effects:** Whenever you use the Enchant or Devise downtime activities, you may choose to gain any number of stacks of exhaustion before making your skill check. Roll an additional d20 for each stack of exhaustion gained this way, and use the highest result.
+
+## Primordial Reincarnation
+
+**Effects:** The first time you die, you are instead immediately resurrected in the nearest font as a Primordial Fontborn. When this occurs, replace this exploration feat with a monstrous or universal exploration feat of your choice.
+
+## Raw Ingredients
+
+**Effects:** You have advantage on all skill checks made to use the Harvest downtime activity.
+
+## Exposure-Hardened
+
+**Effects:** You have advantage on Endurance skill checks made to survive in harsh environmental conditions.
