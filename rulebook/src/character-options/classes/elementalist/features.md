@@ -316,12 +316,11 @@ When you reach 5 stacks of corrosive exposure, you explode in a shower of acid. 
 
 **Category:** Utility
 
-Lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment. You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object. You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength.
-You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 30 feet, although it falls harmlessly to the ground shortly afterwards.
+Lightning flows gently into an object of your choice within range, mildly shocking any creature other than a Surgrebreaker elementalist who touches it.
+This charge persists until the end of your next rest, and you may have any number of objects charged in this way.
+When an object is discharged, you immediately know, but you do not know *why*.
 
-Like always, this twisting has no effect in combat: you may not make attacks or wield weapons in this way.
-
-If you are level 8 or higher, you may perform acts that require dexterity while using this spell.
+If you are level 8 or higher, you see a glimpse of the creature that caused the object to discharge when it is touched.
 
 #### Acid Twisting
 
