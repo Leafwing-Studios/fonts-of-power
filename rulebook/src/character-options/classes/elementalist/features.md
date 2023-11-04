@@ -175,17 +175,17 @@ When you reach 5 stacks of earth exposure, rocks explode from your body. Make an
 
 **Category:** Utility
 
-As you twist the wind beneath the feet of your ally, they gain the ability to fly. Until the end of your next turn, a creature of your choice within range can fly.
+As you twist the wind beneath the feet of a creature it gently lifts them aloft. For the next minute or so, they are able to walk on thin air.
 
-If you are level 8 or higher, until the start of your next rest they can fly outside of combat.
+If you are level 8 or higher, this effect persists until the start of your next rest. It still has no effect in combat.
 
 #### Stone Twisting
 
 **Category:** Utility
 
-Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
+Twisting and warping stone, you bend it to your will. You may slowly mold and shape stone, earth, sand and so on. It gains no special structural strength.
 
-If you are level 8 or higher, you can also slowly create stone, up to three 1 tile by 1 height tier cubes per use of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
+If you are level 8 or higher, you can also slowly create stone, up to a rate of one 5 foot cube per minute. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
 
 ### Frostfire
 
@@ -209,9 +209,7 @@ When you reach 5 stacks of water exposure, a terrible burst of cold emanates fro
 
 **Category:** Offensive
 
-With a flick of the wrist, you are able to spread or control fires at will. If there is an open source of flame within range, you can spread it to another object or creature within range. If you select a creature, you must make an Agility attack against them, applying 6 + Presnece stacks of aflame on hit.
-
-You may also extinguish a small fire of your choice within range that affects up to a 5 foot cube with this spell. If you use this spell on a creature, they are no longer aflame.
+With a flick of the wrist, you are able to spread or control fires at will. Pick an open flame that you can see: you may either spread it to a nearby object or extinguish it. If it is particularly large or out of control, you may need to make a Presence (Arcana) skill check to do so.
 
 If you are level 8 or higher, you can cause a fire that you target or spread in this way to burn indefinitely, no longer requiring fuel although it can still be deliberately extinguished.
 
@@ -219,13 +217,9 @@ If you are level 8 or higher, you can cause a fire that you target or spread in 
 
 **Category:** Utility
 
-With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 4 contiguous tiles that have shallow or deep water on them to turn into an ice slick.
+With a pointed finger, you can freeze water solid. This might allow you to walk on formerly liquid bodies of water, turn puddles into ice slicks or create refreshing ice cubes.
 
-Whenever a creature attempts to spend movement to enter a tile within this ice for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this ice, the effects of all forced movement other than teleportation is doubled.
-For example, if you were hit by a blast of wind while on this ice that would normally push you back 2 tiles, you travel 4 tiles instead.
-This ability has no effect on flying creatures.
-
-The ice remains frozen until after you complete your next rest.
+This is just normal ice: it remains frozen until it melts.
 
 If you are level 8 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like).
 You can only sculpt up to a 5 foot cube of ice per casting of this spell.
@@ -288,7 +282,7 @@ When you reach 5 stacks of decay exposure, you drain the energy from those aroun
 
 **Category:** Utility
 
-Knitting together wounds and lifting ailments, you. When you cast this spell, gain the benefits of the Treat action with advantage affecting a creature of your choice within range. When you use this spell during the Tend downtime activity, gain advantage on the Focus (Medicine) skill check made.
+Knitting together wounds and lifting ailments, you. When you use this spell, gain advantage on Focus(Medicine) skill checks made to heal others. This works during the Tend downtime activity.
 
 If you are level 8 or higher, you remove an additional stack of exhaustion when you use this spell during the Tend downtime activity.
 
@@ -296,9 +290,9 @@ If you are level 8 or higher, you remove an additional stack of exhaustion when 
 
 **Category:** Utility
 
-Gently touching the soul of another creature, you are able to manipulate its connection with the afterlife. When you cast this spell, you may gain the benefits of the Scan minor action with advantage. You automatically determine their current life total and learn any .
+Gently touching the departed soul of another creature, you are able to trace its connection with the afterlife. When you cast this spell, learn the approximate cause of death of any creature.
 
-If you are level 8 or higher, you have advantage on the Resurrect downtime activity when you use this spell.
+If you are level 8 or higher, you can see its death through a detailed flashback through its eyes.
 
 ### Surgebreaker
 
@@ -323,16 +317,16 @@ When you reach 5 stacks of corrosive exposure, you explode in a shower of acid. 
 **Category:** Utility
 
 Lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment. You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object. You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength.
-You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 6 tiles (about 30 feet), although it falls harmlessly to the ground shortly afterwards.
+You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 30 feet, although it falls harmlessly to the ground shortly afterwards.
 
-You may not make attacks or wield weapons in this way.
+Like always, this twisting has no effect in combat: you may not make attacks or wield weapons in this way.
 
-If you are level 8 or higher, you may activate consumable items or perform acts that require dexterity while using this spell.
+If you are level 8 or higher, you may perform acts that require dexterity while using this spell.
 
 #### Acid Twisting
 
 **Category:** Utility
 
-Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, make an Exertise attack against them. If you hit, they lose 1 life. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
+Acid drips and bubbles as it strengthens existing weaknesses and eats away at nonliving matter. Select a non-living object within range. Skill checks made to break or destroy it have advantage until it is repaired.
 
 If you are level 8 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. You can only destroy a single 5-foot cube of solid material per cast.
