@@ -270,7 +270,7 @@ If you are level 8 or higher, creatures that you shroud become fully invisible.
 
 **Category:** Offensive
 
-You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d8 + Presence hybrid primal-decay damage. Heal equal to the damage dealt.
+You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature of your choice within range. If you hit, deal 2d8 + 2 * Presence hybrid primal-decay damage. You may convert any number of their ailments into the same number of stacks of either withered or rooted.
 
 If you have at least 3 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
 
@@ -279,10 +279,10 @@ If you have at least 3 stacks of decay exposure, you and your target lose 6 + Pr
 #### Lifeforce Detonation
 
 When you reach 5 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within a 2 tile range. If you hit, remove all ailments and afflictions from them.
-For each stack of afflictions removed in this way, gain 1 absorption and deal 1 primal damage to the creature you removed it from.
-For each stack of a ailments removed in this way, gaim 2 asorption and deal 2 primal damage to the creature you removed it.
+For each stack of an affliction removed in this way, deal 1 primal damage to the creature you removed it from.
+For each stack of an ailment removed in this way, deal 2 primal damage to the creature you removed it.
 
-When you reach 5 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of withered to them and transfer all absorption that they have to yourself.
+When you reach 5 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of withered to them and remove all of their absorption.
 
 #### Life Twisting
 
