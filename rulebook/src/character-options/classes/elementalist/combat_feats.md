@@ -1,9 +1,5 @@
 # Combat Feats
 
-## Gentle Touch
-
-**Effects:** At the start of each of your turns, you may change your exposure by 1 in any direction.
-
 ## Fast Burning
 
 **Effects:** You can use your Pure Power class feature twice during each of your turns, rather than once.
@@ -22,10 +18,6 @@ When you gain this combat feat, sacrifice an exploration feat.
 - a 10-foot radius sphere centered on yourself
 - a 20-foot cone centered on yourself, in a direction of your choosing
 - a 40-foot x 5 foot line, starting at yourself, in a direction of your choosing
-
-## Power Cycle
-
-**Effects:** Whenever you would detonate, you may choose to gain 3 essence rather than the effect listed in your elemental pairing.
 
 ### Power Siphon
 
@@ -57,7 +49,7 @@ When you gain this combat feat, sacrifice an exploration feat.
 Whenever you hit a creature or apply a boon to a creature with a spell of that element, push them one tile away from you.
 Whenever you hit a creature or apply a boon with a spell of the opposed element, pull them one tile closer to you.
 
-When you hit or apply a boon to yourself, push yourself one tile in a direction of your choice. Your Meld spells do not push or pull their targets.
+When you target yourself with a spell, push yourself one tile in a direction of your choice. Your Meld spells do not push or pull their targets.
 
 ### Explosive Propulsion
 

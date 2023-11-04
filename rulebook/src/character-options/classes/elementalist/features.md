@@ -8,9 +8,9 @@
 |   2   |        +1         |                    Elemental Intuition                    |      4       |
 |   3   |        +2         |               Attribute Improvement, Feats                |      4       |
 |   4   |        +2         |                     Elemental Warding                     |      4       |
-|   5   |        +3         |                    Elemental Crafting                     |      5       |
+|   5   |        +3         |                      Font Communion                       |      5       |
 |   6   |        +3         |               Attribute Improvement, Feats                |      5       |
-|   7   |        +4         |                        Tranquility                        |      5       |
+|   7   |        +4         |                       Gentle Touch                        |      5       |
 |   8   |        +4         |                        Major Twist                        |      6       |
 |   9   |        +5         |               Attribute Improvement, Feats                |      6       |
 |  10   |        +5         |                     Currents of Power                     |      6       |
@@ -29,7 +29,7 @@
 
 **Effects:** The elementalist is a master of magic, shaping the raw elements into tangible form to blast their foes to smithereens. Elementalist spells always cost 2 AP and 1 essence.
 
-10 of the elements have a natural opposite, creating the following five pairings:
+With the exception of arcane and fate, each of the elements has a natural opposite, creating the following five pairings:
 
 - Sandstorm (air and earth)
 - Frostfire (fire and water)
@@ -38,37 +38,41 @@
 - Surgebreaker (electric and corrosive)
 
 Select a pairing and your initial spells at level 1. The number of spells you know at each level is listed in your class table.
-You can only select spells from one of your pariings, and you must always know at least one spell from each of the elements in your pairings.
+You can only select spells from one of your pariings, and you must always know at least one spell from each element in your pairing.
 
-In addition, whenever you select a new pairing, you learn a meld spell that combines the power of both elements in your pairing. Meld spells do not count against the number of spells that you know.
+In addition, you learn a meld spell that combines the power of both elements in your pairing. Meld spells do not count against the number of spells that you know.
 
-As you cast spells, you build up exposure to the element you are working with. You can limit this exposure by casting spells of the opposing element. As you get stronger, you learn more strategies for controlling your exposure.
+As you cast spells, you build up exposure to the element you are working with. You can limit this exposure by casting spells of the opposing element.
 
-Your exposure ranges from 5 in one element, to 5 in the opposed element, balancing at 0 exposure to either element in the middle. It changes in the following ways: Whenever you cast a spell, your exposure shifts towards that element by 1. If it is a critical hit, the exposure changes by 2 instead. Effects which can hit multiple creatures only change your exposure once for each time they are cast.
+Your exposure ranges from 5 in one element, to 5 in the opposed element, balancing at 0 exposure to either element in the middle. It changes in the following ways: 
+- Whenever you cast a spell, your exposure shifts towards that element by 1.
+- If it is a critical hit, the exposure changes by 2 instead.
+- When you use a meld spell, your exposure in your current element increases by one. If your exposure is zero, gain one exposure in an associated element of your choice.
+- Effects which can hit multiple creatures only change your exposure once for each time they are cast.
 
 Whenever your exposure to an element is 3 or more, your spells of that element (other than twisting spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 4. Meld spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset at the end of each combat.
 
 When you reach 5 stacks, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 5 stacks of exposure, you **detonate**. All creatures within a 2 tile range suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to 0 and gain a stack of exhaustion.
 
-## Pure Power
+### Pure Power
 
 **Level:** 1
 
-**Effects:** Once during each of your turns, you may spend essence in the place of AP when using an action.
+**Effects:** Once during each of your turns, you may spend essence in the place of AP when using an action. For example, if you wanted to take the Strike action, you would spend 2 essence and 0 AP.
 
-## Element Twisting
+### Element Twisting
 
 **Level:** 1
 
-**Effect:** You learn to manipulate the elements around you in ways that help you solve problems outside of combat. The twisting spells associated with each pairing are listed in the Pairings section below. Twisting spells do not count against the number of spells that you know.
+**Effect:** You learn to manipulate the elements around you in ways that help you solve problems outside of combat. Gain access to the twisting spells for your associated elements, which are listed in the Pairings section below. Twisting spells do not count against the number of spells that you know.
 
-When you reach level 7 and gain access to your second pairing, you also learn the twisting spells associated with those elements. Every twisting spell increases in power at level 10 and 18.
+Twisting spells cannot be used in combat, as they are either too intricate or time consuming to cast in the heat of battle.
 
-## Elemental Intuition
+### Elemental Intuition
 
 **Level:** 2
 
-**Effect:** Your familiarity with the elements allows you to innately sense them around you. You automatically detect any source or usage of your chosen elements within 4 tiles of you, and understand approximately what it is being used for. Additionally, you have advantage on any Arcana checks to understand or modify magic that uses your chosen elements.
+**Effect:** Your familiarity with the elements allows you to innately sense them around you. You automatically detect any source or usage of your chosen elements within 50 feet of you, and understand approximately what it is being used for. Additionally, you have advantage on any Arcana checks to understand or modify magic that uses your chosen elements.
 
 ### Attribute Improvement
 
@@ -86,13 +90,19 @@ When you reach level 7 and gain access to your second pairing, you also learn th
 
 ***Level:** 4
 
-When you use the Ward action, gain immunity to the damage types in your elemental pairing until the start of your next turn.
+When you use the Ward action, until the start of your next turn, gain immunity to the damage types in your elemental pairing and ignore any ailments or afflictions applied to yourself.
 
-### Elemental Crafting
+### Font Communion
 
 ***Level:** 5
 
-**Effects:** Your knowledge of the push and pull of elemental forces allows you to balance them in the physical objects around you. You have advantage on all skill checks made to Enchant, Disenchant or Invent downtime activities as long as the affix has at least one of the elements in your pairing as a tag.
+**Effects:** Gain access to the Commune downtime activity. When you use this downtime activity, make a Focus (Fontcraft) skill check. For every 5 points of the skill check result, ask one question of the worldspeaker, who must do their best to answer truthfully:
+
+- What elements is this font associated with?
+- What are the font-level vantages, if any?
+- What danger levels are present in this font, and where are they located?
+- What does this font currently want, if anything?
+- Are there any important monsters or creatures in this font's area of influence?
 
 ### Attribute Improvement
 
@@ -106,11 +116,11 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Tranquility
+### Gentle Touch
 
 ***Level:** 7
 
-**Effects:** At the start of each of your turns, if your exposure is less than 4, gain the benefits of the Recover action.
+**Effects:** At the start of each of your turns, you may change your exposure by 1 in any direction.
 
 ### Major Twist
 
@@ -137,8 +147,8 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 **Effects:** At the end of each of your turns, gain an effect based on your current exposure:
 
 - 0: Gain the benefits of the Defend and Ward actions.
-- 1-3: Set your exposure to any value of your choice.
-- 4-6: Detonate without resetting your Exposure.
+- 1-2: Set your exposure to any value of your choice.
+- 3-4: Until the end of your next turn, whenever you cast a spell, you may choose whether or not it is a critical hit.
 
 ## Elemental Pairings
 
@@ -147,7 +157,8 @@ When you use the Ward action, gain immunity to the damage types in your elementa
 #### Sandstorm Meld
 
 **Category:** Offensive
-A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid air-earth damage, and knock the creature struck back 2 tiles.
+
+A swirling blast of sand carried by the wind pummels your target. Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d8 + Presence hybrid air-earth damage, and knock the creature struck back 2 tiles.
 
 If you have at least 3 stacks of air exposure, knock yourself 2 tiles away from your target as well.
 
@@ -162,6 +173,7 @@ When you reach 5 stacks of earth exposure, rocks explode from your body. Make an
 #### Wind Twisting
 
 **Category:** Utility
+
 As you twist the wind beneath the feet of your ally, they gain the ability to fly. Until the end of your next turn, a creature of your choice within range can fly.
 
 If you are level 8 or higher, until the start of your next rest they can fly outside of combat.
@@ -169,7 +181,8 @@ If you are level 8 or higher, until the start of your next rest they can fly out
 #### Stone Twisting
 
 **Category:** Utility
-Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your  choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
+
+Twisting and warping stone, you bend it to your will. Select up to 4 contingent tiles of your choice within range that are made in either whole or part of stone (including brick and so on). They permanently become difficult terrain. You may also use this spell to eliminate difficult terrain if it is caused by uneven stony ground or a similar phenomenon.
 
 If you are level 8 or higher, you can also slowly create stone, up to three 1 tile by 1 height tier cubes per use of this spell. This might be a barricade, repairing a bridge or creating a small defensive structure as a downtime activity.
 
@@ -178,7 +191,8 @@ If you are level 8 or higher, you can also slowly create stone, up to three 1 ti
 #### Frostfire Meld
 
 **Category:** Offensive
-A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature or object of your choice within range. If you hit, deal 2d8 + 2 * Presence hybrid fire-water damage.
+
+A cold flame gushes forth from you, lighting your target on fire while you chill them. Make an Agility attack against a creature of your choice within range. If you hit, deal 2d8 + 2 * Presence hybrid fire-water damage.
 
 If you have at least 3 stacks of fire exposure, add 6 + Presence stacks of aflame to yourself, and 6 + Presence stacks of aflame to your target if you hit.
 
@@ -193,6 +207,7 @@ When you reach 5 stacks of water exposure, a terrible burst of cold emanates fro
 #### Fire Twisting
 
 **Category:** Offensive
+
 With a flick of the wrist, you are able to spread or control fires at will. If there is an open source of flame within range, you can spread it to another object or creature within range. If you select a creature, you must make an Agility attack against them, applying 6 + Presnece stacks of aflame on hit.
 
 You may also extinguish a small fire of your choice within range that affects up to a 5 foot cube with this spell. If you use this spell on a creature, they are no longer aflame.
@@ -202,6 +217,7 @@ If you are level 8 or higher, you can cause a fire that you target or spread in 
 #### Frost Twisting
 
 **Category:** Utility
+
 With a pointed finger, you can freeze water solid, allowing you to walk on formerly solid bodies of water or turn puddles into ice slicks. Each time you use this spell, you may cause a 5 foot cube of solid water to turn to ice, or cause up to 4 contiguous tiles that have shallow or deep water on them to turn into an ice slick.
 
 Whenever a creature attempts to spend movement to enter a tile within this ice for the first time on their turn, make an Agility attack against them. If you hit, they are knocked prone. While on this ice, the effects of all forced movement other than teleportation is doubled.
@@ -218,7 +234,8 @@ You can only sculpt up to a 5 foot cube of ice per casting of this spell.
 #### Darklight Meld
 
 **Category:** Offensive
-Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make a Focus attack against a creature or object of your choice within range. If you hit, deal 1d4 + 1/2 Presence hybrid radiant-umbral damage. Apply stacks of temperance and anguish to them equal to the damage dealt.
+
+Shadow and light swirling together, you cast a beam of terrible energy at your foe. Make a Focus attack against a creature of your choice within range. If you hit, deal 1d4 + 1/2 Presence hybrid radiant-umbral damage. Apply stacks of temperance and anguish to them equal to the damage dealt.
 
 If you have at least 3 stacks of radiant exposure, add 6 + Presence stacks of temperance to yourself, and 6 + Presence stacks of temperance to your target if you hit.
 
@@ -228,34 +245,37 @@ If you have at least 3 stacks of umbral exposure, add 6 + Presence stacks of ang
 
 When you reach 5 stacks of radiant exposure, you explode in a burst of blinding light. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of blinded. If you miss, apply 1 stack of blinded instead. Hit or miss, then deal 1d4 + 1/2 Presence radiant damage to them, multiplied by the number of stacks of blinded that they have.
 
-When you reach 5 stacks of umbral exposure, you disappear into the shadows. Become invisible until the end of your next turn. This effect does not break after you make an attack.
+When you reach 5 stacks of umbral exposure, you disappear into the shadows. ???
 
 #### Brilliant Twisting
 
 **Category:** Utility
-Twisting and shaping a source of light, you cause it to glow brilliantly. Select a light source of your choice within range. Until you complete a rest, the radius of the bright and dim light cast by this light source is doubled. You can affect the same light source up to three times with this spell, doubling the light radius each time. You can end this effect at any time by casting this spell again.
 
-If you are level 8 or higher, magical items and effects in the amplified light sparkle and glimmer in an obvious fashion as the light catches on threads of the Weave.
+You can cause an area surrounding an object of your choice to emit light until you complete your next rest. If you do, it sheds bright light in a 20 foot radius, and dim light in a 40 foot radius.
+
+If you are level 8 or higher, magical items and effects in the light sparkle and glimmer in an obvious fashion as the light catches on threads of the Weave.
 
 #### Shadow Twisting
 
 **Category:** Utility
-With a flick of the wrist, you cause shadows to grow and extinguish light sources. When you cast this spell, extinguish a light source of your choice within range.
 
-If you are level 8 or higher, the light source you extinguish cannot be relit until you complete a rest unless the creature attempting to relight the light source succeeds on a contested Presence (Arcana) skill check against you. You may choose to fail this skill check.
+You gain the ability to twist shadows into new shapes, or make them up to twice as large as their original size. Additionally, you can conceal yourself and up to 6 other creatures in darkness. While shrouded, the shadows blend into their environment and observers will percieve them as ordinary, inconspicuous shadows unless they succeed at an opposed Focus (Arcana) skill check.
+
+If you are level 8 or higher, creatures that you shroud become fully invisible.
 
 ### Lifeforce
 
 #### Lifeforce Meld
 
 **Category:** Offensive
-You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature or object of your choice within range. If you hit, deal 1d8 + Presence hybrid primal-decay damage. Heal equal to the damage dealt.
+
+You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature of your choice within range. If you hit, deal 1d8 + Presence hybrid primal-decay damage. Heal equal to the damage dealt.
 
 If you have at least 3 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
 
 If you have at least 3 stacks of decay exposure, you and your target lose 6 + Presence absorption before the damage takes effect.
 
-### Lifeforce Detonation
+#### Lifeforce Detonation
 
 When you reach 5 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within a 2 tile range. If you hit, remove all ailments and afflictions from them.
 For each stack of afflictions removed in this way, gain 1 absorption and deal 1 primal damage to the creature you removed it from.
@@ -266,6 +286,7 @@ When you reach 5 stacks of decay exposure, you drain the energy from those aroun
 #### Life Twisting
 
 **Category:** Utility
+
 Knitting together wounds and lifting ailments, you. When you cast this spell, gain the benefits of the Treat action with advantage affecting a creature of your choice within range. When you use this spell during the Tend downtime activity, gain advantage on the Focus (Medicine) skill check made.
 
 If you are level 8 or higher, you remove an additional stack of exhaustion when you use this spell during the Tend downtime activity.
@@ -273,6 +294,7 @@ If you are level 8 or higher, you remove an additional stack of exhaustion when 
 #### Death Twisting
 
 **Category:** Utility
+
 Gently touching the soul of another creature, you are able to manipulate its connection with the afterlife. When you cast this spell, you may gain the benefits of the Scan minor action with advantage. You automatically determine their current life total and learn any .
 
 If you are level 8 or higher, you have advantage on the Resurrect downtime activity when you use this spell.
@@ -282,7 +304,8 @@ If you are level 8 or higher, you have advantage on the Resurrect downtime activ
 #### Surgebreaker Meld
 
 **Category:** Offensive
-A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make a Presence attack against a creature or object of your choice within range. If you hit, deal 1d6 + Presence hybrid electric-corrosive damage and trigger their afflictions.
+
+A beam of swirling destructive energy pulses out from you as it strips away your foe’s defenses. Make a Presence attack against a creature of your choice within range. If you hit, deal 1d6 + Presence hybrid electric-corrosive damage and trigger their afflictions.
 
 If you have at least 3 stacks of electric exposure, deal an 1d6 + Presence electric damage to you, your target, and all creatures in a line between you.
 
@@ -297,6 +320,7 @@ When you reach 5 stacks of corrosive exposure, you explode in a shower of acid. 
 #### Lightning Twisting
 
 **Category:** Utility
+
 Lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment. You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object. You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength.
 You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 6 tiles (about 30 feet), although it falls harmlessly to the ground shortly afterwards.
 
@@ -307,6 +331,7 @@ If you are level 8 or higher, you may activate consumable items or perform acts 
 #### Acid Twisting
 
 **Category:** Utility
+
 Acid drips and bubbles as it reveals weaknesses of all sorts. Select a creature or object within range. When you use this spell against a creature, make an Exertise attack against them. If you hit, they lose 1 life. When you use this spell against an object, you have advantage on the next skill check made in the next ten minutes to break or destroy it.
 
 If you are level 8 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. You can only destroy a single 5-foot cube of solid material per cast.
