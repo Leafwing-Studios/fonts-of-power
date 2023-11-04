@@ -22,7 +22,7 @@ If you have at least 3 stacks of air exposure, the elemental energy bounces off 
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -89,7 +89,7 @@ If you have at least 3 stacks of earth exposure,, the elemental energy bounces o
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A heavy ball of stone whizzes through the air before exploding in a shower of rock. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence earth damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of earth exposure,, the radius of the burst increases to 4 tiles instead.
 
@@ -156,7 +156,7 @@ If you have at least 3 stacks of fire exposure,, the elemental energy bounces of
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A roaring ball of fire whizzes through the air before exploding in a spectacular incendiary display. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of fire exposure,, the radius of the burst increases to 4 tiles instead.
 
@@ -223,7 +223,7 @@ If you have at least 3 stacks of water exposure,, the elemental energy bounces o
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A gleaming ball of ice whizzes through the air before exploding in a shower of icicles. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence water damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of water exposure,, the radius of the burst increases to 4 tiles instead.
 
@@ -290,7 +290,7 @@ If you have at least 3 stacks of radiant exposure,, the elemental energy bounces
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A glowing ball of light whizzes through the air before exploding in a searing burst. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence radiant damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of radiant exposure,, the radius of the burst increases to 4 tiles instead.
 
@@ -357,7 +357,7 @@ If you have at least 3 stacks of umbral exposure,, the elemental energy bounces 
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A flickering ball of pure darkness whizzes through the air before exploding in a creeping wave. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence umbral damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of umbral exposure,, the radius of the burst increases to 4 tiles instead.
 
@@ -424,7 +424,7 @@ If you have at least 3 stacks of primal exposure,, the elemental energy bounces 
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** AA glowing green ball of vital energy whizzes through the air before exploding in an overwhelming surge. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence primal damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of primal exposure,, the radius of the burst increases to 4 tiles instead.
 
@@ -491,7 +491,7 @@ If you have at least 3 stacks of decay exposure,, the elemental energy bounces o
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A murky ball of negative energy whizzes through the air before exploding in an exhausting burst. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence decay damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of decay exposure,, the radius of the burst increases to 4 tiles instead.
 
@@ -558,7 +558,7 @@ If you have at least 3 stacks of electric exposure,, the elemental energy bounce
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A crackling ball of electricity whizzes through the air before exploding in a shower of sparks. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence electric damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of electric exposure,, the radius of the burst increases to 4 tiles instead.
 
@@ -625,7 +625,7 @@ If you have at least 3 stacks of corrosive exposure,, the elemental energy bounc
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss still take half as much damage.
+**Effects:** A dripping ball of acid whizzes through the air before exploding in a corrosive shower. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence acid damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of corrosive exposure,, the radius of the burst increases to 4 tiles instead.
 
