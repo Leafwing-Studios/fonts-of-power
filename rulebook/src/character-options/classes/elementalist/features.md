@@ -44,7 +44,8 @@ In addition, you learn a meld spell that combines the power of both elements in 
 
 As you cast spells, you build up exposure to the element you are working with. You can limit this exposure by casting spells of the opposing element.
 
-Your exposure ranges from 5 in one element, to 5 in the opposed element, balancing at 0 exposure to either element in the middle. It changes in the following ways: 
+Your exposure ranges from 5 in one element, to 5 in the opposed element, balancing at 0 exposure to either element in the middle. It changes in the following ways:
+
 - Whenever you cast a spell, your exposure shifts towards that element by 1.
 - If it is a critical hit, the exposure changes by 2 instead.
 - When you use a meld spell, your exposure in your current element increases by one. If your exposure is zero, gain one exposure in an associated element of your choice.
