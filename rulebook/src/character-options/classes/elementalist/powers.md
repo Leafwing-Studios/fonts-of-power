@@ -50,7 +50,7 @@ If you have at least 3 stacks of air exposure, make an attack against each creat
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of air exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -60,7 +60,7 @@ If you have at least 3 stacks of air exposure, you can only teleport up to 1 til
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of air exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of air exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Wind Touch
 
@@ -118,7 +118,7 @@ If you have at least 3 stacks of earth exposure, make an attack against each cre
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of earth exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -128,7 +128,7 @@ If you have at least 3 stacks of earth exposure, you can only teleport up to 1 t
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of earth exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of earth exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Stone Touch
 
@@ -171,7 +171,7 @@ If you have at least 3 stacks of fire exposure, the radius of the burst increase
 **Effects:** Flame swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
 Gain 6 + Presence absorption.
 The first time that you lose life before the start of your next turn, you erupt in a burst of flame.
-Make an Agility attack against all creatures within 20 feet of you. If you hit, deal 1d6 + Presence fire damage.
+Make an Agility attack against all creatures within 4 tiles of you. If you hit, deal 1d6 + Presence fire damage.
 Creatures that you miss suffer the attacks effects at half efficacy.
 
 If you have at least 3 stacks of fire exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
@@ -188,7 +188,7 @@ If you have at least 3 stacks of fire exposure, make an attack against each crea
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of fire exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -198,7 +198,7 @@ If you have at least 3 stacks of fire exposure, you can only teleport up to 1 ti
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of fire exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of fire exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Flame Touch
 
@@ -241,7 +241,7 @@ If you have at least 3 stacks of water exposure, the radius of the burst increas
 **Effects:** Beautiful fragile ice swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
 Gain 6 + Presence absorption.
 The first time that you lose life before the start of your next turn, the ice shatters into a shower of painful shards.
-Make an Agility attack against all creatures within 10 feet of you. If you hit, apply 3 + 1/2 Presence stacks of bleeding.
+Make an Agility attack against all creatures within a 2 tile range of you. If you hit, apply 3 + 1/2 Presence stacks of bleeding.
 Creatures that you miss suffer the attacks effects at half efficacy.
 
 If you have at least 3 stacks of water exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
@@ -258,7 +258,7 @@ If you have at least 3 stacks of water exposure, make an attack against each cre
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of water exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -268,7 +268,7 @@ If you have at least 3 stacks of water exposure, you can only teleport up to 1 t
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of water exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of water exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Frost Touch
 
@@ -310,7 +310,7 @@ If you have at least 3 stacks of radiant exposure, the radius of the burst incre
 
 **Effects:** A glowing barrier swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
 Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn,
-grant 6 + Presence absorption to all other creatures within 10 feet.
+grant 6 + Presence absorption to all other creatures within a 2 tile range.
 
 If you have at least 3 stacks of radiant exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -326,7 +326,7 @@ If you have at least 3 stacks of radiant exposure, make an attack against each c
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of radiant exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -336,7 +336,7 @@ If you have at least 3 stacks of radiant exposure, you can only teleport up to 1
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of radiant exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of radiant exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Brilliant Touch
 
@@ -395,7 +395,7 @@ If you have at least 3 stacks of umbral exposure, make an attack against each cr
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of umbral exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -405,7 +405,7 @@ If you have at least 3 stacks of umbral exposure, you can only teleport up to 1 
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of umbral exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of umbral exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Shadow Touch
 
@@ -464,7 +464,7 @@ If you have at least 3 stacks of primal exposure, make an attack against each cr
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of primal exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -474,7 +474,7 @@ If you have at least 3 stacks of primal exposure, you can only teleport up to 1 
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of primal exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of primal exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Life Touch
 
@@ -517,7 +517,7 @@ If you have at least 3 stacks of decay exposure, the radius of the burst increas
 **Effects:** Dark magic swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
 Gain 6 + Presence absorption.
 The first time that you lose life before the start of your next turn, the barrier shatters with a horrible wail.
-Make a Focus attack against all creatures within 10 feet of you.
+Make a Focus attack against all creatures within a 2 tile range.
 If you hit, apply one stack of cursed.
 
 If you have at least 3 stacks of decay exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
@@ -534,7 +534,7 @@ If you have at least 3 stacks of decay exposure, make an attack against each cre
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of decay exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -544,7 +544,7 @@ If you have at least 3 stacks of decay exposure, you can only teleport up to 1 t
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of decay exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of decay exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Death Touch
 
@@ -603,7 +603,7 @@ If you have at least 3 stacks of electric exposure, make an attack against each 
 
 **Category:** Defensive
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of electric exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -613,7 +613,7 @@ If you have at least 3 stacks of electric exposure, you can only teleport up to 
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of electric exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of electric exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Lightning Touch
 
@@ -656,7 +656,7 @@ If you have at least 3 stacks of corrosive exposure, the radius of the burst inc
 **Effects:** Oozing acid swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
 Gain 6 + Presence absorption.
 The first time that you lose life before the start of your next turn, explode in a shower of acid.
-Make an Agility attack against all creatures within 10 feet of you.
+Make an Agility attack against all creatures within a 2 tile range.
 If you hit, apply one stack of blinded.
 
 If you have at least 3 stacks of corrosive exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
@@ -673,7 +673,7 @@ If you have at least 3 stacks of corrosive exposure, make an attack against each
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within 5 feet of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within range 3 and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
 
 If you have at least 3 stacks of corrosive exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -683,7 +683,7 @@ If you have at least 3 stacks of corrosive exposure, you can only teleport up to
 
 **Effects:**Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of corrosive exposure, make a Prowess attack against all creatures within 5 feet of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of corrosive exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
 
 ### Acid Touch
 
