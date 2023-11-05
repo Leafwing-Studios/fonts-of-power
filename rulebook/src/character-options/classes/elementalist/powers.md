@@ -30,8 +30,11 @@ If you have at least 3 stacks of air exposure, the radius of the burst increases
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, create a huge burst of billowing air.
+Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
+Creatures that you miss suffer the attacks effects at half efficacy.
 
 If you have at least 3 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -97,8 +100,9 @@ If you have at least 3 stacks of earth exposure, the radius of the burst increas
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** Rocky plating swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, gain resistance to physical damage until the end of your next turn as your skin hardens to stone.
 
 If you have at least 3 stacks of earth exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -164,8 +168,11 @@ If you have at least 3 stacks of fire exposure, the radius of the burst increase
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** Flame swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, you erupt in a burst of flame.
+Make an Agility attack against all creatures within 20 feet of you. If you hit, deal 1d6 + Presence fire damage.
+Creatures that you miss suffer the attacks effects at half efficacy.
 
 If you have at least 3 stacks of fire exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -231,8 +238,11 @@ If you have at least 3 stacks of water exposure, the radius of the burst increas
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** Beautiful fragile ice swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, the ice shatters into a shower of painful shards.
+Make an Agility attack against all creatures within 10 feet of you. If you hit, apply 3 + 1/2 Presence stacks of bleeding.
+Creatures that you miss suffer the attacks effects at half efficacy.
 
 If you have at least 3 stacks of water exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -298,8 +308,9 @@ If you have at least 3 stacks of radiant exposure, the radius of the burst incre
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** A glowing barrier swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn,
+grant 6 + Presence absorption to all other creatures within 10 feet.
 
 If you have at least 3 stacks of radiant exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -365,8 +376,10 @@ If you have at least 3 stacks of umbral exposure, the radius of the burst increa
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** Shadow swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, create a cloud of pure darkness around yourself.
+A 10 foot radius around you becomes heavily shrouded until the end of your next turn.
 
 If you have at least 3 stacks of umbral exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -432,8 +445,9 @@ If you have at least 3 stacks of primal exposure, the radius of the burst increa
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** A regenerating barrier of vital force swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, gain 6 + Presence absorption after you lose life.
 
 If you have at least 3 stacks of primal exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -499,8 +513,11 @@ If you have at least 3 stacks of decay exposure, the radius of the burst increas
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** Dark magic swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, the barrier shatters with a horrible wail.
+Make a Focus attack against all creatures within 10 feet of you.
+If you hit, apply one stack of cursed.
 
 If you have at least 3 stacks of decay exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -566,8 +583,10 @@ If you have at least 3 stacks of electric exposure, the radius of the burst incr
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** Crackling lightning swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, you vanish in a crack of lightning.
+Teleport up to 3 tiles away into an empty tile of your choice.
 
 If you have at least 3 stacks of electric exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -633,8 +652,11 @@ If you have at least 3 stacks of corrosive exposure, the radius of the burst inc
 
 **Category:** Defensive
 
-**Effects:** Wind swirls tightly around you as you focus your magic completely upon your own defense as you retaliate against those who would strike you. Gain 6 + Presence absorption. The first time that you lose life before the start of your next turn, create a huge burst of billowing air. Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Those that you miss are still knocked back 2 tiles.
+**Effects:** Oozing acid swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
+Gain 6 + Presence absorption.
+The first time that you lose life before the start of your next turn, explode in a shower of acid.
+Make an Agility attack against all creatures within 10 feet of you.
+If you hit, apply one stack of blinded.
 
 If you have at least 3 stacks of corrosive exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
