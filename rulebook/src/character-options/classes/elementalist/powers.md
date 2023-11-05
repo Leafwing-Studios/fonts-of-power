@@ -42,7 +42,7 @@ If you have at least 3 stacks of air exposure, the absorption gained increases t
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply one stack of defenseless.
 
 If you have at least 3 stacks of air exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -110,7 +110,7 @@ If you have at least 3 stacks of earth exposure, the absorption gained increases
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, a spray of piercing rocks pours forth from your fingertips, puncturing your foes’ defenses. Make an Agility attack against each creature within a 3 tile radius cone. If you hit, deal 1d6 + Presence earth damage. This damage cannot be prevented.
 
 If you have at least 3 stacks of earth exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -180,7 +180,7 @@ If you have at least 3 stacks of fire exposure, the absorption gained increases 
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, flickering flames pours forth from your fingertips, igniting your foes. Make an Agility attack against each creature within a 3 tile radius cone. If you hit, apply 6 + Presence stacks of aflame.
 
 If you have at least 3 stacks of fire exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -250,7 +250,7 @@ If you have at least 3 stacks of water exposure, the absorption gained increases
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, freezing air pours forth from your fingertips, chilling your foes to the bone. Make a Prowess attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence water damage and apply one stack of chilled.
 
 If you have at least 3 stacks of water exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -318,7 +318,7 @@ If you have at least 3 stacks of radiant exposure, the absorption gained increas
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, a brilliant rainbow pours forth from your fingertips, blinding your foes. Make a Focus attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence radiant damage and apply one stack of blinded.
 
 If you have at least 3 stacks of radiant exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -387,7 +387,7 @@ If you have at least 3 stacks of umbral exposure, the absorption gained increase
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, strange dark energy pours forth from your fingertips, cursing your foes. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence umbral damage and apply one stack of cursed.
 
 If you have at least 3 stacks of umbral exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -455,7 +455,8 @@ If you have at least 3 stacks of primal exposure, the absorption gained increase
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, a wave of overwhelming life energy pours forth from your fingertips, rapidly healing ailments in a rather painful fashion. Make a Focus attack against each creature within a 3 tile radius cone.
+If you hit, remove all stacks of an ailment of your choice from them. If you do, deal 1d12 + Presence primal damage to them. Otherwise, deal 1d8 + Presence primal damage to them.
 
 If you have at least 3 stacks of primal exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -525,7 +526,7 @@ If you have at least 3 stacks of decay exposure, the absorption gained increases
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, terrible necrotic energy pours forth from your fingertips, worsening the ailments of your foes. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, apply one stack of each ailment they are already suffering from to them.
 
 If you have at least 3 stacks of decay exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -594,7 +595,7 @@ If you have at least 3 stacks of electric exposure, the absorption gained increa
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, a sheet of lightning pours forth from your fingertips, zapping your foes. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, apply 6 + Presence stacks of jolted.
 
 If you have at least 3 stacks of electric exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -664,7 +665,7 @@ If you have at least 3 stacks of corrosive exposure, the absorption gained incre
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, gushing air pours forth from your fingertips, stripping your foes of their defenses. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, deal 1d4 + Presence air damage and apply a stack of defenseless.
+**Effects:** As you fan your hands, burning acid pours forth from your fingertips, eating through your foes' defenses. Make an Agility attack against each creature within a 3 tile radius cone. If you hit, deal 1d8 + Presence corrosive damage. This attack deals triple damage to absorption.
 
 If you have at least 3 stacks of corrosive exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
