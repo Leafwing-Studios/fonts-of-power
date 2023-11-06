@@ -126,9 +126,9 @@ If you have at least 3 stacks of earth exposure, you can only teleport up to 1 t
 
 **Category:** Offensive
 
-**Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Grasping tendrils of stone surround your foe, clutching and grabbing at whatever passes for their feet. Make an Agility attack against a creature of your choice within range. If you hit, apply 2 stacks of rooted.
 
-If you have at least 3 stacks of earth exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of earth exposure, apply three stacks of rooted to that creature and two stacks to yourself instead if you hit.
 
 ### Stone Touch
 
@@ -196,9 +196,10 @@ If you have at least 3 stacks of fire exposure, you can only teleport up to 1 ti
 
 **Category:** Offensive
 
-**Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Grasping fire tendrils pull at your foes, tossing them around effortlessly.
+If you hit, shove them into an adjacent tile of your choice up to 2 tiles away from their previous tile. Hit or miss, deal 1d4 + Presence fire damage.
 
-If you have at least 3 stacks of fire exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of fire exposure, pull them into an empty adjacent tile to you instead.
 
 ### Flame Touch
 
@@ -266,9 +267,9 @@ If you have at least 3 stacks of water exposure, you can only teleport up to 1 t
 
 **Category:** Offensive
 
-**Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Grasping tendrils of frost surround your foe as they chill their victim to the bone. Make a Focus attack against a creature of your choice within range. If you hit, apply two stacks of chilled.
 
-If you have at least 3 stacks of water exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of water exposure, apply three stacks of chilled to that creature and two stacks to yourself instead if you hit.
 
 ### Frost Touch
 
@@ -334,9 +335,9 @@ If you have at least 3 stacks of radiant exposure, you can only teleport up to 1
 
 **Category:** Offensive
 
-**Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Grasping tendrils of light surround your foe as they stay your foe’s hand. Make a Presence attack against a creature of your choice within range. If you hit, apply two stacks of blunted.
 
-If you have at least 3 stacks of radiant exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of radiant exposure, three stacks of blunted to that creature and two stacks to yourself instead if you hit.
 
 ### Brilliant Touch
 
@@ -403,9 +404,9 @@ If you have at least 3 stacks of umbral exposure, you can only teleport up to 1 
 
 **Category:** Offensive
 
-**Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Grasping tendrils of shadow surround your foe as they block out their vision. Make an Agility attack against a creature of your choice within range. If you hit, apply two stacks of blinded.
 
-If you have at least 3 stacks of umbral exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of umbral exposure, apply three stacks of blinded to that creature and two stacks to yourself instead if you hit.
 
 ### Shadow Touch
 
@@ -472,9 +473,9 @@ If you have at least 3 stacks of primal exposure, you can only teleport up to 1 
 
 **Category:** Offensive
 
-**Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Bizarre living tendrils wrap your foe in place. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of rooted.
 
-If you have at least 3 stacks of primal exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of primal exposure, apply three stacks of rooted to that creature and two stacks to yourself instead if you hit.
 
 ### Life Touch
 
@@ -542,9 +543,9 @@ If you have at least 3 stacks of decay exposure, you can only teleport up to 1 t
 
 **Category:** Offensive
 
-**Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Grasping tendrils of decay surround your foe as they sap away their energy. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of withered.
 
-If you have at least 3 stacks of decay exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of decay exposure, apply three stacks of withered to that creature and two stacks to yourself instead if you hit.
 
 ### Death Touch
 
@@ -611,9 +612,9 @@ If you have at least 3 stacks of electric exposure, you can only teleport up to 
 
 **Category:** Offensive
 
-**Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Grasping tendrils of lightning dull your foes attacks. Make a Prowess attack against a creature of your choice within range. If you hit, apply two stacks of blunted.
 
-If you have at least 3 stacks of electric exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of electric exposure, apply three stacks of blunted to that creature and two stacks to yourself instead if you hit.
 
 ### Lightning Touch
 
@@ -681,9 +682,9 @@ If you have at least 3 stacks of corrosive exposure, you can only teleport up to
 
 **Category:** Offensive
 
-**Effects:**Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
+**Effects:** Grasping tendrils of acid surround your foe, eating away at their defenses. Make an Agility attack against a creature of your choice within range. If you hit, apply two stacks of defenseless.
 
-If you have at least 3 stacks of corrosive exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of corrosive exposure, apply three stacks of defenseless to that creature and two stacks to yourself instead if you hit.
 
 ### Acid Touch
 
