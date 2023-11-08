@@ -66,7 +66,7 @@ If you have at least 3 stacks of air exposure, make a Prowess attack against all
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make an Agility attack against a creature within melee range. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
 
 If you have at least 3 stacks of air exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -134,7 +134,7 @@ If you have at least 3 stacks of earth exposure, apply three stacks of rooted to
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand rumbles with the power of the earth as you momentarily transform a foe's limbs to stone with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply one stacks of blunted, one stack of chilled and one stack of withered.
 
 If you have at least 3 stacks of earth exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -205,7 +205,7 @@ If you have at least 3 stacks of fire exposure, pull them into an empty adjacent
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand burns with heat as it ingites a nearby foe with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of aflame.
 
 If you have at least 3 stacks of fire exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -275,7 +275,7 @@ If you have at least 3 stacks of water exposure, apply three stacks of chilled t
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand glistens with a terrible frost as you freeze foe to the bone with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply deal 1d8 + Presence water damage.
 
 If you have at least 3 stacks of water exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -343,7 +343,7 @@ If you have at least 3 stacks of radiant exposure, three stacks of blunted to th
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand glows with judgemental energy as your touch forces a nearby foe to reconsider everything they are fighting for. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of temperance.
 
 If you have at least 3 stacks of radiant exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -412,7 +412,7 @@ If you have at least 3 stacks of umbral exposure, apply three stacks of blinded 
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make an Agility attack against a creature within melee range. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
 
 If you have at least 3 stacks of umbral exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -481,7 +481,7 @@ If you have at least 3 stacks of primal exposure, apply three stacks of rooted t
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand pulses with shadowy energy as you wrack a nearby foe with pain with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of anguish.
 
 If you have at least 3 stacks of primal exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -551,7 +551,7 @@ If you have at least 3 stacks of decay exposure, apply three stacks of withered 
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand pulses with dark energy as you pull your foe closer to death with a single touch. Make an Agility attack against a creature within melee range. If you hit, deal 1d6 + Presence decay damage. This damage is increased to 1d12 + Presence if they are below half of their maximum life.
 
 If you have at least 3 stacks of decay exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -620,7 +620,7 @@ If you have at least 3 stacks of electric exposure, apply three stacks of blunte
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand crackles with electricity as you electrocute a nearby foe with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of jolted.
 
 If you have at least 3 stacks of electric exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -690,6 +690,6 @@ If you have at least 3 stacks of corrosive exposure, apply three stacks of defen
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make a Prowess attack against an adjacent creature of your choice. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand drips with acid as you eat away at a nearby foe with a single touch. Make an Agility attack against a creature within melee range. If you hit, deal 1d10 + Presence corrosive damage.
 
 If you have at least 3 stacks of corrosive exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
