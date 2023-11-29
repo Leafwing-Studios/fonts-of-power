@@ -32,14 +32,14 @@ However monsters do not have:
 
 Each monster can scale in two ways:
 
-1. Turns per round
-2. Tier
+1. Turns per round (scales with number of players to produce a balanced action economy)
+2. Tier (scales with player proficiency bonus to keep parity in features and statistics)
 
 Scaling turns per round increases:
 
-1. Max life
-2. Turns taken in each round
-3. The number of powers known
+1. The number of turns taken in each round
+2. Max life (?)
+3. The number of powers known (2 + 1/2 turns per round)
 
 It may also unlock a spell card!
 
@@ -47,9 +47,8 @@ Scaling tier is somewhat more complex, increasing:
 
 1. Attributes (5 + tier)
 2. Proficiency bonus (tier)
-3. Max life (?)
-4. Number of features (tier)
-5. Gear point total on arms and armor (2 * tier)
+3. Number of features (tier)
+4. Gear point total on arms and armor (2 * tier)
 
 ## Spell Cards
 
