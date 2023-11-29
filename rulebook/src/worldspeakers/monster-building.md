@@ -1,17 +1,71 @@
 # Building Monsters
 
-1. Select a total number of turns: should be within 1 of the players.
-   1. Divide these turns across the monsters in the combat.
-2. Set life totals: 25 * turns per round.
-3. Set proficiency bonus to within 1 of the players.
-4. Set attributes: total should be 5 + 2 * proficiency bonus.
-   1. Total pool is increased
-5. Build or choose base arms and armor.
-   1. One set of arms, one set of armor.
-6. Choose affixes such that enchantment point total is equal to 2 * proficiency bonus.
-   1. These can be discovered by the players if they win!
-   2. Consider drawing from font's pool of affixes.
-   3. Some affixes are monster-only: they don't make sense or are broken on players and are excluded from the pool players can gain.
-7. Build or choose 3 powers. Can replace one power for an extra set of arms.
-   1. Same balance as player powers: 1 essence = 1 AP.
-   2. Try to avoid spending more than 3 essence per turn on average to limit burst.
+## Monster Attributes
+
+Like players, monsters have the following attributes:
+
+1. Life
+2. Essence
+3. Attributes
+4. Skill proficiency (3)
+5. Proficiency bonus
+6. Basic attack and special attack bonus
+7. Basic defense and special defense
+
+They are primarily defined by:
+
+1. Features
+2. Powers
+3. Arms and armor
+4. Motivation
+5. Spell card
+
+However monsters do not have:
+
+1. Exhaustion
+2. Access to the Essence Tap feature
+3. Death's door(?)
+4. Exploration-focused powers or features
+5. Ideals
+
+## Scaling monsters
+
+Each monster can scale in two ways:
+
+1. Turns per round
+2. Tier
+
+Scaling turns per round increases:
+
+1. Max life
+2. Turns taken in each round
+3. The number of powers known
+
+It may also unlock a spell card!
+
+Scaling tier is somewhat more complex, increasing:
+
+1. Attributes (5 + tier)
+2. Proficiency bonus (tier)
+3. Max life (?)
+4. Number of features (tier)
+5. Gear point total on arms and armor (2 * tier)
+
+## Spell Cards
+
+Spell cards are powerful, once-per-fight effects.
+Each monster has an associated spell-card: it unlocks only if the number of turns per round is greater than half the number of players.
+
+## Monstrous Features
+
+Montstrous features work just like player features, and are intended to be equivalent power to feats and non-capstone class features.
+
+Many simple options exist, and when designing a monster, you should generally be quite mindful of the complexity budget.
+Stick to one or two interesting and self-synergistic ideas about how a monster will fight.
+
+Unlike for players, monster have access to negative features.
+When a negative feature is taken, the monster may take an additional feature to compensate.
+
+## Monstrous Powers
+
+These work just like players.
