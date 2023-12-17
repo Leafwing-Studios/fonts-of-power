@@ -66,7 +66,7 @@ If you have at least 3 stacks of air exposure, make a Prowess attack against all
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make an Agility attack against a creature within melee range. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make an Agility attack against a creature within melee range. If you hit, deal 1d6 + Presence air damage and knock them prone.
 
 If you have at least 3 stacks of air exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -102,7 +102,7 @@ If you have at least 3 stacks of earth exposure, the radius of the burst increas
 
 **Effects:** Rocky plating swirls tightly around you as you focus your magic completely upon your own defense, preparing to retaliate against those who would strike you.
 Gain 6 + Presence absorption.
-The first time that you lose life before the start of your next turn, gain resistance to physical damage until the end of your next turn as your skin hardens to stone.
+The first time that you lose life before the start of your next turn, gain resistance to damage until the end of your next turn as your skin hardens to stone.
 
 If you have at least 3 stacks of earth exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -188,7 +188,7 @@ If you have at least 3 stacks of fire exposure, make an attack against each crea
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a brilliant flash of flame. Teleport into an empty tile of your choice within a 3 tile range and make an Expertise attack against all other creatures within a 1 tile range of that tile. If you hit, apply 1 stack of blinded.
 
 If you have at least 3 stacks of fire exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -196,8 +196,9 @@ If you have at least 3 stacks of fire exposure, you can only teleport up to 1 ti
 
 **Category:** Offensive
 
-**Effects:** Grasping fire tendrils pull at your foes, tossing them around effortlessly.
-If you hit, shove them into an adjacent tile of your choice up to 2 tiles away from their previous tile. Hit or miss, deal 1d4 + Presence fire damage.
+**Effects:** Grasping fire tendrils pull at your foes, tossing and burning them.
+Make a Prowess attack against a creature of your choice within a 4 tile range.
+If you hit, shove them into an adjacent tile of your choice. Hit or miss, deal 1d4 + Presence fire damage.
 
 If you have at least 3 stacks of fire exposure, pull them into an empty adjacent tile to you instead.
 
@@ -259,7 +260,7 @@ If you have at least 3 stacks of water exposure, make an attack against each cre
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away, freezing those around you to the ground as you leave. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of your origin. If you hit, apply 1 stack of rooted.
 
 If you have at least 3 stacks of water exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -275,7 +276,7 @@ If you have at least 3 stacks of water exposure, apply three stacks of chilled t
 
 **Category:** Utility
 
-**Effects:** Your hand glistens with a terrible frost as you freeze foe to the bone with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply deal 1d8 + Presence water damage.
+**Effects:** Your hand glistens with a terrible frost as you freeze foe to the bone with a single touch. Make an Agility attack against a creature within melee range. If you hit, deal 1d8 + Presence water damage.
 
 If you have at least 3 stacks of water exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -327,9 +328,9 @@ If you have at least 3 stacks of radiant exposure, make an attack against each c
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away, transforming into pure light as you travel. Teleport into an empty tile of your choice within a 3 tile range and gain the benefit of the Treat action targeting yourself.
 
-If you have at least 3 stacks of radiant exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+If you have at least 3 stacks of radiant exposure, you can only teleport up to 1 tile away, but you have advantage on the Treat skill check made.
 
 ### Brilliant Tendrils
 
@@ -396,9 +397,9 @@ If you have at least 3 stacks of umbral exposure, make an attack against each cr
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+**Effects:** Shadows swirl and you vanish into thin air, appearing moments later as your cloak of shadows fades. Teleport into an empty tile of your choice within a 3 tile range. The same radius around you becomes heavily shrouded until the start of your next turn. Gain the benefits of the Hide action.
 
-If you have at least 3 stacks of umbral exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+If you have at least 3 stacks of umbral exposure, you can only teleport up to 1 tile away, but you have advantage on the Hide skill check made.
 
 ### Shadow Tendrils
 
@@ -412,7 +413,7 @@ If you have at least 3 stacks of umbral exposure, apply three stacks of blinded 
 
 **Category:** Utility
 
-**Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make an Agility attack against a creature within melee range. If you hit, apply deal 1d6 + Presence air damage and knock them prone.
+**Effects:** Your hand pulses with shadowy energy as you wrack a nearby foe with pain with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of anguish.
 
 If you have at least 3 stacks of umbral exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -465,9 +466,9 @@ If you have at least 3 stacks of primal exposure, make an attack against each cr
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away, granting glowing green barriers to all nearby. Teleport into an empty tile of your choice within a 3 tile range and grant 6 + Presence absorption to all other creatures within a 1 tile range of your destination.
 
-If you have at least 3 stacks of primal exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+If you have at least 3 stacks of primal exposure, you can only teleport up to 1 tile away, but double the absorption granted.
 
 ### Life Tendrils
 
@@ -481,7 +482,7 @@ If you have at least 3 stacks of primal exposure, apply three stacks of rooted t
 
 **Category:** Utility
 
-**Effects:** Your hand pulses with shadowy energy as you wrack a nearby foe with pain with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of anguish.
+**Effects:** Your hand glows with invigorating energy, causing living creatures to burst forth from underneath their skin as you touch them. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of bleeding.
 
 If you have at least 3 stacks of primal exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -535,9 +536,9 @@ If you have at least 3 stacks of decay exposure, make an attack against each cre
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away, sucking the life force from those around you. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of your original tile. If you hit, steal their absorption.
 
-If you have at least 3 stacks of decay exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+If you have at least 3 stacks of decay exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made before you teleport.
 
 ### Death Tendrils
 
@@ -604,9 +605,9 @@ If you have at least 3 stacks of electric exposure, make an attack against each 
 
 **Category:** Defensive
 
-Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+Vanishing into thin air, you appear a short distance away in a streak of lightning. Teleport into an empty tile of your choice within a 3 tile range and make an Agility attack against all other creatures along the path. If you hit, deal 1d8 + Presence electric damage to them.
 
-If you have at least 3 stacks of electric exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
+If you have at least 3 stacks of electric exposure, you may teleport any distance away, but only via a path that is connected by adjacent creatures.
 
 ### Lightning Tendrils
 
@@ -674,7 +675,7 @@ If you have at least 3 stacks of corrosive exposure, make an attack against each
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away with a splash of acid. Teleport into an empty tile of your choice within a 3 tile range and make an Agility attack against all other creatures within a 1 tile range your destination. If you hit, deal 1d6 + Presence corrosive damage.
 
 If you have at least 3 stacks of corrosive exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
