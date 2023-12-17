@@ -34,7 +34,7 @@ If you have at least 3 stacks of air exposure, the radius of the burst increases
 Gain 6 + Presence absorption.
 The first time that you lose life before the start of your next turn, create a huge burst of billowing air.
 Make a Prowess attack against all creatures within a 4 tile range of you. If you hit, knock them back 4 tiles.
-Creatures that you miss suffer the attacks effects at half efficacy.
+Creatures that you miss suffer the attack's effects at half efficacy.
 
 If you have at least 3 stacks of air exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -172,7 +172,7 @@ If you have at least 3 stacks of fire exposure, the radius of the burst increase
 Gain 6 + Presence absorption.
 The first time that you lose life before the start of your next turn, you erupt in a burst of flame.
 Make an Agility attack against all creatures within 4 tiles of you. If you hit, deal 1d6 + Presence fire damage.
-Creatures that you miss suffer the attacks effects at half efficacy.
+Creatures that you miss suffer the attack's effects at half efficacy.
 
 If you have at least 3 stacks of fire exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
@@ -243,7 +243,7 @@ If you have at least 3 stacks of water exposure, the radius of the burst increas
 Gain 6 + Presence absorption.
 The first time that you lose life before the start of your next turn, the ice shatters into a shower of painful shards.
 Make an Agility attack against all creatures within a 2 tile range of you. If you hit, apply 3 + 1/2 Presence stacks of bleeding.
-Creatures that you miss suffer the attacks effects at half efficacy.
+Creatures that you miss suffer the attack's effects at half efficacy.
 
 If you have at least 3 stacks of water exposure, the absorption gained increases to 10 + Presence. In addition, you cannot spend movement and are immune to forced movement until the end of your next turn.
 
