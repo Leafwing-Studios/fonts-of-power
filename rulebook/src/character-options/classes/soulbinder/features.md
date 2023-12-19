@@ -147,17 +147,7 @@ If your dual is aware of the bond, they may do likewise and attempt to send emot
 
 #### Distinctive Pulse: Sweet Dreams
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Dual
 
 **Effects:** A wave of calm, restful energy flows through your bond, as you lull them into restful dreams while sheltering them from harm. Choose one:
 
@@ -191,17 +181,7 @@ Gain access to the Soulmeld action, which costs 0 AP and 1 essence. Become melde
 
 #### Distinctive Pulse: Blood Trail
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Presence
-
-**Target:** Dual
 
 **Effects:** A wound appears out of nowhere on the creature you are bound to and they are filled with a terrifying sense that they are being chased, causing them to leave a trail of blood behind them as they flee. Choose one:
 
@@ -224,17 +204,7 @@ If your dual dies, you may choose to gain the benefits of Essence Tap without ga
 
 #### Distinctive Pulse: Sickening Intensification
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Dual
 
 **Effects:** As your bond cures afflictions, so too does it apply new ones in turn. Choose one:
 
@@ -259,18 +229,7 @@ Whenever you use a pulse, you may transfer one stack of an ailment or up to two 
 
 #### Distinctive Pulse: Enforced Empathy
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Dual
-
 **Effects:** The energy flowing through your bond offers tremendous power, but forces you and your dual to consider the consequences of your actions. Choose one:
 
 - Attacks you make before the end of your next turn are automatically criticals if you hit, but you also suffer any of the attacks’ effects.

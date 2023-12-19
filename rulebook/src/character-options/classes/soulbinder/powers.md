@@ -2,17 +2,7 @@
 
 ## Soul Burst
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Offensive
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Self or Dual
 
 **Effects:** Choose one:
 
@@ -21,18 +11,7 @@
 
 ## Strange Symbiosis
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Self or Dual
-
 **Effects:** Souls twining together, you and your dual grow in strength. Choose one:
 
 - Transfer all of your absorption to your dual, then gain 6 + Presence absorption.
@@ -40,17 +19,7 @@
 
 ## Dark Pact
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Defensive / Offensive
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Self or Dual
 
 **Effects:** Choose one:
 
@@ -59,17 +28,7 @@
 
 ## Ethereal Elopement
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Expertise
-
-**Target:** Self or Dual
 
 **Effects:** Choose one:
 
@@ -80,17 +39,7 @@ When used with your Bidirectional Bond class feature, swap locations via telepor
 
 ## False Hope
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Defensive / Offensive
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Self or Dual
 
 **Effects:** Choose one:
 
@@ -99,17 +48,7 @@ When used with your Bidirectional Bond class feature, swap locations via telepor
 
 ## Hurried Larceny
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Self or Dual
 
 **Effects:** Choose one:
 
@@ -120,17 +59,7 @@ When used with your Bidirectional Bond class feature, you both gain the benefit 
 
 ## Insidious Whispers
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Self or Dual
 
 **Effects:** Strange and terrible whispers flow over the bond, tempting you into a bizarre contagious madness. Choose one:
 
@@ -141,17 +70,7 @@ Until the start of your next turn, whenever you or your dual hits with an attack
 
 ## Involuntary Dance
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** Expertise
-
-**Target:** Self or Dual
 
 **Effects:** Bound together, you move in perfect unison, marionetted together. Choose one:
 
@@ -166,18 +85,7 @@ More precisely, when a creature moves in unision:
 
 ## Mutual Revulsion
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Self or Dual
-
 **Effects:** An intense distaste pulses through your bond, driving you apart with remarkable speed. Choose one:
 
 - Apply two stacks of frightened to yourself, with your dual as the object of your fear. Gain the benefits of the Move action twice.
@@ -185,18 +93,7 @@ More precisely, when a creature moves in unision:
 
 ## Private Moment
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Self or Dual
-
 **Effects:**  Vanishing from plain sight, your bond shields you from prying eyes. Choose one:
 
 - You become invisible to all creatures other than your dual until the end of your next turn.
@@ -204,18 +101,7 @@ More precisely, when a creature moves in unision:
 
 ## Shared Senses
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Self or Dual
-
 **Effects:** Sensory information travels over the bond, letting you see through the other’s eyes. Choose one:
 
 - For the duration of this effect, you share your dual’s senses, and have advantage on all attacks made against creatures in your dual's zone of control. You gain advantage on skill checks made as part of the Spot action.
@@ -223,18 +109,7 @@ More precisely, when a creature moves in unision:
 
 ## Stolen Aegis
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Defensive / Offensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Self or Dual
-
 Your bond pulses and throbs as it robs your foe of their defenses. Choose one:
 
 - Gain the benefit of the Defend action and the Treat action, targeting yourself.
@@ -242,18 +117,7 @@ Your bond pulses and throbs as it robs your foe of their defenses. Choose one:
 
 ## Uncanny Focus
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Self or Dual
-
 A strange pulse of energy flows through you, tightening your focus on battle. Choose one:
 
 - You have advantage on all attacks made until the end of your next turn.
@@ -261,17 +125,7 @@ A strange pulse of energy flows through you, tightening your focus on battle. Ch
 
 ## Power Transfer
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Self or Dual
 
 Raw magical energy flow through your bond, draining one as it empowers the other.
 Choose one:
@@ -281,18 +135,7 @@ Choose one:
 
 ## Uneasy Truce
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Self or Dual
-
 The bond you share forces you to make peace with each other. Choose one:
 
 - Gain 6 + Presence stacks of temperance. Then, gain the benefits of the Defend and Ward actions.
@@ -300,17 +143,7 @@ The bond you share forces you to make peace with each other. Choose one:
 
 ## Unfiltered Derision
 
-**AP:** 1
-
-**Essence:** 1
-
 **Category:** Utility / Offensive
-
-**Range:** 6
-
-**Type:** Presence
-
-**Target:** Self or Dual
 
 Choose one:
 

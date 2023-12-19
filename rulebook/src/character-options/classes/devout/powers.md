@@ -6,17 +6,8 @@
 
 **Cycle:** Avatar
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** Self
-
 **Type:** Basic
-
-**Target:** Single-target
 
 **rite Effect:** Strike, converting damage to air. Half of damage ignores absorption.
 
@@ -28,18 +19,7 @@
 
 **Cycle:** Blessing
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Single-target
-
 **rite Effect:** Grant 6 + Presence absorption and immunity to air damage until the end of your next turn.
 
 **Miracle Effect:** Target is flying at all times. All movement that they gain is doubled.
@@ -50,17 +30,7 @@
 
 **Cycle:** Curse
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** 6
-
-**Type:** Prowess
-
-**Target:** Single-target
 
 **rite Effect:** Deal 1d4 + Presence air damage and apply 1 stack of blunted.
 
@@ -72,18 +42,7 @@
 
 **Cycle:** Gift
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Single-target
-
 **rite Effect:** Until end of your next turn, their movement does not trigger tile effects or attacks of oppportunity.
 
 **Miracle Effect:** For the duration of this effect, their ranged basic attacks are made with advantage and their range is doubled. Additionally, they can make ranged basic attacks against any creature within range, as long as a path to them exists, ignoring line of sight and cover.
@@ -94,17 +53,7 @@
 
 **Cycle:** Genesis
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Prowess
-
-**Target:** Multi-target
 
 **rite Effect:** Shove twice, rolling once.
 
@@ -118,17 +67,7 @@ If you hit, they are knocked prone and pushed 4 tiles in the direction of the wi
 
 **Cycle:** Wrath
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** 6
-
-**Type:** Prowess
-
-**Target:** Multi-target
 
 **rite Effect:** Create a 1-tile radius tornado centered on the chosen tile until the end of your next turn. When triggered, apply one stack of aloft.
 
@@ -142,17 +81,8 @@ Whenever a creature starts their turn within the tornado or enters it for the fi
 
 **Cycle:** Avatar
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** Self
-
 **Type:** Basic
-
-**Target:** Single-target
 
 **rite Effect:** Strike, converting damage to lightning. Apply two stacks of shock.
 
@@ -166,18 +96,7 @@ In addition, when you make a basic attack against a creature, your attacks chain
 
 **Cycle:** Blessing
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Single-target
-
 **rite Effect:** Grant 6 + Presence absorption and immunity to electric damage until the end of your next turn.
 
 **Miracle Effect:** Select a creature within range. For the duration of this effect:
@@ -194,17 +113,7 @@ Treat any immunity to electric damage that the selected creature may have as if 
 
 **Cycle:** Curse
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** 6
-
-**Type:** Prowess
-
-**Target:** Single-target
 
 **rite Effect:** Pull 2 tiles towards you.
 
@@ -217,18 +126,7 @@ If you hit, pull them up to 3 tiles directly towards the selected creature. You 
 
 **Cycle:** Gift
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Single-target
-
 **rite Effect:** Grant advantage on Dodge and Block skill checks until the end of your next turn.
 
 **Miracle Effect:** All movement gained is doubled. Attacks of opportunity against them no longer have advantage. They can pass through the tiles of enemy creatures. They have a tile effect that deals 1d12 + Presence electric damage on hit to any other creature, half on miss.
@@ -239,17 +137,7 @@ If you hit, pull them up to 3 tiles directly towards the selected creature. You 
 
 **Cycle:** Genesis
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Utility
-
-**Range:** 6
-
-**Type:** Expertise
-
-**Target:** Multi-target
 
 **rite Effect:** Apply 6 + Presence stacks of shock.
 
@@ -265,17 +153,7 @@ If you hit, pull them up to 3 tiles directly towards the selected creature. You 
 
 **Cycle:** Wrath
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** 6
-
-**Type:** Agility
-
-**Target:** Multi-target
 
 **rite Effect:** At the start of your next turn, make an Agility attack against all creatures in a one tile radius centered on this tile as a bolt of lightning shoots from the sky. If you hit, deal 1d12 + Presence electric damage. If you miss, creatures suffer the attacks effects at half efficacy instead.
 
@@ -288,17 +166,8 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 
 **Cycle:** Avatar
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** Self
-
 **Type:** Basic
-
-**Target:** Single-target
 
 **rite Effect:** Strike. Ignore disadvantage on this attack.
 
@@ -310,18 +179,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 
 **Cycle:** Blessing
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Single-target
-
 **rite Effect:** Grant 6 + Presence absorption. Until the until the end of your next turn, ignore disadvantage on any skill check made.
 
 **Miracle Effect:** All attacks made against them have disadvantage. All skill checks and attack rolls are made with advantage.
@@ -332,17 +190,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 
 **Cycle:** Curse
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** 6
-
-**Type:** Expertise
-
-**Target:** Single-target
 
 **rite Effect:** Teleport back to the tile they were in at the start of their last turn.
 
@@ -354,18 +202,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 
 **Cycle:** Gift
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Defensive
-
-**Range:** 6
-
-**Type:** None
-
-**Target:** Single-target
-
 **rite Effect:** Grant 1 AP.
 
 **Miracle Effect:** Gain 3 more AP at the end of the turn.
@@ -376,15 +213,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 
 **Cycle:** Genesis
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Utility
-
-**Range:** 6
-
-**Target:** Multi-target
 
 **rite Effect:** ??
 
@@ -396,17 +225,7 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 
 **Cycle:** Wrath
 
-**AP:** 2
-
-**Essence:** 0
-
 **Category:** Offensive
-
-**Range:** 6
-
-**Type:** Focus
-
-**Target:** Multi-target
 
 **rite Effect:** If you hit, apply one stack of exhaustion.
 
