@@ -167,9 +167,13 @@ If you have at least 3 stacks of earth exposure, apply two stacks of rooted to y
 
 #### Sandstorm Detonation
 
-When you reach 5 stacks of air exposure, you explode with a huge burst of air. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, knock them back 6 tiles. If you miss, knock them back 3 tiles instead.
+When you reach 5 stacks of air exposure, you explode with a huge burst of air.
+Make a Prowess attack against all other creatures within a 2 tile range. If you hit, knock them back 6 tiles. If you miss, knock them back 3 tiles instead.
+You are knocked prone.
 
-When you reach 5 stacks of earth exposure, rocks explode from your body. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 2d6 + 2 * Presence earth damage and knock them prone.
+When you reach 5 stacks of earth exposure, rocks explode from your body.
+Make an Agility attack against all creatures within a 2 tile range.
+If you hit, deal 2d6 + 2 * Presence earth damage and knock them prone.
 
 #### Wind Twisting
 
@@ -201,9 +205,13 @@ If you have at least 3 stacks of cold exposure, add 2 stacks of chilled to yours
 
 #### Frostfire Detonation
 
-When you reach 5 stacks of fire exposure, the air itself catches fire. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 3d6 + 3 * Presence fire damage.
+When you reach 5 stacks of fire exposure, the air itself catches fire.
+Make an Agility attack against all creatures within a 2 tile range.
+If you hit, deal 3d6 + 3 * Presence fire damage.
 
-When you reach 5 stacks of water exposure, a terrible burst of cold emanates from you. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presnce stacks of chilled. If you miss, apply 1 stack of chilled instead. Hit or miss, then deal 1d4 + 1/2 Presence water damage to them multiplied by the number of stacks of chilled they have.
+When you reach 5 stacks of water exposure, a terrible burst of cold emanates from you.
+Make a Prowess attack against all creatures within a 2 tile range.
+If you hit, apply 3 + 1/2 Presnce stacks of chilled. If you miss, apply 1 stack of chilled instead. Hit or miss, then deal 1d4 + 1/2 Presence water damage to them multiplied by the number of stacks of chilled they have.
 
 #### Fire Twisting
 
@@ -238,9 +246,9 @@ If you have at least 3 stacks of umbral exposure, add 6 + Presence stacks of ang
 
 #### Darklight Detonation
 
-When you reach 5 stacks of radiant exposure, you explode in a burst of blinding light. Make a Prowess attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of blinded. If you miss, apply 1 stack of blinded instead. Hit or miss, then deal 1d4 + 1/2 Presence radiant damage to them, multiplied by the number of stacks of blinded that they have.
+When you reach 5 stacks of radiant exposure, you explode in a burst of blinding light. Make a Prowess attack against all creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of blinded. If you miss, apply 1 stack of blinded instead. Hit or miss, then deal 1d4 + 1/2 Presence radiant damage to them, multiplied by the number of stacks of blinded that they have.
 
-When you reach 5 stacks of umbral exposure, you disappear into the shadows. ???
+When you reach 5 stacks of umbral exposure, terrible shadows engulf everything around you. Until the start of your next turn, the entire battlefield is heavily shrouded. Trigger all afflictions on all creatures within a 2 tile range.
 
 #### Brilliant Twisting
 
@@ -264,7 +272,9 @@ If you are level 8 or higher, creatures that you shroud become fully invisible.
 
 **Category:** Offensive
 
-You drain the lifeforce from your foe in a strange pulsating beam. Make a Prowess attack against a creature of your choice within range. If you hit, deal 2d8 + 2 * Presence hybrid primal-decay damage. You may convert any number of their ailments into the same number of stacks of either withered or rooted.
+You drain the lifeforce from your foe in a strange pulsating beam
+Make a Prowess attack against a creature of your choice within range.
+If you hit, deal 2d8 + 2 * Presence hybrid primal-decay damage. You may convert any number of their ailments into the same number of stacks of either withered or rooted.
 
 If you have at least 3 stacks of primal exposure, you and your target gain 6 + Presence absorption after the damage takes effect.
 
@@ -272,11 +282,14 @@ If you have at least 3 stacks of decay exposure, you and your target lose 6 + Pr
 
 #### Lifeforce Detonation
 
-When you reach 5 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so. Make an Expertise attack against all other creatures within a 2 tile range. If you hit, remove all ailments and afflictions from them.
+When you reach 5 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so.
+Make an Expertise attack against all creatures within a 2 tile range. If you hit, remove all ailments and afflictions from them.
 For each stack of an affliction removed in this way, deal 1 primal damage to the creature you removed it from.
 For each stack of an ailment removed in this way, deal 2 primal damage to the creature you removed it.
 
-When you reach 5 stacks of decay exposure, you drain the energy from those around you. Make a Focus attack against all other creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of withered to them and remove all of their absorption.
+When you reach 5 stacks of decay exposure, you drain the energy from those around you.
+Make a Focus attack against all other creatures within a 2 tile range.
+If you hit, apply 3 + 1/2 Presence stacks of withered to them and remove all of their absorption.
 
 #### Life Twisting
 
@@ -308,9 +321,14 @@ If you have at least 3 stacks of corrosive exposure, add 2 stacks of defenseless
 
 #### Surgebreaker Detonation
 
-When you reach 5 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all other creatures within a 2 tile range. If you hit, apply 6 + Presecne stacks of jolted to them and knock them prone. If you miss, apply 3 + 1/2 Presence stacks of jolted to them instead.
+When you reach 5 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all creatures within a 2 tile range.
+If you hit, apply 6 + Presecne stacks of jolted to them and knock them prone.
+If you miss, apply 3 + 1/2 Presence stacks of jolted to them instead.
 
-When you reach 5 stacks of corrosive exposure, you explode in a shower of acid. Make an Agility attack against all other creatures within a 2 tile range. If you hit, deal 2d6 + 2 * Presence corrosive damage. Deal half as much damage if you miss.
+When you reach 5 stacks of corrosive exposure, you explode in a shower of acid
+Make an Agility attack against all creatures within a 2 tile range.
+If you hit, deal 2d6 + 2 * Presence corrosive damage
+If you miss, deal half as much damage instead.
 
 #### Lightning Twisting
 
