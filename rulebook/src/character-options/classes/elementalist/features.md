@@ -208,11 +208,11 @@ If you have at least 3 stacks of cold exposure, add 2 stacks of chilled to yours
 #### Frostfire Detonation
 
 When you reach 5 stacks of fire exposure, the air itself catches fire.
-Make an Agility attack against all creatures (including yourself) within a 2 tile range.
+Make an Agility attack against all creatures within a 2 tile range.
 If you hit, deal 3d6 + 3 * Presence fire damage.
 
 When you reach 5 stacks of water exposure, a terrible burst of cold emanates from you.
-Make a Prowess attack against all creatures (including yourself) within a 2 tile range.
+Make a Prowess attack against all creatures within a 2 tile range.
 If you hit, apply 3 + 1/2 Presence stacks of chilled. If you miss, apply 1 stack of chilled instead.
 Hit or miss, then deal 1d4 + 1/2 Presence water damage to them multiplied by the number of stacks of chilled they have.
 
