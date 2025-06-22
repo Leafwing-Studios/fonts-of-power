@@ -22,7 +22,7 @@ If you have at least 3 stacks of air exposure, the elemental energy bounces off 
 
 **Category:** Offensive
 
-**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A swirling, compressed ball of air whizzes through the air before exploding in a huge bang. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence air damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of air exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -60,11 +60,11 @@ If you have at least 3 stacks of air exposure, you can only teleport up to 1 til
 
 **Effects:** Grasping tendrils of wind tug and pull at your foes, tossing them around like a leaf in the breeze. Make a Prowess attack against a creature of your choice within a 4 tile range. If you hit, push them into an empty tile of your choice up to 2 tiles away from their previous tile and knock them prone.
 
-If you have at least 3 stacks of air exposure, make a Prowess attack against all creatures within a 1 tile range of the targeted creature to apply this effect as well. The direction and distance they are shoved must match that of your primary target.
+If you have at least 3 stacks of air exposure, you instead attack all creatures within a 1 tile range of the target creature. The direction and distance they are shoved must match that of your primary target.
 
 ### Wind Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand swirls with a vortex of wind as you blow your foe over at short range. Make an Agility attack against a creature within melee range. If you hit, deal 1d6 + Presence air damage and knock them prone.
 
@@ -92,7 +92,7 @@ If you have at least 3 stacks of earth exposure, the elemental energy bounces of
 
 **Category:** Offensive
 
-**Effects:** A heavy ball of stone whizzes through the air before exploding in a shower of rock. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence earth damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A heavy ball of stone whizzes through the air before exploding in a shower of rock. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence earth damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of earth exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -118,7 +118,7 @@ If you have at least 3 stacks of earth exposure, make an attack against each cre
 
 **Category:** Defensive
 
-**Effects:** Vanishing into thin air, you appear a short distance away with a burst of air. Teleport into an empty tile of your choice within a 3 tile range and make a Prowess attack against all other creatures within a 1 tile range of that tile. If you hit, knock them prone.
+**Effects:** Vanishing into thin air, you appear a short distance away, tunelling through the ground and clutching at your enemies with stony hands. Teleport into an empty tile of your choice within a 3 tile range. You may immediately make a Grapple attack against a creature within range. 
 
 If you have at least 3 stacks of earth exposure, you can only teleport up to 1 tile away, but you have advantage on the attack made after you teleport.
 
@@ -132,7 +132,7 @@ If you have at least 3 stacks of earth exposure, apply three stacks of rooted to
 
 ### Stone Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand rumbles with the power of the earth as you momentarily transform a foe's limbs to stone with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply one stacks of blunted, one stack of chilled and one stack of withered.
 
@@ -160,7 +160,7 @@ If you have at least 3 stacks of fire exposure, the elemental energy bounces off
 
 **Category:** Offensive
 
-**Effects:** A roaring ball of fire whizzes through the air before exploding in a spectacular incendiary display. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence air damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A roaring ball of fire whizzes through the air before exploding in a spectacular incendiary display. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence air damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of fire exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -198,13 +198,13 @@ If you have at least 3 stacks of fire exposure, you can only teleport up to 1 ti
 
 **Effects:** Grasping fire tendrils pull at your foes, tossing and burning them.
 Make a Prowess attack against a creature of your choice within a 4 tile range.
-If you hit, shove them into an adjacent tile of your choice. Hit or miss, deal 1d4 + Presence fire damage.
+If you hit, push them into an adjacent tile of your choice. Hit or miss, deal 1d4 + Presence fire damage.
 
 If you have at least 3 stacks of fire exposure, pull them into an empty adjacent tile to you instead.
 
 ### Flame Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand burns with heat as it ingites a nearby foe with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of aflame.
 
@@ -232,7 +232,7 @@ If you have at least 3 stacks of water exposure, the elemental energy bounces of
 
 **Category:** Offensive
 
-**Effects:** A gleaming ball of ice whizzes through the air before exploding in a shower of icicles. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence water damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A gleaming ball of ice whizzes through the air before exploding in a shower of icicles. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence water damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of water exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -274,7 +274,7 @@ If you have at least 3 stacks of water exposure, apply three stacks of chilled t
 
 ### Frost Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand glistens with a terrible frost as you freeze foe to the bone with a single touch. Make an Agility attack against a creature within melee range. If you hit, deal 1d8 + Presence water damage.
 
@@ -302,7 +302,7 @@ If you have at least 3 stacks of radiant exposure, the elemental energy bounces 
 
 **Category:** Offensive
 
-**Effects:** A glowing ball of light whizzes through the air before exploding in a searing burst. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence radiant damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A glowing ball of light whizzes through the air before exploding in a searing burst. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence radiant damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of radiant exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -342,7 +342,7 @@ If you have at least 3 stacks of radiant exposure, three stacks of blunted to th
 
 ### Brilliant Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand glows with judgemental energy as your touch forces a nearby foe to reconsider everything they are fighting for. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of temperance.
 
@@ -370,7 +370,7 @@ If you have at least 3 stacks of umbral exposure, the elemental energy bounces o
 
 **Category:** Offensive
 
-**Effects:** A flickering ball of pure darkness whizzes through the air before exploding in a creeping wave. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence umbral damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A flickering ball of pure darkness whizzes through the air before exploding in a creeping wave. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence umbral damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of umbral exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -411,7 +411,7 @@ If you have at least 3 stacks of umbral exposure, apply three stacks of blinded 
 
 ### Shadow Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand pulses with shadowy energy as you wrack a nearby foe with pain with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of anguish.
 
@@ -439,7 +439,7 @@ If you have at least 3 stacks of primal exposure, the elemental energy bounces o
 
 **Category:** Offensive
 
-**Effects:** AA glowing green ball of vital energy whizzes through the air before exploding in an overwhelming surge. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence primal damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** AA glowing green ball of vital energy whizzes through the air before exploding in an overwhelming surge. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence primal damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of primal exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -480,7 +480,7 @@ If you have at least 3 stacks of primal exposure, apply three stacks of rooted t
 
 ### Life Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand glows with invigorating energy, causing living creatures to burst forth from underneath their skin as you touch them. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of bleeding.
 
@@ -508,7 +508,7 @@ If you have at least 3 stacks of decay exposure, the elemental energy bounces of
 
 **Category:** Offensive
 
-**Effects:** A murky ball of negative energy whizzes through the air before exploding in an exhausting burst. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence decay damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A murky ball of negative energy whizzes through the air before exploding in an exhausting burst. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence decay damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of decay exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -550,7 +550,7 @@ If you have at least 3 stacks of decay exposure, apply three stacks of withered 
 
 ### Death Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand pulses with dark energy as you pull your foe closer to death with a single touch. Make an Agility attack against a creature within melee range. If you hit, deal 1d6 + Presence decay damage. This damage is increased to 1d12 + Presence if they are below half of their maximum life.
 
@@ -578,7 +578,7 @@ If you have at least 3 stacks of electric exposure, the elemental energy bounces
 
 **Category:** Offensive
 
-**Effects:** A crackling ball of electricity whizzes through the air before exploding in a shower of sparks. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence electric damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A crackling ball of electricity whizzes through the air before exploding in a shower of sparks. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence electric damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of electric exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -597,7 +597,7 @@ If you have at least 3 stacks of electric exposure, the absorption gained increa
 
 **Category:** Defensive
 
-**Effects:** As you fan your hands, a sheet of lightning pours forth from your fingertips, zapping your foes. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, apply 6 + Presence stacks of jolted.
+**Effects:** As you fan your hands, a sheet of lightning pours forth from your fingertips, zapping your foes. Make an Expertise attack against each creature within a 3 tile radius cone. If you hit, apply 6 + Presence stacks of shock.
 
 If you have at least 3 stacks of electric exposure, make an attack against each creature within a 3 tile radius of yourself instead.
 
@@ -619,9 +619,9 @@ If you have at least 3 stacks of electric exposure, apply three stacks of blunte
 
 ### Lightning Touch
 
-**Category:** Utility
+**Category:** Offensive
 
-**Effects:** Your hand crackles with electricity as you electrocute a nearby foe with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of jolted.
+**Effects:** Your hand crackles with electricity as you electrocute a nearby foe with a single touch. Make an Agility attack against a creature within melee range. If you hit, apply 6 + Presence stacks of shock.
 
 If you have at least 3 stacks of electric exposure, you have disadvantage on the attack but it is automatically a critical hit if you strike.
 
@@ -647,7 +647,7 @@ If you have at least 3 stacks of corrosive exposure, the elemental energy bounce
 
 **Category:** Offensive
 
-**Effects:** A dripping ball of acid whizzes through the air before exploding in a corrosive shower. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within range. If you hit, deal 1d8 + Presence acid damage. Creatures that you miss suffer the effects of the attack at half efficacy.
+**Effects:** A dripping ball of acid whizzes through the air before exploding in a corrosive shower. Make an Agility attack against each creature within a 2 tile radius of a tile of your choice within 4 tiles. If you hit, deal 1d8 + Presence acid damage. Creatures that you miss suffer the effects of the attack at half efficacy.
 
 If you have at least 3 stacks of corrosive exposure, the radius of the burst increases to 4 tiles instead.
 
@@ -689,7 +689,7 @@ If you have at least 3 stacks of corrosive exposure, apply three stacks of defen
 
 ### Acid Touch
 
-**Category:** Utility
+**Category:** Offensive
 
 **Effects:** Your hand drips with acid as you eat away at a nearby foe with a single touch. Make an Agility attack against a creature within melee range. If you hit, deal 1d10 + Presence corrosive damage.
 

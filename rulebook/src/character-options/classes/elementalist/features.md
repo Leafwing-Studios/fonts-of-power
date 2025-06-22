@@ -7,7 +7,7 @@
 |   1   |        +1         | Feats, Elemental Opposition, Pure Power, Element Twisting |      3       |
 |   2   |        +1         |                    Elemental Intuition                    |      4       |
 |   3   |        +2         |               Attribute Improvement, Feats                |      4       |
-|   4   |        +2         |                     Elemental Warding                     |      4       |
+|   4   |        +2         |                        Desperation                        |      4       |
 |   5   |        +3         |                      Font Communion                       |      5       |
 |   6   |        +3         |               Attribute Improvement, Feats                |      5       |
 |   7   |        +4         |                       Gentle Touch                        |      5       |
@@ -53,7 +53,7 @@ Your exposure ranges from 5 in one element, to 5 in the opposed element, balanci
 
 Whenever your exposure to an element is 3 or more, your spells of that element (other than twisting spells) are more powerful but gain a drawback. However, the critical hit threshold for spells of the opposite element is reduced by 4. Meld spells gain both of these benefits, as they count as both elements. Your stacks of exposure reset at the end of each combat.
 
-When you reach 5 stacks, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 5 stacks of exposure, you **detonate**. All creatures within a 2 tile range suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to 0 and gain a stack of exhaustion.
+When you reach 5 stacks, your elemental energy builds up, exploding in a powerful burst when it overwhelms you. Whenever you reach 5 stacks of exposure, you **detonate**. All creatures within a 2 tile range (note that this range includes yourself unless otherwise noted) suffer a harmful effect based on your exposure’s type, listed in the Pairings section below. Reduce your exposure associated with that element to 0 and gain a stack of exhaustion.
 
 ### Pure Power
 
@@ -87,11 +87,14 @@ Twisting spells cannot be used in combat, as they are either too intricate or ti
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Elemental Warding
+### Desperation
 
 ***Level:** 4
 
-When you use the Ward action, until the start of your next turn, gain immunity to the damage types in your elemental pairing and ignore any ailments or afflictions applied to yourself.
+Overwhelming magical energy has never stopped you before.
+Even if your essence is at zero, you can still use essence-consuming actions.
+If you do so, lose life equal to the essence spent and increase your current exposure by 1.
+If your exposure is zero, gain one exposure of your choice.
 
 ### Font Communion
 
@@ -100,7 +103,6 @@ When you use the Ward action, until the start of your next turn, gain immunity t
 **Effects:** Gain access to the Commune downtime activity. When you use this downtime activity, make a Focus (Fontcraft) skill check. For every 5 points of the skill check result, ask one question of the worldspeaker, who must do their best to answer truthfully:
 
 - What elements is this font associated with?
-- What are the font-level vantages, if any?
 - What danger levels are present in this font, and where are they located?
 - What does this font currently want, if anything?
 - Are there any important monsters or creatures in this font's area of influence?
@@ -206,20 +208,23 @@ If you have at least 3 stacks of cold exposure, add 2 stacks of chilled to yours
 #### Frostfire Detonation
 
 When you reach 5 stacks of fire exposure, the air itself catches fire.
-Make an Agility attack against all creatures within a 2 tile range.
+Make an Agility attack against all creatures (including yourself) within a 2 tile range.
 If you hit, deal 3d6 + 3 * Presence fire damage.
 
 When you reach 5 stacks of water exposure, a terrible burst of cold emanates from you.
-Make a Prowess attack against all creatures within a 2 tile range.
-If you hit, apply 3 + 1/2 Presnce stacks of chilled. If you miss, apply 1 stack of chilled instead. Hit or miss, then deal 1d4 + 1/2 Presence water damage to them multiplied by the number of stacks of chilled they have.
+Make a Prowess attack against all creatures (including yourself) within a 2 tile range.
+If you hit, apply 3 + 1/2 Presence stacks of chilled. If you miss, apply 1 stack of chilled instead.
+Hit or miss, then deal 1d4 + 1/2 Presence water damage to them multiplied by the number of stacks of chilled they have.
 
 #### Fire Twisting
 
 **Category:** Offensive
 
-With a flick of the wrist, you are able to spread or control fires at will. Pick an open flame that you can see: you may either spread it to a nearby object or extinguish it. If it is particularly large or out of control, you may need to make a Presence (Arcana) skill check to do so.
+With a flick of the wrist, you are able to start, spread, control, or extinguish fires at will.
+This effect is limited to your line of sight.
+If attempting to control a fire that is particularly large or out of control, you may need to make a Presence (Arcana) skill check to do so.
 
-If you are level 8 or higher, you can cause a fire that you target or spread in this way to burn indefinitely, no longer requiring fuel although it can still be deliberately extinguished.
+If you are level 8 or higher, you can cause a fire that you target or spread in this way to burn until the end of your next rest, no longer requiring fuel although it can still be deliberately extinguished.
 
 #### Frost Twisting
 
@@ -229,7 +234,10 @@ With a pointed finger, you can freeze water solid. This might allow you to walk 
 
 This is just normal ice: it remains frozen until it melts.
 
-If you are level 8 or higher, you can sculpt ice into useful, if temporary objects. Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell (for example, you cannot create rope, torches, chalk, medicinal herbs or a key that you have no idea what it looks like).
+If you are level 8 or higher, you can sculpt ice into useful, if temporary objects.
+Doing so requires a successful Expertise (Craftsmanship) skill check. You may create any mundane object that could plausibly be made of ice when you cast this spell.
+For example, you could create a small knife, a replica of a key you have seen, a table, or a ladder.
+By contrast, you cannot create rope, torches, chalk, medicinal herbs, or a key that you have no idea what it looks like.
 You can only sculpt up to a 5 foot cube of ice per casting of this spell.
 
 ### Darklight
@@ -248,7 +256,7 @@ If you have at least 3 stacks of umbral exposure, add 6 + Presence stacks of ang
 
 When you reach 5 stacks of radiant exposure, you explode in a burst of blinding light. Make a Prowess attack against all creatures within a 2 tile range. If you hit, apply 3 + 1/2 Presence stacks of blinded. If you miss, apply 1 stack of blinded instead. Hit or miss, then deal 1d4 + 1/2 Presence radiant damage to them, multiplied by the number of stacks of blinded that they have.
 
-When you reach 5 stacks of umbral exposure, terrible shadows engulf everything around you. Until the start of your next turn, the entire battlefield is heavily shrouded. Trigger all afflictions on all creatures within a 2 tile range.
+When you reach 5 stacks of umbral exposure, terrible shadows engulf everything around you. Until the end of your next turn, the entire battlefield is heavily shrouded. Trigger all afflictions on all creatures within a 2 tile range.
 
 #### Brilliant Twisting
 
@@ -265,6 +273,7 @@ If you are level 8 or higher, magical items and effects in the light sparkle and
 You gain the ability to twist shadows into new shapes, or make them up to twice as large as their original size. Additionally, you can conceal yourself and up to 6 other creatures in darkness. While shrouded, the shadows blend into their environment and observers will percieve them as ordinary, inconspicuous shadows unless they succeed at an opposed Focus (Arcana) skill check.
 
 If you are level 8 or higher, creatures that you shroud become fully invisible.
+It still has no effect in combat.
 
 ### Lifeforce
 
@@ -285,27 +294,49 @@ If you have at least 3 stacks of decay exposure, you and your target lose 6 + Pr
 When you reach 5 stacks of primal exposure, you aggressively and painfully cure those around you, building up your own life force as you do so.
 Make an Expertise attack against all creatures within a 2 tile range. If you hit, remove all ailments and afflictions from them.
 For each stack of an affliction removed in this way, deal 1 primal damage to the creature you removed it from.
-For each stack of an ailment removed in this way, deal 2 primal damage to the creature you removed it.
+For each stack of an ailment removed in this way, deal 2 primal damage to the creature you removed it from.
 
 When you reach 5 stacks of decay exposure, you drain the energy from those around you.
-Make a Focus attack against all other creatures within a 2 tile range.
+Make a Focus attack against all creatures within a 2 tile range.
 If you hit, apply 3 + 1/2 Presence stacks of withered to them and remove all of their absorption.
 
 #### Life Twisting
 
 **Category:** Utility
 
-Knitting together wounds and lifting ailments, you. When you use this spell, gain advantage on Focus(Medicine) skill checks made to heal others. This works during the Tend downtime activity.
+Attuning to and encouraging living things around you, you can cause nearby plants and fungi to grow and flourish.
+You can cause flowers to bloom, vines to strengthen, withered plants to recover, seeds to take root, and cause existing patches of plants and fungi to spread.
+This has the same effect as several weeks of healthy growth.
+This effect can only be used once per plant, and it cannot create plants out of nothing, or cause them to take root in a place where it would be impossible for them to grow.
 
-If you are level 8 or higher, you remove an additional stack of exhaustion when you use this spell during the Tend downtime activity.
+If you are level 8 or higher, you can grow plants much more rapidly and effectively.
+With a single use, you can grow from a seed to an adult form, equivalent to several years of healthy growth.
+This effect can be used multiple times on the same plant, but no more than once per rest.
 
 #### Death Twisting
 
 **Category:** Utility
 
-Gently touching the departed soul of another creature, you are able to trace its connection with the afterlife. When you cast this spell, learn the approximate cause of death of any creature.
+Gently touching the departed soul of another creature, you are able to trace its connection with the afterlife.
+To use this spell, you must have some trinket associated with that creature.
+Examples include:
+- The creature's corpse
+- A preserved part of the creature's body, such as a lock of hair, a bone, etc.
+- An object that was significant to the creature, such as their weapon, a locket that they wore around their neck, etc.
 
-If you are level 8 or higher, you can see its death through a detailed flashback through its eyes.
+When you cast this spell, learn the approximate cause of death of the chosen creature.
+This works on undead.
+
+If you are level 8 or higher, you can use this spell as a downtime activity.
+When you do so, make a Focus (Arcana) skill check. 
+For every 5 points of your skill check result, ask one question of the worldspeaker about the creature's death, who must do their best to answer truthfully:
+
+- Who or what killed it?
+- When did it die?
+- Where did it die?
+- What was it doing when it died?
+- What was it thinking or feeling when it died?
+- Has it been resurrected since it died? If the answer is yes, you get a mental image of what their new body looks like.
 
 ### Surgebreaker
 
@@ -322,8 +353,8 @@ If you have at least 3 stacks of corrosive exposure, add 2 stacks of defenseless
 #### Surgebreaker Detonation
 
 When you reach 5 stacks of electric exposure, a disabling pulse of electricity emanates from you. Make an Agility attack against all creatures within a 2 tile range.
-If you hit, apply 6 + Presecne stacks of jolted to them and knock them prone.
-If you miss, apply 3 + 1/2 Presence stacks of jolted to them instead.
+If you hit, apply 6 + Presecne stacks of shock to them and knock them prone.
+If you miss, apply 3 + 1/2 Presence stacks of shock to them instead.
 
 When you reach 5 stacks of corrosive exposure, you explode in a shower of acid
 Make an Agility attack against all creatures within a 2 tile range.
@@ -334,9 +365,10 @@ If you miss, deal half as much damage instead.
 
 **Category:** Utility
 
-Lightning flows gently into an object of your choice within range, mildly shocking any creature other than a Surgrebreaker elementalist who touches it.
+Lightning flows gently into an object of your choice within line of sight.
+The next time it is touched by any creature other than yourself, it gives them a slight shock, similar to a mundane static shock.
 This charge persists until the end of your next rest, and you may have any number of objects charged in this way.
-When an object is discharged, you immediately know, but you do not know *why*.
+When an object is discharged, you immediately know which object was discharged, but you do not know *why*.
 
 If you are level 8 or higher, you see a glimpse of the creature that caused the object to discharge when it is touched.
 
@@ -346,4 +378,6 @@ If you are level 8 or higher, you see a glimpse of the creature that caused the 
 
 Acid drips and bubbles as it strengthens existing weaknesses and eats away at nonliving matter. Select a non-living object within range. Skill checks made to break or destroy it have advantage until it is repaired.
 
-If you are level 8 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust. You can only destroy a single 5-foot cube of solid material per cast.
+If you are level 8 or higher, you can slowly eat away at nonliving material that is not being held or worn by any creature, causing it to sizzle into dust.
+You can only destroy a single 5-foot cube of solid material per hour of effort.
+(This is roughly equivalent to 2 cubic feet per minute.)

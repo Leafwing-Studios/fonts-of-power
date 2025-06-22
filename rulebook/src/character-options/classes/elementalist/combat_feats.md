@@ -6,18 +6,18 @@
 
 ## Master of the Elements
 
-**Effects:** Gain access to a second elemental pairing. You gain access to the twists and hybrid Meld spell associated with that pairing, and any features that depend on this . Learn two additional powers.
+**Effects:** Gain access to a second elemental pairing. You gain access to the twists and hybrid Meld spell associated with that pairing, and any features that depend on this. Learn two additional powers.
 Detonating only resets the elemental exposure for the pair of elements that was detonated.
 
 When you gain this combat feat, sacrifice an exploration feat.
 
 ## Shaped Charge
 
-**Effects:** When you use your Detonation feature, select one of the following shapes for the effect:
+**Effects:** Each time you use your Detonation feature, select one of the following shapes for the effect:
 
-- a 10-foot radius sphere centered on yourself
-- a 20-foot cone centered on yourself, in a direction of your choosing
-- a 40-foot x 5 foot line, starting at yourself, in a direction of your choosing
+- a 2 tile radius centered on yourself
+- a 3 tile radius cone centered on yourself, in a direction of your choosing, including yourself
+- a 1 tile by 12 tile line, starting at yourself, in a direction of your choosing, including yourself
 
 ### Power Siphon
 
@@ -42,14 +42,6 @@ When you gain this combat feat, sacrifice an exploration feat.
 ### Spellblade
 
 **Effects:** After you hit a creature with a basic attack, reduce the AP cost of your next spell by 1. This effect can stack, but may only trigger once per action.
-
-### Tug-of-War
-
-**Effects:** When you gain this power, choose one element in each pairing.
-Whenever you hit a creature or apply a boon to a creature with a spell of that element, push them one tile away from you.
-Whenever you hit a creature or apply a boon with a spell of the opposed element, pull them one tile closer to you.
-
-When you target yourself with a spell, push yourself one tile in a direction of your choice. Your Meld spells do not push or pull their targets.
 
 ### Explosive Propulsion
 

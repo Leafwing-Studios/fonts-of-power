@@ -61,7 +61,7 @@ If the creature targeted collides with an immovable object (or a creature that i
 
 **Category:** Offensive
 
-**Effects:** Make an Agility attack against a creature of your choice within range. Deal 2d6 + 2 * Presence electric damage to them. Apply one stack of jolted to thme for each point of damage dealt. If you miss, deal half as much damage instead.
+**Effects:** Make an Agility attack against a creature of your choice within range. Deal 2d6 + 2 * Presence electric damage to them. Apply one stack of shock to thme for each point of damage dealt. If you miss, deal half as much damage instead.
 
 ## Professor Percival's Patent Pending Panacea
 

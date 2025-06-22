@@ -14,7 +14,7 @@ In *Fonts of Power*, there are three different types of combat-relevant items ch
   - Each character can only equip one set of armor at once: "armor" is an entire outfit designed to function as a whole, not merely a breastplate or fancy hat.
   - You cannot change which arms or armor you have equipped in combat: changing them out is complicated work!
 - **Consumables:** Powerful, one-off magical items like potions and scrolls that are consumed on use.
-  - Once per combat, you can use the Interact action to use these. Using them more frequently risks exhaustion due to essence overload.
+  - Once per combat, you can use the Activate action to use these. Using them more frequently risks exhaustion due to essence overload.
   - Player characters can create more using the Devise downtime activity.
   - As described in the Devise downtime activity, when you create more consumables, select a base effect and, optionally, a modifier from the recipes that you know.
 

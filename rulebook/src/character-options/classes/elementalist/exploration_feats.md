@@ -4,10 +4,10 @@
 
 **Prerequisites:** Sandstorm elemental pairing
 
-**Effects:** The wind obeys your oommand, gently blowing and gusting as part of your Wind Twisting spell.
+**Effects:** The wind obeys your command, gently blowing and gusting as part of your Wind Twisting spell.
 When you cast this spell, you can control the wind: anywhere from dead still air to a gentle breeze to a stiff but harmless gust in the direction of your choice.
 
-You may use a downtime activity to change the weather for the next day to any natural form of weather for the region (however rare)
+You may use a downtime activity to change the weather for the next day to any natural form of weather for the region (however rare).
 
 If you are level 8 or higher, you may immediately change the weather for the area around you.
 
@@ -57,21 +57,19 @@ When you cast this spell you may instead extinguish a light source of your choic
 
 If you are level 8 or higher, the light source you extinguish cannot be relit until you complete a rest unless the creature attempting to relight the light source succeeds on a contested Presence (Arcana) skill check against you. You may choose to fail this skill check.
 
-## Twisted Growth
+## Twisted Husbandry
 
 **Prerequisites:** Lifeforce elemental pairing
 
-**Effects:** Planting a seed of life, you encourage healthy growth as part of your Life Twisting spell.
-When you cast this spell, you may imbue a single living creature, plant or fungi with life, causing it to grow vigorously for the next year.
-As a downtime activity, you may apply this to an entire farm.
+**Effects:** Your Life Twisting spell can now affect animals. For short-lived animals, this causes them to rapidly reproduce. This long-lived animals, you may choose to bolster their health, or cause them to rapidly grow older (at the same rate as listed for plants and fungi).
 
-If you are level 8 or higher, you may rapidly accelerate growth: causing an entire year of growth to occur in a single minute. If you use this ability more than once each rest, gain a stack of exhaustion.
+If the animal is sapient, it must be willing.
 
 ## Twisted Afterlife
 
 **Prerequisites:** Lifeforce elemental pairing
 
-**Effects:** Reaching out into the beyond, you  as part of your Death Twisting spell.
+**Effects:** Reaching out into the beyond, you can call back lost souls as part of your Death Twisting spell.
 When you cast this spell, you have advantage on any skill checks made to use the Resurrect downtime activity.
 
 If you are level 8 or higher, you may resurrect creatures that would otherwise be unresurrectable.
@@ -80,14 +78,14 @@ If you are level 8 or higher, you may resurrect creatures that would otherwise b
 
 **Prerequisites:** Surgebreaker elemental pairing
 
-**Effects:** As part of your Lightning Twisting spell, lightning flows gently into an object of your choice within range, allowing you to move it as it takes on a modicum of life for a moment.
+**Effects:** As part of your Lightning Twisting spell, lightning flows gently into an object of your choice within line of sight, allowing you to move it as it takes on a modicum of life for a moment.
 You may move the object and perform any straightforward feat of dexterity such as opening doors, setting a table or approximately tossing an object.
 You may not activate magical items in this fashion and the force exerted by this effect is limited by your own strength.
 You may not perform any particularly challenging tasks in this fashion: anything which would require a skill check, such as picking a lock, carefully stealing an item or breaking open a door is beyond its capacity. When you cast this spell, you may move the object up to 30 feet, although it falls harmlessly to the ground shortly afterwards.
 
 Like always, this twisting has no effect in combat: you may not make attacks or wield weapons in this way.
 
-If you are level 8 or higher, you may perform acts that require dexterity while using this spell.
+If you are level 8 or higher, you may perform acts that require significant dexterity while using this spell, making the apppriate skill checks yourself.
 
 ## Twisted Chemistry
 
@@ -95,7 +93,7 @@ If you are level 8 or higher, you may perform acts that require dexterity while 
 
 **Effects:** You may create useful alchemical reagents as part of your Acid Twisting spell.
 When you cast this spell, gain advantage on any Tinkering skill check made to create chemicals using the Tinkering skill.
-This applies to the Devise downtime activity (but no other downtime activities).
+This applies to the Craft and Devise downtime activities (but no other downtime activities).
 
 If you are level 8 or higher, gain advantage on any attempt to use chemicals as well.
 
