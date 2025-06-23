@@ -2,15 +2,15 @@
 
 ## Migratory
 
-**Effects:** Whenever you rest, gain an additional downtime activity if neither of your last two rests were here.
+**Effects:** Whenever you rest, gain an additional downtime activity if neither of your last two rests were in the location you are resting.
 
 ## Nesting
 
-**Effects:** Whenever you rest, gain an additional downtime activity if both of your last two rests were here.
+**Effects:** Whenever you rest, gain an additional downtime activity if both of your last two rests were in the location you are resting.
 
 ## Watchful
 
-**Effects:** You have advantage on all skill checks made as part of Endurance scenes triggered due to resting in a dangerous area.
+**Effects:** You have advantage on all skill checks made as part of Attrition Scenes triggered due to resting in a dangerous area.
 
 ## Hibernation
 
@@ -30,8 +30,8 @@
 
 ## Natural Predator
 
-**Effects:** You have advantage on all skill checks made in chase scenes when you are the pursuer.
+**Effects:** You have advantage on all skill checks made in Chase Scenes when you are the pursuer.
 
 ## Natural Prey
 
-**Effects:** You have advantage on all skill checks made in chase scenes when you are the quarry.
+**Effects:** You have advantage on all skill checks made in Chase Scenes when you are the quarry.
