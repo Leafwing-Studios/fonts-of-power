@@ -178,8 +178,10 @@ Whenever you lose absorption due to an attack, you may make an attack of opportu
 
 #### Unity: Backstop
 
-During combat, after you see the results of an attack roll or skill check, you may that roll as if you had rolled a 10.
-You may only do this once during your turn for a roll made by your companion, and once during your turn for a roll made by the host.
+During combat, after you see the immediate results of an attack roll or skill check, you may treat that roll as if you had rolled a 10.
+You may only do this once each turn for a roll made by your companion, and once each turn for a roll made by the host.
+
+You choose whether or not to change the effective roll after you have rolled the dice, see if the skill check succeeded or attack hit, but before other characters choose whether to react.
 
 ### Tension
 
