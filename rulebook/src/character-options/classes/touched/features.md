@@ -201,7 +201,7 @@ This feature can not be used if you do not have enough life or essence to pay th
 
 #### Unity: Perfect Imbalance
 
-You have mastered the interplay yourself and your companion, allowing you to change mental and physical state at will.
+You have learned to fluidly shift control between yourself and your companion, allowing you to change mental and physical state at will.
 
 At the start of each of your turns, you may switch which of you is in complete control (host or companion), or enter a blended state.
 
@@ -209,4 +209,4 @@ While in your host form, you and your companion have advantage on all skill chec
 
 While in your companion form, damage dealt by you or your companion cannot be prevented.
 
-While in a blended form, you may spend 1 essence (or equivalently, 2 life) to reroll any attack roll that you make. You must use this new result unless you repeat this effect, doubling its cost each time it's used on the same attack.
+While in a blended form, you may spend 1 essence (or equivalently, 2 life via your Vital Struggle feature) to reroll any attack roll that you make. You must use this new result unless you repeat this effect, doubling its cost each time it's used on the same attack.
