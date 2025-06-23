@@ -29,7 +29,7 @@
 
 **Effects:** In addition to your character, you also control a **companion** that shares your body. They share your skill proficiencies and attribute bonuses. In combat, the companion can only use the Strike, Spot, Scan, Swap and Block actions.
 
-You and your companion are treated as the same character: you cannot make attacks of oppportunity after the other causes enemies within your zone of control to lose life.
+You and your companion are treated as the same character: you cannot make attacks of opportunity after the other causes enemies within your zone of control to lose life.
 
 When your companion makes a basic attack, it uses your special attack bonus instead of your basic attack bonus.
 Add your Presence rather than your Prowess to its basic attacks.
@@ -72,7 +72,7 @@ When you gain this feature, create two sets of arms for your companion. These ca
 
 **Level:** 4
 
-**Effects:** Gain a passive bonus based on your coexistance strategy.
+**Effects:** Gain a passive bonus based on your coexistence strategy.
 
 ### Introspection
 
