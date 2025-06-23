@@ -14,7 +14,7 @@
 
 ## Chimeric
 
-**Effects:** Choose three damage types. Whenever your companion deals damage, pick one of these damage types.
+**Effects:** Choose three damage types. Whenever your companion deals damage, pick one of these damage types to deal instead.
 
 ## Enveloping Form
 
@@ -22,7 +22,7 @@
 
 ## Caring Form
 
-**Effects:** When your companion uses the Treat, Defend, Ward or Block action, they can choose to affect on any creature in its zone of control instead of you.
+**Effects:** When your companion uses the Treat, Defend, Ward or Block action, they can choose to affect any creature in its zone of control instead of you.
 
 ## Desperate Protector
 
@@ -38,7 +38,7 @@
 
 ## Embodiment
 
-**Effects:** 1 AP from companion: seperate, gaining its own token in adjacent tile. While seperated, can take any core action. Life, essence, and exhaustion shared, everything else seperate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life. You may communicate telepathically with your companion.
+**Effects:** 1 AP from companion: separate, gaining its own token in adjacent tile. While separated, can take any core action. Life, essence, and exhaustion shared, everything else separate. Merges again when tile is shared. Can make AoOs when counterpart causes other creature to lose life. You may communicate telepathically with your companion.
 
 When you take this feat, sacrifice an exploration feat.
 
@@ -54,7 +54,7 @@ When you take this feat, sacrifice an exploration feat.
 
 ## Nudge
 
-**Effects:** At the start of each of your turns, you may move into an empty adjacent tile of your choice. Your companion can use the Dodge action.
+**Effects:** At the start of each of your turns, you may move into an empty adjacent tile of your choice. This movement does not provoke attacks of opportunity. In addition, your companion can use the Dodge action.
 
 ## Friendly Competition
 
@@ -90,7 +90,7 @@ When you take this feat, sacrifice an exploration feat.
 
 ## Deadly Dance
 
-**Effects:** You and your companion are no longer treated as the same character for the purposes of attacks of opportunity: you can now make attacks of oppportunity after the other causes enemies within your zone of control to lose life.
+**Effects:** You and your companion are no longer treated as the same character for the purposes of attacks of opportunity. This means that you can now make attacks of opportunity after the other causes enemies within your zone of control to lose life.
 
 ## Anger Management
 
