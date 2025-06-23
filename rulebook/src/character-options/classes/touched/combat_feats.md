@@ -101,3 +101,7 @@ When you take this feat, sacrifice an exploration feat.
 ## Eyes in the Back of Your Head
 
 **Effects:** You no longer provoke an attack of opportunity when you lose life.
+
+## Many Terrible Forms
+
+**Effects:** When you use the Swap action, you may choose to instead exchange your equipped arms with the arms of your companion.
