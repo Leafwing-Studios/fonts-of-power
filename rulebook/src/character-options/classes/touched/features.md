@@ -8,7 +8,7 @@
 |   2   |        +1         |             Intrapersonal Diversity              |
 |   3   |        +2         |           Attribute Improvement, Feats           |
 |   4   |        +2         |                  Shifting Focus                  |
-|   5   |        +3         |                   EXPLORATION                    |
+|   5   |        +3         |                  Introspection                   |
 |   6   |        +3         |           Attribute Improvement, Feats           |
 |   7   |        +4         |              Coexistence: Symbiosis              |
 |   8   |        +4         |                 Personal Growth                  |
