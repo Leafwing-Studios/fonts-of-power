@@ -36,7 +36,9 @@ Add your Presence rather than your Prowess to its basic attacks.
 
 Your companion does not regain AP as usual. At the start of your turn, you may spend up to 3 essence. Your companion gains one AP for each essence spent. These AP are lost at the start of your next turn as usual.
 
-When you gain this feature, create two sets of arms for your companion. These can be enchanted as usual.
+When you gain this feature, create two sets of arms for your companion.
+These can be enchanted as usual, and your companion can swap between these two arms.
+Like other character selection choices, these can be modified at level up via a rolling respec.
 
 ### Coexistence: Dynamic
 
