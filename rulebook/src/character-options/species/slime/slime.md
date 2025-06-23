@@ -48,8 +48,8 @@ In mechanical terms, you may fit through spaces that would normally only permit 
 Naturally, your gear and other bulky items that you are carrying magically squeeze through with you.
 
 **Gooey:** Choose a size between 0 and 4 tiles in size.
-If you are ever larger than 1 tile in size, when you spend movement, move and apply forced movement to each tile you are currently occupying independently.
-Your tiles must always stay fully connected, dragging other tiles with them if needed in the case of forced movement.
+If you are ever larger than 1 tile in size, when you spend movement, move and apply forced movement to each tile you are currently occupying independently (although each tile moves the same total amount).
+Your tiles must always stay fully connected, dragging other parts of yourself with them if needed in the case of forced movement.
 
 **Uncertain Anatomy:** You do not need to breathe, but must still eat, drink and sleep. Slimes can see, hear and speak as well as a typical human, although how they do so is a closely guarded secret. Items you carry are stored inside your body. They are plainly visible unless covered by clothing or the like.
 
