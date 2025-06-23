@@ -161,7 +161,7 @@ Whenever the companion hits with an attack, you may spend 1 essence to deal 1d12
 This bonus damage is halved for multi-target attacks.
 
 These effects can only trigger once per action taken: they cannot be triggered multiple times due to a single area of effect attack, and cannot be triggered multiple times due to tile effects that you create.
-However, both of these effects can be triggered due to a single joint action, such as your Outburst class feature.
+However, both of these effects can be triggered due to a single joint action, such as your Unleash class feature.
 
 ### Symbiosis
 
