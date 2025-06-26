@@ -6,7 +6,7 @@
 
 ## Sensory Enhancement
 
-**Effects:** You have advantage on skill checks made as part of the Spot and Scan actions in combat.
+**Effects:** While in combat, you have advantage on skill checks made as part of the Spot and Scan actions.
 
 ## Trample
 
