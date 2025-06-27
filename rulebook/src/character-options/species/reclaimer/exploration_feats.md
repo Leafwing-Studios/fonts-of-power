@@ -10,7 +10,7 @@
 
 ## Where Did You Even Get That
 
-**Effects:** You may spend a resolve to automatically succeed on any prepared for anything check. Adventuring gear that would normally be treated as impossible is treated as implausible for you, as long as you could conceivably acquire it somewhere in the world.
+**Effects:** You may spend a resolve to automatically succeed on any prepared for anything check. Additionally, adventuring gear that would normally be treated as impossible is treated as implausible for you, as long as you could conceivably acquire it somewhere in the world.
 
 ## Rummage
 
