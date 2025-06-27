@@ -26,7 +26,7 @@
 
 ## Moral Arguments
 
-**Effects:** Select a second set of ideals for your companion. Whenever you ideals are checked, you may choose which set to use.
+**Effects:** Select a second set of ideals for your companion. Whenever your ideals are checked, you may choose which set to use.
 
 ## Identity Management
 
@@ -34,8 +34,8 @@
 
 ## Morphing
 
-**Effects:** When you gain this feat, choose a second appearance. You physical form changes between these two appearances based on whether you or your companion are in control. Unless someone knows better, there is no obvious indication that these two forms are actually the same entity. These changes are cosmetic: your attributes and statistics do not change.
+**Effects:** When you gain this feat, choose a second appearance. Your physical form changes between these two appearances based on whether you or your companion are in control. Unless someone knows better, there is no obvious indication that these two forms are actually the same entity. These changes are cosmetic: your attributes and statistics do not change.
 
-## Ghastly Visage
+## Visibly Marked
 
-**Effects:** You companion is visible at all times, and your appearance is notably different from other members of your species. You have advantage on all skill checks made to intimidate other creatures.
+**Effects:** You companion is visible at all times, and your appearance is notably different from other members of your species. As a result, you have advantage on all skill checks made to intimidate other creatures.

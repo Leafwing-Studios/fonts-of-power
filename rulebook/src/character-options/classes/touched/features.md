@@ -8,7 +8,7 @@
 |   2   |        +1         |             Intrapersonal Diversity              |
 |   3   |        +2         |           Attribute Improvement, Feats           |
 |   4   |        +2         |                  Shifting Focus                  |
-|   5   |        +3         |                   EXPLORATION                    |
+|   5   |        +3         |                  Introspection                   |
 |   6   |        +3         |           Attribute Improvement, Feats           |
 |   7   |        +4         |              Coexistence: Symbiosis              |
 |   8   |        +4         |                 Personal Growth                  |
@@ -29,14 +29,16 @@
 
 **Effects:** In addition to your character, you also control a **companion** that shares your body. They share your skill proficiencies and attribute bonuses. In combat, the companion can only use the Strike, Spot, Scan, Swap and Block actions.
 
-You and your companion are treated as the same character: you cannot make attacks of oppportunity after the other causes enemies within your zone of control to lose life.
+You and your companion are treated as the same character: you cannot make attacks of opportunity after the other causes enemies within your zone of control to lose life.
 
 When your companion makes a basic attack, it uses your special attack bonus instead of your basic attack bonus.
 Add your Presence rather than your Prowess to its basic attacks.
 
 Your companion does not regain AP as usual. At the start of your turn, you may spend up to 3 essence. Your companion gains one AP for each essence spent. These AP are lost at the start of your next turn as usual.
 
-When you gain this feature, create two sets of arms for your companion. These can be enchanted as usual.
+When you gain this feature, create two sets of arms for your companion.
+These can be enchanted as usual, and your companion can swap between these two arms.
+Like other character selection choices, these can be modified at level up via a rolling respec.
 
 ### Coexistence: Dynamic
 
@@ -72,7 +74,7 @@ When you gain this feature, create two sets of arms for your companion. These ca
 
 **Level:** 4
 
-**Effects:** Gain a passive bonus based on your coexistance strategy.
+**Effects:** Gain a passive bonus based on your coexistence strategy.
 
 ### Introspection
 
@@ -161,7 +163,7 @@ Whenever the companion hits with an attack, you may spend 1 essence to deal 1d12
 This bonus damage is halved for multi-target attacks.
 
 These effects can only trigger once per action taken: they cannot be triggered multiple times due to a single area of effect attack, and cannot be triggered multiple times due to tile effects that you create.
-However, both of these effects can be triggered due to a single joint action, such as your Outburst class feature.
+However, both of these effects can be triggered due to a single joint action, such as your Unleash class feature.
 
 ### Symbiosis
 
@@ -178,8 +180,10 @@ Whenever you lose absorption due to an attack, you may make an attack of opportu
 
 #### Unity: Backstop
 
-During combat, after you see the results of an attack roll or skill check, you may that roll as if you had rolled a 10.
-You may only do this once during your turn for a roll made by your companion, and once during your turn for a roll made by the host.
+During combat, after you see the immediate results of an attack roll or skill check, you may treat that roll as if you had rolled a 10.
+You may only do this once each turn for a roll made by your companion, and once each turn for a roll made by the host.
+
+You choose whether or not to change the effective roll after you have rolled the dice, see if the skill check succeeded or attack hit, but before other characters choose whether to react.
 
 ### Tension
 
@@ -199,7 +203,7 @@ This feature can not be used if you do not have enough life or essence to pay th
 
 #### Unity: Perfect Imbalance
 
-You have mastered the interplay yourself and your companion, allowing you to change mental and physical state at will.
+You have learned to fluidly shift control between yourself and your companion, allowing you to change mental and physical state at will.
 
 At the start of each of your turns, you may switch which of you is in complete control (host or companion), or enter a blended state.
 
@@ -207,4 +211,4 @@ While in your host form, you and your companion have advantage on all skill chec
 
 While in your companion form, damage dealt by you or your companion cannot be prevented.
 
-While in a blended form, you may spend 1 essence (or equivalently, 2 life) to reroll any attack roll that you make. You must use this new result unless you repeat this effect, doubling its cost each time it's used on the same attack.
+While in a blended form, you may spend 1 essence (or equivalently, 2 life via your Vital Struggle feature) to reroll any attack roll that you make. You must use this new result unless you repeat this effect, doubling its cost each time it's used on the same attack.
