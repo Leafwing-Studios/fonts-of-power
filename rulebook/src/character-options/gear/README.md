@@ -25,28 +25,32 @@ When you make your first level 0 character, select two sets of arms and one set 
 The world of *Fonts of Power* is brimming with strange and dangerous magic.
 By enchanting their gear, adventurers can capture this magic in their equipment and prepare themselves to venture even deeper next time.
 
-To make your own gear, you need to understand the basics of affixes:
+Gear is made by taking a **gear base** and applying **affixes** to it.
 
-- each affix is either an arms or armor affix
-- each affix has a gear point cost; all of these are summed together to create the **gear point total** of an item
+- Each piece of gear has a gear base, and supplies a **base gear point cost**
+- Each affix is either an arms or armor affix, and has a specific effect that is added to the gear
+- Affixes must be learned before you can apply them to your gear. All characters will know some affixes at the start of the game, but some must be discovered or found through adventuring. (Note that affixes do not need to be learned to be used, just to be applied.)
+- Gear bases are very generic, and do not do much on their own
+- Each affix has a gear point cost; all of these are summed together (along with the base gear point cost) to create the **gear point total** of an item
 
 While finding or making your own enchanted equipment is essential to further success, magic can be overwhelming and dangerous for the unprepared.
-When choosing a **loadout**, the **gear point total of your equipped arms and armor must be less than or equal to 6 + 2 times your proficiency bonus**.
+When equipping gear, the **gear point total of your equipped arms and armor must be less than or equal to 6 + 2 times your proficiency bonus**.
 
 If you have multiple sets of arms equipped, use the highest gear point total of those sets.
 As a result, you'll generally want to ensure that the gear point total of each set of arms you use is the same.
 
 Modifying gear is done using downtime activities:
 
-- **Harvest:** Gather an ingredient or essence crystals from the area around you. Each ingredient allows you to create a single, specific affix.
-- **Enchant:** Spend an ingredient to add its affix to your gear. You can spend essence crystals to make this process easier.
-- **Disenchant:** Salvage a piece of gear to recover an ingredient and some essence crystals.
+- **Enchant:** Add an affix that you know to your gear. You can spend essence crystals to make this process easier.
+- **Disenchant:** Salvage a piece of gear to recover some essence crystals.
+- **Study:** Learn new affixes by studing a source of knowledge that you have found, be it a trinket of a defeated monster or some time with a skilled artisan.
+- **Invent:** Learn new affixes by experimentation, drawing affixes from a deck.
 
 ## Trinkets
 
 Trinkets are non-combat magical items, that can have various effects.
-Like arms and armor, trinkets have a gear point cost.
-You can have at most **3 + your proficiency bonus** points of trinkets equipped at once.
+Unlike arms and armor, trinkets do not have a gear point cost.
+You can have at most **3 trinkets equipped at once.**
 Trickets can be swapped whenever you rest.
 Additionally, if you find a trinket in the wild, you may immediatley swap it for one you have currently equipped.
-Trinkets can be used in combat using the Use Trinket action, although most of them will have little practical effect in the middle of a fight.
+Trinkets can be used in combat using the Activate action, although most of them will have little to no practical effect in the middle of a fight.
