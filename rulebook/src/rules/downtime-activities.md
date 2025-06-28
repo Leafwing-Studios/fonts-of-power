@@ -36,6 +36,12 @@ The danger level of an area affects the following:
 - Players can only be resurrected at a font from the area of highest danger. In most cases, this is the physical center of the font.
 - The difficulty of combat encounters and the amount of treasure found scales with the danger level, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
 
+## Attune
+
+Forge a connection with pieces of magical gear, allowing you to tap into their magic.
+When you attune, you can swap out the arms, armor, and trinkets you have equipped.
+As always, you can only have two sets of arms, one set of armor, and 3 trinkets equipped at once, and the gear point total of your armor and most expensive set of arms must be less than or equal to 6 + 2 times your proficiency bonus.
+
 ## Bond
 
 Grow closer to another party member, improving your cooperation.
