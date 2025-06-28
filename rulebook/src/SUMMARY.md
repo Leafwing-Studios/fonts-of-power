@@ -75,7 +75,6 @@
   - [Touched](character-options/classes/touched/features.md)
     - [Combat Feats](character-options/classes/touched/combat_feats.md)
     - [Exploration Feats](character-options/classes/touched/exploration_feats.md)
-    - [Powers](character-options/classes/trickster/powers.md)
   - [Trickster](character-options/classes/trickster/features.md)
     - [Combat Feats](character-options/classes/trickster/combat_feats.md)
     - [Exploration Feats](character-options/classes/trickster/exploration_feats.md)
