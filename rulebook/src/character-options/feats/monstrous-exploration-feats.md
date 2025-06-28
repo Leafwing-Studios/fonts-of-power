@@ -20,10 +20,6 @@
 
 **Effects:** Whenever you use the Recover downtime activity, gain the benefits of the Enchant downtime activity targeting one of your currently equipped sets of arms or armor.
 
-## Ambusher
-
-**Effects:** You have advantage on all Trickery, Stealth and Fontcraft skill checks made to prepare an ambush. You have advantage on Anima and Fontcraft skill checks made during the Shape downtime activity.
-
 ## Keen Nose
 
 **Effects:** You may track other creatures by scent.

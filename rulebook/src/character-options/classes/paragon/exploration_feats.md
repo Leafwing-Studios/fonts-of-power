@@ -6,12 +6,6 @@
 
 **Effects:** If you use the Sanctify downtime activity on a site that is currently sanctified, the effect becomes permanent.
 
-## Sanctuary
-
-**Prerequisites:** Sanctify, Harmony subclass
-
-**Effects:** You may choose to create 1-tile vantages of sanctuary when using the Shape downtime activity. Creatures in this area cannot use offensive actions, and attacks against them have disadvantage. When triggered, grant the benefits of the Defend action.
-
 ## Armistice
 
 **Prerequisites:** Sanctify, Harmony subclass

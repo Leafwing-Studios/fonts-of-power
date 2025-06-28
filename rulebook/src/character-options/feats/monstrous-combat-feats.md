@@ -66,12 +66,6 @@
 
 **Effects:** Prowess attacks made against you have disadvantage.
 
-## Digger
-
-**Effects:** 1 AP: reduce the height tier of an adjacent tile by 1, remove a wall or convert an adjacent edge from abrupt to gradual (if height delta <= 1). Whenever you rest, you may gain the benefit of the Shape downtime activity. Roll Prowess(Endurance) instead, and you may only remove walls or blocks (or convert abrupt to gradual edges) as part of this activity.
-
-When you take this feat, sacrifice an exploration feat.
-
 ## Surefooted
 
 **Effects:** Ignore the effects of difficult terrain.
