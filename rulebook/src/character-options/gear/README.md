@@ -46,6 +46,21 @@ Modifying gear is done using downtime activities:
 - **Study:** Learn new affixes by studing a source of knowledge that you have found, be it a trinket of a defeated monster or some time with a skilled artisan.
 - **Invent:** Learn new affixes by experimentation, drawing affixes from a deck.
 
+In the following sections, you will find lists of base gear and affixes, and which affixes are known by default.
+(TODO: Actually write this in the rulebook. Armor will only have a single base gear available. Arms will have a few bases for martial weapon, spellcasting focus, and ranged (or similar))
+
+### Affix pools
+
+Learnable affixes come in a variety of **pools.**
+The two main pool types are the universal learnable pool, which can be learned by anyone at any time, and font-specific pools, which can only be learned by going to the appropriate font (or by finding a source of knowledge that can teach the affix).
+
+There is an additional affix pool, the **unique affix pool.**
+Unique affixes can only be learned by the worldspeaker's discretion, with whatever requirements they desire.
+This is done to facilitate special key items and quest rewards.
+As such, unique affixes have significant restrictions placed on them.
+Namely, unique affixes do not provide any general purpose combat benefit and **the unique affix pool contains no affixes by default.**
+More details on the unique affix pool can be found in *The Worldspeaker's Guide.*
+
 ## Trinkets
 
 Trinkets are non-combat magical items, that can have various effects.
