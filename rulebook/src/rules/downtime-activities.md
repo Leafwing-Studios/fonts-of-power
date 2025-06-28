@@ -74,6 +74,7 @@ Make an Expertise (Tinkering) skill check. For every 5 points of the skill check
 The plausibility of these checks is increased by 1.
 
 Like usual, if you roll a 1 on the supplies die, deplete it once.
+However, you can continue rolling for the same item.
 
 ## Disenchant
 
