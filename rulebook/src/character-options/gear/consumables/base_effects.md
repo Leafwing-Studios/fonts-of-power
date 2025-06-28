@@ -1,5 +1,7 @@
 # Base Effects
 
+All selections must be made when the consumable is created
+
 ## Healing
 
 **Category:** Defensive
@@ -54,7 +56,7 @@
 
 **Effects:** Until the end of combat, you can fly.
 
-## Immunity
+## Aegis
 
 **Category:** Defensive
 
@@ -78,14 +80,8 @@
 
 **Effects:** Gain 3 AP.
 
-## Creation
-
-**Category:** Utility
-
-**Effects:** Create the specified standard vantage in a 2 tile radius.
-
 ## Teleportation
 
 **Category:** Utility
 
-**Effects:** Teleport to a tile within a 6 tile range.
+**Effects:** Teleport to a tile within a 6 tile range.**
