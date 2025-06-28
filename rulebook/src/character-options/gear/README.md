@@ -29,7 +29,7 @@ Gear is made by taking a **gear base** and applying **affixes** to it.
 
 - A gear base is an unmodified item, such as "melee weapon" or "spellcasting focus", which provides base stats and has a **base gear point cost**
 - Each affix is either an arms or armor affix, and has a specific effect that is added to the gear
-- Affixes must be learned before you can apply them to your gear. All characters will know some affixes at the start of the game, but some must be discovered or found through adventuring. (Note that affixes do not need to be learned to be used, just to be applied.)
+- Affixes must be learned before you can apply them to your gear. All characters will know some affixes at the start of the game, but some must be discovered or found through adventuring. Once one party member learns an affix, everyone in the party knows it. (Note that affixes do not need to be learned to be used, just to be applied.)
 - Gear bases are very generic, and do not do much on their own
 - Each affix has a gear point cost; all of these are summed together (along with the base gear point cost) to create the **gear point total** of an item
 

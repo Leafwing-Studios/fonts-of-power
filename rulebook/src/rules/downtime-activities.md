@@ -133,7 +133,7 @@ Choose an affix pool to draw from (either the font's affix pool or the universal
 Then, make a skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering.
 
 Draw a number of affixes from the chosen pool equal to **2 + your skill check result divided by 5.**
-Then, choose a number of affixes to learn equal to **your skill check result divided by 10.**
+Then, choose a number of affixes to learn equal to **your skill check result divided by 10**, and add them to the party's known affixes.
 As always, round up.
 
 Shuffle any recipes you did not choose back into the deck.
@@ -276,7 +276,7 @@ The affix list for books, teachers, and others are determined by the worldspeake
 The affix list for a given source of knowledge is readily apparent to any who interact with it.
 
 Make a difficulty 15 skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering.
-If you succeed, learn choose one affix to learn from the source of knowledge's affix list.
+If you succeed, learn choose one affix to learn from the source of knowledge's affix list, and add that known affix to the party's known affixes.
 Regardless of whether you succeed or fail, the source of knowledge is not consumed.
 
 ## Support
