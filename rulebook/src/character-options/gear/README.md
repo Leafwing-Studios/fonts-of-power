@@ -61,6 +61,14 @@ As such, unique affixes have significant restrictions placed on them.
 Namely, unique affixes do not provide any general purpose combat benefit and **the unique affix pool contains no affixes by default.**
 More details on the unique affix pool can be found in *The Worldspeaker's Guide.*
 
+### Creating consumables
+
+As with affixes, creating consumables is done using downtime activities, using consumable **recipes** that you know.
+Many consumable recipes are known at the start of the game, but some must be learned later on.
+Learning consumable recipes works the same way as learning new affixes, using the Study and Invent downtime activities.
+
+Consumables do not have font-specific pools like affixes, so the only pools are the universal learnable pool (which contains both consumable effects and consumable modifiers) and the unique pool (which contains no recipes by default).
+
 ## Trinkets
 
 Trinkets are non-combat magical items, that can have various effects.
