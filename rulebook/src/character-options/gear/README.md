@@ -55,8 +55,8 @@ Learnable affixes come in a variety of **pools.**
 The two main pool types are the universal learnable pool, which can be learned by anyone at any time, and font-specific pools, which can only be learned by going to the appropriate font (or by finding a source of knowledge that can teach the affix).
 
 There is an additional affix pool, the **unique affix pool.**
-Unique affixes can only be learned by the worldspeaker's discretion, with whatever requirements they desire.
-This is done to facilitate special key items and quest rewards.
+Unique affixes can only be learned at the worldspeaker's discretion, with whatever requirements they desire.
+These are used to allow the creation of special key items and quest rewards.
 As such, unique affixes have significant restrictions placed on them.
 Namely, unique affixes do not provide any general purpose combat benefit and **the unique affix pool contains no affixes by default.**
 More details on the unique affix pool can be found in *The Worldspeaker's Guide.*
@@ -66,6 +66,6 @@ More details on the unique affix pool can be found in *The Worldspeaker's Guide.
 Trinkets are non-combat magical items, that can have various effects.
 Unlike arms and armor, trinkets do not have a gear point cost.
 You can have at most **3 trinkets equipped at once.**
-Trickets can be swapped whenever you rest.
+Trickets can be swapped whenever you rest, as part of the Attune downtime activity.
 Additionally, if you find a trinket in the wild, you may immediatley swap it for one you have currently equipped.
-Trinkets can be used in combat using the Activate action, although most of them will have little to no practical effect in the middle of a fight.
+If desired, trinkets can be used in combat using the Activate action, although most of them will have little to no practical effect in the middle of a fight.

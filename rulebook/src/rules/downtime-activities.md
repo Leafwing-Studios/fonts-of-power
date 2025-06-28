@@ -262,7 +262,7 @@ Fontcraft and Anima does not have a standard list of vantages; instead use the o
 
 ## Study
 
-Learn specific new affixes through careful study.
+Learn specific new affixes by carefully studying prior art.
 To complete this downtime activity, you must have a **source of knowledge** to learn affixes from.
 This could include:
 - A book on enchantment, which has a list of affixes that it details
