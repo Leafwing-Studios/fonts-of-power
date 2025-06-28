@@ -27,7 +27,7 @@ By enchanting their gear, adventurers can capture this magic in their equipment 
 
 Gear is made by taking a **gear base** and applying **affixes** to it.
 
-- Each piece of gear has a gear base, and supplies a **base gear point cost**
+- A gear base is an unmodified item, such as "melee weapon" or "spellcasting focus", which provides base stats and has a **base gear point cost**
 - Each affix is either an arms or armor affix, and has a specific effect that is added to the gear
 - Affixes must be learned before you can apply them to your gear. All characters will know some affixes at the start of the game, but some must be discovered or found through adventuring. (Note that affixes do not need to be learned to be used, just to be applied.)
 - Gear bases are very generic, and do not do much on their own
