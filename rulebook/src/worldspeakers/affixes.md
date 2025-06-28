@@ -2,6 +2,10 @@
 
 This section is very WIP.
 
+You are encouraged to hand out learnable affixes as loot.
+You give the players the card, and they now know the affix.
+Alternatly, you can instead give out a source of knowledge for the affix that you want them to learn.
+
 ## Affix sources of knowledge
 
 When determining lists of affixes for teachers and books, pick 3-6 affixes for them to know.
