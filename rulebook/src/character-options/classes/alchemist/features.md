@@ -31,7 +31,7 @@
 
 ### Elaborate Concoctions
 
-While the alchemist's spells are exceptionally powerful, they are more complicated to cast during combat than those of other classes. At level 1, choose one drawback for your spells from the list below.
+While the alchemist's concoctions are exceptionally powerful, they are more complicated to cast during combat than those of other classes. At level 1, choose one drawback for your concoctions from the list below.
 Like with all choices made as part of character creation (such as which spell you selected, the option chosen for one of your Twist class features or your attribute spread), you may change up to two of these choices each time you level up.
 
 ### Twist: Vessel
@@ -46,7 +46,10 @@ This twist choice gives you options for hitting multiple creatures at once.
 
 **Level:** 1
 
-**Effects:** You may create consumables that cast one of your concoctions when you use the Devise downtime activity. You must select any twists in advance.
+**Effects:** You can create consumables that cast your powers when you use the Devise downtime activity. 
+Add your known concoctions to your known base effects, and add your known twists to your known modifiers lists.
+Additionally, you count as a source of knowledge for all conconctions and twists that you know.
+You do not need to take the Study downtime activity to be used as this source of knowledge.
 
 ### Snake Oil
 
@@ -80,7 +83,7 @@ Then, select an additional twist from either the Vessel or Process list.
 
 **Level:** 5
 
-**Effects:** You may add a modifier to consumable concoctions that you create.
+**Effects:** You may add up to two modifiers to consumable concoctions that you create.
 
 ### Attribute Improvement
 

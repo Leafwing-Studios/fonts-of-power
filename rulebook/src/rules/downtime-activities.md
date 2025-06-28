@@ -91,29 +91,17 @@ Choose an enchanted set of arms or armor, and make a skill check using Expertise
 
 ## Devise
 
-TODO: This needs a rework:
-- Invent used to give you recipes at random
-- I think we should just change this so that all consumable recipes are always known- there's not that many of them.
-- Maybe let you disenchant these? Or recycle old ones into new ones if we don't want them to give essence crystals.
+Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with, or a clever trap.
 
-Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with or a clever trap.
+Design a consumable by selecting one base effect that you know and up to one modifier that you know.
+Then, make a skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering.
+You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down.
 
-Design a consumable by selecting one base effect and up to one modifier.
-You must know the recipes in some way, choosing to either:
+You may **recycle** existing consumables in this process.
+Gain 1 additional copy of the consumable devised for every consumable recycled in this way.
+Additionally, you may spend any number of essence crystals after seeing the result of the devise skill check.
+Gain 1 additional copy of the consumable for every essence crystal consumed in this way.
 
-- Use a recipe you already know.
-  - Recipes are sometimes found as treasure, or as rewards from helping others.
-  - You can learn new recipes as part of the Invent downtime activity.
-  - Allies can share their recipes with you by using the Support downtime activity.
-- Reverse-engineer a new recipe.
-  - Sacrifice one existing consumable to use either its base effect or modifier in the consumable you are creating.
-
-Make a Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
-Some modifiers are skill exclusive: you must use the corresponding skill when using these recipes.
-Create one copy of the consumable for every 5 points of your skill check result.
-Sacrifice one essence crystal for each consumable created.
-
-After you create a consumable, learn all recipes used in it.
 
 ## Enchant
 
@@ -135,14 +123,14 @@ Make a Focus skill check with the appropriate skill, adding a bonus of 5 times t
 
 Expriment with magical reagents, or commune with the font for guidance, or tinker with odd artifacts to learn new and fantastic ways to enhance your gear.
 
-Choose an affix pool to draw from (either the font's affix pool or the universal learnable affix pool).
+Choose an affix pool to draw from (either the font's affix pool or the universal learnable affix pool), or a consumable pool.
 Then, make a skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering.
 
-Draw a number of affixes from the chosen pool equal to **2 + your skill check result divided by 5.**
-Then, choose a number of affixes to learn equal to **your skill check result divided by 10**, and add them to the party's known affixes.
+Draw a number of affixes (or consumable recipes) from the chosen pool equal to **2 + your skill check result divided by 5.**
+Then, choose a number of affixes (or consumable recipes) to learn equal to **your skill check result divided by 10**, and add them to the party's known affixes (or consumable recipes).
 As always, round up.
 
-Shuffle any recipes you did not choose back into the deck.
+Shuffle any that you did not choose back into the deck.
 
 ## Prepare
 
@@ -268,21 +256,21 @@ Fontcraft and Anima does not have a standard list of vantages; instead use the o
 
 ## Study
 
-Learn specific new affixes by carefully studying prior art.
-To complete this downtime activity, you must have a **source of knowledge** to learn affixes from.
+Learn specific new affixes or consumable recipes by carefully studying prior art.
+To complete this downtime activity, you must have a **source of knowledge** to learn affixes (or consumable recipes) from.
 This could include:
 - A book on enchantment, which has a list of affixes that it details
 - A tooth of a slain monster, from which you can learn any of the monster's affixes
 - Time spent with an instructor, who can teach you any affix that they are familiar with
 - An existing piece of enchanted gear, from which you can learn any affix that is present on it
 
-Each source of knowledge has a specific list of affixes associated with it.
+Each source of knowledge has a specific list of affixes (or consumable recipes) associated with it.
 As referenced above, for gear and monster parts, the list is just the affixes that the piece of gear or monster has (or had).
-The affix list for books, teachers, and others are determined by the worldspeaker. (Details on how to select these lists is present in the *Worldspeaker's Guide*.)
-The affix list for a given source of knowledge is readily apparent to any who interact with it.
+The affix/recipe list for books, teachers, and others are determined by the worldspeaker. (Details on how to select these lists is present in the *Worldspeaker's Guide*.)
+The affix/recipe list for a given source of knowledge is readily apparent to any who interact with it.
 
 Make a difficulty 15 skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering.
-If you succeed, learn choose one affix to learn from the source of knowledge's affix list, and add that known affix to the party's known affixes.
+If you succeed, learn choose one affix (or consumable recipe) to learn from the source of knowledge's affix list, and add that known affix to the party's known affixes.
 Regardless of whether you succeed or fail, the source of knowledge is not consumed.
 
 ## Support
