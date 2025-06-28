@@ -13,6 +13,8 @@ If you are unsure of what to pick, you can always draw random affixes from the l
 
 ## Unique affixes
 
+Everything in this section also applies to unique consumable effects.
+
 Unique affixes exist so that you can do "affixes as keys", and have other special quest rewards.
 The canonical pupose is having a special boss monster (for example, Dracula) that can only be killed with a special weapon.
 In order to kill the boss, the party must first go on a sidequest to mount doom to imbue their weapons with the special "can kill dracula" affix, before they take on the boss.
