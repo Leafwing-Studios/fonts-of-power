@@ -46,7 +46,8 @@ This twist choice gives you options for hitting multiple creatures at once.
 
 **Level:** 1
 
-**Effects:** Using one of your concoctions as a base effect and up to one of your twists as a modifier, you may create consumables that cast one of your powers when you use the Devise downtime activity.
+**Effects:** You can create consumables that cast your powers when you use the Devise downtime activity. 
+Add your known concoctions to your known base effects, and add your known twists to your known modifiers lists.
 Additionally, you count as a source of knowledge for all conconctions and twists that you know.
 You do not need to take the Study downtime activity to be used as this source of knowledge.
 
