@@ -27,7 +27,7 @@
 
 **Level:** 1
 
-**Effects:** After you make an attack or damage roll (and see the immediate results), you may spend 1 essence to reroll the results. You must use the new result.
+**Effects:** After you make an attack or damage roll (and see the immediate results), you may spend 1 essence to reroll the results. You must use the new result. You may use this feature on skill checks made in combat as well, at the cost of 2 essence.
 
 Using this feature a single time rerolls only your attack roll, or only your damage roll: the other roll remains unchanged.
 
@@ -35,7 +35,10 @@ Using this feature a single time rerolls only your attack roll, or only your dam
 
 **Level:** 1
 
-**Effects:** 1 AP: Place a trick in a tile of your choice within a two tile range. Placed tricks explode at the start of each of your turns, affecting a 1 tile radius around them. Allies always know which trick was placed, but enemies do not.
+**Effects:** You can use the **Trick** action:
+
+Trick, 1 AP: Place a trick in a tile of your choice within a two tile range. Placed tricks explode at the start of you next turn, affecting a 1 tile radius around them. When you place a trick, place the power card corresponding to that trick face down on the table.
+Allies may peek at the place trick card at will to learn its effect, but enemies may not.
 
 Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skill check. If you fail, your bag of tricks is empty and you cannot use this feature again for the rest of the fight.
 
@@ -55,9 +58,9 @@ Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skil
 
 **Level:** 2
 
-**Effects:** When you make a skill check, but before you roll, you may choose to instead attempt to change the attribute used for the skill. When you do so, you are temporarily treated as if you are proficient in the skill.
+**Effects:** When you make a skill check, but before you roll, you may choose to attempt to change the attribute used for the skill. If you do so, you are temporarily treated as if you are proficient in the skill.
 
-To determine which skill is used, roll a d6:
+To determine which attribute is used, roll a d6:
 
 * **1:** The skill check automatically fails and you cannot use this feature again until you’ve completed a rest.
 * **2:** Prowess
@@ -66,7 +69,8 @@ To determine which skill is used, roll a d6:
 * **5:** Focus
 * **6:** Presence
 
-If you roll a 1, describe the unlikely fashion in which you attempted to perform the skill and how it failed. On any other result, describe the fashion in which you used the attribute rolled to perform the action attempted.
+Describe the fashion in which you used the attribute rolled to perform the action attempted.
+If you rolled a 1, describe the unlikely fashion in which you attempted to perform the skill and how it failed spectacularly.
 
 ### Attribute Improvement
 
@@ -114,7 +118,7 @@ If you roll a 1, describe the unlikely fashion in which you attempted to perform
 
 **Level:** 8
 
-**Effects:** After you make a skill check outside of combat and see the results, you may choose to reroll it. If your new roll is less than your previous roll you must use the new result. Otherwise, choose whether to reroll again in this fashion or keep this as your final result.
+**Effects:** After you make a skill check outside of combat and see the results, you may choose to reroll it. If your new roll is less than your previous roll you must use the new result. Otherwise, choose whether to reroll again in this fashion or keep it as your final result.
 
 ### Attribute Improvement
 
@@ -144,13 +148,13 @@ If you roll a 1, describe the unlikely fashion in which you attempted to perform
 
 #### Trump Card: Plot Armor
 
-**Effects:** The first time each combat that an attack would bring you to death's door (or hit you while you are on death's door), the attack is treated as if it missed instead.
+**Effects:** The first time each combat that an attack would bring you to death's door or hit you while you are on death's door, the attack is treated as if it missed instead.
 
 ### Magician
 
 #### Payout: Magic Trick
 
-**Effects:** When you land a critical hit, use a trick for free.
+**Effects:** When you land a critical hit, use a trick.
 You must use this feature, and can do so even if your bag of tricks is empty.
 Do not roll to see if your bag of tricks is empty.
 
@@ -166,4 +170,4 @@ Do not roll to see if your bag of tricks is empty.
 
 #### Trump Card: Gumption
 
-**Effects:** Once per combat you may set any roll to a 5 or 15, as if you had spent a Resolve.
+**Effects:** Once per combat you may set any d20 roll to a 5 or 15, as if you had spent a Resolve.
