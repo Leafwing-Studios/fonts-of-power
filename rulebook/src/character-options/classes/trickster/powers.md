@@ -4,76 +4,73 @@
 
 **Category:** Offensive
 
-**Effects:** Knock prone and blunted.
+**Effects:** Make a Prowess attack against all targets in a two tile radius. If you hit, knock them prone and apply one stack of blunted.
 
 ## Cold Shower
 
 **Category:** Offensive
 
-**Effects:** 2 stacks of chilled.
+**Effects:** Make a Dexterity attack against all targets in a two tile radius. If you hit, apply 2 stacks of chilled.
 
 ## Pure Chaos
 
 **Category:** Offensive
 
-**Effects:** 2 stacks of crazed
+**Effects:** When this trick detonates, make a Presence attack against all targets in a two tile radius. If you hit, apply 2 stacks of crazed.
 
 ## Soothing Vapors
 
 **Category:** Offensive
 
-**Effects:** 2 stacks of pacified.
+**Effects:** When this trick detonates, make a Presence attack against all targets in a two tile radius. If you hit, apply 2 stacks of pacified.
 
 ## Trick-or-Treat
 
 **Category:** Offensive
 
-**Effects:** 2 stacks of frightened, trick center as target of fear.
+**Effects:** When this trick detonates, make a Focus attack against all targets in a two tile radius. If you hit, apply 2 stacks of frightened. Treat the trick center as the target of the fear.
 
 ## Grease Trap
 
 **Category:** Utility
 
-**Effects:** Ground effect: whenever creatures use a movement action, make an special attack against Agility. If you hit, they are knocked prone. All forced movement other than teleportation is doubled.
+**Effects:** When this trick detonates, create a grease ground effect in a two tile radius. Whenever creatures use a movement action while in the grease ground effect, make an Agility attack against them. If you hit, they are knocked prone. All forced movement other than teleportation is doubled.
 
 ## Invisible Ink
 
 **Category:** Defensive
-**Effects:** Creatures become invisible until immediately after they use a non-movement action.
+**Effects:** When this trick detonates, creatures in a two tile radius become invisible until immediately after they use a non-movement action other than Hide.
 
 ## Now You Don't
 
 **Category:** Utility
 
-**Effects:** Teleport all creatures hit by same vector. Make them invisible until start of your next turn or they use a non-movement action.
+**Effects:** When this trick detonates, make an Expertise attack against every creature in a two tile radius. Like always, creatures can choose to be hit by this attack. Teleport each creatures hit into an empty tile of your choice within a two tile radius of their current position.
+
+Creatures teleported by this effect become invisible until start of your next turn. After they use an action other than Hide, the invisibility breaks.
 
 ## Over Here
 
 **Category:** Utility
-**Effects:** Teleport to the destination of the trick.
+**Effects:** When this trick detonates, teleport to the location of this trick.
 
 ## Smelling Salts
 
 **Category:** Defensive
-**Effects:** Roll once for Treat action on all creatures.
+**Effects:** When this trick detonates, use the Treat action on all creatures within a two tile radius. Roll only once, and use the same skill check result for each creature within range.
 
 ## Smoke Bomb
 
 **Category:** Utility
-**Effects:** Tiles become heavily shrouded.
+**Effects:** When this trick detonates, create a smoke tile effect in a two tile radius. These tiles are heavily shrouded.
 
 ## Spikestravaganza
 
 **Category:** Utility
-**Effects:** 2 stacks of bleeding per tile they walk through. Can treat as difficult terrain, taking only 1 stack per tile.
+**Effects:** When this trick detonates, create a caltrops ground effect in a two tile radius. Whenever creatures move through this effect, they take 2 stacks of bleeding per tile they move through. Creatures may instead choose to treat this ground effect as difficult terrain, and avoid any stacks of bleeding.
 
 ## Superior Glue
 
 **Category:** Utility
 
-**Effects:** Tile effect: if you hit, apply one stack of rooted.
-
-## Pyrotechnics
-
-**Category:** Utility
-**Effects:** Tile effect: 3 + 1/2 Presence stacks of aflame.
+**Effects:** When this trick detonates, create a glue ground effect in a two tile radius. When this tile affect is triggered, make a Prowess attack against the triggering creature. If you hit, apply one stack of rooted to them.
