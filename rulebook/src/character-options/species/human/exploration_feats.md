@@ -20,10 +20,6 @@
 
 **Effects:** Once per rest, you may gain the benefit of the Connect or Challenge downtime activity for free.
 
-## Cosmopolitan
-
-**Effects:** When you use the Devise, Enchant or Shape downtime activities, ignore any restrictions due to the skill you selected.
-
 ## Creative
 
 **Effects:** Draw two additional ingredients/affixes/recipes to choose from when you use the Harvest/Enchant/Invent downtime activities.

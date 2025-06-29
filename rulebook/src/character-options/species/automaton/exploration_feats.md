@@ -8,7 +8,7 @@
 
 **Prerequisites:** Industry subspecies
 
-**Effects:** You may choose to double all outputs of the Craft, Devise and Shape downtime activities. All ingredients must be consumed a second time, and you must create the same item(s).
+**Effects:** You may choose to double all outputs of the Craft and Devise downtime activities. You must create the same item(s).
 
 ## Diplomat
 

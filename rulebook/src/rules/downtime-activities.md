@@ -245,15 +245,6 @@ Then, all allies roll at the same time, tallying up successes and failures appro
 When you return from the dead, you immediately suffer exhaustion equal to your previous transcendence.
 Like usual, gaining this exhaustion can kill you. Any skill checks made to resurrect you after you have died due to the exhaustion of being brought back from the dead are made with disadvantage.
 
-## Shape
-
-Attempt to shape the world around you, preparing an arena for combat.
-Make an Expertise skill check using Anima, Arcana, Fontcraft or Tinkering.
-
-For every 2 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
-
-Fontcraft and Anima does not have a standard list of vantages; instead use the ones listed by the font you are currently in.
-
 ## Study
 
 Learn specific new affixes or consumable recipes by carefully studying prior art.
