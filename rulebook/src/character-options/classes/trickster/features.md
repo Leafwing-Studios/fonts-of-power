@@ -10,7 +10,7 @@
 |   4   |        +2         |                              Dirty Tricks                              |      4       |
 |   5   |        +3         |                              Fast Talker                               |      5       |
 |   6   |        +3         |                      Attribute Improvement, Feats                      |      5       |
-|   7   |        +4         |                           Flair: Trump Card                            |      5       |
+|   7   |        +4         |                           Flair: Ace Up Your Sleeve                            |      5       |
 |   8   |        +4         |                             Push Your Luck                             |      6       |
 |   9   |        +5         |                      Attribute Improvement, Feats                      |      6       |
 |  10   |        +5         |                              Endless Luck                              |      6       |
@@ -37,28 +37,32 @@ Using this feature a single time rerolls only your attack roll, or only your dam
 
 **Effects:** You can use the **Trick** action:
 
-Trick, 1 AP: Place a trick in a tile of your choice within a two tile range. Placed tricks explode at the start of you next turn, affecting a 1 tile radius around them. When you place a trick, place the power card corresponding to that trick face down on the table.
-Allies may peek at the place trick card at will to learn its effect, but enemies may not.
+Trick, 1 AP: Place a trick in a tile of your choice within a two tile range. Placed tricks explode at the start of you next turn, affecting a 1 tile radius around them.
 
-Immediately after you use a trick, make a difficulty 10 Presence (Trickery) skill check. If you fail, your bag of tricks is empty and you cannot use this feature again for the rest of the fight.
+Immediately after you use a trick, make a difficulty 15 Presence (Trickery) skill check. If you fail, your bag of tricks is empty and you cannot use this feature again for the rest of the fight.
 
-### Flair: Payout
-
-**Level:** 1
-
-**Effects:** Choose a subclass; which determines the flair with which you use your luck-manipulating abilities. Whenever you land a critical hit, gain a bonus effect.
-
-### Master of Your Own Destiny
+### Flair: Low Blow
 
 **Level:** 1
 
-**Effects:** Whenever the party would gain a Resolve, gain two Resolve instead.
+**Effects:** Choose a subclass; which determines the flair with which you use your luck-manipulating abilities. Whenever you land a basic attack made with advantage, gain a bonus effect.
+
+### Sleight of Hand
+
+**Level:** 1
+
+**Effects:** If you have at least a minute to prepare, you may choose to hide or disguise your trick, concealing its true nature (and detonation).
+If you succeed on a difficulty 15 Expertise (Trickery) skill check, its nature is not obvious before it detonates and any effects which are not plainly apparent cannot be traced back to the trick.
+If you succeed on a difficulty 15 Agility (Trickery) skill check, no one sees you plant the trick.
+You have disadvantage on these skill checks if there is more than one observer or you are being closely watched.
 
 ### Roll the Dice
 
 **Level:** 2
 
-**Effects:** When you make a skill check, but before you roll, you may choose to attempt to change the attribute used for the skill. If you do so, you are temporarily treated as if you are proficient in the skill.
+**Effects:** Test your luck, attempting to solve problems in entirely unlikely fashions.
+When you make a skill check, but before you roll, you may choose to attempt to change the attribute used for the skill.
+If you do so, you are temporarily treated as if you are proficient in the skill.
 
 To determine which attribute is used, roll a d6:
 
@@ -108,7 +112,7 @@ If you rolled a 1, describe the unlikely fashion in which you attempted to perfo
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Flair: Trump Card
+### Flair: Ace Up Your Sleeve
 
 **Level:** 7
 
@@ -132,42 +136,60 @@ If you rolled a 1, describe the unlikely fashion in which you attempted to perfo
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### Endless Luck
+### Flair: Top of Your Game
 
 **Level:** 10
 
-**Effects:** At the start of each of your turns, restore 3 + Focus / 2 essence.
+**Effects:** Gain an incredibly powerful benefit based on your subclass.
 
 ## Flairs
 
 ### Favored One
 
-#### Payout: Spontaneous Malfunction
+Whether they were chosen by a god, a supernatural force, or simply due to an elaborate metanarrative joke, Favored One tricksters are inexplicably fortunate in everything they do.
 
-**Effects:** When you land a critical hit, apply one stack of defenseless before calculating the damage dealt by your attack.
+#### Low Blow: Spontaneous Malfunction
 
-#### Trump Card: Plot Armor
+**Effects:** Whenever you hit a creature with a basic attack that you made with advantage, apply one stack of defenseless.
 
-**Effects:** The first time each combat that an attack would bring you to death's door or hit you while you are on death's door, the attack is treated as if it missed instead.
+#### Ace Up Your Sleeve: Plot Armor
+
+**Effects:** Once per combat, after you see the effects of an attack, you may cause any attack made against you to automatically miss.
+
+#### Top of Your Game: Destiny
+
+**Effects:** Whenever a creature in combat with you makes an attack roll (after you see whether or not their attack would hit), you may spend 1 essence to force them to reroll their attack roll. They must use the new result.
 
 ### Magician
 
-#### Payout: Magic Trick
+Warping the odds through minor magic and sleight of hands, the Magician Tricksters are masters of putting on a show.
 
-**Effects:** When you land a critical hit, use a trick.
+#### Low Blow: Magic Trick
+
+**Effects:** Whenever you hit a creature with a basic attack that you made with advantage, use a trick.
 You must use this feature, and can do so even if your bag of tricks is empty.
-Do not roll to see if your bag of tricks is empty.
+After using a trick in this way, do not roll to see if your bag of tricks is empty.
 
-#### Trump Card: Finale
+#### Ace Up Your Sleeve: Card Trick
 
 **Effects:** Once per combat, when a trick that you have placed is about to detonate, you may gain the effects of any two different tricks that you know instead. You choose the order in which these resolve.
 
+#### Top of Your Game: Finale
+
+**Effects:** Whenever you successfully detonate 3 or more tricks in a single turn, make a Presense attack against all enemies that can see you. If you hit, apply two stacks of any ailment of your choice.
+
 ### Ruffian
 
-#### Payout: Rough-and-Tumble
+Charming rapscallions or gruff outlaws, the Ruffian Tricksters are not afraid to get down and dirty to get the job done.
 
-**Effects:** When you land a critical hit, you may push the creature hit into an adjacent tile of your choice.
+#### Low Blow: Fighting Dirty
 
-#### Trump Card: Gumption
+**Effects:** Whenever you hit a creature with a basic attack that you made with advantage, your critical hit threshold is reduced by 3.
 
-**Effects:** Once per combat you may set any d20 roll to a 5 or 15, as if you had spent a Resolve.
+#### Ace Up Your Sleeve: Kick Them While They're Down
+
+**Effects:** Once per combat, after you successfully land a critical strike against a creature, you may immediately make an attack of opportunity against them without spending any AP.
+
+#### Top of Your Game: Rough and Tumble
+
+**Effects:** Whenever you spend movement in combat, you may move through enemy tiles. Attacks of opportunity made against you have disadvantage. At the start of each of your turns, gain the benefit of the Move action.
