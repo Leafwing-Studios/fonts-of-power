@@ -73,3 +73,7 @@
 **Effects:** Damage that you deal **explodes**. Whenever you roll the maximum possible value on a damage die, reroll that die and add it to the total damage dealt.
 
 This effect can recur indefinitely. If you are rolling multiple dice, you do not need to roll maximum damage on all dice simultaneously. For example, if you hit with a pair of brass knuckles which deal 2d4 damage, and you roll a 2 and a 4, reroll the 4 and add the result to the original 6 damage that would be dealt.
+
+### Finesse
+
+***Effects:** Whenever one of your tricks explode, you may choose to reduce their radius to zero tiles.
