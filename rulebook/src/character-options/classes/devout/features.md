@@ -23,14 +23,27 @@
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
+### Devotion
+
+**Level:** 1
+
+**Effects:** Each Devout is devoted to a particular divine, infernal or otherwise unknowable and powerful cosmic being. Each Devotion is associated with three domains, areas of its divine focus and intervention, which determine the prayers available to the Devout.
+
+Determine the nature of the supreme power that you worship. Choose 3 elemental domains, which determine the prayers that you can learn.
+
+Additionally, select the nature of the power. At level 1, this determines the consequences of failing to cast a miracle.
+
 ### Prayer
 
 **Level:** 1
 
-**Effects:** As a Devout, your powers are known as **prayers**. Casting a prayer costs 2 AP and increases your favor by 1.
+**Effects:** As a Devout, your powers are known as **prayers**.
+Casting a prayer costs 2 AP and increases your favor by 1.
 
-**Favor** is used to improve the odds of succesfully calling upon miracles.
-It resets to zero at the start of every fight, and miracles cannot be sustained between fights.
+You can only learn prayers associated with your devotion.
+
+**Favor** is used to improve the odds of successfully calling upon miracles, powerful forms of prayers that depend on the fickle whims of your devotion.
+It begins at zero at the start of each combat.
 
 ### Miracle
 
@@ -51,17 +64,9 @@ Choose a prayer that you know, and attempt to cast a sustained miracle version o
 As a party, you may choose to spend Resolve to modify the result of this roll.
 Typically, this will set the result to a 15.
 
-If the favor check is successful, gain the benefit of an incredibly powerful miracle that lasts until your concentration is broken or the end of combat.
+If the favor check is successful, gain the benefit of an incredibly powerful miracle that lasts until your concentration is broken or the end of combat. Reset your favor to 0.
 
-If it fails, your favor decreases by 1 and you suffer the Consequences laid out by your Devotion subclass.
-
-### Devotion
-
-**Level:** 1
-
-**Effects:** Determine the nature of the supreme power that you worship. Choose 3 elemental domains, which determine the prayers that you can learn.
-
-Additionally, select the nature of the power. At level 1, this determines the consequences of failing to cast a miracle.
+If it fails, you suffer the Consequences laid out by your Devotion subclass. Decrease your favor by 1.
 
 ### Deliberation
 
@@ -109,7 +114,7 @@ This effect does not persist into combat.
 
 **Level:** 5
 
-**Effects:** You have advantage on all Guidance skill checks made outside of downtime and combat.
+**Effects:** You have advantage on all Guidance skill checks made outside of downtime activities and combat.
 
 ### Attribute Improvement
 
@@ -159,7 +164,7 @@ This effect does not persist into combat.
 
 ### Consequence: Disappointment
 
-**Effects:** You instead immediately cast the standard version of the prayer you selected. Like usual, your favor is increased by 1 after casting a prayer.
+**Effects:** You instead immediately cast the standard version of the prayer you selected. Your favor does not increase after casting this prayer.
 
 ### Augury: Vague Portents
 
