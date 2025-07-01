@@ -32,20 +32,28 @@ Spellcasting foci, pocket sand, grappling gloves, and swordless shields should a
 
 ### Clothing
 
+The clothes on your back, your innate feathers, or maybe just a single upturned pot on an otherwise naked body
+
 **Base Gear Point Cost:** 0
 **Base Basic Defense:** 8 + Agility
 
 ### Light Armor
+
+Leather armor, gambeson, or your innate fur
 
 **Base Gear Point Cost:** 2
 **Base Basic Defense:** 10 + Agility
 
 ### Medium Armor
 
+Chainmail armor, a wooden body, your innate scales, or a single breastplate
+
 **Base Gear Point Cost:** 4
 **Base Basic Defense:** 12 + Agility
 
 ### Heavy Armor
+
+Full plate, a body of steel, or unnaturally good luck
 
 **Base Gear Point Cost:** 7
 **Base Basic Defense:** 15 + Agility
