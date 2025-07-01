@@ -176,6 +176,15 @@ You gain access to the call lightning power. As a 1 AP action, with no essence c
 
 ## Blessing of Luck
 
+**Element:** Fate
+
+**Cycle:** Blessing
+
+**Category:** Defensive
+**rite Effect:** Grant 6 + Presence absorption. Until the until the end of your next turn, ignore disadvantage on any skill check made.
+
+**Miracle Effect:** All attacks made against them have disadvantage. All skill checks and attack rolls are made with advantage.
+
 ## Curse of Repetition
 
 **Element:** Fate
