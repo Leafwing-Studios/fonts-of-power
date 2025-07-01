@@ -40,7 +40,7 @@ The danger level of an area affects the following:
 
 Forge a connection with pieces of magical gear, allowing you to tap into their magic.
 When you attune, you can swap out the arms, armor, and trinkets you have equipped.
-As always, you can only have two sets of arms, one set of armor, and 3 trinkets equipped at once, and the gear point total of your armor and most expensive set of arms must be less than or equal to 6 + 2 times your proficiency bonus.
+As always, you can only have two sets of arms, one set of armor, and 3 trinkets equipped at once, and the gear point total of your armor and most expensive set of arms must be less than or equal to 8 + 2 times your proficiency bonus.
 
 ## Bond
 

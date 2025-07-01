@@ -34,7 +34,7 @@ Gear is made by taking a **gear base** and applying **affixes** to it.
 - Each affix has a gear point cost; all of these are summed together (along with the base gear point cost) to create the **gear point total** of an item
 
 While finding or making your own enchanted equipment is essential to further success, magic can be overwhelming and dangerous for the unprepared.
-When equipping gear, the **gear point total of your equipped arms and armor must be less than or equal to 6 + 2 times your proficiency bonus**.
+When equipping gear, the **gear point total of your equipped arms and armor must be less than or equal to 8 + 2 times your proficiency bonus**.
 
 If you have multiple sets of arms equipped, use the highest gear point total of those sets.
 As a result, you'll generally want to ensure that the gear point total of each set of arms you use is the same.

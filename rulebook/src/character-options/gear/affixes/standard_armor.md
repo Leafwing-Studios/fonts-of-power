@@ -1,17 +1,5 @@
 # Standard Armor Affixes
 
-## Thick Armor
-
-**Cost:** 1
-
-**Effects:** Increase your basic defense by 1.
-
-## Warded Armor
-
-**Cost:** 1
-
-**Effects:** Increase the specified special defense by 2.
-
 ## Absorptive
 
 **Cost:** 1

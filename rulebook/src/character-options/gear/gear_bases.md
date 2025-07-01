@@ -30,5 +30,22 @@ Spellcasting foci, pocket sand, grappling gloves, and swordless shields should a
 
 ## Armor Bases
 
+### Clothing
+
 **Base Gear Point Cost:** 0
+**Base Basic Defense:** 8 + Agility
+
+### Light Armor
+
+**Base Gear Point Cost:** 2
 **Base Basic Defense:** 10 + Agility
+
+### Medium Armor
+
+**Base Gear Point Cost:** 4
+**Base Basic Defense:** 12 + Agility
+
+### Heavy Armor
+
+**Base Gear Point Cost:** 7
+**Base Basic Defense:** 15 + Agility
