@@ -30,4 +30,5 @@ Spellcasting foci, pocket sand, grappling gloves, and swordless shields should a
 
 ## Armor Bases
 
-TODO: Make a basic one
+**Base Gear Point Cost:** 0
+**Base Basic Defense:** 10 + Agility
