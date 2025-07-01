@@ -1,9 +1,11 @@
-# Base Effects
+# Standard Consumable Recipes
+
+These consumable recipes are known by all characters.
+
+## Base Effects
 
 All selections must be made when the consumable is created.
 So, for example, when devising a destruction consumable, you must choose the damage type when it is created, not when it is used.
-
-## Default Known
 
 ### Healing
 
@@ -53,49 +55,18 @@ So, for example, when devising a destruction consumable, you must choose the dam
 
 **Effects:** Until the end of combat, you are immune to damage of the specified type.
 
-## Learnable
+## Modifiers
 
-Note that all alchemist concoctions are also in this category.
-(I just didn't want to copy/paste them.)
+### Potion
 
-### Energy
+**Prerequisites:** Defensive or utility
 
-**Category:** Utility
+**Effects:** When you succeed on the Treat action on another creature, you may use this consumable on them instead of removing any ailments or afflictions, using the skill check result in place of an attack roll, if necessary.
 
-**Effects:** Remove one stack of exhaustion.
+### Reactive
 
-### Flight
+**Effects:** Whenever you lose life, you may choose to use the Activate action as a reaction to activate this consumable.
 
-**Category:** Utility
+### Explosive
 
-**Effects:** Until the end of combat, you can fly.
-
-### Skill
-
-**Category:** Utility
-
-**Effects:** Until the end of combat, you have advantage on checks made with the specified skill.
-
-### Might
-
-**Category:** Offensive
-
-**Effects:** The next attack that you hit with is automatically a critical.
-
-### Action
-
-**Category:** Utility
-
-**Effects:** Gain 3 AP.
-
-### Teleportation
-
-**Category:** Utility
-
-**Effects:** Teleport to a tile within a 6 tile range.**
-
-### Pine Resin
-
-**Category:** Offensive
-
-**Effects:** Until the end of combat, basic attacks that you hit with deal an additional 1d6 damage of the specified type.
+**Effects:** Apply this consumable's effect against all creatures within a 2 tile radius instead centered on yourself. Like always, this includes yourself.

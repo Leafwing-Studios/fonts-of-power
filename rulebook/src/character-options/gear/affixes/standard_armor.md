@@ -1,22 +1,16 @@
-# Armor
-
-## Thick Armor
-
-**Cost:** 1
-
-**Effects:** Increase your basic defense by 1.
-
-## Warded Armor
-
-**Cost:** 1
-
-**Effects:** Increase the specified special defense by 2.
+# Standard Armor Affixes
 
 ## Absorptive
 
 **Cost:** 1
 
 **Effects:** Gain 1 absorption at the start of each of your turns.
+
+## Agile
+
+**Cost:** 2
+
+**Effects:** You have advantage on skill checks made to Dodge.
 
 ## Resistance
 
@@ -30,11 +24,11 @@
 
 **Effects:** You are immune to the specified damage type.
 
-## Ailment Immunity
+## Quick
 
-**Cost:** 2
+**Cost:** 1
 
-**Effects:** You are immune to the specified ailment.
+**Effects:** When you use the Move action, gain 3 tiles of movement instead of 2.
 
 ## Sturdy
 
@@ -47,12 +41,6 @@
 **Cost:** 1
 
 **Effects:** Grapple attacks made against you have disadvantage. You have advantage on skill checks made to escape grapple.
-
-## Lightweight
-
-**Cost:** 2
-
-**Effects:** You have advantage on skill checks made to Dodge.
 
 ## Scholarly
 
