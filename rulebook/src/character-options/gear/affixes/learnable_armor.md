@@ -1,0 +1,1 @@
+# Learnable Armor Affixes

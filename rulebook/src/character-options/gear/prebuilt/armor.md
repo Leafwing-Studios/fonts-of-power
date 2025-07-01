@@ -1,5 +1,7 @@
 # Armor
 
+TODO: Rebuild all of these
+
 ## Tank
 
 **Affixes:** Sturdy, Thick Armor, Thick Armor, Thick Armor

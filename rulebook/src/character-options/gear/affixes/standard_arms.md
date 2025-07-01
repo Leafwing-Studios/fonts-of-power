@@ -1,4 +1,4 @@
-# Arms
+# Standard Arms Affixes
 
 ## Committed
 

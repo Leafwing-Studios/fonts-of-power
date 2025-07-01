@@ -1,4 +1,4 @@
-# Armor
+# Standard Armor Affixes
 
 ## Thick Armor
 

@@ -1,5 +1,7 @@
 # Arms
 
+TODO: Rebuild all of these
+
 ## Mace and Shield
 
 **Affixes:** Blunt, Blocking
