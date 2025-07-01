@@ -127,11 +127,23 @@
 
 **Effects:** You have advantage on Shove attacks.
 
+## Split Damage
+
+**Cost:** 0
+
+**Effects:** Choose an elemental damage type. Basic attacks you make deal split damage between the chosen damage type and the original damage type (which may have already been split damage of two or more types).
+
 ## Strong Grasp
 
 **Cost:** 1
 
 **Effects:** You have advantage on skill checks made to keep creatures grappled.
+
+## Surging
+
+**Cost:** 1
+
+**Effects:** Choose an elemental damage type. Whenever you hit a creature with an offensive power, deal an additional 1d4 + Presense damage to them of the chosen type. This damage is halved for multi-target powers. If you take this affix multiple times, the dmaage increase following the table in Damage Increase.
 
 ## Telemedicine
 

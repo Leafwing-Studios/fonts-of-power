@@ -18,6 +18,12 @@
 
 **Effects:** You may make basic attacks with these arms using the Elemental mode. When you do, your attack deals damage of the chosen element instead.
 
+## Hybrid Damage
+
+**Cost:** 1
+
+**Effects:** Choose an elemental damage type. Attacks made by you deal hybrid damage of the chosen damage type and the original damage type (which may have already been hybrid damage of two or more types).
+
 ## Grasping
 
 **Cost:** 2
@@ -71,3 +77,9 @@
 **Cost:** 2
 
 **Effects:** After you hit a creature with a single target attack, push them one tile away from you.
+
+## TODO:
+
+- Sphere attack (choosable)
+- Line attack (choosable and unchoosable)
+- Arcing attack (choosable and unchoosable)
