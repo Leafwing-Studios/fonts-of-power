@@ -1,6 +1,6 @@
 # Acting in Combat
 
-- at the beginning of combat and at the end of each of your turns, you gain 3 **action points**
+- At the beginning of combat and at the end of each of your turns, set your available**action points** to 3
 - when a reaction trigger occurs, you may take any action with the corresponding trigger's tag
 - take the Move action to move up to two tiles
 
