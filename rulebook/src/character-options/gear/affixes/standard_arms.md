@@ -1,28 +1,10 @@
 # Standard Arms Affixes
 
-## Committed
-
-**Cost:** 3
-
-**Effects:** 3 AP: use an offensive action that costs 2 AP or less, paying any essence costs as usual. This attack is automatically a critical if it hits.
-
-## Blocking
-
-**Cost:** 2
-
-**Effects:** You have advantage on skill checks made to Block.
-
 ## Blunt
 
 **Cost:** 2
 
 **Effects:** Each point of damage that you deal removes two points of absorption, rather than one.
-
-## Brutal
-
-**Cost:** 3
-
-**Effects:** Your critical hits have triple efficacy, rather than double.
 
 ## Careful Aim
 
@@ -30,17 +12,11 @@
 
 **Effects:** Ignore the effects of partial cover when making attacks.
 
-## Cleaving
-
-**Cost:** 1
-
-**Effects:** You may make basic attacks with these arms using the Cleaving mode. When you do, make a melee basic attack that hits all other creatures within a weapon-range cone of yourself at half efficacy.
-
 ## Conal
 
-**Cost:** 1
+**Cost:** 0
 
-**Effects:** You may make basic attacks with these arms using the Conal mode. When you do, make a ranged basic attack that hits all other creatures within a weapon-range cone of yourself at half efficacy.
+**Effects:** Basic attacks made with this set of arms are made against all other creatures within a weapon-range cone of yourself at half efficacy. The attack's type (melee or ranged) matches the one specified in the gear base.
 
 ## Cruel
 
@@ -54,17 +30,28 @@
 
 **Effects:** When you use the Defend action, also gain the effects of the Ward action.
 
-## Die Increase
+## Damage Increase
 
 **Cost:** 1
 
-**Effects:** Increase the size of one damage die by 1, to a maximum of 1d12
-
-## Die Split
-
-**Cost:** 1
-
-**Effects:** Split a single damage die into two dice whose sides add up to the sides of the original die. Whenever you roll minimum damage, reroll.
+**Effects:** Increase the damage dealt by basic attacks made with this weapon, once. (As always, you can take this affix multiple times.) The damage increase follows the following scale: 
+- 1
+- 1d4
+- 1d6
+- 1d8
+- 1d10
+- 2d6
+- 1d6 + 1d8
+- 2d8
+- 3d6
+- 2d6 + 1d8
+- 1d6 + 2d8
+- 4d6
+- 3d6 + 1d8
+- 2d6 + 2d8
+- 5d6
+- 4d6 + 1d8
+- 3d6 + 2d8
 
 ## Dual Strikes
 
@@ -77,12 +64,6 @@
 **Cost:** 0
 
 **Effects:** Your basic attack deals elemental damage of the specified type, rather than physical damage.
-
-## Elemental Mode
-
-**Cost:** 1
-
-**Effects:** You may make basic attacks with these arms using the Elemental mode. When you do, your attack deals damage of the chosen element instead.
 
 ## First Aid
 
@@ -102,24 +83,6 @@
 
 **Effects:** You have advantage on Grapple attacks.
 
-## Grasping
-
-**Cost:** 0
-
-**Effects:** You cannot make basic attacks or use the Strike action. After you hit a creature with a Grapple attack, each of your allies who is threatening the creature hit may make an attack of opportunity against them.
-
-## Harmless
-
-**Cost:** 0
-
-**Effects:** Strike now costs 1 AP. Your basic attacks do not deal damage.
-
-## Helping Hand
-
-**Cost:** 1
-
-**Effects:** Whenever you use the Grapple action on an ally, regain 1 AP. You have advantage on all skill checks made as part of the Break Grapple action.
-
 ## Imbued
 
 **Cost:** 2
@@ -130,13 +93,7 @@
 
 **Cost:** 1
 
-**Effects:** Decrease your critical hit threshold by 1.
-
-## Light
-
-**Cost:** 1
-
-**Effects:** You cast bright light in a 3 tile radius, and dim light in a 6 tile radius. You can use Interact to toggle this effect.
+**Effects:** Your critical hit threshold for all attacks made by you is decreased by 1. (As a reminder, your attack still must hit, regardless of whether or not it was above the critical hit threshold.)
 
 ## Long-Ranged
 
@@ -148,55 +105,21 @@
 
 **Cost:** 1
 
-**Effects:** At the end of each of your turns, deal 1d4 + Prowess damage of the specified type to each creature you are grappling.
-
-## Piercing
-
-**Cost:** 2
-
-**Effects:** Whenever you deal damage, 1 point of it ignores absorption.
-
-## Precise
-
-**Cost:** 2
-
-**Effects:** While you have the ambush boon, your critical hit threshold is reduced by 3.
-
-## Ranged
-
-**Cost:** 0
-
-**Effects:** Range 3, disadvantage on basic attacks while threatened.
+**Effects:** At the end of each of your turns, deal 1d4 + Prowess damage of the specified type to each creature you are grappling. If you take this affix multiple times, the damages increases following the table in Damage Increase
 
 ## Reach
 
 **Cost:** 2
 
-**Effects:** Increase zone of control by one tile.
+**Prerequisites:** Melee Weapon gear base
 
-## Slashing
+**Effects:**Increase your zone of control by one tile.
 
-**Cost:** 1
+## Shield
 
-**Effects:** Damage from your critical hits ignore absorption.
+**Cost:** 2
 
-## Smashing
-
-**Cost:** 1
-
-**Effects:** Attacks you make against objects are automatically critical hits.
-
-## Strong Grasp
-
-**Cost:** 1
-
-**Effects:** You have advantage on skill checks made to keep creatures grappled.
-
-## Thrown
-
-**Cost:** 1
-
-**Effects:** You may make basic attacks with these arms using the Thrown mode. When you do, they are a ranged attack with range 3.
+**Effects:** You have advantage on skill checks made to Block.
 
 ## Shoving
 
@@ -204,26 +127,22 @@
 
 **Effects:** You have advantage on Shove attacks.
 
+## Strong Grasp
+
+**Cost:** 1
+
+**Effects:** You have advantage on skill checks made to keep creatures grappled.
+
 ## Telemedicine
 
 **Cost:** 2
 
 **Effects:** You can use the Treat action on any creature within 6 tiles of you
 
-## Tripping
+## Thrown
 
-**Cost:** 2
+**Cost:** 1
 
-**Effects:** After you hit a creature with a melee basic attack, you may immediately make a Shove attack against them.
+**Prerequisites:** Melee weapon gear base
 
-## Pulling
-
-**Cost:** 2
-
-**Effects:** After you hit a creature with a single target attack, pull them one tile closer to you.
-
-## Pushing
-
-**Cost:** 2
-
-**Effects:** After you hit a creature with a single target attack, push them one tile away from you.
+**Effects:** You may make basic attacks with these arms using the Thrown mode. When you do, they are a ranged attack with range 3.
