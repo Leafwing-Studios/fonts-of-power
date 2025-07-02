@@ -48,6 +48,12 @@
 
 **Effects:** You have advantage on Concentration skill checks.
 
+## Surefooted
+
+**Cost:** 2
+
+**Effects:** Ignore the effects of difficult terrain.
+
 ## Clandestine
 
 **Cost:** 2

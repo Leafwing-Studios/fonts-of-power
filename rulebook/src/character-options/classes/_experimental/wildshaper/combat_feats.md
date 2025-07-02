@@ -4,10 +4,6 @@
 
 **Effects:** When you use the Recover action, shape tiles equal to essence gained.
 
-## Surefooted
-
-**Effects:** Ignore the effects of difficult terrain.
-
 ## Ecotone
 
 **Effects:** Choose another damage type. Your manifestations deal hybrid damage and you gain resistance to that damage type.
