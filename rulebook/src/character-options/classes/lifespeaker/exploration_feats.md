@@ -27,7 +27,7 @@
 
 ## Loyal Companions
 
-**Effects:** Your creatures can speak any language that you speak, are more intelligent and, are able to act with autonomy. Each creature has a personality and memory of its own.
+**Effects:** Your creatures can speak any language that you speak, are more intelligent, and are able to act with autonomy. Each creature has a personality and memory of its own.
 
 ## Relentless Rats
 

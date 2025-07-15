@@ -38,7 +38,7 @@ When they use the Essence Tap, Recover or Activate actions, you gain the benefit
 
 Each creature that you summon has a specific form, with it's own statistics and attributes.
 Creatures share your skill proficiencies, but do not share feats, class features, species features, etc.
-The number of creatureforms that you have access to increases as you level up, as shown in your class table.
+The number of creature forms that you have access to increases as you level up, as shown in your class table.
 
 The flavor of this class is deliberately flexible: your character may be a master of the elements commanding elementals of water, a necromancer bringing back spirits and skeletons, a mad biologist with chimeric creations, or a technomancer who builds strange turrets and clockwork machines on the fly.
 While the forms listed here are all elementals, when you select forms, feel free to reflavor them completely to match your desired aesthetics.
