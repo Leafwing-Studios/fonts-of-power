@@ -14,7 +14,7 @@ Also consider current narrative arc, quests and goals players have.
 ## Arena design
 
 1. Define the fight. For each danger level, choose one of the following arena options. You can select the same option more than once:
-   1. **Overpowered:** Increase the proficiency bonus of the monsters by 1.
+   1. **Overpowered:** Increase the tier of the monsters by 1.
       1. This also effects their affixes, powers, and attributes as described below.
    2. **Uneven Odds:**Add another turn worth of monsters for every four players, rounded down.
       1. Action economy is extremely powerful: if you have fewer than four players, select this multiple times to achieve the desired effect.
@@ -102,7 +102,7 @@ If the worldspeaker is playing to win, the party should expect to be defeated ab
 While a defeat does not and should not always mean a full party wipe, this level of intensity can be too high for many parties.
 Work with your table to find a level of difficulty that matches what they're looking for!
 In some campaigns, a "realistic" approach to combat encounter difficulty can be great for immersion and encourage problem solving:
-sure that eldritch god would kill your level 1 party immediately, I hope you have a better plan that to hit it.
+sure, that eldritch god *would* kill your level 1 party immediately. I hope you have a better plan than to just walk up and hit it.
 
 While you generally want to be within a point or two of the party for both tier and number of turns,
 reducing tier while increasing the number of turns (or vice versa) can make for a memorable combat experience once in a while.

@@ -183,29 +183,21 @@ Restore 1 essence for every 10 points of the skill check result.
 
 ### Scan (1 AP)
 
-Choose a creature or vantage within range 6.
-Make an Expertise skill check, with the skill selected from Anima, Arcana, Fontcraft, Humanities or Tinkering, based on the creature or vantage selected.
+Choose a creature within range 6.
+Make an Expertise skill check, with the skill selected from Anima, Arcana, Fontcraft, Humanities or Tinkering, based on the creature selected.
 
-You have advantage on this skill check if your target is within range 2.
-Learn one of the facts from the appropriate list and one additional fact for every 10 points of your skill check results.
+You have advantage on this skill check if you hit the creature since the end of your last turn, or if it hit you since the end of its last turn.
+Learn one fact from the following list, and one additional fact for every 10 points of your skill check result.
 
-Creatures:
-
-- Attributes, basic defense, special defenses, proficiency bonus and turns per round
-- Any damage type resistances, vulnerabilities or immunities
-- Current life, current essence and the number of stacks of exhaustion
-- Arms affixes
-- Armor affixes
+- Attributes, basic defense, special defenses, proficiency bonus, and turns per round
+- Current life, current essence
+- Arms gear base and affixes
+- Armor gear base and affixes
 - Skills that they are proficient in
+- Features
 - The details of a single power of your choice
+- The details of the monster's spell card, if it has one. (If it does not have one, you may ask another question instead.)
 - Tactics and motivation
-
-Vantages:
-
-- What does this vantage do when triggered?
-- How is this vantage triggered?
-- How is this vantage disabled?
-If the vantage has life, learn its current life total as well as any resistances, immunities or vulnerabilities it has.
 
 ### Spot (1 AP)
 

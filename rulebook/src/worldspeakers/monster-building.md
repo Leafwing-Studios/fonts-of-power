@@ -24,9 +24,10 @@ However monsters do not have:
 
 1. Exhaustion
 2. Access to the Essence Tap feature
-3. Death's door(?)
+3. Death's door
 4. Exploration-focused powers or features
 5. Ideals
+6. Trinkets
 
 ## Scaling monsters
 
@@ -38,8 +39,9 @@ Each monster can scale in two ways:
 Scaling turns per round increases:
 
 1. The number of turns taken in each round
-2. Max life (?)
-3. The number of powers known (2 + 1/2 turns per round)
+2. Max life (multiply by number of turns)
+3. Max essence (multiply by number of turns)
+4. The number of powers known (1 + 1/2 turns per round, rounded down)
 
 It may also unlock a spell card!
 
@@ -48,12 +50,12 @@ Scaling tier is somewhat more complex, increasing:
 1. Attributes (5 + tier)
 2. Proficiency bonus (tier)
 3. Number of features (tier)
-4. Gear point total on arms and armor (2 * tier)
+4. Gear point total on arms and armor (8 + 2 * tier)
 
 ## Spell Cards
 
 Spell cards are powerful, once-per-fight effects.
-Each monster has an associated spell-card: it unlocks only if the number of turns per round is greater than half the number of players.
+Each monster has an associated spell-card: it unlocks only if the number of turns per round is strictly greater than half the number of players (as always, round up).
 
 ## Monstrous Features
 
@@ -68,3 +70,20 @@ When a negative feature is taken, the monster may take an additional feature to 
 ## Monstrous Powers
 
 These work just like players.
+
+## Notes for the monster manual and hacking guide
+
+- We are going to make the monster manual. By default, making custom monsters is handled by the hacking guide
+- Allow worldpspeakers to reflavor monsters as they see fit:
+	- Change look and feel
+	- Change any non-physical damage type for another one 
+	- Swap any ailment for another
+	- Swap any affliction for another
+	- Swap skill proficiencies
+	- Change special defenses that their powers target (if applicable)
+	- Spell cards?
+	- Definitely do not let them swap powers or features (balance concerns)
+- In the hacking guide, mention that you shouldn't hard dump attributes without penalty
+	- If you make a monster without any essence spending, we recommend keeping its Focus between -1 and +1
+	- Same for Presence and Presence scaling effects (usually power damage)
+	- Same for Expertise and special attacks
