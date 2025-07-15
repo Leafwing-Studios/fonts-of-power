@@ -14,7 +14,7 @@ Also consider current narrative arc, quests and goals players have.
 ## Arena design
 
 1. Define the fight. For each danger level, choose one of the following arena options. You can select the same option more than once:
-   1. **Overpowered:** Increase the proficiency bonus of the monsters by 1.
+   1. **Overpowered:** Increase the tier of the monsters by 1.
       1. This also effects their affixes, powers, and attributes as described below.
    2. **Uneven Odds:**Add another turn worth of monsters for every four players, rounded down.
       1. Action economy is extremely powerful: if you have fewer than four players, select this multiple times to achieve the desired effect.
@@ -79,20 +79,30 @@ Also consider current narrative arc, quests and goals players have.
    8. Triggered events that change the fight over time.
       1. Design a clear trigger and clear effect.
 
-## Monster Building
+## Selecting monsters
 
-1. Select a total number of turns: should be within 1 of the players.
-   1. Divide these turns across the monsters in the combat.
-2. Set life totals: 25 * turns per round.
-3. Set proficiency bonus to within 1 of the players.
-4. Set attributes: total should be 5 + 2 * proficiency bonus.
-   1. Total pool is increased
-5. Build or choose base arms and armor.
-   1. One set of arms, one set of armor.
-6. Choose affixes such that enchantment point total is equal to 2 * proficiency bonus.
-   1. These can be discovered by the players if they win!
-   2. Consider drawing from font's pool of affixes.
-   3. Some affixes are monster-only: they don't make sense or are broken on players and are excluded from the pool players can gain.
-7. Build or choose 3 powers. Can replace one power for an extra set of arms.
-   1. Same balance as player powers: 1 essence = 1 AP.
-   2. Try to avoid spending more than 3 essence per turn on average to limit burst.
+Select a group of monsters for the players to fight.
+For rules on how to make your own monsters, see [monster building](monster-building.md).
+
+Choose your monsters based on the narrative experience you want to create, freely reflavoring premade monsters to match your needs.
+Then, set the difficulty of the fight by selecting both the tier of each monster and the total number of turns of the enemy group.
+
+Groups of monsters scale in two ways:
+
+1. Tier: increased complexity and power
+2. Turns: improved action economy and base life
+
+The tier of the monsters should generally increase as the players level up: a tier equal to the players' proficiency bonus is considered fair.
+The number of turns that a monster has should generally increase as the party size: turns equal to the number of players is considered fair.
+
+Remember that powerful monsters can take more than one turn per round: this is a great way to handle leaders and boss monsters.
+
+Note that a "genuinely fair" fight is very hard by the standards of TTRPGs!
+If the worldspeaker is playing to win, the party should expect to be defeated about half of the time.
+While a defeat does not and should not always mean a full party wipe, this level of intensity can be too high for many parties.
+Work with your table to find a level of difficulty that matches what they're looking for!
+In some campaigns, a "realistic" approach to combat encounter difficulty can be great for immersion and encourage problem solving:
+sure, that eldritch god *would* kill your level 1 party immediately. I hope you have a better plan than to just walk up and hit it.
+
+While you generally want to be within a point or two of the party for both tier and number of turns,
+reducing tier while increasing the number of turns (or vice versa) can make for a memorable combat experience once in a while.
