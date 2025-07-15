@@ -36,6 +36,12 @@ The danger level of an area affects the following:
 - Players can only be resurrected at a font from the area of highest danger. In most cases, this is the physical center of the font.
 - The difficulty of combat encounters and the amount of treasure found scales with the danger level, as described in the [_Worldspeaker's Guide to Fonts of Power_](http://worldspeakers.fontsofpower.com/#/)
 
+## Attune
+
+Forge a connection with pieces of magical gear, allowing you to tap into their magic.
+When you attune, you can swap out the arms, armor, and trinkets you have equipped.
+As always, you can only have two sets of arms, one set of armor, and 3 trinkets equipped at once, and the gear point total of your armor and most expensive set of arms must be less than or equal to 8 + 2 times your proficiency bonus.
+
 ## Bond
 
 Grow closer to another party member, improving your cooperation.
@@ -74,94 +80,57 @@ Make an Expertise (Tinkering) skill check. For every 5 points of the skill check
 The plausibility of these checks is increased by 1.
 
 Like usual, if you roll a 1 on the supplies die, deplete it once.
+However, you can continue rolling for the same item.
 
 ## Disenchant
 
 Scrap an enchanted item completely, turning it back into its raw ingredients.
 
-Choose an enchanted set of arms or armor, and make an Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
-Choose one of its affixes, and gain that ingredient.
-It is associated with the skill used for this check.
-Gain one essence crystal for each remaining enchantment point of the item, up to a maximum of one essence crystal for every 5 points of your skill check result.
+Choose an enchanted set of arms or armor, and make a skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering. For every 5 points of your skill check result, you may disenchant one set of arms or armor, destroying it an gaining 1 essence crystal per gear point above the base gear point cost of the gear.
+
 
 ## Devise
 
-Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with or a clever trap.
+Create a small batch of consumable magic items for your party to use out of whatever you might have on hand, powered by their user’s own essence. These might be healing potions, a poison to coat your weapon with, or a clever trap.
 
-Design a consumable by selecting one base effect and up to one modifier.
-You must know the recipes in some way, choosing to either:
+Design a consumable by selecting one base effect that you know and up to one modifier that you know.
+Then, make a skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering.
+You create a number of copies of the consumable you designed equal to your skill check result divided by 5, rounded down.
 
-- Use a recipe you already know.
-  - Recipes are sometimes found as treasure, or as rewards from helping others.
-  - You can learn new recipes as part of the Invent downtime activity.
-  - Allies can share their recipes with you by using the Support downtime activity.
-- Reverse-engineer a new recipe.
-  - Sacrifice one existing consumable to use either its base effect or modifier in the consumable you are creating.
+You may **recycle** existing consumables in this process.
+Gain 1 additional copy of the consumable devised for every consumable recycled in this way.
+Additionally, you may spend any number of essence crystals after seeing the result of the devise skill check.
+Gain 1 additional copy of the consumable for every essence crystal consumed in this way.
 
-Make a Expertise (Anima), Expertise (Fontcraft) or Expertise (Tinkering) skill check.
-Some modifiers are skill exclusive: you must use the corresponding skill when using these recipes.
-Create one copy of the consumable for every 5 points of your skill check result.
-Sacrifice one essence crystal for each consumable created.
-
-After you create a consumable, learn all recipes used in it.
 
 ## Enchant
 
 Enchant an item, adding an affix to it.
 
-Choose a set of arms or armor, and then choose one of the following options to determine which affix is added:
+Choose a set of arms or armor, and then choose one affix that you know to apply to that piece of gear. Make a difficulty 15 skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering. After seeing the roll, you may choose to spend any number of essence crystals. If you do so, increase the value of your roll by 1 for each crystal spent in this way.
 
-- Use an ingredient that you have scavenged from a monster to add this affix to that item.
-  - After each victorious combat encounter, each party member draws three affixes used by the monsters, and chooses one to keep as an ingredient.
-  - The skill used is determined by the type of monster it was from.
-- Use an ingredient harvested from the current Font (including those found using the Harvest downtime activity)
-  - The skill is the same that was used for the Harvest downtime activity
-- Use a reusable ingredient from another source. This might be a book from the library, the assistance of a craftsman in town, a scroll found in a chest, etc.
-  - The skill used is given by the ingredient.
-  - These ingredients are not consumed, although the owner may want it back!
-
-Consume the ingredient, then determine your success or failure at this crafting:
-
-- Make an Expertise skill check using the appropriate crafting skill (one of Anima, Arcana, Fontcraft or Tinkering).
-- Add 5 times the current danger level of the area you are resting in to the result.
-- The difficulty of adding an affix is equal to 15 + (5 \* the gear points of that affix).
-
-You have disadvantage on this skill check if you used a skill other than the one associated with the ingredient used.
-The item that you create becomes associated with the skill you used to enchant: when it is disenchanted you will receive an ingredient of that type.
-
-If you succeeded, you may choose to remove any number of existing affixes from that gear, then add your new affix!
-
-If you failed by 10 or less, you may sacrifice essence crystals equal to the difference between your roll and the difficulty to complete the process.
-
-If you failed by more than 10, your downtime activity is wasted and you lose the ingredient.
+If you succeeded, you may choose to remove any number of existing affixes from that gear, then add your new affix.
 
 ## Harvest
 
 Gather resources from the environment around you.
 
-For example, you might hunt for glowing mushrooms with Anima, tap into the font’s power directly using Arcana or Fontcraft, or salvage scraps of machinery using Tinkering.
+For example, you might process part of a dead monster using Anima, collect strange minor magical items using Arcana, tap into the font’s power directly using Fontcraft, or salvage scraps of machinery using Tinkering. You may only use the Harvest downtime activity if the current danger level is 1 or greater.
 
-1. Choose one of Anima, Arcana, Fontcraft or Tinkering.
-2. Make a Focus skill check with the chosen skill, adding a bonus of 5 times the danger level of the area you are resting in.
-3. Then draw one random ingredient from the font or town's collection of affix ingredients for every 5 points of the skill check result.
-4. Finally, either choose one to keep or gain 1 essence crystal for every 5 points of your skill check result.
-The ingredient gained is associated with the skill you used for this skill check.
+Make a Focus skill check with the appropriate skill, adding a bonus of 5 times the danger level of the area you are resting in. Gain 1 essence crystal for every 5 points of the skill check result.
 
 ## Invent
 
-Tinkering with magic, you attempt to create new and wonderful magical contraptions.
+Expriment with magical reagents, or commune with the font for guidance, or tinker with odd artifacts to learn new and fantastic ways to enhance your gear.
 
-Make an Expertise skill check with the Anima, Arcana, Fontcraft or Tinkering skill.
-Choose one of the following recipe decks to draw from:
+Choose an affix pool to draw from (either the font's affix pool or the universal learnable affix pool), or a consumable pool.
+Then, make a skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering.
 
-- universal recipes
-- font-specific recipes associated with the font of power you are currently in
-- skill-specific recipes
+Draw a number of affixes (or consumable recipes) from the chosen pool equal to **2 + your skill check result divided by 5.**
+Then, choose a number of affixes (or consumable recipes) to learn equal to **your skill check result divided by 10**, and add them to the party's known affixes (or consumable recipes).
+As always, round up.
 
-You can look through the universal and skill-specific recipe decks before deciding, but the font-specific deck is secret.
-
-Draw one consumable recipe (which may be a base effect or modifier) at random for every 5 points of your skill check results and choose which one to keep.
-Shuffle any recipes you did not choose back into the deck.
+Shuffle any that you did not choose back into the deck.
 
 ## Prepare
 
@@ -276,14 +245,24 @@ Then, all allies roll at the same time, tallying up successes and failures appro
 When you return from the dead, you immediately suffer exhaustion equal to your previous transcendence.
 Like usual, gaining this exhaustion can kill you. Any skill checks made to resurrect you after you have died due to the exhaustion of being brought back from the dead are made with disadvantage.
 
-## Shape
+## Study
 
-Attempt to shape the world around you, preparing an arena for combat.
-Make an Expertise skill check using Anima, Arcana, Fontcraft or Tinkering.
+Learn specific new affixes or consumable recipes by carefully studying prior art.
+To complete this downtime activity, you must have a **source of knowledge** to learn affixes (or consumable recipes) from.
+This could include:
+- A book on enchantment, which has a list of affixes that it details
+- A tooth of a slain monster, from which you can learn any of the monster's affixes
+- Time spent with an instructor, who can teach you any affix that they are familiar with
+- An existing piece of enchanted gear, from which you can learn any affix that is present on it
 
-For every 2 points of your skill check result, you may add or remove one standard vantage corresponding to the skill that you used to the arena you are currently resting at.
+Each source of knowledge has a specific list of affixes (or consumable recipes) associated with it.
+As referenced above, for gear and monster parts, the list is just the affixes that the piece of gear or monster has (or had).
+The affix/recipe list for books, teachers, and others are determined by the worldspeaker. (Details on how to select these lists is present in the *Worldspeaker's Guide*.)
+The affix/recipe list for a given source of knowledge is readily apparent to any who interact with it.
 
-Fontcraft and Anima does not have a standard list of vantages; instead use the ones listed by the font you are currently in.
+Make a difficulty 15 skill check using Expertise and one of Anima, Arcana, Fontcraft, or Tinkering.
+If you succeed, learn choose one affix (or consumable recipe) to learn from the source of knowledge's affix list, and add that known affix to the party's known affixes.
+Regardless of whether you succeed or fail, the source of knowledge is not consumed.
 
 ## Support
 

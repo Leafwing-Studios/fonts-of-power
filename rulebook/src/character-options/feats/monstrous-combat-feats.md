@@ -6,7 +6,7 @@
 
 ## Sensory Enhancement
 
-**Effects:** You have advantage on skill checks made as part of the Spot and Scan actions.
+**Effects:** While in combat, you have advantage on skill checks made as part of the Spot and Scan actions.
 
 ## Trample
 
@@ -18,7 +18,7 @@
 
 ## Camouflage
 
-**Effects:** If you have not taken a movement action since the start of your last turn, you have advantage on Stealth skill checks and your current tile is considered a hiding spot. When you take this feat, sacrifice an exploration feat.
+**Effects:** If you have not taken a movement action since the start of your last turn, you have advantage on Stealth skill checks and your current tile is considered a hiding spot. When you take this feat, sacrifice an exploration feat. Outside of combat, you can hide in plain sight, as long as you do not move.
 
 ## Hopping
 
@@ -46,7 +46,7 @@
 
 ## Toxic
 
-**Effects:** Whenever you're hit by a melee attack or at the end of each of your turns while you are grappled, apply one stack of the specified ailment to the creature that hit you.
+**Effects:** When you gain this feat, choose an ailment. Whenever you're hit by a melee attack or at the end of each of your turns while you are grappled, apply one stack of the specified ailment to the creature that hit you.
 
 ## Dangerous
 
@@ -66,12 +66,6 @@
 
 **Effects:** Prowess attacks made against you have disadvantage.
 
-## Digger
-
-**Effects:** 1 AP: reduce the height tier of an adjacent tile by 1, remove a wall or convert an adjacent edge from abrupt to gradual (if height delta <= 1). Whenever you rest, you may gain the benefit of the Shape downtime activity. Roll Prowess(Endurance) instead, and you may only remove walls or blocks (or convert abrupt to gradual edges) as part of this activity.
-
-When you take this feat, sacrifice an exploration feat.
-
 ## Surefooted
 
 **Effects:** Ignore the effects of difficult terrain.
@@ -86,10 +80,10 @@ When you take this feat, sacrifice an exploration feat.
 
 ## Rolling
 
-**Effects:** While prone, the effects of forced movement against you is doubled. Gradual slopes have a triggered tile effect for you, pushing you one tile downhill. When you use the Stand Up action, gain 2 tiles of movement rather than 1.
+**Effects:** While prone, the effects of forced movement against you is doubled. Gradual slopes have a triggered tile effect for you, pushing you one tile downhill at the start of each of your turns. When you use the Stand Up action, gain 2 tiles of movement rather than 1.
 
 ## Floating
 
 **Effects:** You are always affected by the effects of the aloft ailment. You are immune to the rooted ailment and Grapple attacks made against you have disadvantage.
 
-When you choose this feat, also give up your exploration feat for this level.
+When you choose this feat, sacrifice an exploration feat.

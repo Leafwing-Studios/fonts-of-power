@@ -1,38 +1,34 @@
 # FONT NAME
 
-| Description          |     |
-| Elements             |     |
-| Font Facing          |     |
-| Contrasting Themes   |     |
-| Source of Magic      |     |
-| Original Environment |     |
-| Monstrous Ecology    |     |
-| Faction Influences   |     |
+Summary, in a nutshell.
+Keep it to a sentence or two.
 
-Each font needs:
+|                      |       |
+| :------------------: | :---: |
+|       Elements       |       |
+|     Font Facing      |       |
+|  Contrasting Themes  |       |
+| Original Environment |       |
+|   Source of Magic    |       |
+|  Monstrous Ecology   |       |
+|  Exploration Quirks  |       |
+|  Faction Influences  |       |
 
-- one **quirk**, which alters the rules of exploration
-- 10 Anima vantages and 10 Fontcraft vantages
-- 10 Fontcraft vantages, which use strange magical effects or unusual terrain to create tactical interest
-  - these are used to add tactical interest to your arenas
-  - these can be added to existing arenas by players with the Shape downtime activity
-  - Anima vantages use wild plants, animals and other life-forms, while Fontcraft uses strange magical effects or unusual terrain
-- 40 arms affixes and 40 armor affixes
-  - 10 of each of these should be particularly flavorful, and designed to match the font's character
-  - these are used for ingredients in the Harvest downtime activity, and are good seeds to inspire the monsters that you create.
+## Detailed description
 
-## Vantages
-
-Design or pick Anima and Fontcraft vantages. 10 of each.
+Write a detailed description.
+Something that could be read to players when the first enter
 
 ## Quirks
 
-Design or pick one exploration-focused quirk.
+Design or pick zero or more exploration-focused quirks.
+These affect the non-combat play within the font.
+For example:
+- Harsh terrain which making travel slower
+- Additional downtime activities to speak with the font or harvest specific materials
+- Deep darkness at night that forces people to stay put near a light source or get lost forever
+- Advantage or disadvantage on certain skills
 
 ## Affixes
 
-Design or pick unique arms and armor affixes. 10 each.
-
-Pick standard arms and armor affixes. 30 each.
-
-These are used for ingredients in the Harvest downtime activity, and are good seeds to inspire the monsters that you create.
+TODO

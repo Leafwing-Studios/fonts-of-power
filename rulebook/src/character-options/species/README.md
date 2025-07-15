@@ -12,5 +12,4 @@ This is the root page for all the Species.
 * [Human](character-options/species/human.md)
 * [Reclaimer](character-options/species/reclaimer.md)
 * [Slime](character-options/species/slime.md)
-* [Sylvan](character-options/species/sylvan.md)
 * [Undead](character-options/species/undead.md)

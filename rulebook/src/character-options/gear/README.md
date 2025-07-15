@@ -14,7 +14,7 @@ In *Fonts of Power*, there are three different types of combat-relevant items ch
   - Each character can only equip one set of armor at once: "armor" is an entire outfit designed to function as a whole, not merely a breastplate or fancy hat.
   - You cannot change which arms or armor you have equipped in combat: changing them out is complicated work!
 - **Consumables:** Powerful, one-off magical items like potions and scrolls that are consumed on use.
-  - Once per combat, you can use the Interact action to use these. Using them more frequently risks exhaustion due to essence overload.
+  - Once per combat, you can use the Activate action to use these. Using them more frequently risks exhaustion due to essence overload.
   - Player characters can create more using the Devise downtime activity.
   - As described in the Devise downtime activity, when you create more consumables, select a base effect and, optionally, a modifier from the recipes that you know.
 
@@ -25,28 +25,55 @@ When you make your first level 0 character, select two sets of arms and one set 
 The world of *Fonts of Power* is brimming with strange and dangerous magic.
 By enchanting their gear, adventurers can capture this magic in their equipment and prepare themselves to venture even deeper next time.
 
-To make your own gear, you need to understand the basics of affixes:
+Gear is made by taking a **gear base** and applying **affixes** to it.
 
-- each affix is either an arms or armor affix
-- each affix has a gear point cost; all of these are summed together to create the **gear point total** of an item
+- A gear base is an unmodified item, such as "melee weapon" or "spellcasting focus", which provides base stats and has a **base gear point cost**
+- Each affix is either an arms or armor affix, and has a specific effect that is added to the gear
+- Affixes must be learned before you can apply them to your gear. All characters will know some affixes at the start of the game, but some must be discovered or found through adventuring. Once one party member learns an affix, everyone in the party knows it. (Note that affixes do not need to be learned to be used, just to be applied.)
+- Gear bases are very generic, and do not do much on their own
+- Each affix has a gear point cost; all of these are summed together (along with the base gear point cost) to create the **gear point total** of an item
 
 While finding or making your own enchanted equipment is essential to further success, magic can be overwhelming and dangerous for the unprepared.
-When choosing a **loadout**, the **gear point total of your equipped arms and armor must be less than or equal to 6 + 2 times your proficiency bonus**.
+When equipping gear, the **gear point total of your equipped arms and armor must be less than or equal to 8 + 2 times your proficiency bonus**.
 
 If you have multiple sets of arms equipped, use the highest gear point total of those sets.
 As a result, you'll generally want to ensure that the gear point total of each set of arms you use is the same.
 
 Modifying gear is done using downtime activities:
 
-- **Harvest:** Gather an ingredient or essence crystals from the area around you. Each ingredient allows you to create a single, specific affix.
-- **Enchant:** Spend an ingredient to add its affix to your gear. You can spend essence crystals to make this process easier.
-- **Disenchant:** Salvage a piece of gear to recover an ingredient and some essence crystals.
+- **Enchant:** Add an affix that you know to your gear. You can spend essence crystals to make this process easier.
+- **Disenchant:** Salvage a piece of gear to recover some essence crystals.
+- **Study:** Learn new affixes by studing a source of knowledge that you have found, be it a trinket of a defeated monster or some time with a skilled artisan.
+- **Invent:** Learn new affixes by experimentation, drawing affixes from a deck.
+
+In the following sections, you will find lists of base gear and affixes, and which affixes are known by default.
+(TODO: Actually write this in the rulebook. Armor will only have a single base gear available. Arms will have a few bases for martial weapon, spellcasting focus, and ranged (or similar))
+
+### Affix pools
+
+Learnable affixes come in a variety of **pools.**
+The two main pool types are the universal learnable pool, which can be learned by anyone at any time, and font-specific pools, which can only be learned by going to the appropriate font (or by finding a source of knowledge that can teach the affix).
+
+There is an additional affix pool, the **unique affix pool.**
+Unique affixes can only be learned at the worldspeaker's discretion, with whatever requirements they desire.
+These are used to allow the creation of special key items and quest rewards.
+As such, unique affixes have significant restrictions placed on them.
+Namely, unique affixes do not provide any general purpose combat benefit and **the unique affix pool contains no affixes by default.**
+More details on the unique affix pool can be found in *The Worldspeaker's Guide.*
+
+### Creating consumables
+
+As with affixes, creating consumables is done using downtime activities, using consumable **recipes** that you know.
+Many consumable recipes are known at the start of the game, but some must be learned later on.
+Learning consumable recipes works the same way as learning new affixes, using the Study and Invent downtime activities.
+
+Consumables do not have font-specific pools like affixes, so the only pools are the universal learnable pool (which contains both consumable effects and consumable modifiers) and the unique pool (which contains no recipes by default).
 
 ## Trinkets
 
 Trinkets are non-combat magical items, that can have various effects.
-Like arms and armor, trinkets have a gear point cost.
-You can have at most **3 + your proficiency bonus** points of trinkets equipped at once.
-Trickets can be swapped whenever you rest.
+Unlike arms and armor, trinkets do not have a gear point cost.
+You can have at most **3 trinkets equipped at once.**
+Trickets can be swapped whenever you rest, as part of the Attune downtime activity.
 Additionally, if you find a trinket in the wild, you may immediatley swap it for one you have currently equipped.
-Trinkets can be used in combat using the Use Trinket action, although most of them will have little practical effect in the middle of a fight.
+If desired, trinkets can be used in combat using the Activate action, although most of them will have little to no practical effect in the middle of a fight.

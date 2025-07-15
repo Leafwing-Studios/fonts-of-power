@@ -14,10 +14,6 @@
 
 **Effects:** You may freely change your color and shaper, pretending to be another creature of the same size as you; fooling the observer if you win an Agility (Trickery) skill check opposed by their Focus (Perception) skill. This illusion immediately fails if they touch or taste you.
 
-## Ambusher
-
-**Effects:** You have advantage on all Trickery, Stealth and Fontcraft skill checks made to prepare an ambush. You have advantage on Anima and Fontcraft skill checks made during the Shape downtime activity.
-
 ## Structural Integrity
 
 **Effects:** Others may use you as a bridge, ladder or other structural support. Whenever you pass a Prowess (Athletics) or Agility (Athletics) skill check to traverse an obstacle, other members of your party may climb over you, automatically passing any required skill check.
@@ -37,7 +33,3 @@
 **Prerequisites:** Sticky subspecies
 
 **Effects:** At the start of each rest, if your size is 1 or greater, you may gain the benefits of the Resupply downtime activity with disadvantage. If you do, become one tile smaller. If you don't, become one tile larger.
-
-## Pneumatics
-
-**Effects:** When you select the Shape downtime activity with the Arcana or Tinkering skill, you can choose to create pneumatic tubes as a vantage.

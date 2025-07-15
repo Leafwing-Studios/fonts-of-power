@@ -4,7 +4,7 @@
 
 **Prerequisites:** Hewn subspecies
 
-**Effects:** Whenever you roll a 5 or less on the Craft, Devise, Enchant or Shape downtime activities, you may reroll the skill check made. You must use the new results.
+**Effects:** Whenever you roll a 5 or less on a skill check made as part of a downtime activity, you may reroll the skill check made. You must use the new results.
 
 ## Enthusiastic
 

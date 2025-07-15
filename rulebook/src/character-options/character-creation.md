@@ -47,7 +47,7 @@ Add these to your character sheet and that's all the choices you need to make!
 
 Finally, finish your basic character sheet by computing your **vital statistics:**
 
-- **Proficiency bonus:** +1 at level 1
+- **Proficiency bonus:** +1 at level 0
 - Determine your defenses:
   - **Basic defense:** 10 + Agility + any relevant armor affixes
   - **Special defenses:** 10 + proficiency bonus + the corresponding attribute

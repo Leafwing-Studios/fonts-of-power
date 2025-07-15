@@ -214,7 +214,7 @@ Apply 2 stack of cursed on hit.
 
 #### Consecrate: Innovation
 
-Creatures resting here have advantage on all Devise, Disenchant, Invent, Craft and Shape downtime activities.
+Creatures resting here have advantage on all Devise, Disenchant, Enchant, Invent, Craft and Study downtime activities.
 
 #### Apotheosis: Avatar of Change
 

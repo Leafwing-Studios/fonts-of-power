@@ -12,25 +12,13 @@
 
 **Effects:** Whenever you complete a rest, you may choose not to remove a stack of exhaustion as normal. If you do, you may complete an additional downtime activity.
 
-## Cunning Preparation
-
-**Effects:** You may create traps using your concoctions when you use the Shape downtime activity by spending an appropriate consumable.
-
 ## Profitable Ventures
 
-**Effects:** You gain access to the Transmute downtime activity. When you use it, make an Expertise (Anima/Fontcraft/Tinkering) skill check. You may sacrifice up to skill check result / 5 consumables. Gain 3 times that many essence crystals.
-
-## Recycling
-
-**Effects:** When you use the Devise downtime activity, you may sacrifice any number of additional consumables. Create one new consumable (of the same type selected) for each consumable sacrificed in this way.
+**Effects:** You gain access to the Transmute downtime activity. When you use it, make an Expertise (Anima/Arcana/Fontcraft/Tinkering) skill check. You may sacrifice up to skill check result / 5 consumables. Gain 3 times that many essence crystals.
 
 ## Eureka
 
 **Effects:** Whenever you use the Devise downtime activity, if your result was 15 or better, also gain the benefit of the Invent downtime activity.
-
-## Something From Nothing
-
-**Effects:** The Devise downtime activity no longer costs you essence crystals.
 
 ## Amalgamate
 

@@ -40,7 +40,7 @@ There are 15 skills in _Fonts of Power_, briefly described below. At level 1, ea
   - Used for the [Hide](../combat/acting-in-combat/minor-actions.md?id=hide) action to conceal your position in combat and commonly used in [Trickery Scenes](../scenes/trickery-scenes.md) when attempting to act without being noticed.
 - **[Tinkering](./skill-descriptions.md?id=tinkering):** The study of machinery and gizmos, whether they are magically enhanced or not.
   - Used in place of the Medicine skill for mechanical creatures like [automata](../../character-options/species/automaton.md).
-  - Used to create mundane and mechanical items in the Craft and Shape downtime activities.
+  - Used to create scientific and mechanical items in the Craft downtime activity.
   - One of the three [enchanting skills](../downtime-activities.md?id=enchanting-skill-checks) for adding enchantments to gear.
 - **[Trickery](./skill-descriptions.md?id=trickery):** The talent for shenanigans and underhanded behavior.
   - Used for pilfering goods, picking locks, creating elaborate distractions and more during [Trickery Scenes](../scenes/trickery-scenes.md)

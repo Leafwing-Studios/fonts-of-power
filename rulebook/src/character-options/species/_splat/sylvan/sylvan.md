@@ -39,7 +39,7 @@ Splendidly diverse, sylvan deliberately attempt to create novel forms and functi
 
 **Take Root:** At the end of each of your turns, if you did not take any movement actions, gain 4 absorption.
 
-**Bioengineering:** When you use the Craft or Shape downtime activities, you may choose to use Anima rather than Tinkering for your skill check. If you do, you do not deplete your supplies die when you roll a 1 during the Craft downtime activity, and may select vantages from either the Anima or Tinkering lists for the Shape downtime activity.
+**Bioengineering:** When you use the Craft downtime activities, you may choose to use Anima for your skill check. If you do, you do not deplete your supplies die when you roll a 1 during the Craft downtime activity.
 
 **Land’s Bounty:** So long as you have access to light for photosynthesis, and water from the soil beneath you, you don’t need to eat or drink.
 

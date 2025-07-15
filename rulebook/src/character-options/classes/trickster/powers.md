@@ -2,224 +2,75 @@
 
 ## Big Bang
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Offensive
 
-**Range:** 2
-
-**Type:** Prowess
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Knock prone and blunted.
+**Effects:** Make a Prowess attack against all targets in a one tile radius. If you hit, knock them prone and apply one stack of blunted.
 
 ## Cold Shower
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Offensive
 
-**Range:** 2
-
-**Type:** Agility
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** 2 stacks of chilled.
+**Effects:** Make a Dexterity attack against all targets in a one tile radius. If you hit, apply 2 stacks of chilled.
 
 ## Pure Chaos
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Offensive
 
-**Range:** 2
-
-**Type:** Presence
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** 2 stacks of crazed
+**Effects:** When this trick detonates, make a Presence attack against all targets in a one tile radius. If you hit, apply 2 stacks of crazed.
 
 ## Soothing Vapors
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Offensive
 
-**Range:** 2
-
-**Type:** Focus
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** 2 stacks of pacified.
+**Effects:** When this trick detonates, make a Presence attack against all targets in a one tile radius. If you hit, apply 2 stacks of pacified.
 
 ## Trick-or-Treat
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Offensive
 
-**Range:** 2
-
-**Type:** Expertise
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** 2 stacks of frightened, trick center as target of fear.
+**Effects:** When this trick detonates, make a Focus attack against all targets in a one tile radius. If you hit, apply 2 stacks of frightened. Treat the trick center as the target of the fear.
 
 ## Grease Trap
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Utility
 
-**Range:** 2
-
-**Type:** Agility
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Ground effect: whenever creatures use a movement action, make an special attack against Agility. If you hit, they are knocked prone. All forced movement other than teleportation is doubled.
+**Effects:** When this trick detonates, create a grease ground effect in a one tile radius. Whenever creatures use a movement action while in the grease ground effect, make an Agility attack against them. If you hit, they are knocked prone. All forced movement other than teleportation is doubled.
 
 ## Invisible Ink
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Defensive
-
-**Range:** 2
-
-**Type:** None
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Creatures become invisible until immediately after they use a non-movement action.
+**Effects:** When this trick detonates, creatures in a one tile radius become invisible until immediately after they use a non-movement action other than Hide.
 
 ## Now You Don't
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Utility
 
-**Range:** 2
+**Effects:** When this trick detonates, make an Expertise attack against every creature in a one tile radius. Like always, creatures can choose to be hit by this attack. Teleport each creatures hit into an empty tile of your choice within a two tile radius of their current position.
 
-**Type:** Expertise
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Teleport all creatures hit by same vector. Make them invisible until start of your next turn or they use a non-movement action.
+Creatures teleported by this effect become invisible until start of your next turn. After they use an action other than Hide, the invisibility breaks.
 
 ## Over Here
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Utility
-
-**Range:** 2
-
-**Type:** None
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Teleport to the destination of the trick.
+**Effects:** When this trick detonates, teleport to the location of this trick.
 
 ## Smelling Salts
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Defensive
-
-**Range:** 2
-
-**Type:** None
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Roll once for Treat action on all creatures.
+**Effects:** When this trick detonates, use the Treat action on all creatures within a one tile radius. Roll only once, and use the same skill check result for each creature within range.
 
 ## Smoke Bomb
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Utility
-
-**Range:** 2
-
-**Type:** None
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Tiles become heavily shrouded.
+**Effects:** When this trick detonates, create a smoke tile effect in a one tile radius. These tiles are heavily shrouded.
 
 ## Spikestravaganza
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Utility
-
-**Range:** 2
-
-**Type:** None
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** 2 stacks of bleeding per tile they walk through. Can treat as difficult terrain, taking only 1 stack per tile.
+**Effects:** When this trick detonates, create a caltrops ground effect in a one tile radius. Whenever creatures move through this effect, they take 2 stacks of bleeding per tile they move through. Creatures may instead choose to treat this ground effect as difficult terrain, and avoid any stacks of bleeding.
 
 ## Superior Glue
 
-**AP:** 1
-
-**Essence:** 0
-
 **Category:** Utility
 
-**Range:** 2
-
-**Type:** Prowess
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Tile effect: if you hit, apply one stack of rooted.
-
-## Pyrotechnics
-
-**AP:** 1
-
-**Essence:** 0
-
-**Category:** Utility
-
-**Range:** 2
-
-**Type:** None
-
-**Target:** Multi, 2 tile radius
-
-**Effects:** Tile effect: 3 + 1/2 Presence stacks of aflame.
+**Effects:** When this trick detonates, create a glue ground effect in a one tile radius. When this tile affect is triggered, make a Prowess attack against the triggering creature. If you hit, apply one stack of rooted to them.

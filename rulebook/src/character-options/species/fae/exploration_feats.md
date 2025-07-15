@@ -1,9 +1,5 @@
 # Exploration Feats - Fae
 
-## Fierce Defender
-
-**Effects:** Whenever you complete a rest, if your last rest was in the same location, you may gain the benefits of the Shape downtime activity for free.
-
 ## Prankster
 
 **Effects:** Whenever you would cause another creature's loyalty towards your party to decrease, roll a d20. On a result of 11 or higher, prevent that loyalty loss.
