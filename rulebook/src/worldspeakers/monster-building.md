@@ -83,16 +83,21 @@ These work just like players.
 	- Change special defenses that their powers target (if applicable)
 	- Spell cards?
 	- Definitely do not let them swap powers or features (balance concerns)
+- The monster manual should give an explicit order in which powers and features are gained. Maybe let the WS reorder these? (If it becomes inconvenient for us to design around this, then remove this ability.)
 
 ## Notes for the hacking guide regarding monsters
 
 - Mention that you shouldn't hard dump attributes without penalty
-	- If you make a monster without any essence spending, we recommend keeping its Focus between -1 and +1
+	- If you make a monster without any special attacks, we recommend keeping its Expertise between -1 and +1
 	- Same for Presence and Presence scaling effects (usually power damage)
-	- Same for Expertise and special attacks
 - Note the weird quirk with monster features:
 	- Features scale precisely with tier, which is meant to match the players' proficiency bonus
 	- This results in mosters getting slightly more features than player have feats, and getting them slightly earlier (on certain levels)
 	- This tradeoff was done intentionally to avoid making the math really annoying
 	- But it means that a well optimized moster build will start to outscale players at high levels
 	- The monster manual monsters are intentionally slightly suboptimal to account for this, with the assumption that a high level player build will usually be pretty optimal
+- You are allowed to get pretty funky with monster powers.
+	- For example, passive effects can be 0AP, 1 essence, and the monster must use it on the beginning of its turn if able.
+	- You're allowed to have powers that work like reactions, instead of normal actions, with whatever trigger makes sense.
+- Note that the difference between powers and features is that powers always cost at least 1 essence to use. However, features are allowed to introduce essence costs. Use your judgement.
+- Monsters should have fairly low complexity budgets. Most of them will only be around for a few turns!
