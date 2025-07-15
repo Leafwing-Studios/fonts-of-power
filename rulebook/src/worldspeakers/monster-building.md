@@ -71,7 +71,7 @@ When a negative feature is taken, the monster may take an additional feature to 
 
 These work just like players.
 
-## Notes for the monster manual and hacking guide
+## Notes for the monster manual 
 
 - We are going to make the monster manual. By default, making custom monsters is handled by the hacking guide
 - Allow worldpspeakers to reflavor monsters as they see fit:
@@ -83,7 +83,16 @@ These work just like players.
 	- Change special defenses that their powers target (if applicable)
 	- Spell cards?
 	- Definitely do not let them swap powers or features (balance concerns)
-- In the hacking guide, mention that you shouldn't hard dump attributes without penalty
+
+## Notes for the hacking guide regarding monsters
+
+- Mention that you shouldn't hard dump attributes without penalty
 	- If you make a monster without any essence spending, we recommend keeping its Focus between -1 and +1
 	- Same for Presence and Presence scaling effects (usually power damage)
 	- Same for Expertise and special attacks
+- Note the weird quirk with monster features:
+	- Features scale precisely with tier, which is meant to match the players' proficiency bonus
+	- This results in mosters getting slightly more features than player have feats, and getting them slightly earlier (on certain levels)
+	- This tradeoff was done intentionally to avoid making the math really annoying
+	- But it means that a well optimized moster build will start to outscale players at high levels
+	- The monster manual monsters are intentionally slightly suboptimal to account for this, with the assumption that a high level player build will usually be pretty optimal
