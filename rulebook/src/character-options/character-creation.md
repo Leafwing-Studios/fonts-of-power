@@ -54,7 +54,7 @@ Finally, finish your basic character sheet by computing your **vital statistics:
 - **Basic attack bonus:** proficiency bonus + Agility
 - **Special attack bonus:** proficiency bonus + Expertise
 - **Maximum life:** 20 + 2 * Prowess
-- **Maximum essence:** 20 + 2 * Focus
+- **Maximum essence:** 12 + 2 * Focus
 
 You're now ready to explore the world of *Fonts of Power*.
 

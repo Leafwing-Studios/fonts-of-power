@@ -38,7 +38,7 @@ As your character trains and practices, they become more adept with essence, abl
 
 Essence is spent to power your class features, allowing you to cast spells or perform remarkable feats.
 
-Each player character and monster has 20 + Focus essence, which can be restored by resting or using the Essence Tap action.
+Each player character and monster has 12 + 2 * Focus essence, which can be restored by resting or using the Essence Tap action.
 
 Magic is your very life force: you can always draw on more of it, but overusing your powers will leave you drained beyond saving or accidentally kill you.
 

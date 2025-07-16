@@ -131,7 +131,7 @@ Gain 3 stacks of exhaustion, reduced by 1 for every 10 points of your skill chec
 
 ### Essence Tap (1 AP)
 
-Regain half your life and essence, rounded up.
+Regain half your life and all your essence, rounded up.
 
 Then, make a Focus (Endurance) skill check.
 Gain 3 stacks of exhaustion, reduced by 1 for every 10 points of your skill check result.
