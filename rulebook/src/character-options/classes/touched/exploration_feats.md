@@ -2,7 +2,7 @@
 
 ## Heart-to-Heart
 
-**Effects:** When you use the Bond downtime activity, you may choose to select your companion. Make a difficulty 15 Presence (Guidance) skill check. If you pass, gain a resolve.
+**Effects:** When you use the Bond downtime activity, you may choose to select your companion. If you succeed, gain a resolve.
 
 ## Group Study
 
