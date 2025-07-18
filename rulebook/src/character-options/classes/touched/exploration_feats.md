@@ -18,7 +18,7 @@
 
 ## Alter Ego
 
-**Effects:** At the start of each rest, you may swap the companion and host. When you select this feat, choose another skill set for the new host, and two new sets of arms for the new host. You may optionally select a different appearance and/or species.
+**Effects:** At the start of each rest, you may swap the companion and host. When you select this feat, choose another skill set for the new host, and two new sets of arms for the new companion. You may optionally select a different appearance and/or species.
 
 ## Group Therapy
 
