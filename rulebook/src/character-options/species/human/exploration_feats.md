@@ -18,7 +18,7 @@
 
 ## Gregarious
 
-**Effects:** Once per rest, you may gain the benefit of the Connect or Challenge downtime activity for free.
+**Effects:** Once per rest when you interact with another character as part of a downtime activity, you may gain the benefit of the Connect downtime activity targeting that character for free.
 
 ## Creative
 
