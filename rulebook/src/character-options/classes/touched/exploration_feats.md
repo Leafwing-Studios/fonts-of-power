@@ -2,7 +2,7 @@
 
 ## Heart-to-Heart
 
-**Effects:** When you use the Bond downtime activity, you may choose to select your companion. Make a difficulty 15 Presence (Guidance) skill check. If you pass, gain a resolve.
+**Effects:** When you use the Bond downtime activity, you may choose to select your companion. If you succeed, gain a resolve.
 
 ## Group Study
 
@@ -18,7 +18,7 @@
 
 ## Alter Ego
 
-**Effects:** At the start of each rest, you may swap the companion and host. When you select this feat, choose another skill set for the new host, and two new sets of arms for the new host. You may optionally select a different appearance and/or species.
+**Effects:** At the start of each rest, you may swap the companion and host. When you select this feat, choose another skill set for the new host, and two new sets of arms for the new companion. You may optionally select a different appearance and/or species.
 
 ## Group Therapy
 
@@ -34,7 +34,7 @@
 
 ## Morphing
 
-**Effects:** When you gain this feat, choose a second appearance. Your physical form changes between these two appearances based on whether you or your companion are in control. Unless someone knows better, there is no obvious indication that these two forms are actually the same entity. These changes are cosmetic: your attributes and statistics do not change.
+**Effects:** When you gain this feat, choose a second appearance. Your physical form changes between these two appearances based on whether you or your companion are in control. Unless someone knows better, such as being told by a trusted third party, there is no obvious indication that these two forms are actually the same entity. These changes are cosmetic: your attributes and statistics do not change.
 
 ## Visibly Marked
 

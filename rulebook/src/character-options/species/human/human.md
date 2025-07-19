@@ -35,7 +35,7 @@ The diversity of the human species is its greatest strength: no two are quite th
 
 **Adaptable:** At the start of each of your turns, you may immediately take Swap action without paying its AP cost.
 
-**Resilient:** Once per rest, after you make a skill check, you may choose to reroll it. You must use the new results.
+**Resilient:** Once per rest, after you make a skill check outside of combat, you may choose to reroll it. You must use the new results.
 
 **Natural Talent:** Gain a combat feat of your choice.
 
