@@ -34,7 +34,7 @@
 
 ## Morphing
 
-**Effects:** When you gain this feat, choose a second appearance. Your physical form changes between these two appearances based on whether you or your companion are in control. There is no obvious indication that these two forms are actually the same entity. These changes are cosmetic: your attributes and statistics do not change.
+**Effects:** When you gain this feat, choose a second appearance. Your physical form changes between these two appearances based on whether you or your companion are in control. Unless someone knows better, such as being told by a trusted third party, there is no obvious indication that these two forms are actually the same entity. These changes are cosmetic: your attributes and statistics do not change.
 
 ## Visibly Marked
 
