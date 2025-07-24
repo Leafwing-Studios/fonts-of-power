@@ -1,0 +1,15 @@
+# Conduit Body Powers
+
+## FLYING
+
+## TELEPORTING
+
+## ADVANTAGE SOURCE
+
+## HARDER TO HIT
+
+## FASTER
+
+## CRIT-MAXXING
+
+## DODGE AND BLOCK
