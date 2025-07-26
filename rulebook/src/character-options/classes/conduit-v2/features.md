@@ -71,7 +71,15 @@ Channeling a new charge into your body replaces the previous one.
 When selecting powers, you may select any combination of weapon or body charges, up to the cap listed in your class table.
 This cap shows the total number of powers across both categories, not the number of powers of each kind.
 
-### Flow like Water
+### OUT OF COMBAT POWERS
+
+**Level:** 1
+
+**Effects:** Each of your body charges specifies an out-of-combat effect, allowing you to leverage their magical enhancements as you explore the world around you. Maintaining these effects outside of the heat of battle is exceptionally difficult: you can only do so once a day, and the effects can only be maintained for up to an hour.
+
+If you do not know any body charges, instead recover an additional stack of exhaustion each time you rest.
+
+### Along for the Ride
 
 **Level:** 1
 
@@ -79,15 +87,9 @@ This cap shows the total number of powers across both categories, not the number
 
 ### Ripples in the Weave
 
-**Level:** 1
-
-**Effects:** Conduits have a heightened awareness of the magic around them. You have advantage on all Insight, Arcana and Fontcraft skill checks made to detect, investigate or manipulate magical forces and effects.
-
-### Waste Not, Want Not
-
 **Level:** 2
 
-**Effects:** Whenever you remove an affix using the Enchant downtime activity, you may transfer it to a different piece of gear as part of the same downtime activity, making a skill check to apply it as usual.
+**Effects:** Conduits have a heightened awareness of the magic around them. You have advantage on all Insight, Arcana and Fontcraft skill checks made to detect, investigate or manipulate magical forces and effects.
 
 ### Attribute Improvement
 
@@ -125,17 +127,28 @@ This cap shows the total number of powers across both categories, not the number
 
 **Effects:** Gain a new combat feat and a new exploration feat.
 
-### POWER SHIFT
+### REFLAVORING
 
 **Level:** 7
-for
-**Effects:** Replacing active weapon or body charges no longer costs essence.
+**Effects:** After you use the Scan action, you may select an elemental damage type. All of your weapon charges deal that type of elemental damage instead of their base damage type until the end of combat. You can use this ability again to change the type of damage.
 
-### ENHANCED TREMORSENSE
+### Clinging Echoes
 
 **Level:** 8
 
-**Effects:** TODO
+**Effects:** You gain access to the **clinging echoes** downtime activity. When you use this downtime activity, select a magical object (including gear) or specific location within a font that you can examine during your downtime.
+
+Make a Focus (Arcana) (for a magical item) or Focus (Fontcraft) (for a location) skill check. Then, for every 5 points of the skill check result, ask one question of the worldspeaker, who must do their best to answer truthfully:
+
+- What were the circumstances of this object's or place's creation?
+- Who was the last creature to interact with this object or place?
+- What makes this object or place special or memorable, if anything?
+- What was the most significant thing to happen to this object or place?
+- If this object or place could want something, what would it be?
+- What is the nature of the secret that this object or place holds most tightly?
+- How has this object or place changed over time?
+- If this object or place could speak a single word, what would it be?
+- What emotions are most strongly imprinted on this object or place?
 
 ### Attribute Improvement
 

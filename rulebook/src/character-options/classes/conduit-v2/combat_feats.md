@@ -41,3 +41,15 @@ When you select this feat, replace any weapon charges known.
 
 **Effects:** You can no longer cast body charges. Your critical hit threshold with empowered attacks is reduced by 5.
 When you select this feat, replace and body charges known.
+
+### POWER SHIFT
+
+**Effects:** Replacing active weapon or body charges no longer costs essence.
+
+### ADAPTIVE ARMOR
+
+**Effects:** The first time each combat that you use the Scan action, after gaining its benefits, choose an elemental damage type. Gain resistance to that elemental damage type until the end of combat while you have an active body charge.
+
+## REACTIONS
+
+**Effects:** Whenever you lose life, you may cast a body charge as a reaction. Before you make an attack of opportunity, you may cast a weapon charge (paying its costs as usual) before making that attack.
