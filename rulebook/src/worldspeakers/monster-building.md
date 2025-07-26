@@ -74,16 +74,22 @@ These work just like players.
 ## Notes for the monster manual 
 
 - We are going to make the monster manual. By default, making custom monsters is handled by the hacking guide
-- Allow worldpspeakers to reflavor monsters as they see fit:
-	- Change look and feel
-	- Change any non-physical damage type for another one 
-	- Swap any ailment for another
-	- Swap any affliction for another
-	- Swap skill proficiencies
-	- Change special defenses that their powers target (if applicable)
-	- Spell cards?
-	- Definitely do not let them swap powers or features (balance concerns)
-- The monster manual should give an explicit order in which powers and features are gained. Maybe let the WS reorder these? (If it becomes inconvenient for us to design around this, then remove this ability.)
+- Have a lengthy section of prebuilts, with their tier, damage types, and other selections already picked. 
+	- These are still generic over number of turns, and have a specific order that powers are gained in
+	- These explicitly call out the monster base that they are made from
+- Then, have a secion of "monster bases" that these prebuilts are made out of
+	- These are generic over tier: this means showing what features, attributes, and affixes they get as they tier up
+	- These are generic over other power neutral selections:
+		- Non-physical damage types
+		- Afflictions/Ailments
+		- Skill proficiencies
+		- Special defenses targeted by their powers (if applicable)
+		- Spell cards?
+		- Definitely do not let them swap powers or features (balance concerns)
+	- These are generic over flavor
+	- These have a specific order that features, affixes, etc. are gained in (and the ordered power list like the pregen list)
+- So, the WS has a collection of monsters that are easy to grab and use, and they have relatively easy access to robust reflavoring and power level changes
+	- This also lets us gate the frustrating tier complexities (attribute tables, affix tables) behind a layer of the abstraction onion
 
 ## Notes for the hacking guide regarding monsters
 
