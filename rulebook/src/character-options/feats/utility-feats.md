@@ -47,3 +47,7 @@
 ## Surefooted
 
 **Effects:** Ignore the effects of difficult terrain.
+
+## Indecisive
+
+**Effects:** Whenever you complete a rest, you may replace one of the powers that you know with another power that you could learn.

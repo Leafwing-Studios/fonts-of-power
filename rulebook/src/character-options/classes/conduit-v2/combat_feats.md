@@ -53,3 +53,15 @@ When you select this feat, replace and body charges known.
 ## REACTIONS
 
 **Effects:** Whenever you lose life, you may cast a body charge as a reaction. Before you make an attack of opportunity, you may cast a weapon charge (paying its costs as usual) before making that attack.
+
+## CHAINING
+
+**Effects:** After you hit a creature with an empowered attack, you may pay essence equal to the cost of your charges to spread its effect to an adjacent creature of your choice within a two tile range. You may repeat this effect multiple times, but cannot hit the same creature more than once with the same charge.
+
+## STEADY AIM
+
+**Effects:** If you have not moved or been moved since the start of your previous turn, you have advantage on empowered attacks.
+
+## Direct Contact
+
+**Effects:** Once during your turn, you may cast a charge directly into a creature that you have grappled or who is grappling you, causing it to suffer its effects. You do not need to make an attack roll.

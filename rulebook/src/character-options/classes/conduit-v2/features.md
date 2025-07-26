@@ -63,6 +63,7 @@ plus your Agility plus your Expertise, to a maximum bonus of +10.
 Advantage and disadvantage on both basic and special attacks apply to this attack,
 and this is treated as both a basic and a special attack for all other purposes.
 If your basic attack hits more than one creature, the charge applies to all of them at half efficacy.
+You may choose the order in which your attacks resolve as part of an empowered attack.
 
 Body charges empower you personally, granting powerful selfish effects.
 You may only be affected by a single body charge, and it persists until you lose your concentration.
